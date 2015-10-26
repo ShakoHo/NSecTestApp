@@ -1,0 +1,4484 @@
+manifest-signature: MIIF1AYJKoZIhvcNAQcCoIIFxTCCBcECAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHAaCCA54wggOaMIICgqADAgECAgECMA0GCSqGSIb3DQEBCwUAMHMxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEkMCIGA1UEChMbRXhhbXBsZSBUcnVzdGVkIENvcnBvcmF0aW9uMRkwFwYDVQQDExBUcnVzdGVkIFZhbGlkIENBMB4XDTE1MTAyMTA5MDcyMFoXDTM1MTAyMTA5MDcyMFowdDELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGjAYBgNVBAMTEVRydXN0ZWQgQ29ycCBDZXJ0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4pcO7lQtMox6cGHuALqA0MZ7uG/6fwgIkDNa/Xp1l/yKwri7MLO1/04BrxeC9N6Xa/GfBLenWxrh1OSqBm+qDGassG5m7jc152yZNXGX3vWR9f0WL5sSJgUPFpH4mgm7Bjaa9hzwCKd7zPjpwbvd968jtCDSzA4YsMcPyubvbmCPuQFEkgzWx4zHVqeBVqBao5dtNdo7x92oEYAeHm5weG+gR9h2pJgq5fKnH6EBLSGvIWoeYSuKAVob7oD/HVwQ6W5Sz5wvYl5DJgkDAPTU+HDD30QWku2AQfFuDC7NuLMTCa7jZq6qtS+F+6BfxBbdNiZLZTL80K689HewqFKGwwIDAQABozgwNjAMBgNVHRMBAf8EAjAAMBYGA1UdJQEB/wQMMAoGCCsGAQUFBwMDMA4GA1UdDwEB/wQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAQEA1uPEAb6WKwNETSQnaT1gKfpATwJXEDBpuQ4Wl6GVgi9afj18PPiiiqCc0BRstNDmkzp+69j0e1ax4xzkoWjK8kCo9Awx+kpui5J5eTUl9Z6/eTwXAfYpfh8psGNq3thN7fCnGb/YoZQzal2hvkZ0hIJd9m0ABMpn6ihbGq+pnmIFaIN8E9Sb5iCedU+Biq+i6LBRDG+UDEv6DM6SZ3IBl6ZIx46hkV76TqzTp3Jg0C8kXrbrDmBtKnVvFSwQIH7PgrxuRKLfqF+mXNmRniE9Sj27oa1H9MGvuKdbyDUIFnDZKhlCYZlHv/9HtxxoPeiyHgX1JHIxgIJ28Oq3TT+yTzGCAf4wggH6AgEBMHgwczELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGTAXBgNVBAMTEFRydXN0ZWQgVmFsaWQgQ0ECAQIwCQYFKw4DAhoFAKBdMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTE1MTAyNjA3NDU0MlowIwYJKoZIhvcNAQkEMRYEFCSc5EZ1hFlpb48sKQSYRR4UjcI2MA0GCSqGSIb3DQEBAQUABIIBAMZK9QMextFom7CG3b4K1JBLJYBsK7LGF7TaOZLzzNuQhu+XGGc2h4+gF/T15OS8fHL+qPHpDN/TY93fclceq0bYu282UbDK6tGcN+rRMTeude/NQGH7z5nsPxoo/XZwcCJGhZ8BfoT+xATGy9rEh226LZ5OMRQ18MM/pt+SFl0WuKjEOt4TsiY7mL/ZNdntIXUelKO2tMSSTKKHdFu8AO9E4qJKrvkIUOGhzV1TFtIVpcFPfJko8txrx/GWtUC72rY7UZybstnLLdauvaCfLcJ6yjz6MBsqHu0HJUZ0R9eyzKgFWWEs/l9qLs6yfQK+FZNgnLtRXWjIDHMaYZvkGRU=
+--2SUFKZV8J3
+Content-Location: manifest.webapp
+Content-Type: application/x-web-app-manifest+json
+
+{
+  "name": "Offline_App_Tests_1",
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/mic.png"
+  },
+  "description": "Offline App Tests 1",
+  "moz-resources": [
+    {
+      "src": "index.html",
+      "integrity": "oqY081nTbQqt5WOv6kSifQG7uWyPCQ1uhE1tk2tL1dY="
+    },
+    {
+      "src": "o1.pak",
+      "integrity": "ys4eQgMMX+n8wsuutCpEEPotMOXkP3UFcRnwgfyLZnw="
+    },
+    {
+      "src": "thecssninja.appcache",
+      "integrity": "YFPXr7VtokCN0ekdJ2uBvzSS5uWKcjXmbU7ejSksr94="
+    },
+    {
+      "src": "article.html",
+      "integrity": "nHQg+8kDNLFoAVYBbJ8PQ4KfN5D7j7OJro5LvDdqBDc="
+    },
+    {
+      "src": "manifest.webapp~",
+      "integrity": "ze/fXyMmNlE2Jin80fWRWYH+p9PZ6ht2s6sEkI+x+nU="
+    },
+    {
+      "src": ".idea/offline-app-web-1.iml",
+      "integrity": "tZ4224XfUGk6KC7WezOYqpDbezbGU8CmZA9KGAV5ffk="
+    },
+    {
+      "src": ".idea/misc.xml",
+      "integrity": "pw4UtPZxs7PkxrT0VRaHupLkADrSymbij6MPkIr/K4Y="
+    },
+    {
+      "src": ".idea/.name",
+      "integrity": "9WzpgToAdNHk3FTygwQmwLdTHLUcaTlv/yLJBRRwPB4="
+    },
+    {
+      "src": ".idea/workspace.xml",
+      "integrity": "zajCckqGPHwNu7b56D12hqomxR3Wy6n/3Hx9d41Kj9g="
+    },
+    {
+      "src": ".idea/modules.xml",
+      "integrity": "+LOH+1EINHQ0/xkGfWfE/sTr8ghman1j+R0x/WeW4xA="
+    },
+    {
+      "src": ".idea/vcs.xml",
+      "integrity": "g7bEc+vo+cvXVBSvtzHroebFoWuJcjHWmbVtO1tBJMs="
+    },
+    {
+      "src": "assets/ico_ninja-star.gif",
+      "integrity": "vJ2RMSlNeSIYL0Ri9fil9xAOz4wJcx7X2oRXcv2DtPQ="
+    },
+    {
+      "src": "assets/_javascript.js",
+      "integrity": "tuTcP6G/QeTxVJB1a30amcWaSAZNiNBKXqmYAD5XTGs="
+    },
+    {
+      "src": "assets/apple-touch-icon.png",
+      "integrity": "93u15hOgBHk0nieHmogGDt4ZlYRK+oqtHyWQhTloIig="
+    },
+    {
+      "src": "assets/_styles.css",
+      "integrity": "vtmZCfAkZ8ywAduuwwqYgNay38DlbjWsfkOXp1NXsT0="
+    }
+  ],
+  "version": "1.0",
+  "launch_path": "/index.html",
+  "permissions": {
+    "device-storage:sdcard": {
+      "access": "readcreate"
+    },
+    "desktop-notification": {},
+    "audio-capture": {},
+    "contacts": {
+      "access": "readcreate"
+    },
+    "settings": {
+      "access": "readonly"
+    },
+    "storage": {},
+    "systemXHR": {},
+    "video-capture": {},
+    "audio-channel-notification": {},
+    "alarms": {},
+    "tcp-socket": {}
+  },
+  "locales": {
+    "el": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "fr": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "en-US": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "ru": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "zh-TW": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "de": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "tr": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "it": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "ar": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "pt-BR": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "es": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    }
+  },
+  "developer": {
+    "url": "https://github.com/mozilla-b2g/gaia",
+    "name": "The Gaia Team"
+  }
+}
+--2SUFKZV8J3
+Content-Location: index.html
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html manifest="thecssninja.appcache" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="author" content="The CSS Ninja" />
+	<meta name="keywords" content="Css, Css Ninja, The Css Ninja, Javascript, Web, xhtml, html, browsers, javascript, jquery, cascading style sheets, extensible markup language" />
+	<meta name="description" content="The Css Ninja" />
+	<meta name="robots" content="all" />
+	<meta name="copyright" content="The CSS Ninja" />
+	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+    
+	<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+	<link rel="stylesheet" type="text/css" href="assets/_styles.css" />
+	
+	<title>Offline Webapp | The CSS Ninja - All things CSS, Javascript &amp; xhtml</title>
+
+	<script type="text/javascript" src="assets/_javascript.js"></script>
+
+</head>
+<body>
+	
+	<div id="maincontainer">
+		<div id="content">
+			<div class="article">
+				<h2><a href="article.html">Offline webapp</a></h2>
+				<p class="date">April 27, 2009</p>
+				<div class="clear">&nbsp;</div>
+				<p>
+					If you want to see this in action you should be loading this through your iPhone. The first time you load this the files specified in the
+					manifest file will cache to your phone.
+				</p>
+				<p>
+					Enable Airplane mode to cut all network connections and reload this page. Watch as it loads without a problem.
+				</p>
+				<p>
+					<a href="article.html">Extra page that's cached.</a>
+				</p>
+			</div>
+		</div>
+			
+		<div class="clear">&nbsp;</div>
+	</div>
+	
+	<!-- Google analytics -->
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+		var pageTracker = _gat._getTracker("UA-4638292-1");
+		pageTracker._initData();
+		pageTracker._trackPageview();
+	</script>
+	
+</body>
+</html>
+
+--2SUFKZV8J3
+Content-Location: o1.pak
+Content-Type: text/plain
+
+manifest-signature: MIIF1AYJKoZIhvcNAQcCoIIFxTCCBcECAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHAaCCA54wggOaMIICgqADAgECAgECMA0GCSqGSIb3DQEBCwUAMHMxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEkMCIGA1UEChMbRXhhbXBsZSBUcnVzdGVkIENvcnBvcmF0aW9uMRkwFwYDVQQDExBUcnVzdGVkIFZhbGlkIENBMB4XDTE1MTAyMTA5MDcyMFoXDTM1MTAyMTA5MDcyMFowdDELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGjAYBgNVBAMTEVRydXN0ZWQgQ29ycCBDZXJ0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4pcO7lQtMox6cGHuALqA0MZ7uG/6fwgIkDNa/Xp1l/yKwri7MLO1/04BrxeC9N6Xa/GfBLenWxrh1OSqBm+qDGassG5m7jc152yZNXGX3vWR9f0WL5sSJgUPFpH4mgm7Bjaa9hzwCKd7zPjpwbvd968jtCDSzA4YsMcPyubvbmCPuQFEkgzWx4zHVqeBVqBao5dtNdo7x92oEYAeHm5weG+gR9h2pJgq5fKnH6EBLSGvIWoeYSuKAVob7oD/HVwQ6W5Sz5wvYl5DJgkDAPTU+HDD30QWku2AQfFuDC7NuLMTCa7jZq6qtS+F+6BfxBbdNiZLZTL80K689HewqFKGwwIDAQABozgwNjAMBgNVHRMBAf8EAjAAMBYGA1UdJQEB/wQMMAoGCCsGAQUFBwMDMA4GA1UdDwEB/wQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAQEA1uPEAb6WKwNETSQnaT1gKfpATwJXEDBpuQ4Wl6GVgi9afj18PPiiiqCc0BRstNDmkzp+69j0e1ax4xzkoWjK8kCo9Awx+kpui5J5eTUl9Z6/eTwXAfYpfh8psGNq3thN7fCnGb/YoZQzal2hvkZ0hIJd9m0ABMpn6ihbGq+pnmIFaIN8E9Sb5iCedU+Biq+i6LBRDG+UDEv6DM6SZ3IBl6ZIx46hkV76TqzTp3Jg0C8kXrbrDmBtKnVvFSwQIH7PgrxuRKLfqF+mXNmRniE9Sj27oa1H9MGvuKdbyDUIFnDZKhlCYZlHv/9HtxxoPeiyHgX1JHIxgIJ28Oq3TT+yTzGCAf4wggH6AgEBMHgwczELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGTAXBgNVBAMTEFRydXN0ZWQgVmFsaWQgQ0ECAQIwCQYFKw4DAhoFAKBdMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTE1MTAyNjA3NDMzNlowIwYJKoZIhvcNAQkEMRYEFGY/rlrYPqm4adra8PsNto8daGifMA0GCSqGSIb3DQEBAQUABIIBAI/WDRKV+oZzRnIL5LPP6bbg234G90PaHTlIi5u3JWrq+wszw8v/8vasBTZ+q9LQXVH1YXlcaFWu+O2S3X/kdPp7lgP0slJ6POn/a/NtFGukzNF0vLHjGXPQMxQ30OQLn7uuRKGue9suI48Xbd9DSm4JL3hDKlQFs2JK8FqzKce3GFeB9gULdXC8/oWCkdIzHGpFpf+XQ4R7XENkmkVgKxMeWeWR+vyKGUzwJ2dFp0iO5HreCwbjPN12ZgiNbGmHrhMai99UaaxOf0w70g4Evr/y6/YKr9F+ObFAQ5TSdyBHRTXdXq7KNDers+ssW/2bkpNQSD2idh7ibEN4tZemOS0=
+--MVMT4EELKZ
+Content-Location: manifest.webapp
+Content-Type: application/x-web-app-manifest+json
+
+{
+  "name": "Offline_App_Tests_1",
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/mic.png"
+  },
+  "description": "Offline App Tests 1",
+  "moz-resources": [
+    {
+      "src": "index.html",
+      "integrity": "oqY081nTbQqt5WOv6kSifQG7uWyPCQ1uhE1tk2tL1dY="
+    },
+    {
+      "src": "o1.pak",
+      "integrity": "xLKHifwgcTX6p6/YgaflK8KTEikWQwKe3I3tFekDahI="
+    },
+    {
+      "src": "thecssninja.appcache",
+      "integrity": "YFPXr7VtokCN0ekdJ2uBvzSS5uWKcjXmbU7ejSksr94="
+    },
+    {
+      "src": "article.html",
+      "integrity": "nHQg+8kDNLFoAVYBbJ8PQ4KfN5D7j7OJro5LvDdqBDc="
+    },
+    {
+      "src": "manifest.webapp~",
+      "integrity": "ze/fXyMmNlE2Jin80fWRWYH+p9PZ6ht2s6sEkI+x+nU="
+    },
+    {
+      "src": ".idea/offline-app-web-1.iml",
+      "integrity": "tZ4224XfUGk6KC7WezOYqpDbezbGU8CmZA9KGAV5ffk="
+    },
+    {
+      "src": ".idea/misc.xml",
+      "integrity": "pw4UtPZxs7PkxrT0VRaHupLkADrSymbij6MPkIr/K4Y="
+    },
+    {
+      "src": ".idea/.name",
+      "integrity": "9WzpgToAdNHk3FTygwQmwLdTHLUcaTlv/yLJBRRwPB4="
+    },
+    {
+      "src": ".idea/workspace.xml",
+      "integrity": "zajCckqGPHwNu7b56D12hqomxR3Wy6n/3Hx9d41Kj9g="
+    },
+    {
+      "src": ".idea/modules.xml",
+      "integrity": "+LOH+1EINHQ0/xkGfWfE/sTr8ghman1j+R0x/WeW4xA="
+    },
+    {
+      "src": ".idea/vcs.xml",
+      "integrity": "g7bEc+vo+cvXVBSvtzHroebFoWuJcjHWmbVtO1tBJMs="
+    },
+    {
+      "src": "assets/ico_ninja-star.gif",
+      "integrity": "vJ2RMSlNeSIYL0Ri9fil9xAOz4wJcx7X2oRXcv2DtPQ="
+    },
+    {
+      "src": "assets/_javascript.js",
+      "integrity": "tuTcP6G/QeTxVJB1a30amcWaSAZNiNBKXqmYAD5XTGs="
+    },
+    {
+      "src": "assets/apple-touch-icon.png",
+      "integrity": "93u15hOgBHk0nieHmogGDt4ZlYRK+oqtHyWQhTloIig="
+    },
+    {
+      "src": "assets/_styles.css",
+      "integrity": "vtmZCfAkZ8ywAduuwwqYgNay38DlbjWsfkOXp1NXsT0="
+    }
+  ],
+  "version": "1.0",
+  "launch_path": "/index.html",
+  "permissions": {
+    "device-storage:sdcard": {
+      "access": "readcreate"
+    },
+    "desktop-notification": {},
+    "audio-capture": {},
+    "contacts": {
+      "access": "readcreate"
+    },
+    "settings": {
+      "access": "readonly"
+    },
+    "storage": {},
+    "systemXHR": {},
+    "video-capture": {},
+    "audio-channel-notification": {},
+    "alarms": {},
+    "tcp-socket": {}
+  },
+  "locales": {
+    "el": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "fr": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "en-US": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "ru": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "zh-TW": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "de": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "tr": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "it": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "ar": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "pt-BR": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "es": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    }
+  },
+  "developer": {
+    "url": "https://github.com/mozilla-b2g/gaia",
+    "name": "The Gaia Team"
+  }
+}
+--MVMT4EELKZ
+Content-Location: index.html
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html manifest="thecssninja.appcache" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="author" content="The CSS Ninja" />
+	<meta name="keywords" content="Css, Css Ninja, The Css Ninja, Javascript, Web, xhtml, html, browsers, javascript, jquery, cascading style sheets, extensible markup language" />
+	<meta name="description" content="The Css Ninja" />
+	<meta name="robots" content="all" />
+	<meta name="copyright" content="The CSS Ninja" />
+	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+    
+	<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+	<link rel="stylesheet" type="text/css" href="assets/_styles.css" />
+	
+	<title>Offline Webapp | The CSS Ninja - All things CSS, Javascript &amp; xhtml</title>
+
+	<script type="text/javascript" src="assets/_javascript.js"></script>
+
+</head>
+<body>
+	
+	<div id="maincontainer">
+		<div id="content">
+			<div class="article">
+				<h2><a href="article.html">Offline webapp</a></h2>
+				<p class="date">April 27, 2009</p>
+				<div class="clear">&nbsp;</div>
+				<p>
+					If you want to see this in action you should be loading this through your iPhone. The first time you load this the files specified in the
+					manifest file will cache to your phone.
+				</p>
+				<p>
+					Enable Airplane mode to cut all network connections and reload this page. Watch as it loads without a problem.
+				</p>
+				<p>
+					<a href="article.html">Extra page that's cached.</a>
+				</p>
+			</div>
+		</div>
+			
+		<div class="clear">&nbsp;</div>
+	</div>
+	
+	<!-- Google analytics -->
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+		var pageTracker = _gat._getTracker("UA-4638292-1");
+		pageTracker._initData();
+		pageTracker._trackPageview();
+	</script>
+	
+</body>
+</html>
+
+--MVMT4EELKZ
+Content-Location: o1.pak
+Content-Type: text/plain
+
+manifest-signature: MIIF1AYJKoZIhvcNAQcCoIIFxTCCBcECAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHAaCCA54wggOaMIICgqADAgECAgECMA0GCSqGSIb3DQEBCwUAMHMxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEkMCIGA1UEChMbRXhhbXBsZSBUcnVzdGVkIENvcnBvcmF0aW9uMRkwFwYDVQQDExBUcnVzdGVkIFZhbGlkIENBMB4XDTE1MTAyMTA5MDcyMFoXDTM1MTAyMTA5MDcyMFowdDELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGjAYBgNVBAMTEVRydXN0ZWQgQ29ycCBDZXJ0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4pcO7lQtMox6cGHuALqA0MZ7uG/6fwgIkDNa/Xp1l/yKwri7MLO1/04BrxeC9N6Xa/GfBLenWxrh1OSqBm+qDGassG5m7jc152yZNXGX3vWR9f0WL5sSJgUPFpH4mgm7Bjaa9hzwCKd7zPjpwbvd968jtCDSzA4YsMcPyubvbmCPuQFEkgzWx4zHVqeBVqBao5dtNdo7x92oEYAeHm5weG+gR9h2pJgq5fKnH6EBLSGvIWoeYSuKAVob7oD/HVwQ6W5Sz5wvYl5DJgkDAPTU+HDD30QWku2AQfFuDC7NuLMTCa7jZq6qtS+F+6BfxBbdNiZLZTL80K689HewqFKGwwIDAQABozgwNjAMBgNVHRMBAf8EAjAAMBYGA1UdJQEB/wQMMAoGCCsGAQUFBwMDMA4GA1UdDwEB/wQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAQEA1uPEAb6WKwNETSQnaT1gKfpATwJXEDBpuQ4Wl6GVgi9afj18PPiiiqCc0BRstNDmkzp+69j0e1ax4xzkoWjK8kCo9Awx+kpui5J5eTUl9Z6/eTwXAfYpfh8psGNq3thN7fCnGb/YoZQzal2hvkZ0hIJd9m0ABMpn6ihbGq+pnmIFaIN8E9Sb5iCedU+Biq+i6LBRDG+UDEv6DM6SZ3IBl6ZIx46hkV76TqzTp3Jg0C8kXrbrDmBtKnVvFSwQIH7PgrxuRKLfqF+mXNmRniE9Sj27oa1H9MGvuKdbyDUIFnDZKhlCYZlHv/9HtxxoPeiyHgX1JHIxgIJ28Oq3TT+yTzGCAf4wggH6AgEBMHgwczELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGTAXBgNVBAMTEFRydXN0ZWQgVmFsaWQgQ0ECAQIwCQYFKw4DAhoFAKBdMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTE1MTAyNjA3NDI1NFowIwYJKoZIhvcNAQkEMRYEFO1euc006HkSyl2Rk/q22XsdIxW8MA0GCSqGSIb3DQEBAQUABIIBAMS5c/wBISvX+gqH5xIdyAW/h1wIqkxm/xzgnfIH0UMTOcCiKOE+NJESheaqDEEpaTuoU7ORWqXtWHs/BPfueu6AD/HNWQFI41+zuXy7wmbxCjfaxUHlblTQmrR5MuC8Rx1s6/+UxvRw3XjsOdiKDIA7RMNUpolcFwE/OdTA6JPqdNbKRDfZOkYRYtrKYNZylIbQtquw/4SOBT+8ZWyElGrDjGKIClusbi4Kv0aQ9jKIyZE6NHGFgjqeseyrJ2jGh1u3j2ZtAvHErk36daWlBs5WEoSYb9k5mQqDjb5mCIr8YXAGoYH6/pm4BoFfQzSfv5dzgJkLTP1X7I5x4yWQ5nU=
+--J457WYWJ1Z
+Content-Location: manifest.webapp
+Content-Type: application/x-web-app-manifest+json
+
+{
+  "name": "Offline_App_Tests_1",
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/mic.png"
+  },
+  "description": "Offline App Tests 1",
+  "moz-resources": [
+    {
+      "src": "index.html",
+      "integrity": "oqY081nTbQqt5WOv6kSifQG7uWyPCQ1uhE1tk2tL1dY="
+    },
+    {
+      "src": "o1.pak",
+      "integrity": "Zzyrt7MjZWgAELc1S7vOLROjrYVAmNu3/7jiM86QcBQ="
+    },
+    {
+      "src": "thecssninja.appcache",
+      "integrity": "YFPXr7VtokCN0ekdJ2uBvzSS5uWKcjXmbU7ejSksr94="
+    },
+    {
+      "src": "article.html",
+      "integrity": "nHQg+8kDNLFoAVYBbJ8PQ4KfN5D7j7OJro5LvDdqBDc="
+    },
+    {
+      "src": "manifest.webapp~",
+      "integrity": "ze/fXyMmNlE2Jin80fWRWYH+p9PZ6ht2s6sEkI+x+nU="
+    },
+    {
+      "src": ".idea/offline-app-web-1.iml",
+      "integrity": "tZ4224XfUGk6KC7WezOYqpDbezbGU8CmZA9KGAV5ffk="
+    },
+    {
+      "src": ".idea/misc.xml",
+      "integrity": "pw4UtPZxs7PkxrT0VRaHupLkADrSymbij6MPkIr/K4Y="
+    },
+    {
+      "src": ".idea/.name",
+      "integrity": "9WzpgToAdNHk3FTygwQmwLdTHLUcaTlv/yLJBRRwPB4="
+    },
+    {
+      "src": ".idea/workspace.xml",
+      "integrity": "zajCckqGPHwNu7b56D12hqomxR3Wy6n/3Hx9d41Kj9g="
+    },
+    {
+      "src": ".idea/modules.xml",
+      "integrity": "+LOH+1EINHQ0/xkGfWfE/sTr8ghman1j+R0x/WeW4xA="
+    },
+    {
+      "src": ".idea/vcs.xml",
+      "integrity": "g7bEc+vo+cvXVBSvtzHroebFoWuJcjHWmbVtO1tBJMs="
+    },
+    {
+      "src": "assets/ico_ninja-star.gif",
+      "integrity": "vJ2RMSlNeSIYL0Ri9fil9xAOz4wJcx7X2oRXcv2DtPQ="
+    },
+    {
+      "src": "assets/_javascript.js",
+      "integrity": "tuTcP6G/QeTxVJB1a30amcWaSAZNiNBKXqmYAD5XTGs="
+    },
+    {
+      "src": "assets/apple-touch-icon.png",
+      "integrity": "93u15hOgBHk0nieHmogGDt4ZlYRK+oqtHyWQhTloIig="
+    },
+    {
+      "src": "assets/_styles.css",
+      "integrity": "vtmZCfAkZ8ywAduuwwqYgNay38DlbjWsfkOXp1NXsT0="
+    }
+  ],
+  "version": "1.0",
+  "launch_path": "/index.html",
+  "permissions": {
+    "device-storage:sdcard": {
+      "access": "readcreate"
+    },
+    "desktop-notification": {},
+    "audio-capture": {},
+    "contacts": {
+      "access": "readcreate"
+    },
+    "settings": {
+      "access": "readonly"
+    },
+    "storage": {},
+    "systemXHR": {},
+    "video-capture": {},
+    "audio-channel-notification": {},
+    "alarms": {},
+    "tcp-socket": {}
+  },
+  "locales": {
+    "el": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "fr": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "en-US": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "ru": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "zh-TW": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "de": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "tr": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "it": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "ar": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "pt-BR": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "es": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    }
+  },
+  "developer": {
+    "url": "https://github.com/mozilla-b2g/gaia",
+    "name": "The Gaia Team"
+  }
+}
+--J457WYWJ1Z
+Content-Location: index.html
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html manifest="thecssninja.appcache" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="author" content="The CSS Ninja" />
+	<meta name="keywords" content="Css, Css Ninja, The Css Ninja, Javascript, Web, xhtml, html, browsers, javascript, jquery, cascading style sheets, extensible markup language" />
+	<meta name="description" content="The Css Ninja" />
+	<meta name="robots" content="all" />
+	<meta name="copyright" content="The CSS Ninja" />
+	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+    
+	<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+	<link rel="stylesheet" type="text/css" href="assets/_styles.css" />
+	
+	<title>Offline Webapp | The CSS Ninja - All things CSS, Javascript &amp; xhtml</title>
+
+	<script type="text/javascript" src="assets/_javascript.js"></script>
+
+</head>
+<body>
+	
+	<div id="maincontainer">
+		<div id="content">
+			<div class="article">
+				<h2><a href="article.html">Offline webapp</a></h2>
+				<p class="date">April 27, 2009</p>
+				<div class="clear">&nbsp;</div>
+				<p>
+					If you want to see this in action you should be loading this through your iPhone. The first time you load this the files specified in the
+					manifest file will cache to your phone.
+				</p>
+				<p>
+					Enable Airplane mode to cut all network connections and reload this page. Watch as it loads without a problem.
+				</p>
+				<p>
+					<a href="article.html">Extra page that's cached.</a>
+				</p>
+			</div>
+		</div>
+			
+		<div class="clear">&nbsp;</div>
+	</div>
+	
+	<!-- Google analytics -->
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+		var pageTracker = _gat._getTracker("UA-4638292-1");
+		pageTracker._initData();
+		pageTracker._trackPageview();
+	</script>
+	
+</body>
+</html>
+
+--J457WYWJ1Z
+Content-Location: o1.pak
+Content-Type: text/plain
+
+manifest-signature: MIIF1AYJKoZIhvcNAQcCoIIFxTCCBcECAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHAaCCA54wggOaMIICgqADAgECAgECMA0GCSqGSIb3DQEBCwUAMHMxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEkMCIGA1UEChMbRXhhbXBsZSBUcnVzdGVkIENvcnBvcmF0aW9uMRkwFwYDVQQDExBUcnVzdGVkIFZhbGlkIENBMB4XDTE1MTAyMTA5MDcyMFoXDTM1MTAyMTA5MDcyMFowdDELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGjAYBgNVBAMTEVRydXN0ZWQgQ29ycCBDZXJ0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4pcO7lQtMox6cGHuALqA0MZ7uG/6fwgIkDNa/Xp1l/yKwri7MLO1/04BrxeC9N6Xa/GfBLenWxrh1OSqBm+qDGassG5m7jc152yZNXGX3vWR9f0WL5sSJgUPFpH4mgm7Bjaa9hzwCKd7zPjpwbvd968jtCDSzA4YsMcPyubvbmCPuQFEkgzWx4zHVqeBVqBao5dtNdo7x92oEYAeHm5weG+gR9h2pJgq5fKnH6EBLSGvIWoeYSuKAVob7oD/HVwQ6W5Sz5wvYl5DJgkDAPTU+HDD30QWku2AQfFuDC7NuLMTCa7jZq6qtS+F+6BfxBbdNiZLZTL80K689HewqFKGwwIDAQABozgwNjAMBgNVHRMBAf8EAjAAMBYGA1UdJQEB/wQMMAoGCCsGAQUFBwMDMA4GA1UdDwEB/wQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAQEA1uPEAb6WKwNETSQnaT1gKfpATwJXEDBpuQ4Wl6GVgi9afj18PPiiiqCc0BRstNDmkzp+69j0e1ax4xzkoWjK8kCo9Awx+kpui5J5eTUl9Z6/eTwXAfYpfh8psGNq3thN7fCnGb/YoZQzal2hvkZ0hIJd9m0ABMpn6ihbGq+pnmIFaIN8E9Sb5iCedU+Biq+i6LBRDG+UDEv6DM6SZ3IBl6ZIx46hkV76TqzTp3Jg0C8kXrbrDmBtKnVvFSwQIH7PgrxuRKLfqF+mXNmRniE9Sj27oa1H9MGvuKdbyDUIFnDZKhlCYZlHv/9HtxxoPeiyHgX1JHIxgIJ28Oq3TT+yTzGCAf4wggH6AgEBMHgwczELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGTAXBgNVBAMTEFRydXN0ZWQgVmFsaWQgQ0ECAQIwCQYFKw4DAhoFAKBdMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTE1MTAyNjA3NDA1NVowIwYJKoZIhvcNAQkEMRYEFBNBpGi3Do8dD2JBwvhHxm2VVlwbMA0GCSqGSIb3DQEBAQUABIIBAHtTq08eF4oMMq+8rR103HfypI2qz2QVTlBGTJL6kmf8ElPhQmse8uxhXD5THvXBGuv6i1I2E7I5vHVIJVUa06+MVWj9mvzhYeeiGl4004HBcOPUvkY/pAR17IhePbU2PM+o3bkFzeDfyFdB6CP/v5GhsQM8N7HGU65PcK5qY5iXbDOXrSygT4BxPIze/sOx3X1MI/lVEwGq6NGl3oyH6ZAe/LwKFTWv4th9XakVIZud6VD8gbCk+hs5ZCUpAuhS761z0qpgLWGDRd54GVML3haqYJaAVSBMTUPfkT19Pgc1XfeeQbYhHW++5Fsb2oLL4HhqEUHXWcGC50nU1PSEmKg=
+--E8O9TJRFI4
+Content-Location: manifest.webapp
+Content-Type: application/x-web-app-manifest+json
+
+{
+  "name": "Offline_App_Tests_1",
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/mic.png"
+  },
+  "description": "Offline App Tests 1",
+  "moz-resources": [
+    {
+      "src": "index.html",
+      "integrity": "oqY081nTbQqt5WOv6kSifQG7uWyPCQ1uhE1tk2tL1dY="
+    },
+    {
+      "src": "o1.pak",
+      "integrity": "MycB/gLkoV21VI/B1VYzMQ7BPomKG9zSNnsGdivV+hc="
+    },
+    {
+      "src": "thecssninja.appcache",
+      "integrity": "YFPXr7VtokCN0ekdJ2uBvzSS5uWKcjXmbU7ejSksr94="
+    },
+    {
+      "src": "article.html",
+      "integrity": "nHQg+8kDNLFoAVYBbJ8PQ4KfN5D7j7OJro5LvDdqBDc="
+    },
+    {
+      "src": "manifest.webapp~",
+      "integrity": "ze/fXyMmNlE2Jin80fWRWYH+p9PZ6ht2s6sEkI+x+nU="
+    },
+    {
+      "src": ".idea/offline-app-web-1.iml",
+      "integrity": "tZ4224XfUGk6KC7WezOYqpDbezbGU8CmZA9KGAV5ffk="
+    },
+    {
+      "src": ".idea/misc.xml",
+      "integrity": "pw4UtPZxs7PkxrT0VRaHupLkADrSymbij6MPkIr/K4Y="
+    },
+    {
+      "src": ".idea/.name",
+      "integrity": "9WzpgToAdNHk3FTygwQmwLdTHLUcaTlv/yLJBRRwPB4="
+    },
+    {
+      "src": ".idea/workspace.xml",
+      "integrity": "zajCckqGPHwNu7b56D12hqomxR3Wy6n/3Hx9d41Kj9g="
+    },
+    {
+      "src": ".idea/modules.xml",
+      "integrity": "+LOH+1EINHQ0/xkGfWfE/sTr8ghman1j+R0x/WeW4xA="
+    },
+    {
+      "src": ".idea/vcs.xml",
+      "integrity": "g7bEc+vo+cvXVBSvtzHroebFoWuJcjHWmbVtO1tBJMs="
+    },
+    {
+      "src": "assets/ico_ninja-star.gif",
+      "integrity": "vJ2RMSlNeSIYL0Ri9fil9xAOz4wJcx7X2oRXcv2DtPQ="
+    },
+    {
+      "src": "assets/_javascript.js",
+      "integrity": "tuTcP6G/QeTxVJB1a30amcWaSAZNiNBKXqmYAD5XTGs="
+    },
+    {
+      "src": "assets/apple-touch-icon.png",
+      "integrity": "93u15hOgBHk0nieHmogGDt4ZlYRK+oqtHyWQhTloIig="
+    },
+    {
+      "src": "assets/_styles.css",
+      "integrity": "vtmZCfAkZ8ywAduuwwqYgNay38DlbjWsfkOXp1NXsT0="
+    }
+  ],
+  "version": "1.0",
+  "launch_path": "/index.html",
+  "permissions": {
+    "device-storage:sdcard": {
+      "access": "readcreate"
+    },
+    "desktop-notification": {},
+    "audio-capture": {},
+    "contacts": {
+      "access": "readcreate"
+    },
+    "settings": {
+      "access": "readonly"
+    },
+    "storage": {},
+    "systemXHR": {},
+    "video-capture": {},
+    "audio-channel-notification": {},
+    "alarms": {},
+    "tcp-socket": {}
+  },
+  "locales": {
+    "el": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "fr": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "en-US": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "ru": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "zh-TW": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "de": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "tr": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "it": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "ar": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "pt-BR": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "es": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    }
+  },
+  "developer": {
+    "url": "https://github.com/mozilla-b2g/gaia",
+    "name": "The Gaia Team"
+  }
+}
+--E8O9TJRFI4
+Content-Location: index.html
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html manifest="thecssninja.appcache" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="author" content="The CSS Ninja" />
+	<meta name="keywords" content="Css, Css Ninja, The Css Ninja, Javascript, Web, xhtml, html, browsers, javascript, jquery, cascading style sheets, extensible markup language" />
+	<meta name="description" content="The Css Ninja" />
+	<meta name="robots" content="all" />
+	<meta name="copyright" content="The CSS Ninja" />
+	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+    
+	<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+	<link rel="stylesheet" type="text/css" href="assets/_styles.css" />
+	
+	<title>Offline Webapp | The CSS Ninja - All things CSS, Javascript &amp; xhtml</title>
+
+	<script type="text/javascript" src="assets/_javascript.js"></script>
+
+</head>
+<body>
+	
+	<div id="maincontainer">
+		<div id="content">
+			<div class="article">
+				<h2><a href="article.html">Offline webapp</a></h2>
+				<p class="date">April 27, 2009</p>
+				<div class="clear">&nbsp;</div>
+				<p>
+					If you want to see this in action you should be loading this through your iPhone. The first time you load this the files specified in the
+					manifest file will cache to your phone.
+				</p>
+				<p>
+					Enable Airplane mode to cut all network connections and reload this page. Watch as it loads without a problem.
+				</p>
+				<p>
+					<a href="article.html">Extra page that's cached.</a>
+				</p>
+			</div>
+		</div>
+			
+		<div class="clear">&nbsp;</div>
+	</div>
+	
+	<!-- Google analytics -->
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+		var pageTracker = _gat._getTracker("UA-4638292-1");
+		pageTracker._initData();
+		pageTracker._trackPageview();
+	</script>
+	
+</body>
+</html>
+
+--E8O9TJRFI4
+Content-Location: o1.pak
+Content-Type: text/plain
+
+manifest-signature: MIIF1AYJKoZIhvcNAQcCoIIFxTCCBcECAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHAaCCA54wggOaMIICgqADAgECAgECMA0GCSqGSIb3DQEBCwUAMHMxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEkMCIGA1UEChMbRXhhbXBsZSBUcnVzdGVkIENvcnBvcmF0aW9uMRkwFwYDVQQDExBUcnVzdGVkIFZhbGlkIENBMB4XDTE1MTAyMTA5MDcyMFoXDTM1MTAyMTA5MDcyMFowdDELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGjAYBgNVBAMTEVRydXN0ZWQgQ29ycCBDZXJ0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4pcO7lQtMox6cGHuALqA0MZ7uG/6fwgIkDNa/Xp1l/yKwri7MLO1/04BrxeC9N6Xa/GfBLenWxrh1OSqBm+qDGassG5m7jc152yZNXGX3vWR9f0WL5sSJgUPFpH4mgm7Bjaa9hzwCKd7zPjpwbvd968jtCDSzA4YsMcPyubvbmCPuQFEkgzWx4zHVqeBVqBao5dtNdo7x92oEYAeHm5weG+gR9h2pJgq5fKnH6EBLSGvIWoeYSuKAVob7oD/HVwQ6W5Sz5wvYl5DJgkDAPTU+HDD30QWku2AQfFuDC7NuLMTCa7jZq6qtS+F+6BfxBbdNiZLZTL80K689HewqFKGwwIDAQABozgwNjAMBgNVHRMBAf8EAjAAMBYGA1UdJQEB/wQMMAoGCCsGAQUFBwMDMA4GA1UdDwEB/wQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAQEA1uPEAb6WKwNETSQnaT1gKfpATwJXEDBpuQ4Wl6GVgi9afj18PPiiiqCc0BRstNDmkzp+69j0e1ax4xzkoWjK8kCo9Awx+kpui5J5eTUl9Z6/eTwXAfYpfh8psGNq3thN7fCnGb/YoZQzal2hvkZ0hIJd9m0ABMpn6ihbGq+pnmIFaIN8E9Sb5iCedU+Biq+i6LBRDG+UDEv6DM6SZ3IBl6ZIx46hkV76TqzTp3Jg0C8kXrbrDmBtKnVvFSwQIH7PgrxuRKLfqF+mXNmRniE9Sj27oa1H9MGvuKdbyDUIFnDZKhlCYZlHv/9HtxxoPeiyHgX1JHIxgIJ28Oq3TT+yTzGCAf4wggH6AgEBMHgwczELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGTAXBgNVBAMTEFRydXN0ZWQgVmFsaWQgQ0ECAQIwCQYFKw4DAhoFAKBdMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTE1MTAyNjA2NTg0M1owIwYJKoZIhvcNAQkEMRYEFAcSIbxg1CwZvWq9Hf6ttQ9bF4mtMA0GCSqGSIb3DQEBAQUABIIBAFf8eLO1CEAvxQqlMj/jD57/1NNJUsq9zsShJHXwd5zUgeMDYRXWqq3qoFrDGlcGL+2Cse/EgKbt1kmamm7+i0JFov4YSWPpsRmLgtkikikKt5ZJWaMndqzmk+4Ens5nYQhTFi2lN8ImMQCd0Nq7b1r1veA5sLgG2VbX4KFoqy/JaAZue0CkfZ9loP9yJh8XAQwdkEqbenak2bYSDrQluisgZMKWItkdJMw7uwH3MyqPoDqgzdi8t/kfjEkBRvzfG+zaLPgu+yh0tRDdD0/HGnmw2jpd5yr63LkAn80hTsAWA9xh2EMLJD3CIXEkN6J7WOYROHeZQ9+aKtnF6e8y6hg=
+--0168OZTUOI
+Content-Location: manifest.webapp
+Content-Type: application/x-web-app-manifest+json
+
+{
+  "name": "Offline_App_Tests_1",
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/mic.png"
+  },
+  "description": "Offline App Tests 1",
+  "moz-resources": [
+    {
+      "src": "index.html",
+      "integrity": "oqY081nTbQqt5WOv6kSifQG7uWyPCQ1uhE1tk2tL1dY="
+    },
+    {
+      "src": "o1.pak",
+      "integrity": "SwUDXSZ83iyPLm5ndwMtVsugZj2mw8r1n/J66ojMgio="
+    },
+    {
+      "src": "thecssninja.appcache",
+      "integrity": "YFPXr7VtokCN0ekdJ2uBvzSS5uWKcjXmbU7ejSksr94="
+    },
+    {
+      "src": "article.html",
+      "integrity": "nHQg+8kDNLFoAVYBbJ8PQ4KfN5D7j7OJro5LvDdqBDc="
+    },
+    {
+      "src": "manifest.webapp~",
+      "integrity": "ze/fXyMmNlE2Jin80fWRWYH+p9PZ6ht2s6sEkI+x+nU="
+    },
+    {
+      "src": "assets/ico_ninja-star.gif",
+      "integrity": "vJ2RMSlNeSIYL0Ri9fil9xAOz4wJcx7X2oRXcv2DtPQ="
+    },
+    {
+      "src": "assets/_javascript.js",
+      "integrity": "tuTcP6G/QeTxVJB1a30amcWaSAZNiNBKXqmYAD5XTGs="
+    },
+    {
+      "src": "assets/apple-touch-icon.png",
+      "integrity": "93u15hOgBHk0nieHmogGDt4ZlYRK+oqtHyWQhTloIig="
+    },
+    {
+      "src": "assets/_styles.css",
+      "integrity": "vtmZCfAkZ8ywAduuwwqYgNay38DlbjWsfkOXp1NXsT0="
+    }
+  ],
+  "version": "1.0",
+  "launch_path": "/index.html",
+  "permissions": {
+    "device-storage:sdcard": {
+      "access": "readcreate"
+    },
+    "desktop-notification": {},
+    "audio-capture": {},
+    "contacts": {
+      "access": "readcreate"
+    },
+    "settings": {
+      "access": "readonly"
+    },
+    "storage": {},
+    "systemXHR": {},
+    "video-capture": {},
+    "audio-channel-notification": {},
+    "alarms": {},
+    "tcp-socket": {}
+  },
+  "locales": {
+    "el": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "fr": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "en-US": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "ru": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "zh-TW": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "de": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "tr": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "it": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "ar": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "pt-BR": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "es": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    }
+  },
+  "developer": {
+    "url": "https://github.com/mozilla-b2g/gaia",
+    "name": "The Gaia Team"
+  }
+}
+--0168OZTUOI
+Content-Location: index.html
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html manifest="thecssninja.appcache" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="author" content="The CSS Ninja" />
+	<meta name="keywords" content="Css, Css Ninja, The Css Ninja, Javascript, Web, xhtml, html, browsers, javascript, jquery, cascading style sheets, extensible markup language" />
+	<meta name="description" content="The Css Ninja" />
+	<meta name="robots" content="all" />
+	<meta name="copyright" content="The CSS Ninja" />
+	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+    
+	<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+	<link rel="stylesheet" type="text/css" href="assets/_styles.css" />
+	
+	<title>Offline Webapp | The CSS Ninja - All things CSS, Javascript &amp; xhtml</title>
+
+	<script type="text/javascript" src="assets/_javascript.js"></script>
+
+</head>
+<body>
+	
+	<div id="maincontainer">
+		<div id="content">
+			<div class="article">
+				<h2><a href="article.html">Offline webapp</a></h2>
+				<p class="date">April 27, 2009</p>
+				<div class="clear">&nbsp;</div>
+				<p>
+					If you want to see this in action you should be loading this through your iPhone. The first time you load this the files specified in the
+					manifest file will cache to your phone.
+				</p>
+				<p>
+					Enable Airplane mode to cut all network connections and reload this page. Watch as it loads without a problem.
+				</p>
+				<p>
+					<a href="article.html">Extra page that's cached.</a>
+				</p>
+			</div>
+		</div>
+			
+		<div class="clear">&nbsp;</div>
+	</div>
+	
+	<!-- Google analytics -->
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+		var pageTracker = _gat._getTracker("UA-4638292-1");
+		pageTracker._initData();
+		pageTracker._trackPageview();
+	</script>
+	
+</body>
+</html>
+
+--0168OZTUOI
+Content-Location: o1.pak
+Content-Type: text/plain
+
+manifest-signature: MIIF1AYJKoZIhvcNAQcCoIIFxTCCBcECAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHAaCCA54wggOaMIICgqADAgECAgECMA0GCSqGSIb3DQEBCwUAMHMxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEkMCIGA1UEChMbRXhhbXBsZSBUcnVzdGVkIENvcnBvcmF0aW9uMRkwFwYDVQQDExBUcnVzdGVkIFZhbGlkIENBMB4XDTE1MTAyMTA5MDcyMFoXDTM1MTAyMTA5MDcyMFowdDELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGjAYBgNVBAMTEVRydXN0ZWQgQ29ycCBDZXJ0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4pcO7lQtMox6cGHuALqA0MZ7uG/6fwgIkDNa/Xp1l/yKwri7MLO1/04BrxeC9N6Xa/GfBLenWxrh1OSqBm+qDGassG5m7jc152yZNXGX3vWR9f0WL5sSJgUPFpH4mgm7Bjaa9hzwCKd7zPjpwbvd968jtCDSzA4YsMcPyubvbmCPuQFEkgzWx4zHVqeBVqBao5dtNdo7x92oEYAeHm5weG+gR9h2pJgq5fKnH6EBLSGvIWoeYSuKAVob7oD/HVwQ6W5Sz5wvYl5DJgkDAPTU+HDD30QWku2AQfFuDC7NuLMTCa7jZq6qtS+F+6BfxBbdNiZLZTL80K689HewqFKGwwIDAQABozgwNjAMBgNVHRMBAf8EAjAAMBYGA1UdJQEB/wQMMAoGCCsGAQUFBwMDMA4GA1UdDwEB/wQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAQEA1uPEAb6WKwNETSQnaT1gKfpATwJXEDBpuQ4Wl6GVgi9afj18PPiiiqCc0BRstNDmkzp+69j0e1ax4xzkoWjK8kCo9Awx+kpui5J5eTUl9Z6/eTwXAfYpfh8psGNq3thN7fCnGb/YoZQzal2hvkZ0hIJd9m0ABMpn6ihbGq+pnmIFaIN8E9Sb5iCedU+Biq+i6LBRDG+UDEv6DM6SZ3IBl6ZIx46hkV76TqzTp3Jg0C8kXrbrDmBtKnVvFSwQIH7PgrxuRKLfqF+mXNmRniE9Sj27oa1H9MGvuKdbyDUIFnDZKhlCYZlHv/9HtxxoPeiyHgX1JHIxgIJ28Oq3TT+yTzGCAf4wggH6AgEBMHgwczELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGTAXBgNVBAMTEFRydXN0ZWQgVmFsaWQgQ0ECAQIwCQYFKw4DAhoFAKBdMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTE1MTAyNjA2NTgxN1owIwYJKoZIhvcNAQkEMRYEFDTVB85AD6URP5ytMWvADX1OvmSTMA0GCSqGSIb3DQEBAQUABIIBAB9snLU4i+3ghESLASj59exm2ZO2fuD5dhUh4J7g55UJIT52d3GhW1VipwpnrJ8ruwxo9LSjNcUIWuKOjjjqY3MMtqzgmBNlhcWmmo3ShMbijgZJ5b1wAU+iL+oadToVw55qPbZT9BJbfW2D+LknwMg6Tg0EXFh5MnSaiNa/HKH+Fc9Zf5lXf8T6qyWWDhu7P/ZUms34eKeylwVx5NJUXHZFl8o4d1YD522jOIoArH2kosryjnGAhDOoXU4iygy3kTAHfW/U3erTYg4NgCSO+Ako7MBVPYsnzznQS2icYORzEHCmn0lr9X+8nYcrsaqmZj/sG6NrAO8CEIrYooR4lAY=
+--N3X08NVOAD
+Content-Location: manifest.webapp
+Content-Type: application/x-web-app-manifest+json
+
+{
+  "name": "Offline_App_Tests_1",
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/mic.png"
+  },
+  "description": "Offline App Tests 1",
+  "moz-resources": [
+    {
+      "src": "index.html",
+      "integrity": "oqY081nTbQqt5WOv6kSifQG7uWyPCQ1uhE1tk2tL1dY="
+    },
+    {
+      "src": "thecssninja.appcache",
+      "integrity": "YFPXr7VtokCN0ekdJ2uBvzSS5uWKcjXmbU7ejSksr94="
+    },
+    {
+      "src": "article.html",
+      "integrity": "nHQg+8kDNLFoAVYBbJ8PQ4KfN5D7j7OJro5LvDdqBDc="
+    },
+    {
+      "src": "manifest.webapp~",
+      "integrity": "ze/fXyMmNlE2Jin80fWRWYH+p9PZ6ht2s6sEkI+x+nU="
+    },
+    {
+      "src": "assets/ico_ninja-star.gif",
+      "integrity": "vJ2RMSlNeSIYL0Ri9fil9xAOz4wJcx7X2oRXcv2DtPQ="
+    },
+    {
+      "src": "assets/_javascript.js",
+      "integrity": "tuTcP6G/QeTxVJB1a30amcWaSAZNiNBKXqmYAD5XTGs="
+    },
+    {
+      "src": "assets/apple-touch-icon.png",
+      "integrity": "93u15hOgBHk0nieHmogGDt4ZlYRK+oqtHyWQhTloIig="
+    },
+    {
+      "src": "assets/_styles.css",
+      "integrity": "vtmZCfAkZ8ywAduuwwqYgNay38DlbjWsfkOXp1NXsT0="
+    }
+  ],
+  "version": "1.0",
+  "launch_path": "/index.html",
+  "permissions": {
+    "device-storage:sdcard": {
+      "access": "readcreate"
+    },
+    "desktop-notification": {},
+    "audio-capture": {},
+    "contacts": {
+      "access": "readcreate"
+    },
+    "settings": {
+      "access": "readonly"
+    },
+    "storage": {},
+    "systemXHR": {},
+    "video-capture": {},
+    "audio-channel-notification": {},
+    "alarms": {},
+    "tcp-socket": {}
+  },
+  "locales": {
+    "el": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "fr": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "en-US": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "ru": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "zh-TW": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "de": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "tr": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "it": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "ar": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "pt-BR": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "es": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    }
+  },
+  "developer": {
+    "url": "https://github.com/mozilla-b2g/gaia",
+    "name": "The Gaia Team"
+  }
+}
+--N3X08NVOAD
+Content-Location: index.html
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html manifest="thecssninja.appcache" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="author" content="The CSS Ninja" />
+	<meta name="keywords" content="Css, Css Ninja, The Css Ninja, Javascript, Web, xhtml, html, browsers, javascript, jquery, cascading style sheets, extensible markup language" />
+	<meta name="description" content="The Css Ninja" />
+	<meta name="robots" content="all" />
+	<meta name="copyright" content="The CSS Ninja" />
+	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+    
+	<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+	<link rel="stylesheet" type="text/css" href="assets/_styles.css" />
+	
+	<title>Offline Webapp | The CSS Ninja - All things CSS, Javascript &amp; xhtml</title>
+
+	<script type="text/javascript" src="assets/_javascript.js"></script>
+
+</head>
+<body>
+	
+	<div id="maincontainer">
+		<div id="content">
+			<div class="article">
+				<h2><a href="article.html">Offline webapp</a></h2>
+				<p class="date">April 27, 2009</p>
+				<div class="clear">&nbsp;</div>
+				<p>
+					If you want to see this in action you should be loading this through your iPhone. The first time you load this the files specified in the
+					manifest file will cache to your phone.
+				</p>
+				<p>
+					Enable Airplane mode to cut all network connections and reload this page. Watch as it loads without a problem.
+				</p>
+				<p>
+					<a href="article.html">Extra page that's cached.</a>
+				</p>
+			</div>
+		</div>
+			
+		<div class="clear">&nbsp;</div>
+	</div>
+	
+	<!-- Google analytics -->
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+		var pageTracker = _gat._getTracker("UA-4638292-1");
+		pageTracker._initData();
+		pageTracker._trackPageview();
+	</script>
+	
+</body>
+</html>
+
+--N3X08NVOAD
+Content-Location: thecssninja.appcache
+Content-Type: text/plain
+
+CACHE MANIFEST
+
+CACHE:
+# Offline cache v2
+# html files
+index.html
+article.html
+
+# css files
+assets/_styles.css
+
+# js files
+assets/_javascript.js
+
+# images
+assets/ico_ninja-star.gif
+
+# fonts
+assets/vomzom.svg
+--N3X08NVOAD
+Content-Location: article.html
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html manifest="thecssninja.appcache" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="author" content="The CSS Ninja" />
+	<meta name="keywords" content="Css, Css Ninja, The Css Ninja, Javascript, Web, xhtml, html, browsers, javascript, jquery, cascading style sheets, extensible markup language" />
+	<meta name="description" content="The Css Ninja" />
+	<meta name="robots" content="all" />
+	<meta name="copyright" content="The CSS Ninja" />
+	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+    
+	<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+	<link rel="stylesheet" type="text/css" href="assets/_styles.css" media="screen" />
+	
+	<title>Offline Webapp | The CSS Ninja - All things CSS, Javascript &amp; xhtml</title>
+
+	<script type="text/javascript" src="assets/_javascript.js"></script>
+
+</head>
+<body>
+	
+	<div id="maincontainer">
+		<div id="content">
+			<div class="article">
+				<h2><a href="index.html">Offline webapp</a></h2>
+				<p class="date">April 27, 2009</p>
+				<div class="clear">&nbsp;</div>
+				<p>
+					If you want to see this in action you should be loading this through your iPhone. The first time you load this the files specified in the
+					manifest file will cache to your phone.
+				</p>
+				<p>
+					Enable Airplane mode to cut all network connections and reload this page. Watch as it loads without a problem.
+				</p>
+				<p>
+					If you didn't visit this page before you disabled your network connections this page would still load as it was declared in the manifest file.
+				</p>
+				<p>
+					The page that the manifest file originates from does not need to be declared in the manifest file. It will automatically be included in the cache.
+				</p>
+				<p>
+					<a href="index.html">&lt; Back to home</a>
+				</p>
+			</div>
+		</div>
+			
+		<div class="clear">&nbsp;</div>
+	</div>
+	
+	<!-- Google analytics -->
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+		var pageTracker = _gat._getTracker("UA-4638292-1");
+		pageTracker._initData();
+		pageTracker._trackPageview();
+	</script>
+	
+</body>
+</html>
+
+--N3X08NVOAD
+Content-Location: manifest.webapp~
+Content-Type: text/plain
+
+{
+  "version": "1.0",
+  "name": "Client_Side_Cookie_Tests_1",
+  "description": "Client Side Cookie Tests 1",
+  "launch_path": "index.html",
+  "developer": {
+    "name": "The Gaia Team",
+    "url": "https://github.com/mozilla-b2g/gaia"
+  },
+  "permissions": {
+    "alarms":{},
+    "audio-capture": {},
+    "video-capture": {},
+    "audio-channel-notification":{},
+    "contacts":{ "access": "readcreate" },
+    "desktop-notification":{},
+    "storage":{},
+    "device-storage:sdcard":{ "access": "readcreate" },
+    "systemXHR":{},
+    "settings":{ "access": "readonly" },
+    "tcp-socket":{}
+  },
+  "locales": {
+    "ar": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "de": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "el": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "en-US": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "es": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "fr": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "it": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "pt-BR": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "ru": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "tr": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "zh-TW": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    }
+  },
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/mic.png"
+  }
+}
+
+--N3X08NVOAD
+Content-Location: assets/ico_ninja-star.gif
+Content-Type: image/gif
+
+GIF89a" # Õ? ÌÌÊÔÓÒbbc–‰“ÄÃÂ¦œ£š™›½º»¬¬¬‚}ƒkjlŠ‹‹„„wjvtsu{u{µ²´•›££¤zy{ÈÆÅ…‹Á¼¼º²·¢— ÏÎË•“•ÑÑÍ¬¤©¶«²ÊÉÈÄ½Á»µ¸© §ÜÜØ×ØÖwvx™—kelâãáÁ¿¾ˆ¾ÂÀgfh¯©¬onp®°¯ÏÏÍÌÇÉÆÇÂÅÈÇŸœ¶¶¶µ¸µ¹¹º~|º¸¸§¦¨ÒĞĞ†…‡½¾¾Ÿ  ÿÿÿ!ù  ? ,    " #  ÿÀŸpH,ş+£rÉ<âÉ¦t) AÓlQá¢Ì´àïA(ÂYa‡J ¥­Ük³¡	ŞCìP°Ø"(z?
+Z+	H?:#<?7wSU>Œ+52#0%›S<-?,;/‡/''‡Z
+;+("4– ¶Z%,2%¯Y3 )		!0&+$ÕTG–XVä¨@AXpp À‡Hüˆ"ä‚	0à¡FƒE$è! 
+<èØØ¢… $xø¨‚ …=PœJ'¤Eÿ /<ìaÌ<0€ #e4i²Î)iáa€VøĞ!B…B°€Cš; 8ô#‚ã†>p-‚Áƒ	à`P€Å
+"”¸à¦H¢p"ÁƒgŒ@ !E9$H<r„3È-&@æ©D Ó(<H`0A7^ôĞ°ài*$Ø8P Ä.zDˆP €
+ÂĞA 4Ì¢BAF@ˆœew0!ÃŒ=™T‹
+0£€\Pb"(Z@	gÌ@À/SBEDG‘ò	ß•ÇAa­p›::  -€p‡‡PğÂ;#2¡ Zn˜â2%¬•b	@‚‹)®Áf3.¡ E ;
+--N3X08NVOAD
+Content-Location: assets/_javascript.js
+Content-Type: text/javascript
+
+(function(){
+	var webappCache = window.applicationCache;
+	
+	function loaded()
+	{
+		var h2Title = document.querySelector("h2 a");
+		var connectionStatus = ((navigator.onLine) ? 'online' : 'offline');
+		
+		h2Title.textContent = h2Title.textContent + " - currently: " + connectionStatus;
+		document.title = document.title.replace(" | "," - currently: " + connectionStatus + " | ");
+		
+		switch(webappCache.status)
+		{
+			case 0:
+				console.log("Cache status: Uncached");
+				break;
+			case 1:
+				console.log("Cache status: Idle");
+				break;
+			case 2:
+				console.log("Cache status: Checking");
+				break;
+			case 3:
+				console.log("Cache status: Downloading");
+				break;
+			case 4:
+				console.log("Cache status: Updateready");
+				break;
+			case 5:
+				console.log("Cache status: Obsolete");
+				break;
+		}
+	}
+	function updateCache()
+	{
+		webappCache.swapCache();
+		console.log("Cache has been updated due to a change found in the manifest");
+	}
+	function errorCache()
+	{
+		console.log("You're either offline or something has gone horribly wrong.");
+	}
+
+	window.addEventListener("load", loaded, false);
+	webappCache.addEventListener("updateready", updateCache, false);
+	webappCache.addEventListener("error", errorCache, false);
+})();
+--N3X08NVOAD
+Content-Location: assets/apple-touch-icon.png
+Content-Type: image/png
+
+‰PNG
+
+   IHDR   9   9   zÒ   gAMA  ¯È7Šé   tEXtSoftware Adobe ImageReadyqÉe<  ˆIDATxÚ¼Z	TçŸÑè¾…B€„  .ac°;±Û8é¦%¶“:m6ík7í:ÎëîæÅ»›·mßËQóošíkİ´¯İ#û6IsÙí«íøˆ±xM æqI€$,!³¿ÑUÁ@ ÛûY–‡aæ›ß÷?~ÿßÿsSuzâŞNlä—NF£tizrï:D+K”J…J¥’H$÷ŞH4˜x}>·Û=55Wúnbår¹IIªLƒ!''G¯ÏĞh4‰˜CQ,V:6€ÇíµZ­V‡Ã9;;ûÿU*•feKK7¦¥éd2ÇC,¸pCáĞÜlÀ5áêííkiiíêêºyÓÀX5VØ ÏÃ‹	—{Ë$ápxvvnzzI¯Áİë×¯Û¶µª  _©TR…“ãcc}½½ÃÃÃ¸M’)ÉÉYÙÙ™F£\µHSµZƒAŸšª½råm6{$YV¡P¨Õ¦FL‘œœ,Øó¡`Ğíöö÷÷;€8ñ.µZ]^^¶sÇöÜÜ‘H„3MW¯9}Úb±‚Avµø\L(
+³²²ÌëÖUVVÊäò<“	°ašººKìª–ÁJ²<€‰`›‚‚¼ÒM¦\µFƒI9gŞqÄÜÜœËåêêì¾zõjÅ‚Ì`•””´ysù®];sss|¾İfû÷ßşöÚµkä¼÷éD÷Çü¦Q«³ŒYUÛ¶n©¬„÷ÇúËõçÏ_^Æº”T¦ ĞÔÔÔ­U•»w?WâæA¢8N»}FU)•€ÅèÒtê¤¤P(ìñL=\Y^V†»L&€ÂœGkkûl#A’ƒXÁ'LÓà§Hì"¸Ñ€ó“>Ÿs\S>_~AT"AR‚Í\®	DÚr1€ë¶lÙÛôz,zÆïÿÃ‰=ç?Ûìò`0ÀåyuÚìwîß¿_!—¯[WŒ•ğùüîîn$ûıl3Å,ZßØøÆ±c*š6D*A*iZC’rÄAR$gÚGN:ê!ˆ’™´tvúÂ‘¹`ğàÁƒ0PEÅ–ÉÉI`õz½‹c…QµÚÔÖ³@ë.^<ı¯ïTº=ßÅ|Ñ4—?CÓä„gô¿ß«=sæ‰^(ÈÏÏË3áÊ<SnrJ2~@"*_ı?„CH cŞ§ã1@2gğAd¸aW˜œ$F)N³Åb™şˆÏß¿o_FF:â~dÄÖÑq}ÑÀ¥ä
+•AŸ±iS©6%å³³gš^>úm’êPè#"Ò]˜7j.´2ì\.Ùoıã§Ÿ&åæÜ—ªÇÔiii°1üğşÑ£9é›‰Fƒ4!ápHÇØ'’ğaÏ€™ºú%è9‚L'9…“Ş®ÎNUi)²Y(À¨€»(é21@œ8ËŒÙGËE"!IœòUïúáSOiµÚø¥#6Û‰?~ù¥—9|øÑš˜–!&‡£öèÑïØx©£(!MæÁ…cß¬iY‹²öŞLrª(
+ §	ÚAÓ6’,ˆFÏşçå¼ô¢Ì—×ÚÚæñxng\.±BÈ°‹€$Ïù§ßûÎsßúÖ‚Kõ‡ô£¿¨©yíµ×@^;¶o·öö~ôÉ'æ`¨šËFšı3N¡Ğâ›ò
+aÏOĞš“l<“#|	M 5XI$“¤–$7r¨@{»åÆP˜.U‡a~äîbv¥8,ÅDƒÁÁPÈ³w÷ßŞåqjj*I¥:ú³ŸıÛ¯]{äHÍJD!.u$j	Ÿü»¿©~äu{Ç¿üâv»],±1g®h<ˆÙŠ‚¯pHDQÊ(¡àr744 «T&KÑ¦€éÇÊr5¾gffê¼·Zp
+÷Ş{ÏÛÜ:5árEi¿L*KOss8OzµRQ;—òÎø¿¾·ú…#G Mìı}}äÜŸÎXnXğà¥4X8‚¬Q¨Õà/7AÌ‰D³~?–€U*Âù2´ ˜e±ºgfv<v U$ñŠKõõu¯5F¢^•"óá‡*sr4))`ßH4
+Ÿ8~¼µ¥…?°u+ôã£?épulÈÛP¾£¢¨¨è÷ş^"•"²+3(7
+ëô©ºûÒŸùî¡gŸ9…  ¿X"±˜Çç#…ÁŠIèyŸ|óñÇu©©‰¿† :Wûsu8Â{ú{ÿPS V—|òá‡8ÆB'&&üÓ~Ë¸Åk÷ò(ï7ÇŞY_²şØ«Ç|>”˜›‚µ˜¯âi3µ”š?=5ªÖH8ŒßÎÍÎ+¹@óÆtóx¼qh"7'’%
+‚ŞXôÿó»ßAí¿eğ¸\5±¯¯o||—á6ª„"ÑÉ?Ä3ÖeÓ²ÌjJÉŠ…ßúéSŸ>pà R+«ªª<öê«ÿøÊ?eo7û]Ò€¸¿¯)Ï.;V]—“³\`µÙl—.×#uPÜqTD	L½Ô`“Kÿşëß`«v{{‡Åram.*ÚvÿV¾’ÏŠ¶Œıò—¯ÿôùŸ®ûãz\üğ‡XóÀ3Vk”µ½kbÜåØjÚ-ˆØdv™@òî»ï²îféˆXÂ¢Î-ø¨©©ihhX,fœ^]½XûT‘°G¯(¦¾¾şÏ>;6òGøÃ›¸X®PÜÒ¯2ÙÛo½óıõ¡CJ•gà¨?øàå_†ãÙÀÿüÚ[o¼©MÑB9¬“Ã‡0H$fB…¦—j¸lüA7MOÏ°ëC û¼>Øfã†'×¯sŒ2t‰LOMİ¼yNDxø‡Q†S^^]]k„Ú¿úÕï¿oÊ3áÁCƒƒ½½½ha"öxŸ‡çº9q«ÍG?üá¬~¿?>ùÂx] Ù €zûú&nŞÄŠŸûÉi¥Âát"¤˜©c"×Lz½X®/..¦æåàÂºXucÃ•³gÏ˜[¾l'\FÅFüËi` M¤ırXãz¯©é‹¶¶vˆB¡xµ¶ò
+°ªlİÃÔo_t#º´4³Ùü%…oŠEÈQ~Œ4VØñ‚şJJKñÏääèØØ¢z`¬ ÁÁ¡‹u—ÚÛ¸x*b÷# á ö4¢CƒC×ìÛ·’ni©•kÔš‚ÂBhšŒÅu´ö¢÷%¨q{ÜÖ/šš¿hnFÇ~$æqyZZ§Ó¡œ!ÙÉe³øöÁ–Yp6”ÛO>‰u:õ×¯ƒ”VŠ•é±B!ôX°eO·7÷ôXÇñ†œàk.	±©¬Šnhht¶BÄX3Ó£+•{~øÛO=…Ä‚Øhm½öDK·(,‰•°È3pâıJHl¨@„išhP·ïØìfšÇ¥³I,—+ª*+şê?¨¨ªÂT°‚}t´¥õšÕ:0;ë_4¨–ÃºÔÀÔ÷İ—–°¸ØŒªfµ,›‹‹óòóëëƒlûeÄl5††22k­yüàÁ8=<‰¥‚¹é˜ŠZĞ-¯+TP¿gÏîØ†&¥@ã~GÔ¾ıæ›n'¦Q¢qÇÅbĞc“Á˜	Ÿ„ÂáÔyùÁĞ³¥ËÌ4 A ö.€»:¬€…ŞºzÏ®òÍåè›ñ£ÇíFsÁñ|>¼ÿÒ‹/¢2óelÖé G‘$ˆ>‰‹Eb¨fˆ
+À¦±ÑÑ`  P*Qá4T"Er#•	au{DèxËË7mÜXO!ˆóÎ;×Z[!™™•UUŸŸ?üX@œD,ÌÉ˜TgTÁü¦Fã•F¹ıWœ;w€Îl.şÆ¾}ƒ¡¨m˜×épÆódvÅ3ŒÆL¸>ËhD*Ô¾òJ[[€â¦õNN"È‹÷°DI"Eà²±±1hêS§NMÏ0åİïŸ…O\G‘ÙŒãšxqVµŸ
+z’Ëä ¶¶8t óÛ7Û–™®¿|ù1ßçà8„u¥¡?"	µ\İZf %»q„®&1ÇF¢°ÓÊ·TIf”—8¦Ÿ™Fea~Ëá	{·«ÆmKã ´ºØ2(¤ö*ª×mWbz_Àè²„ı¯µ`ej¸dv%7*t@D LMùn'Å•è¦Ÿ¨“’J7mbÚæ`K,
+«ÃŠØAÃŸ{şy”,˜~Jq¹Ã##\îêˆ^FØÀL+šrröì­Î4Av›b<qÛ\Õ»ĞuIÉ†¯}í¡¢ÂB#ëÛZ[A^Ç?ıô¦Û:Z¥z!à‡ò²rf\.×$'£õÅ7HÄ©“§¯\ñù¦ÖÈ¯•×¯w
+b	”Ÿ—¹XµmÎ_¸p²a‚-4èI&•=º?'V;ğpêçŸ_hni‰ïò®ñ}h¥¹¹…Ù:vº
+ÓÒu|ßh4®+ER¨Rá³Iåt:!è¾hnsÇõçi“Ëå‚,Bœ¥éÒ¤RI8jlhX­~E,*äŠ²²2H˜“›‹¢ÚØxåÔ©Ó]pıíÜÇ!Ö4 wdÄÖİÕãt:Z(-…yV;	D-'ÈĞk e¿ÕÛ,ZQ³r« ±ÂÔHáı=F¯¦“Áí*•
+­%WÀ[#É†‡@$6,`ÉRw'ï´Ktu2%ûÁ]»Ğ++ZìkÎ=»÷@HìŞSc‡Ã‰©\.çreùN°"ÃPlû­V„‚õğ³ÏÊd²¯¬±ìÔŞê½P'[ª*EŒ¶{{ûffü÷ğ½áll°Œô‚bb"!¦ü5'€"²++*PVZZ[ P²³³Y¢Å<Ë÷ÃwŠ•¢¸(<(Wˆ³Ç3û‡Å¸8‰oQACàt;z½^¥T¶¶¶"6!Õ»ºº¶¹\\DüWî'Ü)Væµ{ìí0b—é%vl|/‘HÑºğ€ƒşoooÇ¯PP`cÿì,Î Â$_©'ïÚ»cnLgEâN¼eUfÓªlS™ÓåìîéD¢ìQ¼CQ¾%!V”œ;„Èt±½£$µ:Ó`¸=ryzFúæŠ
+„w~GŒ
+Ó2ÛXÃÌˆÜ[¬s Š!ÒûæO$R,€×§gl©ª£ivÌYaŠµm*/—Êd „ĞL¬“Y.7ÖPcP:ÏC¯¬Ö¨Ó1ÒÒzoÜ@u t‰Xl.*ªÙ¿/+;-))´Z1Í4B;¹cçÎİÕÕ˜ahhør}C__ßòï¹ï+ŒÇnÈ%©’Ğ—feegèõh¯Ïl6Ãœyùù,ó3ïÙòó‘ïiiiUUUÛwîŒíªÛ/^¼Ôtµi©×°kÔ¯Kt"¤F£®¨ØrÿıÛ²³²€&.b Œ;>6‰FRµZÀMÜveµİ~ùrÃÅK—ûÕ{ˆ•…Ş1›‹ŠÍE(î÷ p(Í`é±C!“)× ×„‚xk599ÙÕÙÕÖŞÁlÆ¯@Kwñÿ<!“Àêˆqã!ş¦|Sá€¢€şS(ù|^bğx<“ø^áö-yïşÖ]ÿ'À ÔÛ>_Æ¹¤K    IEND®B`‚
+--N3X08NVOAD
+Content-Location: assets/_styles.css
+Content-Type: text/css
+
+*, html
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+body, form, ul, li, p, h1, h2, h3, h4, h5
+{
+	margin: 0;
+	padding: 0;
+}
+html, body 
+{
+	height: 100%;
+}
+body { background: #606061 /*url(gr_bg_header.jpg) 0 0 repeat-x*/;}
+body#error { background: #000000; text-align: center; height: auto !important; }
+
+.clear
+{
+	height: 0 !important;
+	line-height: 0 !important;
+	clear: both !important;
+	font-size: 1px !important;
+	margin: 0;
+	padding: 0;
+	float: none !important;
+}
+img
+{
+	border: none;
+}
+p
+{
+	font-size: 1em;
+	margin: 0 0 1em 0;
+}
+
+/* Styles for scalable font consistency */
+
+html { font-size: 100%; height: 100%; /* IE hack */ }
+body { font-size: 0.75em; } /* Base font 12px */
+table { font-size: 100%; /* IE hack */ }
+
+input, select, textarea, th, td { font-size:1em; }
+
+h1 { font-size: 5.416em; line-height: 1em; } 
+h2 { font-size: 2em; line-height: 1em; margin: 0 0 0.792em 0; }
+
+/* START: @Structural styling */
+#maincontainer 
+{
+	margin: 0 auto;
+}
+/* END: Structural styling */
+	
+/* START: Content styling */
+#content
+{
+	padding: 10px;
+}
+#content a
+{
+	color: #18191D;
+}
+#content p
+{
+	color: #ffffff;
+}
+		
+.article
+{
+	border: 1px solid #fff;
+	padding: 10px;
+}
+	#content .article h2
+	{
+		line-height: 1.458em;
+		background: url(ico_ninja-star.gif) 0 0 no-repeat;
+		padding: 0 0 0 48px;
+		color: #1a1a1d;
+		margin: 0 0 0.5em 0;
+	}
+/* END: Content styling */
+
+--N3X08NVOAD--
+--0168OZTUOI
+Content-Location: thecssninja.appcache
+Content-Type: text/plain
+
+CACHE MANIFEST
+
+CACHE:
+# Offline cache v2
+# html files
+index.html
+article.html
+
+# css files
+assets/_styles.css
+
+# js files
+assets/_javascript.js
+
+# images
+assets/ico_ninja-star.gif
+
+# fonts
+assets/vomzom.svg
+--0168OZTUOI
+Content-Location: article.html
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html manifest="thecssninja.appcache" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="author" content="The CSS Ninja" />
+	<meta name="keywords" content="Css, Css Ninja, The Css Ninja, Javascript, Web, xhtml, html, browsers, javascript, jquery, cascading style sheets, extensible markup language" />
+	<meta name="description" content="The Css Ninja" />
+	<meta name="robots" content="all" />
+	<meta name="copyright" content="The CSS Ninja" />
+	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+    
+	<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+	<link rel="stylesheet" type="text/css" href="assets/_styles.css" media="screen" />
+	
+	<title>Offline Webapp | The CSS Ninja - All things CSS, Javascript &amp; xhtml</title>
+
+	<script type="text/javascript" src="assets/_javascript.js"></script>
+
+</head>
+<body>
+	
+	<div id="maincontainer">
+		<div id="content">
+			<div class="article">
+				<h2><a href="index.html">Offline webapp</a></h2>
+				<p class="date">April 27, 2009</p>
+				<div class="clear">&nbsp;</div>
+				<p>
+					If you want to see this in action you should be loading this through your iPhone. The first time you load this the files specified in the
+					manifest file will cache to your phone.
+				</p>
+				<p>
+					Enable Airplane mode to cut all network connections and reload this page. Watch as it loads without a problem.
+				</p>
+				<p>
+					If you didn't visit this page before you disabled your network connections this page would still load as it was declared in the manifest file.
+				</p>
+				<p>
+					The page that the manifest file originates from does not need to be declared in the manifest file. It will automatically be included in the cache.
+				</p>
+				<p>
+					<a href="index.html">&lt; Back to home</a>
+				</p>
+			</div>
+		</div>
+			
+		<div class="clear">&nbsp;</div>
+	</div>
+	
+	<!-- Google analytics -->
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+		var pageTracker = _gat._getTracker("UA-4638292-1");
+		pageTracker._initData();
+		pageTracker._trackPageview();
+	</script>
+	
+</body>
+</html>
+
+--0168OZTUOI
+Content-Location: manifest.webapp~
+Content-Type: text/plain
+
+{
+  "version": "1.0",
+  "name": "Client_Side_Cookie_Tests_1",
+  "description": "Client Side Cookie Tests 1",
+  "launch_path": "index.html",
+  "developer": {
+    "name": "The Gaia Team",
+    "url": "https://github.com/mozilla-b2g/gaia"
+  },
+  "permissions": {
+    "alarms":{},
+    "audio-capture": {},
+    "video-capture": {},
+    "audio-channel-notification":{},
+    "contacts":{ "access": "readcreate" },
+    "desktop-notification":{},
+    "storage":{},
+    "device-storage:sdcard":{ "access": "readcreate" },
+    "systemXHR":{},
+    "settings":{ "access": "readonly" },
+    "tcp-socket":{}
+  },
+  "locales": {
+    "ar": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "de": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "el": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "en-US": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "es": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "fr": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "it": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "pt-BR": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "ru": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "tr": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "zh-TW": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    }
+  },
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/mic.png"
+  }
+}
+
+--0168OZTUOI
+Content-Location: assets/ico_ninja-star.gif
+Content-Type: image/gif
+
+GIF89a" # Õ? ÌÌÊÔÓÒbbc–‰“ÄÃÂ¦œ£š™›½º»¬¬¬‚}ƒkjlŠ‹‹„„wjvtsu{u{µ²´•›££¤zy{ÈÆÅ…‹Á¼¼º²·¢— ÏÎË•“•ÑÑÍ¬¤©¶«²ÊÉÈÄ½Á»µ¸© §ÜÜØ×ØÖwvx™—kelâãáÁ¿¾ˆ¾ÂÀgfh¯©¬onp®°¯ÏÏÍÌÇÉÆÇÂÅÈÇŸœ¶¶¶µ¸µ¹¹º~|º¸¸§¦¨ÒĞĞ†…‡½¾¾Ÿ  ÿÿÿ!ù  ? ,    " #  ÿÀŸpH,ş+£rÉ<âÉ¦t) AÓlQá¢Ì´àïA(ÂYa‡J ¥­Ük³¡	ŞCìP°Ø"(z?
+Z+	H?:#<?7wSU>Œ+52#0%›S<-?,;/‡/''‡Z
+;+("4– ¶Z%,2%¯Y3 )		!0&+$ÕTG–XVä¨@AXpp À‡Hüˆ"ä‚	0à¡FƒE$è! 
+<èØØ¢… $xø¨‚ …=PœJ'¤Eÿ /<ìaÌ<0€ #e4i²Î)iáa€VøĞ!B…B°€Cš; 8ô#‚ã†>p-‚Áƒ	à`P€Å
+"”¸à¦H¢p"ÁƒgŒ@ !E9$H<r„3È-&@æ©D Ó(<H`0A7^ôĞ°ài*$Ø8P Ä.zDˆP €
+ÂĞA 4Ì¢BAF@ˆœew0!ÃŒ=™T‹
+0£€\Pb"(Z@	gÌ@À/SBEDG‘ò	ß•ÇAa­p›::  -€p‡‡PğÂ;#2¡ Zn˜â2%¬•b	@‚‹)®Áf3.¡ E ;
+--0168OZTUOI
+Content-Location: assets/_javascript.js
+Content-Type: text/javascript
+
+(function(){
+	var webappCache = window.applicationCache;
+	
+	function loaded()
+	{
+		var h2Title = document.querySelector("h2 a");
+		var connectionStatus = ((navigator.onLine) ? 'online' : 'offline');
+		
+		h2Title.textContent = h2Title.textContent + " - currently: " + connectionStatus;
+		document.title = document.title.replace(" | "," - currently: " + connectionStatus + " | ");
+		
+		switch(webappCache.status)
+		{
+			case 0:
+				console.log("Cache status: Uncached");
+				break;
+			case 1:
+				console.log("Cache status: Idle");
+				break;
+			case 2:
+				console.log("Cache status: Checking");
+				break;
+			case 3:
+				console.log("Cache status: Downloading");
+				break;
+			case 4:
+				console.log("Cache status: Updateready");
+				break;
+			case 5:
+				console.log("Cache status: Obsolete");
+				break;
+		}
+	}
+	function updateCache()
+	{
+		webappCache.swapCache();
+		console.log("Cache has been updated due to a change found in the manifest");
+	}
+	function errorCache()
+	{
+		console.log("You're either offline or something has gone horribly wrong.");
+	}
+
+	window.addEventListener("load", loaded, false);
+	webappCache.addEventListener("updateready", updateCache, false);
+	webappCache.addEventListener("error", errorCache, false);
+})();
+--0168OZTUOI
+Content-Location: assets/apple-touch-icon.png
+Content-Type: image/png
+
+‰PNG
+
+   IHDR   9   9   zÒ   gAMA  ¯È7Šé   tEXtSoftware Adobe ImageReadyqÉe<  ˆIDATxÚ¼Z	TçŸÑè¾…B€„  .ac°;±Û8é¦%¶“:m6ík7í:ÎëîæÅ»›·mßËQóošíkİ´¯İ#û6IsÙí«íøˆ±xM æqI€$,!³¿ÑUÁ@ ÛûY–‡aæ›ß÷?~ÿßÿsSuzâŞNlä—NF£tizrï:D+K”J…J¥’H$÷ŞH4˜x}>·Û=55Wúnbår¹IIªLƒ!''G¯ÏĞh4‰˜CQ,V:6€ÇíµZ­V‡Ã9;;ûÿU*•feKK7¦¥éd2ÇC,¸pCáĞÜlÀ5áêííkiiíêêºyÓÀX5VØ ÏÃ‹	—{Ë$ápxvvnzzI¯Áİë×¯Û¶µª  _©TR…“ãcc}½½ÃÃÃ¸M’)ÉÉYÙÙ™F£\µHSµZƒAŸšª½råm6{$YV¡P¨Õ¦FL‘œœ,Øó¡`Ğíöö÷÷;€8ñ.µZ]^^¶sÇöÜÜ‘H„3MW¯9}Úb±‚Avµø\L(
+³²²ÌëÖUVVÊäò<“	°ašººKìª–ÁJ²<€‰`›‚‚¼ÒM¦\µFƒI9gŞqÄÜÜœËåêêì¾zõjÅ‚Ì`•””´ysù®];sss|¾İfû÷ßşöÚµkä¼÷éD÷Çü¦Q«³ŒYUÛ¶n©¬„÷ÇúËõçÏ_^Æº”T¦ ĞÔÔÔ­U•»w?WâæA¢8N»}FU)•€ÅèÒtê¤¤P(ìñL=\Y^V†»L&€ÂœGkkûl#A’ƒXÁ'LÓà§Hì"¸Ñ€ó“>Ÿs\S>_~AT"AR‚Í\®	DÚr1€ë¶lÙÛôz,zÆïÿÃ‰=ç?Ûìò`0ÀåyuÚìwîß¿_!—¯[WŒ•ğùüîîn$ûıl3Å,ZßØøÆ±c*š6D*A*iZC’rÄAR$gÚGN:ê!ˆ’™´tvúÂ‘¹`ğàÁƒ0PEÅ–ÉÉI`õz½‹c…QµÚÔÖ³@ë.^<ı¯ïTº=ßÅ|Ñ4—?CÓä„gô¿ß«=sæ‰^(ÈÏÏË3áÊ<SnrJ2~@"*_ı?„CH cŞ§ã1@2gğAd¸aW˜œ$F)N³Åb™şˆÏß¿o_FF:â~dÄÖÑq}ÑÀ¥ä
+•AŸ±iS©6%å³³gš^>úm’êPè#"Ò]˜7j.´2ì\.Ùoıã§Ÿ&åæÜ—ªÇÔiii°1üğşÑ£9é›‰Fƒ4!ápHÇØ'’ğaÏ€™ºú%è9‚L'9…“Ş®ÎNUi)²Y(À¨€»(é21@œ8ËŒÙGËE"!IœòUïúáSOiµÚø¥#6Û‰?~ù¥—9|øÑš˜–!&‡£öèÑïØx©£(!MæÁ…cß¬iY‹²öŞLrª(
+ §	ÚAÓ6’,ˆFÏşçå¼ô¢Ì—×ÚÚæñxng\.±BÈ°‹€$Ïù§ßûÎsßúÖ‚Kõ‡ô£¿¨©yíµ×@^;¶o·öö~ôÉ'æ`¨šËFšı3N¡Ğâ›ò
+aÏOĞš“l<“#|	M 5XI$“¤–$7r¨@{»åÆP˜.U‡a~äîbv¥8,ÅDƒÁÁPÈ³w÷ßŞåqjj*I¥:ú³ŸıÛ¯]{äHÍJD!.u$j	Ÿü»¿©~äu{Ç¿üâv»],±1g®h<ˆÙŠ‚¯pHDQÊ(¡àr744 «T&KÑ¦€éÇÊr5¾gffê¼·Zp
+÷Ş{ÏÛÜ:5árEi¿L*KOss8OzµRQ;—òÎø¿¾·ú…#G Mìı}}äÜŸÎXnXğà¥4X8‚¬Q¨Õà/7AÌ‰D³~?–€U*Âù2´ ˜e±ºgfv<v U$ñŠKõõu¯5F¢^•"óá‡*sr4))`ßH4
+Ÿ8~¼µ¥…?°u+ôã£?épulÈÛP¾£¢¨¨è÷ş^"•"²+3(7
+ëô©ºûÒŸùî¡gŸ9…  ¿X"±˜Çç#…ÁŠIèyŸ|óñÇu©©‰¿† :Wûsu8Â{ú{ÿPS V—|òá‡8ÆB'&&üÓ~Ë¸Åk÷ò(ï7ÇŞY_²şØ«Ç|>”˜›‚µ˜¯âi3µ”š?=5ªÖH8ŒßÎÍÎ+¹@óÆtóx¼qh"7'’%
+‚ŞXôÿó»ßAí¿eğ¸\5±¯¯o||—á6ª„"ÑÉ?Ä3ÖeÓ²ÌjJÉŠ…ßúéSŸ>pà R+«ªª<öê«ÿøÊ?eo7û]Ò€¸¿¯)Ï.;V]—“³\`µÙl—.×#uPÜqTD	L½Ô`“Kÿşëß`«v{{‡Åram.*ÚvÿV¾’ÏŠ¶Œıò—¯ÿôùŸ®ûãz\üğ‡XóÀ3Vk”µ½kbÜåØjÚ-ˆØdv™@òî»ï²îféˆXÂ¢Î-ø¨©©ihhX,fœ^]½XûT‘°G¯(¦¾¾şÏ>;6òGøÃ›¸X®PÜÒ¯2ÙÛo½óıõ¡CJ•gà¨?øàå_†ãÙÀÿüÚ[o¼©MÑB9¬“Ã‡0H$fB…¦—j¸lüA7MOÏ°ëC û¼>Øfã†'×¯sŒ2t‰LOMİ¼yNDxø‡Q†S^^]]k„Ú¿úÕï¿oÊ3áÁCƒƒ½½½ha"öxŸ‡çº9q«ÍG?üá¬~¿?>ùÂx] Ù €zûú&nŞÄŠŸûÉi¥Âát"¤˜©c"×Lz½X®/..¦æåàÂºXucÃ•³gÏ˜[¾l'\FÅFüËi` M¤ırXãz¯©é‹¶¶vˆB¡xµ¶ò
+°ªlİÃÔo_t#º´4³Ùü%…oŠEÈQ~Œ4VØñ‚şJJKñÏääèØØ¢z`¬ ÁÁ¡‹u—ÚÛ¸x*b÷# á ö4¢CƒC×ìÛ·’ni©•kÔš‚ÂBhšŒÅu´ö¢÷%¨q{ÜÖ/šš¿hnFÇ~$æqyZZ§Ó¡œ!ÙÉe³øöÁ–Yp6”ÛO>‰u:õ×¯ƒ”VŠ•é±B!ôX°eO·7÷ôXÇñ†œàk.	±©¬Šnhht¶BÄX3Ó£+•{~øÛO=…Ä‚Øhm½öDK·(,‰•°È3pâıJHl¨@„išhP·ïØìfšÇ¥³I,—+ª*+şê?¨¨ªÂT°‚}t´¥õšÕ:0;ë_4¨–ÃºÔÀÔ÷İ—–°¸ØŒªfµ,›‹‹óòóëëƒlûeÄl5††22k­yüàÁ8=<‰¥‚¹é˜ŠZĞ-¯+TP¿gÏîØ†&¥@ã~GÔ¾ıæ›n'¦Q¢qÇÅbĞc“Á˜	Ÿ„ÂáÔyùÁĞ³¥ËÌ4 A ö.€»:¬€…ŞºzÏ®òÍåè›ñ£ÇíFsÁñ|>¼ÿÒ‹/¢2óelÖé G‘$ˆ>‰‹Eb¨fˆ
+À¦±ÑÑ`  P*Qá4T"Er#•	au{DèxËË7mÜXO!ˆóÎ;×Z[!™™•UUŸŸ?üX@œD,ÌÉ˜TgTÁü¦Fã•F¹ıWœ;w€Îl.şÆ¾}ƒ¡¨m˜×épÆódvÅ3ŒÆL¸>ËhD*Ô¾òJ[[€â¦õNN"È‹÷°DI"Eà²±±1hêS§NMÏ0åİïŸ…O\G‘ÙŒãšxqVµŸ
+z’Ëä ¶¶8t óÛ7Û–™®¿|ù1ßçà8„u¥¡?"	µ\İZf %»q„®&1ÇF¢°ÓÊ·TIf”—8¦Ÿ™Fea~Ëá	{·«ÆmKã ´ºØ2(¤ö*ª×mWbz_Àè²„ı¯µ`ej¸dv%7*t@D LMùn'Å•è¦Ÿ¨“’J7mbÚæ`K,
+«ÃŠØAÃŸ{şy”,˜~Jq¹Ã##\îêˆ^FØÀL+šrröì­Î4Av›b<qÛ\Õ»ĞuIÉ†¯}í¡¢ÂB#ëÛZ[A^Ç?ıô¦Û:Z¥z!à‡ò²rf\.×$'£õÅ7HÄ©“§¯\ñù¦ÖÈ¯•×¯w
+b	”Ÿ—¹XµmÎ_¸p²a‚-4èI&•=º?'V;ğpêçŸ_hni‰ïò®ñ}h¥¹¹…Ù:vº
+ÓÒu|ßh4®+ER¨Rá³Iåt:!è¾hnsÇõçi“Ëå‚,Bœ¥éÒ¤RI8jlhX­~E,*äŠ²²2H˜“›‹¢ÚØxåÔ©Ó]pıíÜÇ!Ö4 wdÄÖİÕãt:Z(-…yV;	D-'ÈĞk e¿ÕÛ,ZQ³r« ±ÂÔHáı=F¯¦“Áí*•
+­%WÀ[#É†‡@$6,`ÉRw'ï´Ktu2%ûÁ]»Ğ++ZìkÎ=»÷@HìŞSc‡Ã‰©\.çreùN°"ÃPlû­V„‚õğ³ÏÊd²¯¬±ìÔŞê½P'[ª*EŒ¶{{ûffü÷ğ½áll°Œô‚bb"!¦ü5'€"²++*PVZZ[ P²³³Y¢Å<Ë÷ÃwŠ•¢¸(<(Wˆ³Ç3û‡Å¸8‰oQACàt;z½^¥T¶¶¶"6!Õ»ºº¶¹\\DüWî'Ü)Væµ{ìí0b—é%vl|/‘HÑºğ€ƒşoooÇ¯PP`cÿì,Î Â$_©'ïÚ»cnLgEâN¼eUfÓªlS™ÓåìîéD¢ìQ¼CQ¾%!V”œ;„Èt±½£$µ:Ó`¸=ryzFúæŠ
+„w~GŒ
+Ó2ÛXÃÌˆÜ[¬s Š!ÒûæO$R,€×§gl©ª£ivÌYaŠµm*/—Êd „ĞL¬“Y.7ÖPcP:ÏC¯¬Ö¨Ó1ÒÒzoÜ@u t‰Xl.*ªÙ¿/+;-))´Z1Í4B;¹cçÎİÕÕ˜ahhør}C__ßòï¹ï+ŒÇnÈ%©’Ğ—feegèõh¯Ïl6Ãœyùù,ó3ïÙòó‘ïiiiUUUÛwîŒíªÛ/^¼Ôtµi©×°kÔ¯Kt"¤F£®¨ØrÿıÛ²³²€&.b Œ;>6‰FRµZÀMÜveµİ~ùrÃÅK—ûÕ{ˆ•…Ş1›‹ŠÍE(î÷ p(Í`é±C!“)× ×„‚xk599ÙÕÙÕÖŞÁlÆ¯@Kwñÿ<!“Àêˆqã!ş¦|Sá€¢€şS(ù|^bğx<“ø^áö-yïşÖ]ÿ'À ÔÛ>_Æ¹¤K    IEND®B`‚
+--0168OZTUOI
+Content-Location: assets/_styles.css
+Content-Type: text/css
+
+*, html
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+body, form, ul, li, p, h1, h2, h3, h4, h5
+{
+	margin: 0;
+	padding: 0;
+}
+html, body 
+{
+	height: 100%;
+}
+body { background: #606061 /*url(gr_bg_header.jpg) 0 0 repeat-x*/;}
+body#error { background: #000000; text-align: center; height: auto !important; }
+
+.clear
+{
+	height: 0 !important;
+	line-height: 0 !important;
+	clear: both !important;
+	font-size: 1px !important;
+	margin: 0;
+	padding: 0;
+	float: none !important;
+}
+img
+{
+	border: none;
+}
+p
+{
+	font-size: 1em;
+	margin: 0 0 1em 0;
+}
+
+/* Styles for scalable font consistency */
+
+html { font-size: 100%; height: 100%; /* IE hack */ }
+body { font-size: 0.75em; } /* Base font 12px */
+table { font-size: 100%; /* IE hack */ }
+
+input, select, textarea, th, td { font-size:1em; }
+
+h1 { font-size: 5.416em; line-height: 1em; } 
+h2 { font-size: 2em; line-height: 1em; margin: 0 0 0.792em 0; }
+
+/* START: @Structural styling */
+#maincontainer 
+{
+	margin: 0 auto;
+}
+/* END: Structural styling */
+	
+/* START: Content styling */
+#content
+{
+	padding: 10px;
+}
+#content a
+{
+	color: #18191D;
+}
+#content p
+{
+	color: #ffffff;
+}
+		
+.article
+{
+	border: 1px solid #fff;
+	padding: 10px;
+}
+	#content .article h2
+	{
+		line-height: 1.458em;
+		background: url(ico_ninja-star.gif) 0 0 no-repeat;
+		padding: 0 0 0 48px;
+		color: #1a1a1d;
+		margin: 0 0 0.5em 0;
+	}
+/* END: Content styling */
+
+--0168OZTUOI--
+--E8O9TJRFI4
+Content-Location: thecssninja.appcache
+Content-Type: text/plain
+
+CACHE MANIFEST
+
+CACHE:
+# Offline cache v2
+# html files
+index.html
+article.html
+
+# css files
+assets/_styles.css
+
+# js files
+assets/_javascript.js
+
+# images
+assets/ico_ninja-star.gif
+
+# fonts
+assets/vomzom.svg
+--E8O9TJRFI4
+Content-Location: article.html
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html manifest="thecssninja.appcache" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="author" content="The CSS Ninja" />
+	<meta name="keywords" content="Css, Css Ninja, The Css Ninja, Javascript, Web, xhtml, html, browsers, javascript, jquery, cascading style sheets, extensible markup language" />
+	<meta name="description" content="The Css Ninja" />
+	<meta name="robots" content="all" />
+	<meta name="copyright" content="The CSS Ninja" />
+	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+    
+	<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+	<link rel="stylesheet" type="text/css" href="assets/_styles.css" media="screen" />
+	
+	<title>Offline Webapp | The CSS Ninja - All things CSS, Javascript &amp; xhtml</title>
+
+	<script type="text/javascript" src="assets/_javascript.js"></script>
+
+</head>
+<body>
+	
+	<div id="maincontainer">
+		<div id="content">
+			<div class="article">
+				<h2><a href="index.html">Offline webapp</a></h2>
+				<p class="date">April 27, 2009</p>
+				<div class="clear">&nbsp;</div>
+				<p>
+					If you want to see this in action you should be loading this through your iPhone. The first time you load this the files specified in the
+					manifest file will cache to your phone.
+				</p>
+				<p>
+					Enable Airplane mode to cut all network connections and reload this page. Watch as it loads without a problem.
+				</p>
+				<p>
+					If you didn't visit this page before you disabled your network connections this page would still load as it was declared in the manifest file.
+				</p>
+				<p>
+					The page that the manifest file originates from does not need to be declared in the manifest file. It will automatically be included in the cache.
+				</p>
+				<p>
+					<a href="index.html">&lt; Back to home</a>
+				</p>
+			</div>
+		</div>
+			
+		<div class="clear">&nbsp;</div>
+	</div>
+	
+	<!-- Google analytics -->
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+		var pageTracker = _gat._getTracker("UA-4638292-1");
+		pageTracker._initData();
+		pageTracker._trackPageview();
+	</script>
+	
+</body>
+</html>
+
+--E8O9TJRFI4
+Content-Location: manifest.webapp~
+Content-Type: text/plain
+
+{
+  "version": "1.0",
+  "name": "Client_Side_Cookie_Tests_1",
+  "description": "Client Side Cookie Tests 1",
+  "launch_path": "index.html",
+  "developer": {
+    "name": "The Gaia Team",
+    "url": "https://github.com/mozilla-b2g/gaia"
+  },
+  "permissions": {
+    "alarms":{},
+    "audio-capture": {},
+    "video-capture": {},
+    "audio-channel-notification":{},
+    "contacts":{ "access": "readcreate" },
+    "desktop-notification":{},
+    "storage":{},
+    "device-storage:sdcard":{ "access": "readcreate" },
+    "systemXHR":{},
+    "settings":{ "access": "readonly" },
+    "tcp-socket":{}
+  },
+  "locales": {
+    "ar": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "de": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "el": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "en-US": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "es": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "fr": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "it": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "pt-BR": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "ru": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "tr": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "zh-TW": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    }
+  },
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/mic.png"
+  }
+}
+
+--E8O9TJRFI4
+Content-Location: .idea/offline-app-web-1.iml
+Content-Type: text/plain
+
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
+--E8O9TJRFI4
+Content-Location: .idea/misc.xml
+Content-Type: text/plain
+
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectRootManager" version="2" />
+</project>
+--E8O9TJRFI4
+Content-Location: .idea/.name
+Content-Type: text/plain
+
+offline-app-web-1
+--E8O9TJRFI4
+Content-Location: .idea/workspace.xml
+Content-Type: text/plain
+
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a727251-642a-4d4d-acbd-b31b56cdf903" name="Default" comment="" />
+    <ignored path="offline-app-web-1.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="offline-app-web-1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.059800666">
+              <caret line="3" column="0" selection-start-line="2" selection-start-column="16" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="article.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/article.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="thecssninja.appcache" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/thecssninja.appcache">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1855" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="offline-app-web-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="offline-app-web-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="offline-app-web-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a727251-642a-4d4d-acbd-b31b56cdf903" name="Default" comment="" />
+      <created>1445842866586</created>
+      <option name="number" value="Default" />
+      <updated>1445842866586</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/thecssninja.appcache">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.059800666">
+          <caret line="3" column="0" selection-start-line="2" selection-start-column="16" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+--E8O9TJRFI4
+Content-Location: .idea/modules.xml
+Content-Type: text/plain
+
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/offline-app-web-1.iml" filepath="$PROJECT_DIR$/.idea/offline-app-web-1.iml" />
+    </modules>
+  </component>
+</project>
+--E8O9TJRFI4
+Content-Location: .idea/vcs.xml
+Content-Type: text/plain
+
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="" />
+  </component>
+</project>
+--E8O9TJRFI4
+Content-Location: assets/ico_ninja-star.gif
+Content-Type: image/gif
+
+GIF89a" # Õ? ÌÌÊÔÓÒbbc–‰“ÄÃÂ¦œ£š™›½º»¬¬¬‚}ƒkjlŠ‹‹„„wjvtsu{u{µ²´•›££¤zy{ÈÆÅ…‹Á¼¼º²·¢— ÏÎË•“•ÑÑÍ¬¤©¶«²ÊÉÈÄ½Á»µ¸© §ÜÜØ×ØÖwvx™—kelâãáÁ¿¾ˆ¾ÂÀgfh¯©¬onp®°¯ÏÏÍÌÇÉÆÇÂÅÈÇŸœ¶¶¶µ¸µ¹¹º~|º¸¸§¦¨ÒĞĞ†…‡½¾¾Ÿ  ÿÿÿ!ù  ? ,    " #  ÿÀŸpH,ş+£rÉ<âÉ¦t) AÓlQá¢Ì´àïA(ÂYa‡J ¥­Ük³¡	ŞCìP°Ø"(z?
+Z+	H?:#<?7wSU>Œ+52#0%›S<-?,;/‡/''‡Z
+;+("4– ¶Z%,2%¯Y3 )		!0&+$ÕTG–XVä¨@AXpp À‡Hüˆ"ä‚	0à¡FƒE$è! 
+<èØØ¢… $xø¨‚ …=PœJ'¤Eÿ /<ìaÌ<0€ #e4i²Î)iáa€VøĞ!B…B°€Cš; 8ô#‚ã†>p-‚Áƒ	à`P€Å
+"”¸à¦H¢p"ÁƒgŒ@ !E9$H<r„3È-&@æ©D Ó(<H`0A7^ôĞ°ài*$Ø8P Ä.zDˆP €
+ÂĞA 4Ì¢BAF@ˆœew0!ÃŒ=™T‹
+0£€\Pb"(Z@	gÌ@À/SBEDG‘ò	ß•ÇAa­p›::  -€p‡‡PğÂ;#2¡ Zn˜â2%¬•b	@‚‹)®Áf3.¡ E ;
+--E8O9TJRFI4
+Content-Location: assets/_javascript.js
+Content-Type: text/javascript
+
+(function(){
+	var webappCache = window.applicationCache;
+	
+	function loaded()
+	{
+		var h2Title = document.querySelector("h2 a");
+		var connectionStatus = ((navigator.onLine) ? 'online' : 'offline');
+		
+		h2Title.textContent = h2Title.textContent + " - currently: " + connectionStatus;
+		document.title = document.title.replace(" | "," - currently: " + connectionStatus + " | ");
+		
+		switch(webappCache.status)
+		{
+			case 0:
+				console.log("Cache status: Uncached");
+				break;
+			case 1:
+				console.log("Cache status: Idle");
+				break;
+			case 2:
+				console.log("Cache status: Checking");
+				break;
+			case 3:
+				console.log("Cache status: Downloading");
+				break;
+			case 4:
+				console.log("Cache status: Updateready");
+				break;
+			case 5:
+				console.log("Cache status: Obsolete");
+				break;
+		}
+	}
+	function updateCache()
+	{
+		webappCache.swapCache();
+		console.log("Cache has been updated due to a change found in the manifest");
+	}
+	function errorCache()
+	{
+		console.log("You're either offline or something has gone horribly wrong.");
+	}
+
+	window.addEventListener("load", loaded, false);
+	webappCache.addEventListener("updateready", updateCache, false);
+	webappCache.addEventListener("error", errorCache, false);
+})();
+--E8O9TJRFI4
+Content-Location: assets/apple-touch-icon.png
+Content-Type: image/png
+
+‰PNG
+
+   IHDR   9   9   zÒ   gAMA  ¯È7Šé   tEXtSoftware Adobe ImageReadyqÉe<  ˆIDATxÚ¼Z	TçŸÑè¾…B€„  .ac°;±Û8é¦%¶“:m6ík7í:ÎëîæÅ»›·mßËQóošíkİ´¯İ#û6IsÙí«íøˆ±xM æqI€$,!³¿ÑUÁ@ ÛûY–‡aæ›ß÷?~ÿßÿsSuzâŞNlä—NF£tizrï:D+K”J…J¥’H$÷ŞH4˜x}>·Û=55Wúnbår¹IIªLƒ!''G¯ÏĞh4‰˜CQ,V:6€ÇíµZ­V‡Ã9;;ûÿU*•feKK7¦¥éd2ÇC,¸pCáĞÜlÀ5áêííkiiíêêºyÓÀX5VØ ÏÃ‹	—{Ë$ápxvvnzzI¯Áİë×¯Û¶µª  _©TR…“ãcc}½½ÃÃÃ¸M’)ÉÉYÙÙ™F£\µHSµZƒAŸšª½råm6{$YV¡P¨Õ¦FL‘œœ,Øó¡`Ğíöö÷÷;€8ñ.µZ]^^¶sÇöÜÜ‘H„3MW¯9}Úb±‚Avµø\L(
+³²²ÌëÖUVVÊäò<“	°ašººKìª–ÁJ²<€‰`›‚‚¼ÒM¦\µFƒI9gŞqÄÜÜœËåêêì¾zõjÅ‚Ì`•””´ysù®];sss|¾İfû÷ßşöÚµkä¼÷éD÷Çü¦Q«³ŒYUÛ¶n©¬„÷ÇúËõçÏ_^Æº”T¦ ĞÔÔÔ­U•»w?WâæA¢8N»}FU)•€ÅèÒtê¤¤P(ìñL=\Y^V†»L&€ÂœGkkûl#A’ƒXÁ'LÓà§Hì"¸Ñ€ó“>Ÿs\S>_~AT"AR‚Í\®	DÚr1€ë¶lÙÛôz,zÆïÿÃ‰=ç?Ûìò`0ÀåyuÚìwîß¿_!—¯[WŒ•ğùüîîn$ûıl3Å,ZßØøÆ±c*š6D*A*iZC’rÄAR$gÚGN:ê!ˆ’™´tvúÂ‘¹`ğàÁƒ0PEÅ–ÉÉI`õz½‹c…QµÚÔÖ³@ë.^<ı¯ïTº=ßÅ|Ñ4—?CÓä„gô¿ß«=sæ‰^(ÈÏÏË3áÊ<SnrJ2~@"*_ı?„CH cŞ§ã1@2gğAd¸aW˜œ$F)N³Åb™şˆÏß¿o_FF:â~dÄÖÑq}ÑÀ¥ä
+•AŸ±iS©6%å³³gš^>úm’êPè#"Ò]˜7j.´2ì\.Ùoıã§Ÿ&åæÜ—ªÇÔiii°1üğşÑ£9é›‰Fƒ4!ápHÇØ'’ğaÏ€™ºú%è9‚L'9…“Ş®ÎNUi)²Y(À¨€»(é21@œ8ËŒÙGËE"!IœòUïúáSOiµÚø¥#6Û‰?~ù¥—9|øÑš˜–!&‡£öèÑïØx©£(!MæÁ…cß¬iY‹²öŞLrª(
+ §	ÚAÓ6’,ˆFÏşçå¼ô¢Ì—×ÚÚæñxng\.±BÈ°‹€$Ïù§ßûÎsßúÖ‚Kõ‡ô£¿¨©yíµ×@^;¶o·öö~ôÉ'æ`¨šËFšı3N¡Ğâ›ò
+aÏOĞš“l<“#|	M 5XI$“¤–$7r¨@{»åÆP˜.U‡a~äîbv¥8,ÅDƒÁÁPÈ³w÷ßŞåqjj*I¥:ú³ŸıÛ¯]{äHÍJD!.u$j	Ÿü»¿©~äu{Ç¿üâv»],±1g®h<ˆÙŠ‚¯pHDQÊ(¡àr744 «T&KÑ¦€éÇÊr5¾gffê¼·Zp
+÷Ş{ÏÛÜ:5árEi¿L*KOss8OzµRQ;—òÎø¿¾·ú…#G Mìı}}äÜŸÎXnXğà¥4X8‚¬Q¨Õà/7AÌ‰D³~?–€U*Âù2´ ˜e±ºgfv<v U$ñŠKõõu¯5F¢^•"óá‡*sr4))`ßH4
+Ÿ8~¼µ¥…?°u+ôã£?épulÈÛP¾£¢¨¨è÷ş^"•"²+3(7
+ëô©ºûÒŸùî¡gŸ9…  ¿X"±˜Çç#…ÁŠIèyŸ|óñÇu©©‰¿† :Wûsu8Â{ú{ÿPS V—|òá‡8ÆB'&&üÓ~Ë¸Åk÷ò(ï7ÇŞY_²şØ«Ç|>”˜›‚µ˜¯âi3µ”š?=5ªÖH8ŒßÎÍÎ+¹@óÆtóx¼qh"7'’%
+‚ŞXôÿó»ßAí¿eğ¸\5±¯¯o||—á6ª„"ÑÉ?Ä3ÖeÓ²ÌjJÉŠ…ßúéSŸ>pà R+«ªª<öê«ÿøÊ?eo7û]Ò€¸¿¯)Ï.;V]—“³\`µÙl—.×#uPÜqTD	L½Ô`“Kÿşëß`«v{{‡Åram.*ÚvÿV¾’ÏŠ¶Œıò—¯ÿôùŸ®ûãz\üğ‡XóÀ3Vk”µ½kbÜåØjÚ-ˆØdv™@òî»ï²îféˆXÂ¢Î-ø¨©©ihhX,fœ^]½XûT‘°G¯(¦¾¾şÏ>;6òGøÃ›¸X®PÜÒ¯2ÙÛo½óıõ¡CJ•gà¨?øàå_†ãÙÀÿüÚ[o¼©MÑB9¬“Ã‡0H$fB…¦—j¸lüA7MOÏ°ëC û¼>Øfã†'×¯sŒ2t‰LOMİ¼yNDxø‡Q†S^^]]k„Ú¿úÕï¿oÊ3áÁCƒƒ½½½ha"öxŸ‡çº9q«ÍG?üá¬~¿?>ùÂx] Ù €zûú&nŞÄŠŸûÉi¥Âát"¤˜©c"×Lz½X®/..¦æåàÂºXucÃ•³gÏ˜[¾l'\FÅFüËi` M¤ırXãz¯©é‹¶¶vˆB¡xµ¶ò
+°ªlİÃÔo_t#º´4³Ùü%…oŠEÈQ~Œ4VØñ‚şJJKñÏääèØØ¢z`¬ ÁÁ¡‹u—ÚÛ¸x*b÷# á ö4¢CƒC×ìÛ·’ni©•kÔš‚ÂBhšŒÅu´ö¢÷%¨q{ÜÖ/šš¿hnFÇ~$æqyZZ§Ó¡œ!ÙÉe³øöÁ–Yp6”ÛO>‰u:õ×¯ƒ”VŠ•é±B!ôX°eO·7÷ôXÇñ†œàk.	±©¬Šnhht¶BÄX3Ó£+•{~øÛO=…Ä‚Øhm½öDK·(,‰•°È3pâıJHl¨@„išhP·ïØìfšÇ¥³I,—+ª*+şê?¨¨ªÂT°‚}t´¥õšÕ:0;ë_4¨–ÃºÔÀÔ÷İ—–°¸ØŒªfµ,›‹‹óòóëëƒlûeÄl5††22k­yüàÁ8=<‰¥‚¹é˜ŠZĞ-¯+TP¿gÏîØ†&¥@ã~GÔ¾ıæ›n'¦Q¢qÇÅbĞc“Á˜	Ÿ„ÂáÔyùÁĞ³¥ËÌ4 A ö.€»:¬€…ŞºzÏ®òÍåè›ñ£ÇíFsÁñ|>¼ÿÒ‹/¢2óelÖé G‘$ˆ>‰‹Eb¨fˆ
+À¦±ÑÑ`  P*Qá4T"Er#•	au{DèxËË7mÜXO!ˆóÎ;×Z[!™™•UUŸŸ?üX@œD,ÌÉ˜TgTÁü¦Fã•F¹ıWœ;w€Îl.şÆ¾}ƒ¡¨m˜×épÆódvÅ3ŒÆL¸>ËhD*Ô¾òJ[[€â¦õNN"È‹÷°DI"Eà²±±1hêS§NMÏ0åİïŸ…O\G‘ÙŒãšxqVµŸ
+z’Ëä ¶¶8t óÛ7Û–™®¿|ù1ßçà8„u¥¡?"	µ\İZf %»q„®&1ÇF¢°ÓÊ·TIf”—8¦Ÿ™Fea~Ëá	{·«ÆmKã ´ºØ2(¤ö*ª×mWbz_Àè²„ı¯µ`ej¸dv%7*t@D LMùn'Å•è¦Ÿ¨“’J7mbÚæ`K,
+«ÃŠØAÃŸ{şy”,˜~Jq¹Ã##\îêˆ^FØÀL+šrröì­Î4Av›b<qÛ\Õ»ĞuIÉ†¯}í¡¢ÂB#ëÛZ[A^Ç?ıô¦Û:Z¥z!à‡ò²rf\.×$'£õÅ7HÄ©“§¯\ñù¦ÖÈ¯•×¯w
+b	”Ÿ—¹XµmÎ_¸p²a‚-4èI&•=º?'V;ğpêçŸ_hni‰ïò®ñ}h¥¹¹…Ù:vº
+ÓÒu|ßh4®+ER¨Rá³Iåt:!è¾hnsÇõçi“Ëå‚,Bœ¥éÒ¤RI8jlhX­~E,*äŠ²²2H˜“›‹¢ÚØxåÔ©Ó]pıíÜÇ!Ö4 wdÄÖİÕãt:Z(-…yV;	D-'ÈĞk e¿ÕÛ,ZQ³r« ±ÂÔHáı=F¯¦“Áí*•
+­%WÀ[#É†‡@$6,`ÉRw'ï´Ktu2%ûÁ]»Ğ++ZìkÎ=»÷@HìŞSc‡Ã‰©\.çreùN°"ÃPlû­V„‚õğ³ÏÊd²¯¬±ìÔŞê½P'[ª*EŒ¶{{ûffü÷ğ½áll°Œô‚bb"!¦ü5'€"²++*PVZZ[ P²³³Y¢Å<Ë÷ÃwŠ•¢¸(<(Wˆ³Ç3û‡Å¸8‰oQACàt;z½^¥T¶¶¶"6!Õ»ºº¶¹\\DüWî'Ü)Væµ{ìí0b—é%vl|/‘HÑºğ€ƒşoooÇ¯PP`cÿì,Î Â$_©'ïÚ»cnLgEâN¼eUfÓªlS™ÓåìîéD¢ìQ¼CQ¾%!V”œ;„Èt±½£$µ:Ó`¸=ryzFúæŠ
+„w~GŒ
+Ó2ÛXÃÌˆÜ[¬s Š!ÒûæO$R,€×§gl©ª£ivÌYaŠµm*/—Êd „ĞL¬“Y.7ÖPcP:ÏC¯¬Ö¨Ó1ÒÒzoÜ@u t‰Xl.*ªÙ¿/+;-))´Z1Í4B;¹cçÎİÕÕ˜ahhør}C__ßòï¹ï+ŒÇnÈ%©’Ğ—feegèõh¯Ïl6Ãœyùù,ó3ïÙòó‘ïiiiUUUÛwîŒíªÛ/^¼Ôtµi©×°kÔ¯Kt"¤F£®¨ØrÿıÛ²³²€&.b Œ;>6‰FRµZÀMÜveµİ~ùrÃÅK—ûÕ{ˆ•…Ş1›‹ŠÍE(î÷ p(Í`é±C!“)× ×„‚xk599ÙÕÙÕÖŞÁlÆ¯@Kwñÿ<!“Àêˆqã!ş¦|Sá€¢€şS(ù|^bğx<“ø^áö-yïşÖ]ÿ'À ÔÛ>_Æ¹¤K    IEND®B`‚
+--E8O9TJRFI4
+Content-Location: assets/_styles.css
+Content-Type: text/css
+
+*, html
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+body, form, ul, li, p, h1, h2, h3, h4, h5
+{
+	margin: 0;
+	padding: 0;
+}
+html, body 
+{
+	height: 100%;
+}
+body { background: #606061 /*url(gr_bg_header.jpg) 0 0 repeat-x*/;}
+body#error { background: #000000; text-align: center; height: auto !important; }
+
+.clear
+{
+	height: 0 !important;
+	line-height: 0 !important;
+	clear: both !important;
+	font-size: 1px !important;
+	margin: 0;
+	padding: 0;
+	float: none !important;
+}
+img
+{
+	border: none;
+}
+p
+{
+	font-size: 1em;
+	margin: 0 0 1em 0;
+}
+
+/* Styles for scalable font consistency */
+
+html { font-size: 100%; height: 100%; /* IE hack */ }
+body { font-size: 0.75em; } /* Base font 12px */
+table { font-size: 100%; /* IE hack */ }
+
+input, select, textarea, th, td { font-size:1em; }
+
+h1 { font-size: 5.416em; line-height: 1em; } 
+h2 { font-size: 2em; line-height: 1em; margin: 0 0 0.792em 0; }
+
+/* START: @Structural styling */
+#maincontainer 
+{
+	margin: 0 auto;
+}
+/* END: Structural styling */
+	
+/* START: Content styling */
+#content
+{
+	padding: 10px;
+}
+#content a
+{
+	color: #18191D;
+}
+#content p
+{
+	color: #ffffff;
+}
+		
+.article
+{
+	border: 1px solid #fff;
+	padding: 10px;
+}
+	#content .article h2
+	{
+		line-height: 1.458em;
+		background: url(ico_ninja-star.gif) 0 0 no-repeat;
+		padding: 0 0 0 48px;
+		color: #1a1a1d;
+		margin: 0 0 0.5em 0;
+	}
+/* END: Content styling */
+
+--E8O9TJRFI4--
+--J457WYWJ1Z
+Content-Location: thecssninja.appcache
+Content-Type: text/plain
+
+CACHE MANIFEST
+
+CACHE:
+# Offline cache v2
+# html files
+index.html
+article.html
+
+# css files
+assets/_styles.css
+
+# js files
+assets/_javascript.js
+
+# images
+assets/ico_ninja-star.gif
+
+# fonts
+assets/vomzom.svg
+--J457WYWJ1Z
+Content-Location: article.html
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html manifest="thecssninja.appcache" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="author" content="The CSS Ninja" />
+	<meta name="keywords" content="Css, Css Ninja, The Css Ninja, Javascript, Web, xhtml, html, browsers, javascript, jquery, cascading style sheets, extensible markup language" />
+	<meta name="description" content="The Css Ninja" />
+	<meta name="robots" content="all" />
+	<meta name="copyright" content="The CSS Ninja" />
+	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+    
+	<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+	<link rel="stylesheet" type="text/css" href="assets/_styles.css" media="screen" />
+	
+	<title>Offline Webapp | The CSS Ninja - All things CSS, Javascript &amp; xhtml</title>
+
+	<script type="text/javascript" src="assets/_javascript.js"></script>
+
+</head>
+<body>
+	
+	<div id="maincontainer">
+		<div id="content">
+			<div class="article">
+				<h2><a href="index.html">Offline webapp</a></h2>
+				<p class="date">April 27, 2009</p>
+				<div class="clear">&nbsp;</div>
+				<p>
+					If you want to see this in action you should be loading this through your iPhone. The first time you load this the files specified in the
+					manifest file will cache to your phone.
+				</p>
+				<p>
+					Enable Airplane mode to cut all network connections and reload this page. Watch as it loads without a problem.
+				</p>
+				<p>
+					If you didn't visit this page before you disabled your network connections this page would still load as it was declared in the manifest file.
+				</p>
+				<p>
+					The page that the manifest file originates from does not need to be declared in the manifest file. It will automatically be included in the cache.
+				</p>
+				<p>
+					<a href="index.html">&lt; Back to home</a>
+				</p>
+			</div>
+		</div>
+			
+		<div class="clear">&nbsp;</div>
+	</div>
+	
+	<!-- Google analytics -->
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+		var pageTracker = _gat._getTracker("UA-4638292-1");
+		pageTracker._initData();
+		pageTracker._trackPageview();
+	</script>
+	
+</body>
+</html>
+
+--J457WYWJ1Z
+Content-Location: manifest.webapp~
+Content-Type: text/plain
+
+{
+  "version": "1.0",
+  "name": "Client_Side_Cookie_Tests_1",
+  "description": "Client Side Cookie Tests 1",
+  "launch_path": "index.html",
+  "developer": {
+    "name": "The Gaia Team",
+    "url": "https://github.com/mozilla-b2g/gaia"
+  },
+  "permissions": {
+    "alarms":{},
+    "audio-capture": {},
+    "video-capture": {},
+    "audio-channel-notification":{},
+    "contacts":{ "access": "readcreate" },
+    "desktop-notification":{},
+    "storage":{},
+    "device-storage:sdcard":{ "access": "readcreate" },
+    "systemXHR":{},
+    "settings":{ "access": "readonly" },
+    "tcp-socket":{}
+  },
+  "locales": {
+    "ar": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "de": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "el": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "en-US": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "es": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "fr": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "it": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "pt-BR": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "ru": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "tr": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "zh-TW": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    }
+  },
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/mic.png"
+  }
+}
+
+--J457WYWJ1Z
+Content-Location: .idea/offline-app-web-1.iml
+Content-Type: text/plain
+
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
+--J457WYWJ1Z
+Content-Location: .idea/misc.xml
+Content-Type: text/plain
+
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectRootManager" version="2" />
+</project>
+--J457WYWJ1Z
+Content-Location: .idea/.name
+Content-Type: text/plain
+
+offline-app-web-1
+--J457WYWJ1Z
+Content-Location: .idea/workspace.xml
+Content-Type: text/plain
+
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a727251-642a-4d4d-acbd-b31b56cdf903" name="Default" comment="" />
+    <ignored path="offline-app-web-1.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="offline-app-web-1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.059800666">
+              <caret line="3" column="0" selection-start-line="2" selection-start-column="16" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="article.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/article.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="thecssninja.appcache" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/thecssninja.appcache">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1855" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="offline-app-web-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="offline-app-web-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="offline-app-web-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a727251-642a-4d4d-acbd-b31b56cdf903" name="Default" comment="" />
+      <created>1445842866586</created>
+      <option name="number" value="Default" />
+      <updated>1445842866586</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/thecssninja.appcache">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.059800666">
+          <caret line="3" column="0" selection-start-line="2" selection-start-column="16" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+--J457WYWJ1Z
+Content-Location: .idea/modules.xml
+Content-Type: text/plain
+
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/offline-app-web-1.iml" filepath="$PROJECT_DIR$/.idea/offline-app-web-1.iml" />
+    </modules>
+  </component>
+</project>
+--J457WYWJ1Z
+Content-Location: .idea/vcs.xml
+Content-Type: text/plain
+
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="" />
+  </component>
+</project>
+--J457WYWJ1Z
+Content-Location: assets/ico_ninja-star.gif
+Content-Type: image/gif
+
+GIF89a" # Õ? ÌÌÊÔÓÒbbc–‰“ÄÃÂ¦œ£š™›½º»¬¬¬‚}ƒkjlŠ‹‹„„wjvtsu{u{µ²´•›££¤zy{ÈÆÅ…‹Á¼¼º²·¢— ÏÎË•“•ÑÑÍ¬¤©¶«²ÊÉÈÄ½Á»µ¸© §ÜÜØ×ØÖwvx™—kelâãáÁ¿¾ˆ¾ÂÀgfh¯©¬onp®°¯ÏÏÍÌÇÉÆÇÂÅÈÇŸœ¶¶¶µ¸µ¹¹º~|º¸¸§¦¨ÒĞĞ†…‡½¾¾Ÿ  ÿÿÿ!ù  ? ,    " #  ÿÀŸpH,ş+£rÉ<âÉ¦t) AÓlQá¢Ì´àïA(ÂYa‡J ¥­Ük³¡	ŞCìP°Ø"(z?
+Z+	H?:#<?7wSU>Œ+52#0%›S<-?,;/‡/''‡Z
+;+("4– ¶Z%,2%¯Y3 )		!0&+$ÕTG–XVä¨@AXpp À‡Hüˆ"ä‚	0à¡FƒE$è! 
+<èØØ¢… $xø¨‚ …=PœJ'¤Eÿ /<ìaÌ<0€ #e4i²Î)iáa€VøĞ!B…B°€Cš; 8ô#‚ã†>p-‚Áƒ	à`P€Å
+"”¸à¦H¢p"ÁƒgŒ@ !E9$H<r„3È-&@æ©D Ó(<H`0A7^ôĞ°ài*$Ø8P Ä.zDˆP €
+ÂĞA 4Ì¢BAF@ˆœew0!ÃŒ=™T‹
+0£€\Pb"(Z@	gÌ@À/SBEDG‘ò	ß•ÇAa­p›::  -€p‡‡PğÂ;#2¡ Zn˜â2%¬•b	@‚‹)®Áf3.¡ E ;
+--J457WYWJ1Z
+Content-Location: assets/_javascript.js
+Content-Type: text/javascript
+
+(function(){
+	var webappCache = window.applicationCache;
+	
+	function loaded()
+	{
+		var h2Title = document.querySelector("h2 a");
+		var connectionStatus = ((navigator.onLine) ? 'online' : 'offline');
+		
+		h2Title.textContent = h2Title.textContent + " - currently: " + connectionStatus;
+		document.title = document.title.replace(" | "," - currently: " + connectionStatus + " | ");
+		
+		switch(webappCache.status)
+		{
+			case 0:
+				console.log("Cache status: Uncached");
+				break;
+			case 1:
+				console.log("Cache status: Idle");
+				break;
+			case 2:
+				console.log("Cache status: Checking");
+				break;
+			case 3:
+				console.log("Cache status: Downloading");
+				break;
+			case 4:
+				console.log("Cache status: Updateready");
+				break;
+			case 5:
+				console.log("Cache status: Obsolete");
+				break;
+		}
+	}
+	function updateCache()
+	{
+		webappCache.swapCache();
+		console.log("Cache has been updated due to a change found in the manifest");
+	}
+	function errorCache()
+	{
+		console.log("You're either offline or something has gone horribly wrong.");
+	}
+
+	window.addEventListener("load", loaded, false);
+	webappCache.addEventListener("updateready", updateCache, false);
+	webappCache.addEventListener("error", errorCache, false);
+})();
+--J457WYWJ1Z
+Content-Location: assets/apple-touch-icon.png
+Content-Type: image/png
+
+‰PNG
+
+   IHDR   9   9   zÒ   gAMA  ¯È7Šé   tEXtSoftware Adobe ImageReadyqÉe<  ˆIDATxÚ¼Z	TçŸÑè¾…B€„  .ac°;±Û8é¦%¶“:m6ík7í:ÎëîæÅ»›·mßËQóošíkİ´¯İ#û6IsÙí«íøˆ±xM æqI€$,!³¿ÑUÁ@ ÛûY–‡aæ›ß÷?~ÿßÿsSuzâŞNlä—NF£tizrï:D+K”J…J¥’H$÷ŞH4˜x}>·Û=55Wúnbår¹IIªLƒ!''G¯ÏĞh4‰˜CQ,V:6€ÇíµZ­V‡Ã9;;ûÿU*•feKK7¦¥éd2ÇC,¸pCáĞÜlÀ5áêííkiiíêêºyÓÀX5VØ ÏÃ‹	—{Ë$ápxvvnzzI¯Áİë×¯Û¶µª  _©TR…“ãcc}½½ÃÃÃ¸M’)ÉÉYÙÙ™F£\µHSµZƒAŸšª½råm6{$YV¡P¨Õ¦FL‘œœ,Øó¡`Ğíöö÷÷;€8ñ.µZ]^^¶sÇöÜÜ‘H„3MW¯9}Úb±‚Avµø\L(
+³²²ÌëÖUVVÊäò<“	°ašººKìª–ÁJ²<€‰`›‚‚¼ÒM¦\µFƒI9gŞqÄÜÜœËåêêì¾zõjÅ‚Ì`•””´ysù®];sss|¾İfû÷ßşöÚµkä¼÷éD÷Çü¦Q«³ŒYUÛ¶n©¬„÷ÇúËõçÏ_^Æº”T¦ ĞÔÔÔ­U•»w?WâæA¢8N»}FU)•€ÅèÒtê¤¤P(ìñL=\Y^V†»L&€ÂœGkkûl#A’ƒXÁ'LÓà§Hì"¸Ñ€ó“>Ÿs\S>_~AT"AR‚Í\®	DÚr1€ë¶lÙÛôz,zÆïÿÃ‰=ç?Ûìò`0ÀåyuÚìwîß¿_!—¯[WŒ•ğùüîîn$ûıl3Å,ZßØøÆ±c*š6D*A*iZC’rÄAR$gÚGN:ê!ˆ’™´tvúÂ‘¹`ğàÁƒ0PEÅ–ÉÉI`õz½‹c…QµÚÔÖ³@ë.^<ı¯ïTº=ßÅ|Ñ4—?CÓä„gô¿ß«=sæ‰^(ÈÏÏË3áÊ<SnrJ2~@"*_ı?„CH cŞ§ã1@2gğAd¸aW˜œ$F)N³Åb™şˆÏß¿o_FF:â~dÄÖÑq}ÑÀ¥ä
+•AŸ±iS©6%å³³gš^>úm’êPè#"Ò]˜7j.´2ì\.Ùoıã§Ÿ&åæÜ—ªÇÔiii°1üğşÑ£9é›‰Fƒ4!ápHÇØ'’ğaÏ€™ºú%è9‚L'9…“Ş®ÎNUi)²Y(À¨€»(é21@œ8ËŒÙGËE"!IœòUïúáSOiµÚø¥#6Û‰?~ù¥—9|øÑš˜–!&‡£öèÑïØx©£(!MæÁ…cß¬iY‹²öŞLrª(
+ §	ÚAÓ6’,ˆFÏşçå¼ô¢Ì—×ÚÚæñxng\.±BÈ°‹€$Ïù§ßûÎsßúÖ‚Kõ‡ô£¿¨©yíµ×@^;¶o·öö~ôÉ'æ`¨šËFšı3N¡Ğâ›ò
+aÏOĞš“l<“#|	M 5XI$“¤–$7r¨@{»åÆP˜.U‡a~äîbv¥8,ÅDƒÁÁPÈ³w÷ßŞåqjj*I¥:ú³ŸıÛ¯]{äHÍJD!.u$j	Ÿü»¿©~äu{Ç¿üâv»],±1g®h<ˆÙŠ‚¯pHDQÊ(¡àr744 «T&KÑ¦€éÇÊr5¾gffê¼·Zp
+÷Ş{ÏÛÜ:5árEi¿L*KOss8OzµRQ;—òÎø¿¾·ú…#G Mìı}}äÜŸÎXnXğà¥4X8‚¬Q¨Õà/7AÌ‰D³~?–€U*Âù2´ ˜e±ºgfv<v U$ñŠKõõu¯5F¢^•"óá‡*sr4))`ßH4
+Ÿ8~¼µ¥…?°u+ôã£?épulÈÛP¾£¢¨¨è÷ş^"•"²+3(7
+ëô©ºûÒŸùî¡gŸ9…  ¿X"±˜Çç#…ÁŠIèyŸ|óñÇu©©‰¿† :Wûsu8Â{ú{ÿPS V—|òá‡8ÆB'&&üÓ~Ë¸Åk÷ò(ï7ÇŞY_²şØ«Ç|>”˜›‚µ˜¯âi3µ”š?=5ªÖH8ŒßÎÍÎ+¹@óÆtóx¼qh"7'’%
+‚ŞXôÿó»ßAí¿eğ¸\5±¯¯o||—á6ª„"ÑÉ?Ä3ÖeÓ²ÌjJÉŠ…ßúéSŸ>pà R+«ªª<öê«ÿøÊ?eo7û]Ò€¸¿¯)Ï.;V]—“³\`µÙl—.×#uPÜqTD	L½Ô`“Kÿşëß`«v{{‡Åram.*ÚvÿV¾’ÏŠ¶Œıò—¯ÿôùŸ®ûãz\üğ‡XóÀ3Vk”µ½kbÜåØjÚ-ˆØdv™@òî»ï²îféˆXÂ¢Î-ø¨©©ihhX,fœ^]½XûT‘°G¯(¦¾¾şÏ>;6òGøÃ›¸X®PÜÒ¯2ÙÛo½óıõ¡CJ•gà¨?øàå_†ãÙÀÿüÚ[o¼©MÑB9¬“Ã‡0H$fB…¦—j¸lüA7MOÏ°ëC û¼>Øfã†'×¯sŒ2t‰LOMİ¼yNDxø‡Q†S^^]]k„Ú¿úÕï¿oÊ3áÁCƒƒ½½½ha"öxŸ‡çº9q«ÍG?üá¬~¿?>ùÂx] Ù €zûú&nŞÄŠŸûÉi¥Âát"¤˜©c"×Lz½X®/..¦æåàÂºXucÃ•³gÏ˜[¾l'\FÅFüËi` M¤ırXãz¯©é‹¶¶vˆB¡xµ¶ò
+°ªlİÃÔo_t#º´4³Ùü%…oŠEÈQ~Œ4VØñ‚şJJKñÏääèØØ¢z`¬ ÁÁ¡‹u—ÚÛ¸x*b÷# á ö4¢CƒC×ìÛ·’ni©•kÔš‚ÂBhšŒÅu´ö¢÷%¨q{ÜÖ/šš¿hnFÇ~$æqyZZ§Ó¡œ!ÙÉe³øöÁ–Yp6”ÛO>‰u:õ×¯ƒ”VŠ•é±B!ôX°eO·7÷ôXÇñ†œàk.	±©¬Šnhht¶BÄX3Ó£+•{~øÛO=…Ä‚Øhm½öDK·(,‰•°È3pâıJHl¨@„išhP·ïØìfšÇ¥³I,—+ª*+şê?¨¨ªÂT°‚}t´¥õšÕ:0;ë_4¨–ÃºÔÀÔ÷İ—–°¸ØŒªfµ,›‹‹óòóëëƒlûeÄl5††22k­yüàÁ8=<‰¥‚¹é˜ŠZĞ-¯+TP¿gÏîØ†&¥@ã~GÔ¾ıæ›n'¦Q¢qÇÅbĞc“Á˜	Ÿ„ÂáÔyùÁĞ³¥ËÌ4 A ö.€»:¬€…ŞºzÏ®òÍåè›ñ£ÇíFsÁñ|>¼ÿÒ‹/¢2óelÖé G‘$ˆ>‰‹Eb¨fˆ
+À¦±ÑÑ`  P*Qá4T"Er#•	au{DèxËË7mÜXO!ˆóÎ;×Z[!™™•UUŸŸ?üX@œD,ÌÉ˜TgTÁü¦Fã•F¹ıWœ;w€Îl.şÆ¾}ƒ¡¨m˜×épÆódvÅ3ŒÆL¸>ËhD*Ô¾òJ[[€â¦õNN"È‹÷°DI"Eà²±±1hêS§NMÏ0åİïŸ…O\G‘ÙŒãšxqVµŸ
+z’Ëä ¶¶8t óÛ7Û–™®¿|ù1ßçà8„u¥¡?"	µ\İZf %»q„®&1ÇF¢°ÓÊ·TIf”—8¦Ÿ™Fea~Ëá	{·«ÆmKã ´ºØ2(¤ö*ª×mWbz_Àè²„ı¯µ`ej¸dv%7*t@D LMùn'Å•è¦Ÿ¨“’J7mbÚæ`K,
+«ÃŠØAÃŸ{şy”,˜~Jq¹Ã##\îêˆ^FØÀL+šrröì­Î4Av›b<qÛ\Õ»ĞuIÉ†¯}í¡¢ÂB#ëÛZ[A^Ç?ıô¦Û:Z¥z!à‡ò²rf\.×$'£õÅ7HÄ©“§¯\ñù¦ÖÈ¯•×¯w
+b	”Ÿ—¹XµmÎ_¸p²a‚-4èI&•=º?'V;ğpêçŸ_hni‰ïò®ñ}h¥¹¹…Ù:vº
+ÓÒu|ßh4®+ER¨Rá³Iåt:!è¾hnsÇõçi“Ëå‚,Bœ¥éÒ¤RI8jlhX­~E,*äŠ²²2H˜“›‹¢ÚØxåÔ©Ó]pıíÜÇ!Ö4 wdÄÖİÕãt:Z(-…yV;	D-'ÈĞk e¿ÕÛ,ZQ³r« ±ÂÔHáı=F¯¦“Áí*•
+­%WÀ[#É†‡@$6,`ÉRw'ï´Ktu2%ûÁ]»Ğ++ZìkÎ=»÷@HìŞSc‡Ã‰©\.çreùN°"ÃPlû­V„‚õğ³ÏÊd²¯¬±ìÔŞê½P'[ª*EŒ¶{{ûffü÷ğ½áll°Œô‚bb"!¦ü5'€"²++*PVZZ[ P²³³Y¢Å<Ë÷ÃwŠ•¢¸(<(Wˆ³Ç3û‡Å¸8‰oQACàt;z½^¥T¶¶¶"6!Õ»ºº¶¹\\DüWî'Ü)Væµ{ìí0b—é%vl|/‘HÑºğ€ƒşoooÇ¯PP`cÿì,Î Â$_©'ïÚ»cnLgEâN¼eUfÓªlS™ÓåìîéD¢ìQ¼CQ¾%!V”œ;„Èt±½£$µ:Ó`¸=ryzFúæŠ
+„w~GŒ
+Ó2ÛXÃÌˆÜ[¬s Š!ÒûæO$R,€×§gl©ª£ivÌYaŠµm*/—Êd „ĞL¬“Y.7ÖPcP:ÏC¯¬Ö¨Ó1ÒÒzoÜ@u t‰Xl.*ªÙ¿/+;-))´Z1Í4B;¹cçÎİÕÕ˜ahhør}C__ßòï¹ï+ŒÇnÈ%©’Ğ—feegèõh¯Ïl6Ãœyùù,ó3ïÙòó‘ïiiiUUUÛwîŒíªÛ/^¼Ôtµi©×°kÔ¯Kt"¤F£®¨ØrÿıÛ²³²€&.b Œ;>6‰FRµZÀMÜveµİ~ùrÃÅK—ûÕ{ˆ•…Ş1›‹ŠÍE(î÷ p(Í`é±C!“)× ×„‚xk599ÙÕÙÕÖŞÁlÆ¯@Kwñÿ<!“Àêˆqã!ş¦|Sá€¢€şS(ù|^bğx<“ø^áö-yïşÖ]ÿ'À ÔÛ>_Æ¹¤K    IEND®B`‚
+--J457WYWJ1Z
+Content-Location: assets/_styles.css
+Content-Type: text/css
+
+*, html
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+body, form, ul, li, p, h1, h2, h3, h4, h5
+{
+	margin: 0;
+	padding: 0;
+}
+html, body 
+{
+	height: 100%;
+}
+body { background: #606061 /*url(gr_bg_header.jpg) 0 0 repeat-x*/;}
+body#error { background: #000000; text-align: center; height: auto !important; }
+
+.clear
+{
+	height: 0 !important;
+	line-height: 0 !important;
+	clear: both !important;
+	font-size: 1px !important;
+	margin: 0;
+	padding: 0;
+	float: none !important;
+}
+img
+{
+	border: none;
+}
+p
+{
+	font-size: 1em;
+	margin: 0 0 1em 0;
+}
+
+/* Styles for scalable font consistency */
+
+html { font-size: 100%; height: 100%; /* IE hack */ }
+body { font-size: 0.75em; } /* Base font 12px */
+table { font-size: 100%; /* IE hack */ }
+
+input, select, textarea, th, td { font-size:1em; }
+
+h1 { font-size: 5.416em; line-height: 1em; } 
+h2 { font-size: 2em; line-height: 1em; margin: 0 0 0.792em 0; }
+
+/* START: @Structural styling */
+#maincontainer 
+{
+	margin: 0 auto;
+}
+/* END: Structural styling */
+	
+/* START: Content styling */
+#content
+{
+	padding: 10px;
+}
+#content a
+{
+	color: #18191D;
+}
+#content p
+{
+	color: #ffffff;
+}
+		
+.article
+{
+	border: 1px solid #fff;
+	padding: 10px;
+}
+	#content .article h2
+	{
+		line-height: 1.458em;
+		background: url(ico_ninja-star.gif) 0 0 no-repeat;
+		padding: 0 0 0 48px;
+		color: #1a1a1d;
+		margin: 0 0 0.5em 0;
+	}
+/* END: Content styling */
+
+--J457WYWJ1Z--
+--MVMT4EELKZ
+Content-Location: thecssninja.appcache
+Content-Type: text/plain
+
+CACHE MANIFEST
+
+CACHE:
+# Offline cache v2
+# html files
+index.html
+article.html
+
+# css files
+assets/_styles.css
+
+# js files
+assets/_javascript.js
+
+# images
+assets/ico_ninja-star.gif
+
+# fonts
+assets/vomzom.svg
+--MVMT4EELKZ
+Content-Location: article.html
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html manifest="thecssninja.appcache" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="author" content="The CSS Ninja" />
+	<meta name="keywords" content="Css, Css Ninja, The Css Ninja, Javascript, Web, xhtml, html, browsers, javascript, jquery, cascading style sheets, extensible markup language" />
+	<meta name="description" content="The Css Ninja" />
+	<meta name="robots" content="all" />
+	<meta name="copyright" content="The CSS Ninja" />
+	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+    
+	<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+	<link rel="stylesheet" type="text/css" href="assets/_styles.css" media="screen" />
+	
+	<title>Offline Webapp | The CSS Ninja - All things CSS, Javascript &amp; xhtml</title>
+
+	<script type="text/javascript" src="assets/_javascript.js"></script>
+
+</head>
+<body>
+	
+	<div id="maincontainer">
+		<div id="content">
+			<div class="article">
+				<h2><a href="index.html">Offline webapp</a></h2>
+				<p class="date">April 27, 2009</p>
+				<div class="clear">&nbsp;</div>
+				<p>
+					If you want to see this in action you should be loading this through your iPhone. The first time you load this the files specified in the
+					manifest file will cache to your phone.
+				</p>
+				<p>
+					Enable Airplane mode to cut all network connections and reload this page. Watch as it loads without a problem.
+				</p>
+				<p>
+					If you didn't visit this page before you disabled your network connections this page would still load as it was declared in the manifest file.
+				</p>
+				<p>
+					The page that the manifest file originates from does not need to be declared in the manifest file. It will automatically be included in the cache.
+				</p>
+				<p>
+					<a href="index.html">&lt; Back to home</a>
+				</p>
+			</div>
+		</div>
+			
+		<div class="clear">&nbsp;</div>
+	</div>
+	
+	<!-- Google analytics -->
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+		var pageTracker = _gat._getTracker("UA-4638292-1");
+		pageTracker._initData();
+		pageTracker._trackPageview();
+	</script>
+	
+</body>
+</html>
+
+--MVMT4EELKZ
+Content-Location: manifest.webapp~
+Content-Type: text/plain
+
+{
+  "version": "1.0",
+  "name": "Client_Side_Cookie_Tests_1",
+  "description": "Client Side Cookie Tests 1",
+  "launch_path": "index.html",
+  "developer": {
+    "name": "The Gaia Team",
+    "url": "https://github.com/mozilla-b2g/gaia"
+  },
+  "permissions": {
+    "alarms":{},
+    "audio-capture": {},
+    "video-capture": {},
+    "audio-channel-notification":{},
+    "contacts":{ "access": "readcreate" },
+    "desktop-notification":{},
+    "storage":{},
+    "device-storage:sdcard":{ "access": "readcreate" },
+    "systemXHR":{},
+    "settings":{ "access": "readonly" },
+    "tcp-socket":{}
+  },
+  "locales": {
+    "ar": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "de": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "el": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "en-US": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "es": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "fr": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "it": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "pt-BR": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "ru": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "tr": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "zh-TW": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    }
+  },
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/mic.png"
+  }
+}
+
+--MVMT4EELKZ
+Content-Location: .idea/offline-app-web-1.iml
+Content-Type: text/plain
+
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
+--MVMT4EELKZ
+Content-Location: .idea/misc.xml
+Content-Type: text/plain
+
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectRootManager" version="2" />
+</project>
+--MVMT4EELKZ
+Content-Location: .idea/.name
+Content-Type: text/plain
+
+offline-app-web-1
+--MVMT4EELKZ
+Content-Location: .idea/workspace.xml
+Content-Type: text/plain
+
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a727251-642a-4d4d-acbd-b31b56cdf903" name="Default" comment="" />
+    <ignored path="offline-app-web-1.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="offline-app-web-1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.059800666">
+              <caret line="3" column="0" selection-start-line="2" selection-start-column="16" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="article.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/article.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="thecssninja.appcache" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/thecssninja.appcache">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1855" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="offline-app-web-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="offline-app-web-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="offline-app-web-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a727251-642a-4d4d-acbd-b31b56cdf903" name="Default" comment="" />
+      <created>1445842866586</created>
+      <option name="number" value="Default" />
+      <updated>1445842866586</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/thecssninja.appcache">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.059800666">
+          <caret line="3" column="0" selection-start-line="2" selection-start-column="16" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+--MVMT4EELKZ
+Content-Location: .idea/modules.xml
+Content-Type: text/plain
+
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/offline-app-web-1.iml" filepath="$PROJECT_DIR$/.idea/offline-app-web-1.iml" />
+    </modules>
+  </component>
+</project>
+--MVMT4EELKZ
+Content-Location: .idea/vcs.xml
+Content-Type: text/plain
+
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="" />
+  </component>
+</project>
+--MVMT4EELKZ
+Content-Location: assets/ico_ninja-star.gif
+Content-Type: image/gif
+
+GIF89a" # Õ? ÌÌÊÔÓÒbbc–‰“ÄÃÂ¦œ£š™›½º»¬¬¬‚}ƒkjlŠ‹‹„„wjvtsu{u{µ²´•›££¤zy{ÈÆÅ…‹Á¼¼º²·¢— ÏÎË•“•ÑÑÍ¬¤©¶«²ÊÉÈÄ½Á»µ¸© §ÜÜØ×ØÖwvx™—kelâãáÁ¿¾ˆ¾ÂÀgfh¯©¬onp®°¯ÏÏÍÌÇÉÆÇÂÅÈÇŸœ¶¶¶µ¸µ¹¹º~|º¸¸§¦¨ÒĞĞ†…‡½¾¾Ÿ  ÿÿÿ!ù  ? ,    " #  ÿÀŸpH,ş+£rÉ<âÉ¦t) AÓlQá¢Ì´àïA(ÂYa‡J ¥­Ük³¡	ŞCìP°Ø"(z?
+Z+	H?:#<?7wSU>Œ+52#0%›S<-?,;/‡/''‡Z
+;+("4– ¶Z%,2%¯Y3 )		!0&+$ÕTG–XVä¨@AXpp À‡Hüˆ"ä‚	0à¡FƒE$è! 
+<èØØ¢… $xø¨‚ …=PœJ'¤Eÿ /<ìaÌ<0€ #e4i²Î)iáa€VøĞ!B…B°€Cš; 8ô#‚ã†>p-‚Áƒ	à`P€Å
+"”¸à¦H¢p"ÁƒgŒ@ !E9$H<r„3È-&@æ©D Ó(<H`0A7^ôĞ°ài*$Ø8P Ä.zDˆP €
+ÂĞA 4Ì¢BAF@ˆœew0!ÃŒ=™T‹
+0£€\Pb"(Z@	gÌ@À/SBEDG‘ò	ß•ÇAa­p›::  -€p‡‡PğÂ;#2¡ Zn˜â2%¬•b	@‚‹)®Áf3.¡ E ;
+--MVMT4EELKZ
+Content-Location: assets/_javascript.js
+Content-Type: text/javascript
+
+(function(){
+	var webappCache = window.applicationCache;
+	
+	function loaded()
+	{
+		var h2Title = document.querySelector("h2 a");
+		var connectionStatus = ((navigator.onLine) ? 'online' : 'offline');
+		
+		h2Title.textContent = h2Title.textContent + " - currently: " + connectionStatus;
+		document.title = document.title.replace(" | "," - currently: " + connectionStatus + " | ");
+		
+		switch(webappCache.status)
+		{
+			case 0:
+				console.log("Cache status: Uncached");
+				break;
+			case 1:
+				console.log("Cache status: Idle");
+				break;
+			case 2:
+				console.log("Cache status: Checking");
+				break;
+			case 3:
+				console.log("Cache status: Downloading");
+				break;
+			case 4:
+				console.log("Cache status: Updateready");
+				break;
+			case 5:
+				console.log("Cache status: Obsolete");
+				break;
+		}
+	}
+	function updateCache()
+	{
+		webappCache.swapCache();
+		console.log("Cache has been updated due to a change found in the manifest");
+	}
+	function errorCache()
+	{
+		console.log("You're either offline or something has gone horribly wrong.");
+	}
+
+	window.addEventListener("load", loaded, false);
+	webappCache.addEventListener("updateready", updateCache, false);
+	webappCache.addEventListener("error", errorCache, false);
+})();
+--MVMT4EELKZ
+Content-Location: assets/apple-touch-icon.png
+Content-Type: image/png
+
+‰PNG
+
+   IHDR   9   9   zÒ   gAMA  ¯È7Šé   tEXtSoftware Adobe ImageReadyqÉe<  ˆIDATxÚ¼Z	TçŸÑè¾…B€„  .ac°;±Û8é¦%¶“:m6ík7í:ÎëîæÅ»›·mßËQóošíkİ´¯İ#û6IsÙí«íøˆ±xM æqI€$,!³¿ÑUÁ@ ÛûY–‡aæ›ß÷?~ÿßÿsSuzâŞNlä—NF£tizrï:D+K”J…J¥’H$÷ŞH4˜x}>·Û=55Wúnbår¹IIªLƒ!''G¯ÏĞh4‰˜CQ,V:6€ÇíµZ­V‡Ã9;;ûÿU*•feKK7¦¥éd2ÇC,¸pCáĞÜlÀ5áêííkiiíêêºyÓÀX5VØ ÏÃ‹	—{Ë$ápxvvnzzI¯Áİë×¯Û¶µª  _©TR…“ãcc}½½ÃÃÃ¸M’)ÉÉYÙÙ™F£\µHSµZƒAŸšª½råm6{$YV¡P¨Õ¦FL‘œœ,Øó¡`Ğíöö÷÷;€8ñ.µZ]^^¶sÇöÜÜ‘H„3MW¯9}Úb±‚Avµø\L(
+³²²ÌëÖUVVÊäò<“	°ašººKìª–ÁJ²<€‰`›‚‚¼ÒM¦\µFƒI9gŞqÄÜÜœËåêêì¾zõjÅ‚Ì`•””´ysù®];sss|¾İfû÷ßşöÚµkä¼÷éD÷Çü¦Q«³ŒYUÛ¶n©¬„÷ÇúËõçÏ_^Æº”T¦ ĞÔÔÔ­U•»w?WâæA¢8N»}FU)•€ÅèÒtê¤¤P(ìñL=\Y^V†»L&€ÂœGkkûl#A’ƒXÁ'LÓà§Hì"¸Ñ€ó“>Ÿs\S>_~AT"AR‚Í\®	DÚr1€ë¶lÙÛôz,zÆïÿÃ‰=ç?Ûìò`0ÀåyuÚìwîß¿_!—¯[WŒ•ğùüîîn$ûıl3Å,ZßØøÆ±c*š6D*A*iZC’rÄAR$gÚGN:ê!ˆ’™´tvúÂ‘¹`ğàÁƒ0PEÅ–ÉÉI`õz½‹c…QµÚÔÖ³@ë.^<ı¯ïTº=ßÅ|Ñ4—?CÓä„gô¿ß«=sæ‰^(ÈÏÏË3áÊ<SnrJ2~@"*_ı?„CH cŞ§ã1@2gğAd¸aW˜œ$F)N³Åb™şˆÏß¿o_FF:â~dÄÖÑq}ÑÀ¥ä
+•AŸ±iS©6%å³³gš^>úm’êPè#"Ò]˜7j.´2ì\.Ùoıã§Ÿ&åæÜ—ªÇÔiii°1üğşÑ£9é›‰Fƒ4!ápHÇØ'’ğaÏ€™ºú%è9‚L'9…“Ş®ÎNUi)²Y(À¨€»(é21@œ8ËŒÙGËE"!IœòUïúáSOiµÚø¥#6Û‰?~ù¥—9|øÑš˜–!&‡£öèÑïØx©£(!MæÁ…cß¬iY‹²öŞLrª(
+ §	ÚAÓ6’,ˆFÏşçå¼ô¢Ì—×ÚÚæñxng\.±BÈ°‹€$Ïù§ßûÎsßúÖ‚Kõ‡ô£¿¨©yíµ×@^;¶o·öö~ôÉ'æ`¨šËFšı3N¡Ğâ›ò
+aÏOĞš“l<“#|	M 5XI$“¤–$7r¨@{»åÆP˜.U‡a~äîbv¥8,ÅDƒÁÁPÈ³w÷ßŞåqjj*I¥:ú³ŸıÛ¯]{äHÍJD!.u$j	Ÿü»¿©~äu{Ç¿üâv»],±1g®h<ˆÙŠ‚¯pHDQÊ(¡àr744 «T&KÑ¦€éÇÊr5¾gffê¼·Zp
+÷Ş{ÏÛÜ:5árEi¿L*KOss8OzµRQ;—òÎø¿¾·ú…#G Mìı}}äÜŸÎXnXğà¥4X8‚¬Q¨Õà/7AÌ‰D³~?–€U*Âù2´ ˜e±ºgfv<v U$ñŠKõõu¯5F¢^•"óá‡*sr4))`ßH4
+Ÿ8~¼µ¥…?°u+ôã£?épulÈÛP¾£¢¨¨è÷ş^"•"²+3(7
+ëô©ºûÒŸùî¡gŸ9…  ¿X"±˜Çç#…ÁŠIèyŸ|óñÇu©©‰¿† :Wûsu8Â{ú{ÿPS V—|òá‡8ÆB'&&üÓ~Ë¸Åk÷ò(ï7ÇŞY_²şØ«Ç|>”˜›‚µ˜¯âi3µ”š?=5ªÖH8ŒßÎÍÎ+¹@óÆtóx¼qh"7'’%
+‚ŞXôÿó»ßAí¿eğ¸\5±¯¯o||—á6ª„"ÑÉ?Ä3ÖeÓ²ÌjJÉŠ…ßúéSŸ>pà R+«ªª<öê«ÿøÊ?eo7û]Ò€¸¿¯)Ï.;V]—“³\`µÙl—.×#uPÜqTD	L½Ô`“Kÿşëß`«v{{‡Åram.*ÚvÿV¾’ÏŠ¶Œıò—¯ÿôùŸ®ûãz\üğ‡XóÀ3Vk”µ½kbÜåØjÚ-ˆØdv™@òî»ï²îféˆXÂ¢Î-ø¨©©ihhX,fœ^]½XûT‘°G¯(¦¾¾şÏ>;6òGøÃ›¸X®PÜÒ¯2ÙÛo½óıõ¡CJ•gà¨?øàå_†ãÙÀÿüÚ[o¼©MÑB9¬“Ã‡0H$fB…¦—j¸lüA7MOÏ°ëC û¼>Øfã†'×¯sŒ2t‰LOMİ¼yNDxø‡Q†S^^]]k„Ú¿úÕï¿oÊ3áÁCƒƒ½½½ha"öxŸ‡çº9q«ÍG?üá¬~¿?>ùÂx] Ù €zûú&nŞÄŠŸûÉi¥Âát"¤˜©c"×Lz½X®/..¦æåàÂºXucÃ•³gÏ˜[¾l'\FÅFüËi` M¤ırXãz¯©é‹¶¶vˆB¡xµ¶ò
+°ªlİÃÔo_t#º´4³Ùü%…oŠEÈQ~Œ4VØñ‚şJJKñÏääèØØ¢z`¬ ÁÁ¡‹u—ÚÛ¸x*b÷# á ö4¢CƒC×ìÛ·’ni©•kÔš‚ÂBhšŒÅu´ö¢÷%¨q{ÜÖ/šš¿hnFÇ~$æqyZZ§Ó¡œ!ÙÉe³øöÁ–Yp6”ÛO>‰u:õ×¯ƒ”VŠ•é±B!ôX°eO·7÷ôXÇñ†œàk.	±©¬Šnhht¶BÄX3Ó£+•{~øÛO=…Ä‚Øhm½öDK·(,‰•°È3pâıJHl¨@„išhP·ïØìfšÇ¥³I,—+ª*+şê?¨¨ªÂT°‚}t´¥õšÕ:0;ë_4¨–ÃºÔÀÔ÷İ—–°¸ØŒªfµ,›‹‹óòóëëƒlûeÄl5††22k­yüàÁ8=<‰¥‚¹é˜ŠZĞ-¯+TP¿gÏîØ†&¥@ã~GÔ¾ıæ›n'¦Q¢qÇÅbĞc“Á˜	Ÿ„ÂáÔyùÁĞ³¥ËÌ4 A ö.€»:¬€…ŞºzÏ®òÍåè›ñ£ÇíFsÁñ|>¼ÿÒ‹/¢2óelÖé G‘$ˆ>‰‹Eb¨fˆ
+À¦±ÑÑ`  P*Qá4T"Er#•	au{DèxËË7mÜXO!ˆóÎ;×Z[!™™•UUŸŸ?üX@œD,ÌÉ˜TgTÁü¦Fã•F¹ıWœ;w€Îl.şÆ¾}ƒ¡¨m˜×épÆódvÅ3ŒÆL¸>ËhD*Ô¾òJ[[€â¦õNN"È‹÷°DI"Eà²±±1hêS§NMÏ0åİïŸ…O\G‘ÙŒãšxqVµŸ
+z’Ëä ¶¶8t óÛ7Û–™®¿|ù1ßçà8„u¥¡?"	µ\İZf %»q„®&1ÇF¢°ÓÊ·TIf”—8¦Ÿ™Fea~Ëá	{·«ÆmKã ´ºØ2(¤ö*ª×mWbz_Àè²„ı¯µ`ej¸dv%7*t@D LMùn'Å•è¦Ÿ¨“’J7mbÚæ`K,
+«ÃŠØAÃŸ{şy”,˜~Jq¹Ã##\îêˆ^FØÀL+šrröì­Î4Av›b<qÛ\Õ»ĞuIÉ†¯}í¡¢ÂB#ëÛZ[A^Ç?ıô¦Û:Z¥z!à‡ò²rf\.×$'£õÅ7HÄ©“§¯\ñù¦ÖÈ¯•×¯w
+b	”Ÿ—¹XµmÎ_¸p²a‚-4èI&•=º?'V;ğpêçŸ_hni‰ïò®ñ}h¥¹¹…Ù:vº
+ÓÒu|ßh4®+ER¨Rá³Iåt:!è¾hnsÇõçi“Ëå‚,Bœ¥éÒ¤RI8jlhX­~E,*äŠ²²2H˜“›‹¢ÚØxåÔ©Ó]pıíÜÇ!Ö4 wdÄÖİÕãt:Z(-…yV;	D-'ÈĞk e¿ÕÛ,ZQ³r« ±ÂÔHáı=F¯¦“Áí*•
+­%WÀ[#É†‡@$6,`ÉRw'ï´Ktu2%ûÁ]»Ğ++ZìkÎ=»÷@HìŞSc‡Ã‰©\.çreùN°"ÃPlû­V„‚õğ³ÏÊd²¯¬±ìÔŞê½P'[ª*EŒ¶{{ûffü÷ğ½áll°Œô‚bb"!¦ü5'€"²++*PVZZ[ P²³³Y¢Å<Ë÷ÃwŠ•¢¸(<(Wˆ³Ç3û‡Å¸8‰oQACàt;z½^¥T¶¶¶"6!Õ»ºº¶¹\\DüWî'Ü)Væµ{ìí0b—é%vl|/‘HÑºğ€ƒşoooÇ¯PP`cÿì,Î Â$_©'ïÚ»cnLgEâN¼eUfÓªlS™ÓåìîéD¢ìQ¼CQ¾%!V”œ;„Èt±½£$µ:Ó`¸=ryzFúæŠ
+„w~GŒ
+Ó2ÛXÃÌˆÜ[¬s Š!ÒûæO$R,€×§gl©ª£ivÌYaŠµm*/—Êd „ĞL¬“Y.7ÖPcP:ÏC¯¬Ö¨Ó1ÒÒzoÜ@u t‰Xl.*ªÙ¿/+;-))´Z1Í4B;¹cçÎİÕÕ˜ahhør}C__ßòï¹ï+ŒÇnÈ%©’Ğ—feegèõh¯Ïl6Ãœyùù,ó3ïÙòó‘ïiiiUUUÛwîŒíªÛ/^¼Ôtµi©×°kÔ¯Kt"¤F£®¨ØrÿıÛ²³²€&.b Œ;>6‰FRµZÀMÜveµİ~ùrÃÅK—ûÕ{ˆ•…Ş1›‹ŠÍE(î÷ p(Í`é±C!“)× ×„‚xk599ÙÕÙÕÖŞÁlÆ¯@Kwñÿ<!“Àêˆqã!ş¦|Sá€¢€şS(ù|^bğx<“ø^áö-yïşÖ]ÿ'À ÔÛ>_Æ¹¤K    IEND®B`‚
+--MVMT4EELKZ
+Content-Location: assets/_styles.css
+Content-Type: text/css
+
+*, html
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+body, form, ul, li, p, h1, h2, h3, h4, h5
+{
+	margin: 0;
+	padding: 0;
+}
+html, body 
+{
+	height: 100%;
+}
+body { background: #606061 /*url(gr_bg_header.jpg) 0 0 repeat-x*/;}
+body#error { background: #000000; text-align: center; height: auto !important; }
+
+.clear
+{
+	height: 0 !important;
+	line-height: 0 !important;
+	clear: both !important;
+	font-size: 1px !important;
+	margin: 0;
+	padding: 0;
+	float: none !important;
+}
+img
+{
+	border: none;
+}
+p
+{
+	font-size: 1em;
+	margin: 0 0 1em 0;
+}
+
+/* Styles for scalable font consistency */
+
+html { font-size: 100%; height: 100%; /* IE hack */ }
+body { font-size: 0.75em; } /* Base font 12px */
+table { font-size: 100%; /* IE hack */ }
+
+input, select, textarea, th, td { font-size:1em; }
+
+h1 { font-size: 5.416em; line-height: 1em; } 
+h2 { font-size: 2em; line-height: 1em; margin: 0 0 0.792em 0; }
+
+/* START: @Structural styling */
+#maincontainer 
+{
+	margin: 0 auto;
+}
+/* END: Structural styling */
+	
+/* START: Content styling */
+#content
+{
+	padding: 10px;
+}
+#content a
+{
+	color: #18191D;
+}
+#content p
+{
+	color: #ffffff;
+}
+		
+.article
+{
+	border: 1px solid #fff;
+	padding: 10px;
+}
+	#content .article h2
+	{
+		line-height: 1.458em;
+		background: url(ico_ninja-star.gif) 0 0 no-repeat;
+		padding: 0 0 0 48px;
+		color: #1a1a1d;
+		margin: 0 0 0.5em 0;
+	}
+/* END: Content styling */
+
+--MVMT4EELKZ--
+--2SUFKZV8J3
+Content-Location: thecssninja.appcache
+Content-Type: text/plain
+
+CACHE MANIFEST
+
+CACHE:
+# Offline cache v2
+# html files
+index.html
+article.html
+
+# css files
+assets/_styles.css
+
+# js files
+assets/_javascript.js
+
+# images
+assets/ico_ninja-star.gif
+
+# fonts
+assets/vomzom.svg
+--2SUFKZV8J3
+Content-Location: article.html
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html manifest="thecssninja.appcache" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="author" content="The CSS Ninja" />
+	<meta name="keywords" content="Css, Css Ninja, The Css Ninja, Javascript, Web, xhtml, html, browsers, javascript, jquery, cascading style sheets, extensible markup language" />
+	<meta name="description" content="The Css Ninja" />
+	<meta name="robots" content="all" />
+	<meta name="copyright" content="The CSS Ninja" />
+	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+    
+	<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+	<link rel="stylesheet" type="text/css" href="assets/_styles.css" media="screen" />
+	
+	<title>Offline Webapp | The CSS Ninja - All things CSS, Javascript &amp; xhtml</title>
+
+	<script type="text/javascript" src="assets/_javascript.js"></script>
+
+</head>
+<body>
+	
+	<div id="maincontainer">
+		<div id="content">
+			<div class="article">
+				<h2><a href="index.html">Offline webapp</a></h2>
+				<p class="date">April 27, 2009</p>
+				<div class="clear">&nbsp;</div>
+				<p>
+					If you want to see this in action you should be loading this through your iPhone. The first time you load this the files specified in the
+					manifest file will cache to your phone.
+				</p>
+				<p>
+					Enable Airplane mode to cut all network connections and reload this page. Watch as it loads without a problem.
+				</p>
+				<p>
+					If you didn't visit this page before you disabled your network connections this page would still load as it was declared in the manifest file.
+				</p>
+				<p>
+					The page that the manifest file originates from does not need to be declared in the manifest file. It will automatically be included in the cache.
+				</p>
+				<p>
+					<a href="index.html">&lt; Back to home</a>
+				</p>
+			</div>
+		</div>
+			
+		<div class="clear">&nbsp;</div>
+	</div>
+	
+	<!-- Google analytics -->
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+		var pageTracker = _gat._getTracker("UA-4638292-1");
+		pageTracker._initData();
+		pageTracker._trackPageview();
+	</script>
+	
+</body>
+</html>
+
+--2SUFKZV8J3
+Content-Location: manifest.webapp~
+Content-Type: text/plain
+
+{
+  "version": "1.0",
+  "name": "Client_Side_Cookie_Tests_1",
+  "description": "Client Side Cookie Tests 1",
+  "launch_path": "index.html",
+  "developer": {
+    "name": "The Gaia Team",
+    "url": "https://github.com/mozilla-b2g/gaia"
+  },
+  "permissions": {
+    "alarms":{},
+    "audio-capture": {},
+    "video-capture": {},
+    "audio-channel-notification":{},
+    "contacts":{ "access": "readcreate" },
+    "desktop-notification":{},
+    "storage":{},
+    "device-storage:sdcard":{ "access": "readcreate" },
+    "systemXHR":{},
+    "settings":{ "access": "readonly" },
+    "tcp-socket":{}
+  },
+  "locales": {
+    "ar": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "de": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "el": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "en-US": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "es": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "fr": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "it": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "pt-BR": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "ru": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "tr": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    },
+    "zh-TW": {
+      "name": "ClientSideCookieTests1",
+      "description": "Web app ClientSideCookieTests1"
+    }
+  },
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/mic.png"
+  }
+}
+
+--2SUFKZV8J3
+Content-Location: .idea/offline-app-web-1.iml
+Content-Type: text/plain
+
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
+--2SUFKZV8J3
+Content-Location: .idea/misc.xml
+Content-Type: text/plain
+
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectRootManager" version="2" />
+</project>
+--2SUFKZV8J3
+Content-Location: .idea/.name
+Content-Type: text/plain
+
+offline-app-web-1
+--2SUFKZV8J3
+Content-Location: .idea/workspace.xml
+Content-Type: text/plain
+
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a727251-642a-4d4d-acbd-b31b56cdf903" name="Default" comment="" />
+    <ignored path="offline-app-web-1.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="offline-app-web-1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.059800666">
+              <caret line="3" column="0" selection-start-line="2" selection-start-column="16" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="article.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/article.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="thecssninja.appcache" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/thecssninja.appcache">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1855" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="offline-app-web-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="offline-app-web-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="offline-app-web-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a727251-642a-4d4d-acbd-b31b56cdf903" name="Default" comment="" />
+      <created>1445842866586</created>
+      <option name="number" value="Default" />
+      <updated>1445842866586</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/thecssninja.appcache">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.059800666">
+          <caret line="3" column="0" selection-start-line="2" selection-start-column="16" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+--2SUFKZV8J3
+Content-Location: .idea/modules.xml
+Content-Type: text/plain
+
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/offline-app-web-1.iml" filepath="$PROJECT_DIR$/.idea/offline-app-web-1.iml" />
+    </modules>
+  </component>
+</project>
+--2SUFKZV8J3
+Content-Location: .idea/vcs.xml
+Content-Type: text/plain
+
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="" />
+  </component>
+</project>
+--2SUFKZV8J3
+Content-Location: assets/ico_ninja-star.gif
+Content-Type: image/gif
+
+GIF89a" # Õ? ÌÌÊÔÓÒbbc–‰“ÄÃÂ¦œ£š™›½º»¬¬¬‚}ƒkjlŠ‹‹„„wjvtsu{u{µ²´•›££¤zy{ÈÆÅ…‹Á¼¼º²·¢— ÏÎË•“•ÑÑÍ¬¤©¶«²ÊÉÈÄ½Á»µ¸© §ÜÜØ×ØÖwvx™—kelâãáÁ¿¾ˆ¾ÂÀgfh¯©¬onp®°¯ÏÏÍÌÇÉÆÇÂÅÈÇŸœ¶¶¶µ¸µ¹¹º~|º¸¸§¦¨ÒĞĞ†…‡½¾¾Ÿ  ÿÿÿ!ù  ? ,    " #  ÿÀŸpH,ş+£rÉ<âÉ¦t) AÓlQá¢Ì´àïA(ÂYa‡J ¥­Ük³¡	ŞCìP°Ø"(z?
+Z+	H?:#<?7wSU>Œ+52#0%›S<-?,;/‡/''‡Z
+;+("4– ¶Z%,2%¯Y3 )		!0&+$ÕTG–XVä¨@AXpp À‡Hüˆ"ä‚	0à¡FƒE$è! 
+<èØØ¢… $xø¨‚ …=PœJ'¤Eÿ /<ìaÌ<0€ #e4i²Î)iáa€VøĞ!B…B°€Cš; 8ô#‚ã†>p-‚Áƒ	à`P€Å
+"”¸à¦H¢p"ÁƒgŒ@ !E9$H<r„3È-&@æ©D Ó(<H`0A7^ôĞ°ài*$Ø8P Ä.zDˆP €
+ÂĞA 4Ì¢BAF@ˆœew0!ÃŒ=™T‹
+0£€\Pb"(Z@	gÌ@À/SBEDG‘ò	ß•ÇAa­p›::  -€p‡‡PğÂ;#2¡ Zn˜â2%¬•b	@‚‹)®Áf3.¡ E ;
+--2SUFKZV8J3
+Content-Location: assets/_javascript.js
+Content-Type: text/javascript
+
+(function(){
+	var webappCache = window.applicationCache;
+	
+	function loaded()
+	{
+		var h2Title = document.querySelector("h2 a");
+		var connectionStatus = ((navigator.onLine) ? 'online' : 'offline');
+		
+		h2Title.textContent = h2Title.textContent + " - currently: " + connectionStatus;
+		document.title = document.title.replace(" | "," - currently: " + connectionStatus + " | ");
+		
+		switch(webappCache.status)
+		{
+			case 0:
+				console.log("Cache status: Uncached");
+				break;
+			case 1:
+				console.log("Cache status: Idle");
+				break;
+			case 2:
+				console.log("Cache status: Checking");
+				break;
+			case 3:
+				console.log("Cache status: Downloading");
+				break;
+			case 4:
+				console.log("Cache status: Updateready");
+				break;
+			case 5:
+				console.log("Cache status: Obsolete");
+				break;
+		}
+	}
+	function updateCache()
+	{
+		webappCache.swapCache();
+		console.log("Cache has been updated due to a change found in the manifest");
+	}
+	function errorCache()
+	{
+		console.log("You're either offline or something has gone horribly wrong.");
+	}
+
+	window.addEventListener("load", loaded, false);
+	webappCache.addEventListener("updateready", updateCache, false);
+	webappCache.addEventListener("error", errorCache, false);
+})();
+--2SUFKZV8J3
+Content-Location: assets/apple-touch-icon.png
+Content-Type: image/png
+
+‰PNG
+
+   IHDR   9   9   zÒ   gAMA  ¯È7Šé   tEXtSoftware Adobe ImageReadyqÉe<  ˆIDATxÚ¼Z	TçŸÑè¾…B€„  .ac°;±Û8é¦%¶“:m6ík7í:ÎëîæÅ»›·mßËQóošíkİ´¯İ#û6IsÙí«íøˆ±xM æqI€$,!³¿ÑUÁ@ ÛûY–‡aæ›ß÷?~ÿßÿsSuzâŞNlä—NF£tizrï:D+K”J…J¥’H$÷ŞH4˜x}>·Û=55Wúnbår¹IIªLƒ!''G¯ÏĞh4‰˜CQ,V:6€ÇíµZ­V‡Ã9;;ûÿU*•feKK7¦¥éd2ÇC,¸pCáĞÜlÀ5áêííkiiíêêºyÓÀX5VØ ÏÃ‹	—{Ë$ápxvvnzzI¯Áİë×¯Û¶µª  _©TR…“ãcc}½½ÃÃÃ¸M’)ÉÉYÙÙ™F£\µHSµZƒAŸšª½råm6{$YV¡P¨Õ¦FL‘œœ,Øó¡`Ğíöö÷÷;€8ñ.µZ]^^¶sÇöÜÜ‘H„3MW¯9}Úb±‚Avµø\L(
+³²²ÌëÖUVVÊäò<“	°ašººKìª–ÁJ²<€‰`›‚‚¼ÒM¦\µFƒI9gŞqÄÜÜœËåêêì¾zõjÅ‚Ì`•””´ysù®];sss|¾İfû÷ßşöÚµkä¼÷éD÷Çü¦Q«³ŒYUÛ¶n©¬„÷ÇúËõçÏ_^Æº”T¦ ĞÔÔÔ­U•»w?WâæA¢8N»}FU)•€ÅèÒtê¤¤P(ìñL=\Y^V†»L&€ÂœGkkûl#A’ƒXÁ'LÓà§Hì"¸Ñ€ó“>Ÿs\S>_~AT"AR‚Í\®	DÚr1€ë¶lÙÛôz,zÆïÿÃ‰=ç?Ûìò`0ÀåyuÚìwîß¿_!—¯[WŒ•ğùüîîn$ûıl3Å,ZßØøÆ±c*š6D*A*iZC’rÄAR$gÚGN:ê!ˆ’™´tvúÂ‘¹`ğàÁƒ0PEÅ–ÉÉI`õz½‹c…QµÚÔÖ³@ë.^<ı¯ïTº=ßÅ|Ñ4—?CÓä„gô¿ß«=sæ‰^(ÈÏÏË3áÊ<SnrJ2~@"*_ı?„CH cŞ§ã1@2gğAd¸aW˜œ$F)N³Åb™şˆÏß¿o_FF:â~dÄÖÑq}ÑÀ¥ä
+•AŸ±iS©6%å³³gš^>úm’êPè#"Ò]˜7j.´2ì\.Ùoıã§Ÿ&åæÜ—ªÇÔiii°1üğşÑ£9é›‰Fƒ4!ápHÇØ'’ğaÏ€™ºú%è9‚L'9…“Ş®ÎNUi)²Y(À¨€»(é21@œ8ËŒÙGËE"!IœòUïúáSOiµÚø¥#6Û‰?~ù¥—9|øÑš˜–!&‡£öèÑïØx©£(!MæÁ…cß¬iY‹²öŞLrª(
+ §	ÚAÓ6’,ˆFÏşçå¼ô¢Ì—×ÚÚæñxng\.±BÈ°‹€$Ïù§ßûÎsßúÖ‚Kõ‡ô£¿¨©yíµ×@^;¶o·öö~ôÉ'æ`¨šËFšı3N¡Ğâ›ò
+aÏOĞš“l<“#|	M 5XI$“¤–$7r¨@{»åÆP˜.U‡a~äîbv¥8,ÅDƒÁÁPÈ³w÷ßŞåqjj*I¥:ú³ŸıÛ¯]{äHÍJD!.u$j	Ÿü»¿©~äu{Ç¿üâv»],±1g®h<ˆÙŠ‚¯pHDQÊ(¡àr744 «T&KÑ¦€éÇÊr5¾gffê¼·Zp
+÷Ş{ÏÛÜ:5árEi¿L*KOss8OzµRQ;—òÎø¿¾·ú…#G Mìı}}äÜŸÎXnXğà¥4X8‚¬Q¨Õà/7AÌ‰D³~?–€U*Âù2´ ˜e±ºgfv<v U$ñŠKõõu¯5F¢^•"óá‡*sr4))`ßH4
+Ÿ8~¼µ¥…?°u+ôã£?épulÈÛP¾£¢¨¨è÷ş^"•"²+3(7
+ëô©ºûÒŸùî¡gŸ9…  ¿X"±˜Çç#…ÁŠIèyŸ|óñÇu©©‰¿† :Wûsu8Â{ú{ÿPS V—|òá‡8ÆB'&&üÓ~Ë¸Åk÷ò(ï7ÇŞY_²şØ«Ç|>”˜›‚µ˜¯âi3µ”š?=5ªÖH8ŒßÎÍÎ+¹@óÆtóx¼qh"7'’%
+‚ŞXôÿó»ßAí¿eğ¸\5±¯¯o||—á6ª„"ÑÉ?Ä3ÖeÓ²ÌjJÉŠ…ßúéSŸ>pà R+«ªª<öê«ÿøÊ?eo7û]Ò€¸¿¯)Ï.;V]—“³\`µÙl—.×#uPÜqTD	L½Ô`“Kÿşëß`«v{{‡Åram.*ÚvÿV¾’ÏŠ¶Œıò—¯ÿôùŸ®ûãz\üğ‡XóÀ3Vk”µ½kbÜåØjÚ-ˆØdv™@òî»ï²îféˆXÂ¢Î-ø¨©©ihhX,fœ^]½XûT‘°G¯(¦¾¾şÏ>;6òGøÃ›¸X®PÜÒ¯2ÙÛo½óıõ¡CJ•gà¨?øàå_†ãÙÀÿüÚ[o¼©MÑB9¬“Ã‡0H$fB…¦—j¸lüA7MOÏ°ëC û¼>Øfã†'×¯sŒ2t‰LOMİ¼yNDxø‡Q†S^^]]k„Ú¿úÕï¿oÊ3áÁCƒƒ½½½ha"öxŸ‡çº9q«ÍG?üá¬~¿?>ùÂx] Ù €zûú&nŞÄŠŸûÉi¥Âát"¤˜©c"×Lz½X®/..¦æåàÂºXucÃ•³gÏ˜[¾l'\FÅFüËi` M¤ırXãz¯©é‹¶¶vˆB¡xµ¶ò
+°ªlİÃÔo_t#º´4³Ùü%…oŠEÈQ~Œ4VØñ‚şJJKñÏääèØØ¢z`¬ ÁÁ¡‹u—ÚÛ¸x*b÷# á ö4¢CƒC×ìÛ·’ni©•kÔš‚ÂBhšŒÅu´ö¢÷%¨q{ÜÖ/šš¿hnFÇ~$æqyZZ§Ó¡œ!ÙÉe³øöÁ–Yp6”ÛO>‰u:õ×¯ƒ”VŠ•é±B!ôX°eO·7÷ôXÇñ†œàk.	±©¬Šnhht¶BÄX3Ó£+•{~øÛO=…Ä‚Øhm½öDK·(,‰•°È3pâıJHl¨@„išhP·ïØìfšÇ¥³I,—+ª*+şê?¨¨ªÂT°‚}t´¥õšÕ:0;ë_4¨–ÃºÔÀÔ÷İ—–°¸ØŒªfµ,›‹‹óòóëëƒlûeÄl5††22k­yüàÁ8=<‰¥‚¹é˜ŠZĞ-¯+TP¿gÏîØ†&¥@ã~GÔ¾ıæ›n'¦Q¢qÇÅbĞc“Á˜	Ÿ„ÂáÔyùÁĞ³¥ËÌ4 A ö.€»:¬€…ŞºzÏ®òÍåè›ñ£ÇíFsÁñ|>¼ÿÒ‹/¢2óelÖé G‘$ˆ>‰‹Eb¨fˆ
+À¦±ÑÑ`  P*Qá4T"Er#•	au{DèxËË7mÜXO!ˆóÎ;×Z[!™™•UUŸŸ?üX@œD,ÌÉ˜TgTÁü¦Fã•F¹ıWœ;w€Îl.şÆ¾}ƒ¡¨m˜×épÆódvÅ3ŒÆL¸>ËhD*Ô¾òJ[[€â¦õNN"È‹÷°DI"Eà²±±1hêS§NMÏ0åİïŸ…O\G‘ÙŒãšxqVµŸ
+z’Ëä ¶¶8t óÛ7Û–™®¿|ù1ßçà8„u¥¡?"	µ\İZf %»q„®&1ÇF¢°ÓÊ·TIf”—8¦Ÿ™Fea~Ëá	{·«ÆmKã ´ºØ2(¤ö*ª×mWbz_Àè²„ı¯µ`ej¸dv%7*t@D LMùn'Å•è¦Ÿ¨“’J7mbÚæ`K,
+«ÃŠØAÃŸ{şy”,˜~Jq¹Ã##\îêˆ^FØÀL+šrröì­Î4Av›b<qÛ\Õ»ĞuIÉ†¯}í¡¢ÂB#ëÛZ[A^Ç?ıô¦Û:Z¥z!à‡ò²rf\.×$'£õÅ7HÄ©“§¯\ñù¦ÖÈ¯•×¯w
+b	”Ÿ—¹XµmÎ_¸p²a‚-4èI&•=º?'V;ğpêçŸ_hni‰ïò®ñ}h¥¹¹…Ù:vº
+ÓÒu|ßh4®+ER¨Rá³Iåt:!è¾hnsÇõçi“Ëå‚,Bœ¥éÒ¤RI8jlhX­~E,*äŠ²²2H˜“›‹¢ÚØxåÔ©Ó]pıíÜÇ!Ö4 wdÄÖİÕãt:Z(-…yV;	D-'ÈĞk e¿ÕÛ,ZQ³r« ±ÂÔHáı=F¯¦“Áí*•
+­%WÀ[#É†‡@$6,`ÉRw'ï´Ktu2%ûÁ]»Ğ++ZìkÎ=»÷@HìŞSc‡Ã‰©\.çreùN°"ÃPlû­V„‚õğ³ÏÊd²¯¬±ìÔŞê½P'[ª*EŒ¶{{ûffü÷ğ½áll°Œô‚bb"!¦ü5'€"²++*PVZZ[ P²³³Y¢Å<Ë÷ÃwŠ•¢¸(<(Wˆ³Ç3û‡Å¸8‰oQACàt;z½^¥T¶¶¶"6!Õ»ºº¶¹\\DüWî'Ü)Væµ{ìí0b—é%vl|/‘HÑºğ€ƒşoooÇ¯PP`cÿì,Î Â$_©'ïÚ»cnLgEâN¼eUfÓªlS™ÓåìîéD¢ìQ¼CQ¾%!V”œ;„Èt±½£$µ:Ó`¸=ryzFúæŠ
+„w~GŒ
+Ó2ÛXÃÌˆÜ[¬s Š!ÒûæO$R,€×§gl©ª£ivÌYaŠµm*/—Êd „ĞL¬“Y.7ÖPcP:ÏC¯¬Ö¨Ó1ÒÒzoÜ@u t‰Xl.*ªÙ¿/+;-))´Z1Í4B;¹cçÎİÕÕ˜ahhør}C__ßòï¹ï+ŒÇnÈ%©’Ğ—feegèõh¯Ïl6Ãœyùù,ó3ïÙòó‘ïiiiUUUÛwîŒíªÛ/^¼Ôtµi©×°kÔ¯Kt"¤F£®¨ØrÿıÛ²³²€&.b Œ;>6‰FRµZÀMÜveµİ~ùrÃÅK—ûÕ{ˆ•…Ş1›‹ŠÍE(î÷ p(Í`é±C!“)× ×„‚xk599ÙÕÙÕÖŞÁlÆ¯@Kwñÿ<!“Àêˆqã!ş¦|Sá€¢€şS(ù|^bğx<“ø^áö-yïşÖ]ÿ'À ÔÛ>_Æ¹¤K    IEND®B`‚
+--2SUFKZV8J3
+Content-Location: assets/_styles.css
+Content-Type: text/css
+
+*, html
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+body, form, ul, li, p, h1, h2, h3, h4, h5
+{
+	margin: 0;
+	padding: 0;
+}
+html, body 
+{
+	height: 100%;
+}
+body { background: #606061 /*url(gr_bg_header.jpg) 0 0 repeat-x*/;}
+body#error { background: #000000; text-align: center; height: auto !important; }
+
+.clear
+{
+	height: 0 !important;
+	line-height: 0 !important;
+	clear: both !important;
+	font-size: 1px !important;
+	margin: 0;
+	padding: 0;
+	float: none !important;
+}
+img
+{
+	border: none;
+}
+p
+{
+	font-size: 1em;
+	margin: 0 0 1em 0;
+}
+
+/* Styles for scalable font consistency */
+
+html { font-size: 100%; height: 100%; /* IE hack */ }
+body { font-size: 0.75em; } /* Base font 12px */
+table { font-size: 100%; /* IE hack */ }
+
+input, select, textarea, th, td { font-size:1em; }
+
+h1 { font-size: 5.416em; line-height: 1em; } 
+h2 { font-size: 2em; line-height: 1em; margin: 0 0 0.792em 0; }
+
+/* START: @Structural styling */
+#maincontainer 
+{
+	margin: 0 auto;
+}
+/* END: Structural styling */
+	
+/* START: Content styling */
+#content
+{
+	padding: 10px;
+}
+#content a
+{
+	color: #18191D;
+}
+#content p
+{
+	color: #ffffff;
+}
+		
+.article
+{
+	border: 1px solid #fff;
+	padding: 10px;
+}
+	#content .article h2
+	{
+		line-height: 1.458em;
+		background: url(ico_ninja-star.gif) 0 0 no-repeat;
+		padding: 0 0 0 48px;
+		color: #1a1a1d;
+		margin: 0 0 0.5em 0;
+	}
+/* END: Content styling */
+
+--2SUFKZV8J3--

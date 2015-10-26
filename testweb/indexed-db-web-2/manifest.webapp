@@ -1,0 +1,73 @@
+{
+  "version": "1.0",
+  "name": "indexedDB_Test_2",
+  "description": "indexedDB Test 2",
+  "launch_path": "indexedDB.html",
+  "developer": {
+    "name": "The Gaia Team",
+    "url": "https://github.com/mozilla-b2g/gaia"
+  },
+  "permissions": {
+    "alarms":{},
+    "audio-capture": {},
+    "video-capture": {},
+    "audio-channel-notification":{},
+    "contacts":{ "access": "readcreate" },
+    "desktop-notification":{},
+    "storage":{},
+    "device-storage:sdcard":{ "access": "readcreate" },
+    "systemXHR":{},
+    "settings":{ "access": "readonly" },
+    "tcp-socket":{}
+  },
+  "locales": {
+    "ar": {
+      "name": "indexedDBTests2",
+      "description": "Web app indexedDBTests2"
+    },
+    "de": {
+      "name": "indexedDBTests2",
+      "description": "Web app indexedDBTests2"
+    },
+    "el": {
+      "name": "indexedDBTests2",
+      "description": "Web app indexedDBTests2"
+    },
+    "en-US": {
+      "name": "indexedDBTests2",
+      "description": "Web app indexedDBTests2"
+    },
+    "es": {
+      "name": "indexedDBTests2",
+      "description": "Web app indexedDBTests2"
+    },
+    "fr": {
+      "name": "indexedDBTests2",
+      "description": "Web app indexedDBTests2"
+    },
+    "it": {
+      "name": "indexedDBTests2",
+      "description": "Web app indexedDBTests2"
+    },
+    "pt-BR": {
+      "name": "indexedDBTests2",
+      "description": "Web app indexedDBTests2"
+    },
+    "ru": {
+      "name": "indexedDBTests2",
+      "description": "Web app indexedDBTests2"
+    },
+    "tr": {
+      "name": "indexedDBTests2",
+      "description": "Web app indexedDBTests2"
+    },
+    "zh-TW": {
+      "name": "indexedDBTests2",
+      "description": "Web app indexedDBTests2"
+    }
+  },
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/mic.png"
+  }
+}

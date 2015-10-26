@@ -1,0 +1,3348 @@
+manifest-signature: MIIF1AYJKoZIhvcNAQcCoIIFxTCCBcECAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHAaCCA54wggOaMIICgqADAgECAgECMA0GCSqGSIb3DQEBCwUAMHMxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEkMCIGA1UEChMbRXhhbXBsZSBUcnVzdGVkIENvcnBvcmF0aW9uMRkwFwYDVQQDExBUcnVzdGVkIFZhbGlkIENBMB4XDTE1MTAyMTA5MDcyMFoXDTM1MTAyMTA5MDcyMFowdDELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGjAYBgNVBAMTEVRydXN0ZWQgQ29ycCBDZXJ0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4pcO7lQtMox6cGHuALqA0MZ7uG/6fwgIkDNa/Xp1l/yKwri7MLO1/04BrxeC9N6Xa/GfBLenWxrh1OSqBm+qDGassG5m7jc152yZNXGX3vWR9f0WL5sSJgUPFpH4mgm7Bjaa9hzwCKd7zPjpwbvd968jtCDSzA4YsMcPyubvbmCPuQFEkgzWx4zHVqeBVqBao5dtNdo7x92oEYAeHm5weG+gR9h2pJgq5fKnH6EBLSGvIWoeYSuKAVob7oD/HVwQ6W5Sz5wvYl5DJgkDAPTU+HDD30QWku2AQfFuDC7NuLMTCa7jZq6qtS+F+6BfxBbdNiZLZTL80K689HewqFKGwwIDAQABozgwNjAMBgNVHRMBAf8EAjAAMBYGA1UdJQEB/wQMMAoGCCsGAQUFBwMDMA4GA1UdDwEB/wQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAQEA1uPEAb6WKwNETSQnaT1gKfpATwJXEDBpuQ4Wl6GVgi9afj18PPiiiqCc0BRstNDmkzp+69j0e1ax4xzkoWjK8kCo9Awx+kpui5J5eTUl9Z6/eTwXAfYpfh8psGNq3thN7fCnGb/YoZQzal2hvkZ0hIJd9m0ABMpn6ihbGq+pnmIFaIN8E9Sb5iCedU+Biq+i6LBRDG+UDEv6DM6SZ3IBl6ZIx46hkV76TqzTp3Jg0C8kXrbrDmBtKnVvFSwQIH7PgrxuRKLfqF+mXNmRniE9Sj27oa1H9MGvuKdbyDUIFnDZKhlCYZlHv/9HtxxoPeiyHgX1JHIxgIJ28Oq3TT+yTzGCAf4wggH6AgEBMHgwczELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGTAXBgNVBAMTEFRydXN0ZWQgVmFsaWQgQ0ECAQIwCQYFKw4DAhoFAKBdMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTE1MTAyMTA5MDgxOFowIwYJKoZIhvcNAQkEMRYEFJ0cPfWmm4afQaxeQbpdCjV697FGMA0GCSqGSIb3DQEBAQUABIIBABHNlDgC506fxXiO9/9WVGNYv3WQVRlDQvfZGje81easAJReTenRmPOGtm7McYY2wlAxfB0X9Xx7wHrl/wLOgyjtsdE2IZQB9/J3PdNRlKn3SluTJJ1blES8MEWypKoIK57GoLr866GrMzQ50zMOfoZAOiYdm8AGvqKQsHI0AR4TEy5uxpo1pddhrsjfHYDyBsD5z9/6u6MW6ovvAFqKtp/nGtS1cnSULmm4jyP6Zj39UGwNKBr3OmRpNgFbCcf0NWiF26uha2wPBdfEd5yyAQUUeYgmxQaneOpJX1hpH1OTCwpbQqzE2vp6z/3UQqgUMPO+EXp8ER7mZV3RWqARaFw=
+--UMTAXL0K02
+Content-Location: manifest.webapp
+Content-Type: application/x-web-app-manifest+json
+
+{
+  "name": "Record",
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/mic.png"
+  },
+  "description": "Web storage demo ",
+  "moz-resources": [
+    {
+      "src": "README.md",
+      "integrity": "0bmUNlZpAIaHlPgJ9xXwhaIqqP2hbc8eV/FgS044Cx0="
+    },
+    {
+      "src": "event.html",
+      "integrity": "FJqjWWxu/ZAfvUb5IQMHOIbW2enVn6NoajPt2IfHRW0="
+    },
+    {
+      "src": "main.js",
+      "integrity": "kHxs7JXpJpuyeKZ6huPciUgY3kA85kqzDc2fXG2MTCs="
+    },
+    {
+      "src": "index.html",
+      "integrity": "5yUDiixoasdUxoloOGL6sN92n2Oxu31tBFfQzSVTJ8s="
+    },
+    {
+      "src": "event.js",
+      "integrity": "EtoSpC+lMn4NgoNvLmy1HmB78Xkkamf4j6//GJ1YM9Q="
+    },
+    {
+      "src": "style.css",
+      "integrity": "LIbsyOiYouIUWk7siUWDG9jDqnE2HNcG7MQY+3VdDSQ="
+    },
+    {
+      "src": "images/crocodile.png",
+      "integrity": "t5jlfLsNcw9+TYTpNBK1+R+YZvQPLfkZUMf3UwpoOHs="
+    },
+    {
+      "src": "images/tortoise.png",
+      "integrity": "sTrilfELlCaBjGFPP1/supr+ULo3ekWCDWR89pRozVs="
+    },
+    {
+      "src": "images/firefoxos.png",
+      "integrity": "CwrA+VrT+pKLbdrHm52847QwtvIP0lVy0UpHK4jSlCo="
+    },
+    {
+      "src": ".git/description",
+      "integrity": "Enon7/drADX1PlD3W/kL+bLN0FvQI4LLJAewnbA1mHM="
+    },
+    {
+      "src": ".git/COMMIT_EDITMSG",
+      "integrity": "vYBpKiOnafPUg7MHGiQixBKFQOpQKfvb501yM5kt4po="
+    },
+    {
+      "src": ".git/index",
+      "integrity": "qfYROczGcTC541EfvPvfU8vU33FXTFezcM4qJiINaAI="
+    },
+    {
+      "src": ".git/config",
+      "integrity": "JcdRfHJg+kZfBatNBie7KbyqDf/E5cHf9AOQmWYxVXc="
+    },
+    {
+      "src": ".git/HEAD",
+      "integrity": "ox42ERE7rQifjUml+UIuZFHZ0YH2+K899WhPGSzwzHI="
+    },
+    {
+      "src": ".git/packed-refs",
+      "integrity": "BT5Cqc7fIi+c0+I8JE+Mp6dxGhgHgrkeHLxlzxv5eQI="
+    },
+    {
+      "src": ".git/refs/heads/master",
+      "integrity": "2oeIdLqjrzDppPPNStm9wo/fYWRaG1x+MKLGLY3RSlc="
+    },
+    {
+      "src": ".git/refs/heads/gh-pages",
+      "integrity": "DJfTMZyCufTP4omNs1NFLIqrqSQUlpdCKv5HlnRgodI="
+    },
+    {
+      "src": ".git/refs/remotes/origin/gh-pages",
+      "integrity": "MWSbXW4Ti1Nfd74ZJiShlNt2YufIjv0iikKn2hYwBOQ="
+    },
+    {
+      "src": ".git/refs/remotes/origin/HEAD",
+      "integrity": "u5w+NDCYrU0hGq4PWduLbDZR1XBB1/DrzJtz/JENC5c="
+    },
+    {
+      "src": ".git/objects/59/f19bbd9603f38045ae609c4547fea14fbbf875",
+      "integrity": "vNxLVa66S0YY4o05Cef2W1IxUBfuuN6p5VV2+jjmFOc="
+    },
+    {
+      "src": ".git/objects/92/1b72080da475efa53f87c5a030b476c2ea52a1",
+      "integrity": "y0ZPq4nUIqYqPBx5mKE6Nv9V20Nx8wxjtWWlYIv4mTw="
+    },
+    {
+      "src": ".git/objects/35/06761e60474e812bd9617e8c51f3c1de316edb",
+      "integrity": "lnNmmYSe+r9gJVqTKWBm1DwPWGO0lpzp60DTFfgx7BA="
+    },
+    {
+      "src": ".git/objects/39/9259fc56f91b7834c2b67d8dfaf7ffdc0e5a15",
+      "integrity": "YI8OW3FUzMuG3KmHMIRgUYBq3m52rIJ/QCGsd9M5Wi8="
+    },
+    {
+      "src": ".git/objects/1c/5e01f8bcecc4cf835e8eeeaa43ef2c06789022",
+      "integrity": "TzvrVVKXWQ1XFgnjo+EDgb1iZeewudIWeNyQZo5k/rU="
+    },
+    {
+      "src": ".git/objects/f5/52980db8fa0ae52fd3b1241e17819fa32506af",
+      "integrity": "vGwKc40aR5xAW/4acmrXU6J9PomPEAZ+Bb7qr/ahV3c="
+    },
+    {
+      "src": ".git/objects/e2/374ecbf5cdc4128aad6b7048df8ea909f07dd1",
+      "integrity": "DTEsNd++NDAabkEngrG3ZAShDnzNs/VBepWpHCOhV1w="
+    },
+    {
+      "src": ".git/objects/16/c860f94bbb848cb9a87b49bee8525e0fd77610",
+      "integrity": "p0eIklRG0si4rywQh/obZqjY5j3tpqZ1hfCM46rYf3M="
+    },
+    {
+      "src": ".git/objects/13/4b9bde7abf5419e2921fc5a0f6677564d62830",
+      "integrity": "jydsfP2D0Hk93C1CUPcC7R7BALGSysHu8PSvF/4DIhQ="
+    },
+    {
+      "src": ".git/objects/58/b27b745aba52b4648d9ea9f7167a2469055db0",
+      "integrity": "VNQrhCtNd2fL+P3xr+pYYAcJNwzb3FRNQVw+R8wCxcg="
+    },
+    {
+      "src": ".git/objects/c2/db60c6b1d1466ee0ad159a196b197c300b3cb0",
+      "integrity": "0knhrEZ9lpWLn1N8g7Zs1tQ0/HgnpoMhzFqFs7uWomA="
+    },
+    {
+      "src": ".git/objects/60/aa5749a318a04ba33e1ae2b8fa756c328df014",
+      "integrity": "jpRKIh6+TGxjOtaQM+FQMvEYU7pcJNvfNZv8N/94lnY="
+    },
+    {
+      "src": ".git/objects/d8/fe0b6e1d6b3c17026c3c12ea5650aea078b619",
+      "integrity": "rcGM1lhIk4r28C8ddywjph4ImzoK9F1jW9mOuqfgEWA="
+    },
+    {
+      "src": ".git/objects/53/27c447efe0c31c64f7e61c4dad50d97e5f5622",
+      "integrity": "JpTbHW8Z1oPrK0hHzIi6DWsYpNHeN5InsA7n3IccNoA="
+    },
+    {
+      "src": ".git/objects/02/c6946c26aea802901c22b7be9f0e99a7456a7a",
+      "integrity": "YMn0HzwnbLQbsvy5cF9lULFa+GU+Ruph+FjfLkdrPFU="
+    },
+    {
+      "src": ".git/objects/7c/226e4bc6c990cad2a0bc4d88d943cf64add77c",
+      "integrity": "zm+h/tNbrswyTQUj2wBqb8Xoc+hylCofR2V3YDLxsLA="
+    },
+    {
+      "src": ".git/objects/7c/ae581824522c9c80c7594133c36f52b526bd46",
+      "integrity": "4kmZNaUZr7e5YsJiRImUe/zb3NdRB7iS9W3ibEAuH7s="
+    },
+    {
+      "src": ".git/objects/99/66a0c375ae74efd269cee48385b381263c3c23",
+      "integrity": "0r7AgI+pTKZieLRWk0Djlc1Qr4tg9VZ3ZBUaRBmRe4s="
+    },
+    {
+      "src": ".git/objects/bb/06c849d78a4f5b2eb06a47afd1c9d1daada214",
+      "integrity": "ZcDiTSlly8nrIsF7pGksUYUCver9eOq4/cic+S4nNkI="
+    },
+    {
+      "src": ".git/objects/03/271f014312ce240e0ccc7cd62af3c29e52ccd3",
+      "integrity": "qgS7X/ELsXtHsN+Igu9ebujnb4n/VRvt/xPtAGshW70="
+    },
+    {
+      "src": ".git/objects/03/1376feea259e43a4c3cbb167da2eacee2abd50",
+      "integrity": "irP2fyACOwePY6wmHmwp0fyJHvZNINFp2hVrZs0MQoM="
+    },
+    {
+      "src": ".git/objects/ef/21d59109765ab9a1964c020ce447316fe4c304",
+      "integrity": "jxEpuTy67dDbIXw844vBIzBBgW5OnqS23tbRGVekNjs="
+    },
+    {
+      "src": ".git/objects/24/6478a864f812d93d4cd0e0d0ad1c8e2d09c825",
+      "integrity": "AucJtFYYn6sca18xFN/wIQieIfk3ik6LMqlFQJrVX8Q="
+    },
+    {
+      "src": ".git/objects/49/a2d25ff1d4cb467dab4de3e15717f10551cd7b",
+      "integrity": "o93bZP8mDaZq1OVomH6ucOAlw4mUfG1BhWkYdVEnWxQ="
+    },
+    {
+      "src": ".git/objects/9b/08767dd725657dd0ee8ed13adcefea8f2779f3",
+      "integrity": "8Efzk5WWbZAkKMkPcOxO+rDiimdR3xlL+M/G/el9MrI="
+    },
+    {
+      "src": ".git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "integrity": "Sje2WDpztl96PHs5IswKJNSxMQ9ByptarsHzNShh/CU="
+    },
+    {
+      "src": ".git/objects/33/66ad0cc9e06c7535631b449df14f3d1dc74c07",
+      "integrity": "m9ZZEY5yabxE4XsLuaomZMVfQo424kvIUnbIZKzu/WQ="
+    },
+    {
+      "src": ".git/objects/df/405285a71ca47a446fd39564a81d3161d94ab2",
+      "integrity": "s+f2+DlBeM/mzDL1d/wYIZ5xQh6NUYszZ9qzXJmnMyc="
+    },
+    {
+      "src": ".git/objects/43/d2e7f87ea6a4114d8f5c9d3ee4b51e9f9dacf0",
+      "integrity": "UCrIKrAofIfO5Jfr5dor5TrXIqUbSNVj28qadyidM8Y="
+    },
+    {
+      "src": ".git/objects/0a/3fee89b09e17f514456727af7549263f42c613",
+      "integrity": "zCmOVQ/6396QkE2gaIVPbsf8za5jLvbfhZ4agnbFubs="
+    },
+    {
+      "src": ".git/objects/0d/f9666dd89dc18df3a4ef2821cfb841158df594",
+      "integrity": "T/u2ipMLRCNauwSsC9HYSHybeXf9/X7jsBU6Dzq7cAU="
+    },
+    {
+      "src": ".git/objects/61/ee9bf8f72872aa40bb4f7eaf1a6fa2b3e82208",
+      "integrity": "OLi443E4gS6i7hbwGx8+HOaZp+SEyrQzCYbHAqaL3Xw="
+    },
+    {
+      "src": ".git/objects/47/a5639b7d8051ae4f7c20543f30fbc152b36902",
+      "integrity": "4+ov/pZGkDeqgiz14OUQvrhu6WP/tsEoVer8dcuSm+c="
+    },
+    {
+      "src": ".git/objects/f4/c01e6b80d4c4081b8f7ec222cbc42e29736f27",
+      "integrity": "/zDcbWy1PoIeI3A350awwXyG5fQyVa8+nrVe+eLzBR0="
+    },
+    {
+      "src": ".git/objects/ba/142747a0119c316bd5cd96c78015496c76247f",
+      "integrity": "mdz5Biel/XpP8hgdeIPiqdyR8b4dy25qOdpwB3fH6OM="
+    },
+    {
+      "src": ".git/objects/ba/02bb50b2c7d1909c9e98b255815ea06a8402d8",
+      "integrity": "V2WbHS4wjnr/LbzVwZ4DPsyrrNJqB7LcVv9vK+/etrY="
+    },
+    {
+      "src": ".git/objects/fa/f4400f08d94fd2dbca34e4a993f741ab9bc40a",
+      "integrity": "jZ1mwtZrEfV/xVI0TfWEfUZQYrYwOm3NMRvCZmMk6D8="
+    },
+    {
+      "src": ".git/objects/0e/e9c7ac517bee40b78aea03afa809631f0b69fa",
+      "integrity": "mknBHvodxTFjYqJYvca5Uxv3N2H5VJV73tldEh4jzfQ="
+    },
+    {
+      "src": ".git/objects/a2/36310177f5d70509f88a02adf86c9bd1d4f1d7",
+      "integrity": "5DczkZ9ynlOJ1VbeF/A0JAdN7KKRTTirRULaOopGk/s="
+    },
+    {
+      "src": ".git/objects/1f/59571c1027165aa0abacb7cf55b58120a9eb56",
+      "integrity": "xFgFef5XyaCBs7R1vHL5Wwp5j8+hbc0r9YfbsW5S4Xg="
+    },
+    {
+      "src": ".git/objects/fb/927b5bb803de0886a0d8f203cb9b0e8b5fe22e",
+      "integrity": "6Bwb2Sz2qthM9IpJP8OyfnXssEIRdfPo9j6133SFkKU="
+    },
+    {
+      "src": ".git/objects/e3/8c0da2bb3f202635f8606b1d1dc4a0d20483b7",
+      "integrity": "pYFC+MKAEuw6SXVjbgeYXWCoGtx2UqDvo+bXIx1yk2w="
+    },
+    {
+      "src": ".git/objects/e1/5cd5548adfff7a1010c49c05194fc31de6e5cd",
+      "integrity": "BG2pE50MLkpTsAoLWSAFt9WyUr27367k9pM+n3eguGo="
+    },
+    {
+      "src": ".git/objects/da/eca966a1debac14a9c85ba9bf14179bbb8af45",
+      "integrity": "sXgBw0gV3qnZ3mFmYbyVJdisIgftBnge2sm7T3aG4Fw="
+    },
+    {
+      "src": ".git/objects/ae/5b5e2249b41533898130bfdc83771e7a93cbbc",
+      "integrity": "8Da8GTcS1bcIgq/Qt6uHTcSHCGI/xOzdRmrlIUSWtzM="
+    },
+    {
+      "src": ".git/objects/cb/860664908e77a617261405e0997abf4265c5ab",
+      "integrity": "Aqy0Yq+Se041qv2I7D/m3JivdKKUiS6kNT/xZOuZqL0="
+    },
+    {
+      "src": ".git/objects/3d/94486cedaf7111d010fdaf2cefad45fd1f878b",
+      "integrity": "EJ+jhww2dhf696IM4PfUQR4eZJjFhLQ6tvbqDfhxMyI="
+    },
+    {
+      "src": ".git/logs/HEAD",
+      "integrity": "qVGCX3M4Uu2F5nAnk+r/s9SZwQHSLwvawUYKdn+NEIA="
+    },
+    {
+      "src": ".git/logs/refs/heads/master",
+      "integrity": "jF/TWQbUyvH/ZR/tW3IXu02tc/usoIp6ebPjxVRgnAs="
+    },
+    {
+      "src": ".git/logs/refs/heads/gh-pages",
+      "integrity": "c3Kv+9Gry0bGNMKA0OCKgnV1U08FzAJgbmaXJiTacLc="
+    },
+    {
+      "src": ".git/logs/refs/remotes/origin/gh-pages",
+      "integrity": "8qu4NnitefqgvU61eArfFarN+hS1BD3ldMeAs4KDRMw="
+    },
+    {
+      "src": ".git/info/exclude",
+      "integrity": "O9HHpUqKlkHGp/skEJHsPHnJf7tOBCZ3TozI+7MSo2M="
+    },
+    {
+      "src": ".git/hooks/pre-rebase.sample",
+      "integrity": "8mdCjuEnToJETzJeKU8BdoNtIP6vFmtbW99rZZNlQWw="
+    },
+    {
+      "src": ".git/hooks/pre-applypatch.sample",
+      "integrity": "TNZXjqjN6FdB6uh1OxdGyw98zvqVXBVdSSIwo9fygnI="
+    },
+    {
+      "src": ".git/hooks/commit-msg.sample",
+      "integrity": "0GvU1lI7siEwglnoHAjHT9/1g6KKtrlZswcanYzQvII="
+    },
+    {
+      "src": ".git/hooks/post-update.sample",
+      "integrity": "QkESnqCH5sb4Mv9KluSKQszNr3PM/l7EAq+3eU2wwe0="
+    },
+    {
+      "src": ".git/hooks/prepare-commit-msg.sample",
+      "integrity": "DSQVm0vYuag9QyPVHJlAb6DcWf40pHHDIsoVLrpXtow="
+    },
+    {
+      "src": ".git/hooks/pre-commit.sample",
+      "integrity": "Dn8W3GdZnLdXKbSdAoV9lRzAY0GLDl5QAga3MOpiIqU="
+    },
+    {
+      "src": ".git/hooks/applypatch-msg.sample",
+      "integrity": "1pBYs9mPYRpYyP/kk1NWV4/Ozqu6LSAQRNxZTEIJimM="
+    },
+    {
+      "src": ".git/hooks/update.sample",
+      "integrity": "vDiOe0WgvHzSuk/9PMUNvwVuhMjV4SWoqYnWIUdOYyc="
+    },
+    {
+      "src": ".idea/misc.xml",
+      "integrity": "miGebnVM46m7gvbnUNjDzY/riZFCp1vd8pjqWnx5I7Y="
+    },
+    {
+      "src": ".idea/.name",
+      "integrity": "mdPdxcjXEEGb066M9Q575WThE/S+ac39ltyK7kZgj9E="
+    },
+    {
+      "src": ".idea/workspace.xml",
+      "integrity": "bkhmjenHNREg3cekYlfYQ/xTtwNCLQIipL5pkh9N84Y="
+    },
+    {
+      "src": ".idea/modules.xml",
+      "integrity": "lmym+fK/+T+9RwTbRZCHhRg6WcpP8Qz+vVrAxLLLqHU="
+    },
+    {
+      "src": ".idea/web-storage-demo.iml",
+      "integrity": "PXfG6O+Ce/N8rgtfWVaj2Q1jtTaNiAFqcIT5EwSbjQI="
+    },
+    {
+      "src": ".idea/vcs.xml",
+      "integrity": "UrBtu7HtgAgyQ9fIS91EGJjHX1wyo3kvYrOGXofxOi0="
+    },
+    {
+      "src": "jscolor/hv.png",
+      "integrity": "qT62TiC31C1E99zXDwFOwKmOA4+cEX6MPbk6vJEJBbI="
+    },
+    {
+      "src": "jscolor/demo.html",
+      "integrity": "qyU8Nr8V6tEy7JOTCJcAEzNLvqpkwUbQz+d1XSjviS4="
+    },
+    {
+      "src": "jscolor/jscolor.js",
+      "integrity": "hc27kmlqTbsgzuTgKG5pzg7N9OnTjqY/qucCbSpO9DA="
+    },
+    {
+      "src": "jscolor/hs.png",
+      "integrity": "a+WCo2BlJ3xZxhWcgqRRlG/PNHKxBMGOzCXKeMFr+0Q="
+    },
+    {
+      "src": "jscolor/arrow.gif",
+      "integrity": "rWEMg92sS4O7eO0LOgx6SMFygM17UPrReM+h55nNU10="
+    },
+    {
+      "src": "jscolor/cross.gif",
+      "integrity": "k/923ObXDTbuUn8sBbTuFUMM+eg8P7IoJ3qmy2C0fcE="
+    }
+  ],
+  "version": "1.0",
+  "launch_path": "/web-storage-demo/index.html",
+  "permissions": {
+    "device-storage:sdcard": {
+      "access": "readcreate"
+    },
+    "desktop-notification": {},
+    "audio-capture": {},
+    "contacts": {
+      "access": "readcreate"
+    },
+    "settings": {
+      "access": "readonly"
+    },
+    "storage": {},
+    "systemXHR": {},
+    "video-capture": {},
+    "audio-channel-notification": {},
+    "alarms": {},
+    "tcp-socket": {}
+  },
+  "locales": {
+    "el": {
+      "name": "Record",
+      "description": "Web app Record"
+    },
+    "fr": {
+      "name": "Record",
+      "description": "Web app Record"
+    },
+    "en-US": {
+      "name": "Record",
+      "description": "Web app Record"
+    },
+    "ru": {
+      "name": "Record",
+      "description": "Web app Record"
+    },
+    "zh-TW": {
+      "name": "Record",
+      "description": "Web app Record"
+    },
+    "de": {
+      "name": "Record",
+      "description": "Web app Record"
+    },
+    "tr": {
+      "name": "Record",
+      "description": "Web app Record"
+    },
+    "it": {
+      "name": "Record",
+      "description": "Web app Record"
+    },
+    "ar": {
+      "name": "Record",
+      "description": "Web app Record"
+    },
+    "pt-BR": {
+      "name": "Record",
+      "description": "Web app Record"
+    },
+    "es": {
+      "name": "Record",
+      "description": "Web app Record"
+    }
+  },
+  "developer": {
+    "url": "https://github.com/mozilla-b2g/gaia",
+    "name": "The Gaia Team"
+  }
+}
+--UMTAXL0K02
+Content-Location: README.md
+Content-Type: text/plain
+
+web-storage-demo
+================
+
+A simple demo to show usage of the Web Storage API. For more detail on how it works, read [Using the Web Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API).
+
+View the demo online: http://mdn.github.io/web-storage-demo/
+
+--UMTAXL0K02
+Content-Location: event.html
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width">
+
+    <title>Web Storage API storage event output</title>
+    
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Bitter|Ubuntu+Mono' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="style.css">
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+  <div class="wrapper">
+    <h1>Event output</h1>
+
+    <ul>
+      <li>Key: <span class="my-key"></span></li>
+      <li>Old value: <span class="my-old"></span></li>
+      <li>New value: <span class="my-new"></span></li>
+      <li>URL: <span class="my-url"></span></li>
+      <li>Storage area: <span class="my-storage"></span></li>
+    </ul>
+
+    <p>Go back to the <a href="index.html">main example page</a>.</p>
+
+    
+  </div>
+  </body>
+  <script src="event.js"></script>
+</html>
+--UMTAXL0K02
+Content-Location: main.js
+Content-Type: text/javascript
+
+var htmlElem = document.querySelector('html');
+var pElem = document.querySelector('p');
+var imgElem = document.querySelector('img');
+
+var bgcolorForm = document.getElementById('bgcolor');
+var fontForm = document.getElementById('font');
+var imageForm = document.getElementById('image');
+
+if(!localStorage.getItem('bgcolor')) {
+  populateStorage();
+} else {
+  setStyles();
+}
+
+function populateStorage() {
+  localStorage.setItem('bgcolor', document.getElementById('bgcolor').value);
+  localStorage.setItem('font', document.getElementById('font').value);
+  localStorage.setItem('image', document.getElementById('image').value);
+
+  setStyles();
+}
+
+function setStyles() {
+  var currentColor = localStorage.getItem('bgcolor');
+  var currentFont = localStorage.getItem('font');
+  var currentImage = localStorage.getItem('image');
+
+  document.getElementById('bgcolor').value = currentColor;
+  document.getElementById('font').value = currentFont;
+  document.getElementById('image').value = currentImage;
+
+  htmlElem.style.backgroundColor = '#' + currentColor;
+  pElem.style.fontFamily = currentFont;
+  imgElem.setAttribute('src', currentImage);
+}
+
+bgcolorForm.onchange = populateStorage;
+fontForm.onchange = populateStorage;
+imageForm.onchange = populateStorage;
+--UMTAXL0K02
+Content-Location: index.html
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width">
+
+    <title>Web Storage API example</title>
+    
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Bitter|Ubuntu+Mono' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="style.css">
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+  <div class="wrapper">
+    <h1>Web storage</h1>
+
+    <p>This example is designed to demonstrate usage of the <a href="http://dev.w3.org/html5/webstorage/">W3C Web Storage API</a>. It should work as far back as IE8. Choose custom background colours, logos and fonts from the below drop down menus, then try closing and reopening the page â€” you will find that your choices are remembered, as they are stored using Web Storage. You can also see the <a href="event.html" target="_blank">storage event output</a>.</p>
+
+    <form>
+      <div>
+        <label for="bgcolor">Choose background color:</label>
+	    <input class="color" id="bgcolor" value="FF0000">
+      </div>
+      <div>
+        <label for="font">Choose font style:</label>
+        <select id="font">
+        	<option value="'Open Sans Condensed', sans-serif" selected>Sans-serif</option>
+        	<option value="'Bitter', serif">Serif</option>
+        	<option value="'Ubuntu Mono'">Monospace</option>
+        </select>
+      </div>
+      <div>
+        <label for="image">Choose image:</label>
+        <select id="image">
+        	<option value="images/firefoxos.png" selected>Firefox</option>
+        	<option value="images/crocodile.png">Crocodile</option>
+        	<option value="images/tortoise.png">Tortoise</option>
+        </select>
+      </div>
+    </form>
+
+    <footer></footer>
+    <img src="images/firefoxos.png">
+  </div>
+  </body>
+  <script src="jscolor/jscolor.js"></script>
+  <script src="main.js"></script>
+</html>
+--UMTAXL0K02
+Content-Location: event.js
+Content-Type: text/javascript
+
+window.addEventListener('storage', function(e) {  
+  document.querySelector('.my-key').textContent = e.key;
+  document.querySelector('.my-old').textContent = e.oldValue;
+  document.querySelector('.my-new').textContent = e.newValue;
+  document.querySelector('.my-url').textContent = e.url;
+  document.querySelector('.my-storage').textContent = e.storageArea;
+});
+--UMTAXL0K02
+Content-Location: style.css
+Content-Type: text/css
+
+/* General setup */
+
+* {
+	box-sizing: border-box;
+}
+
+html,body {
+	margin: 0;
+}
+
+html {
+	font-size: 10px;
+	font-family: sans-serif;
+}
+
+/* Typography */
+
+h1 {
+	font-size: 6rem;
+}
+
+p,form,li {
+	font-size: 1.6rem;
+	line-height: 1.5;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+/* Layout and styles */
+
+html {
+	background-color: #FF0000;
+	height: 100%;
+}
+
+body {
+	display: -webkit-box;
+	display: -moz-box;
+	display: box;
+	display: flex;
+    
+    -webkit-box-align: center;
+	-moz-box-align: center;
+	box-align: center;
+	justify-content: center;
+
+    -webkit-box-pack: center;
+	-moz-box-pack: center;
+	box-pack: center;
+    align-items: center;
+
+    height: inherit;
+}
+
+body > .wrapper {
+    width: 90%;
+	max-width: 800px;
+	background-color: rgb(250,250,250);
+	padding: 2rem;
+	position: relative;
+	border: 5px solid black;
+}
+
+body > div > div {
+	width: 300px;
+}
+
+h1 {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	position: absolute;
+	left: 2rem;
+	top: -4.6rem;
+	text-transform: uppercase;
+	color: rgb(250,250,250);
+	text-shadow: 0px -1px 1px black,
+	             0px -2px 1px black,
+	             0px -3px 1px black,
+	             0px -4px 1px black,
+	             0px -5px 1px black;
+}
+
+form div label {
+  float: left;
+  width: 45%;
+  text-align: right;
+}
+
+form div input, form div select {
+	float: right;
+}
+
+form div input {
+	width: 49%;
+	line-height: 1.5;
+}
+
+form div select {
+	width: 50%;
+}
+
+form div option {
+		height: 2rem;
+}
+
+form div {
+	clear: both;
+	margin: 0 auto;
+	width: 70%;
+	padding-bottom: 4rem;
+}
+
+footer {
+	clear: both;
+}
+
+img {
+	position: absolute;
+	bottom: 1rem;
+	left: 1rem;
+}
+
+@media (max-width: 800px) {
+	body > div {
+	  width: 100%;
+	}
+}
+
+@media (max-width: 600px) {
+    h1 {
+      font-size: 3rem;
+      top: -2.2rem;
+    }
+
+	form div label {
+      float: none;
+      width: 100%;
+      text-align: left;
+    }
+
+    form div input, form div select {
+	  float: none;
+	  width: 100%;
+    }
+
+    form div {
+	  padding-bottom: 1.5rem;
+    }
+
+    img {
+	  bottom: -4rem;
+    }
+
+}
+--UMTAXL0K02
+Content-Location: images/crocodile.png
+Content-Type: image/png
+
+‰PNG
+
+   IHDR   –   b   …ÜÚß   PLTE   /)ƒn²¤QO7WM5'"«¡‚63 ‰…gGC,,#)"*'/070 & …|bQE-mfO® ~?4"«œwmaGsiS½«‰QF-4+O?)¡—tˆ{b’†gqmMpsn¹ªKC+™rkfHÄ³“‘ŒoİÌ®D5#½¨£“s\P:`V8©{­ŸUF/"uq]“vrfOÙÆ¢„oT‡y[³§‹eQ4ˆ„t“€`Íº•ÙÉ®PY1¥’lpcHÒÀ¡E5"raB–„jQ=!›Šo;/#~kQQ@)u^9V?$¯ƒYH,«™Šx^M<(¢tŸŒr›‡g—„a’`}mW@1 6,Â¨r`I^M6WD.cK,G;.C9)^G%3%¦•|neVzeEh[E^J.qU,Ã¬ˆ»¢~„oˆqSUD)=3&¬h’z[xjO†qL“vK…jAVJ7J9"¤Œfœ‚^‹qN€lJbWBzd?iZ=tgUeZJm]HÆ°©’nƒoRpcO}fKVNAjX7eR6µ¢„¨“wwlZRF6v[2:+´œz ‰iŠvXp^<oX7+!­—tŸ‡_tfI\P?JC9OC1™z‚ub„s\w`EgAm\A~d9C0W_S<eT;cQ0JA-¼©Š—~\†lJÓ½˜ ‘z—~VwPtZAkV>iQ.³—lŠ~l’f{c|q`Œ{Y€sYmR4\H4hL%K5¹¦†³Ÿ²™u–ˆs’zTqFĞ·¹ xf^QwdM„d6Éµ–¾®’¹›s‹}a]UIgJ4pZ0[A"¦nPI@A=395.60'Q7Ê°‰­•o…uV{_;}^1‡zgtV‹j:,)(Ê¬ƒ¤†`pl`QPKmbI€fFÂ¤z©ŠaaB-™yN•„mO+£~H@@>~vg©Š£lØÇ¤fcY¦™…E%ÚÃœˆz}yo§ˆWÎ¿¡]`aèÙ¸˜n6Kß\)   DtRNS şşşA$)…pUBË¢<ljÉÉ5şÕÂ¯ˆîÓ—–jHşãÖ¶­™üçåŞÚ¸©…í·ßÊˆDïÆfìéæŞá÷ïê³Vğ?  øIDAThŞì˜yXÓuÇSH³ƒÄH+53ËÒÒÒî;6v s°ÁÆ.6ÙÇ`Æì@Æb	Ê±2‘ bÀÆ1 b° CÆ%r$<‚G­zêy:ÄêŞmÏóû=Ïë÷y¾Ÿãk÷¿ş×ÿú_»ìíş“Zc÷/Êş·ÿ×Ø€şs¡Úºuİ®=ÎövëíÚúÚ¿hçZ'Ç§î³[¿ûM;»--Î]B÷Ù=;¶<óæºA¼³£İ³¶­³³w\ÿO®›ß1ö˜ãh—ıÚo“ö}Ø¯İµ¹¤†¶rğı³xüï½í´Æwïv;;§}ëş!¶5öövwìXŞõ’¥yps1ŸzÉOÕˆ…bèÄQ<3³|`ã;ºúık·fíÙıÆƒ»mŸòCìì•£öãŞ½wçÎıN›ç‰<½ƒÖË©¥RU%®$’{Eqf;“îæ9z1(ædQı.:ÓõzİÂÂÌ¾}À]»÷ïÜ¹eûÁ}û·9;oİµs«Ó.çíwmÜ½ÛŞm›ßØü†Íù¿¬õ¸>e7n¸yM0ûú¬N‰‚SÒ×'r'vu€	‰înQiAd˜¿Oxj=˜É¸%©¿¡Õv˜êM&¡RH_­ibÌì­•útè‡$aÉè¥%)8÷À6§µÛÿRR9ïñÍI„„$WåG
+øœŞ>+'¿„,O”ËU'SÉ§K`œâÓ_>äGt»à6ìĞŞMwómÆø”!5¦[Ï_¿~ıVYG‡¶¾Ş\rF"ÉT B
+†WK$H51¨7nsºw¬½..Z k&‡nCáòºÍÅgËé%ƒQ^tnïœÏUUä}L$?öHû"ñB4Ç*¤¨N9~ø$·½¯&ßE6Üûîw¯'=ö˜ó;È5¡‰ š¨p=¹T‹Aëš×ïËn[W—‰¡RÕ&Ÿ¤-vs¢gÏ‚Ësò•sãÊøørxÂñœòä“y9EùW=ó•fndT(¡€kî}mâ…—_xÑù½ƒŞ¯Ó@ƒ›‹H:P)RXVÕ›î¹a<ß¡š7só zñø¸òãáhö‰ã‰€u®·¸€Í*:w	Cˆ4+
+£“á¢‰ÀÀø0BŞ™ün£(>š>§L>AÄÁ^|;'‡Ë1 gÀŞ	iªªB#†Ü!5Ú0„…ttZ{PÏí{±deÇ| Aä[ë“#î›+9áÁ[E†:X­î
+šn+&›SûÆé…ñp¬u**!*ÊINˆÏWĞ@E½BfÂùã‰ÅŒzEƒ &põXpÍšQ#Ğ,×0t[WM¶¥ª©™aÈ¢Z|¾åõöö’Ã£‡ÓüOË- «ğÅ×ÓÒ†ı-V‡CÒğp9¹wœ0Íe£xƒ˜è8¼(/…('g_Š¿I—'.Ì¨ÓQÚ†ô$‚Z·Åjˆ¡ ­˜Ç4ıÛ¯®ÒÌµ{%:‘Œf4zÀqa|kxStÁ×mÁ‡) ˜ƒÃá¶‚O…»QæÌÊ¦ÖŠà¼8+Ì=íbpZx‰<òìÔ œ¯] Â#@‰àô®!DB­Â ´õ!aaH$2åœ”ªC‡Uè—WÌ5µ¼\ÙæûV…åøFƒ¶^6¶r[éã-èƒ´yx_;äÖg¥)€ºüãåQÇ-VsQÓtåÍ©ì¨R^k|iÅ‰¸DŠåTpÁ%Â\·/ëÛz`He4\'¬U/«©¹<`C\€D óàH4˜Q]'`0†4?²›v`U%vÒ•¬µqÇíîø#ìùxŸçû=¬"&ZÂgÙÑM…ÓmìK)ä¹9={s„Uî[99Ù0Uùm5¤'#1ŠŞGÁ4,˜’êKÏÀ5ğ,„ºF=T3¬÷¥–tX
+Yàğ‡¼ÔX.V3¡4m^ÖSŒ¥Ú®.ÄØøXûæ´wo/i˜=Üv@º`qnKóO8~He¥´ÏµfcÎD»’ŠnÎŞdIf§»¸d1«Q33ê¥Ø¸«½)4éL&pŠ¨6‹uHT•¨[¬1¨iVfä*8Ş/¿úè*:æÎ[ˆ*I‡ŞlÄ´Í²I*±-­=b ~$‡Ì Ïj±ºÏ^&z7E‡÷õFß<èÑÔµH#œ‹«¬DiYj¤|zxZ
+”4ó‰ëéH
+ÉÈ§"{ZEË²Õ[¯bŒõ™eC²1ZdİONğ½k°^}¥Eú6Æ¹Sìà“	yË§A8Åõ?×S6² >«ëµ‹şá/Ëç8ßÍŞ›3ÏÕfİÈ."C (*öR[[\(q4«Ô7I«MOÉ&õä·TH5a¡^V*2ÌLë~èeãİÎáÛ·çøTÆ‚xÅÈnj* ZbN{û9øy{Ÿòv;õ	4  d^óÿ2íë6O¡5(-ø»ÙÙY¶Å=;]X8›b¨gğÎ“
+š CDÄ‰©õ9ÁZ
+¯FRQ’R’\ÍĞ/ZÆÇæeXß"7>ÙGN¼–ÓÛ;nß^1t„øèiálö×W?UYüÈ®1ĞL¨ŸÌkf
+…1×‚Ç|y8'Ä_sóô ô]¾v2­©°–V[Ëo*Hn@xÕÚ ¶-Iñ’4d\Ekë¥0^ »&h4WF'E‰åÄGîZ¶6ïØq{éXCèy1™Í.&¸3q1/lxdÃ+ ¡–	Èl23…8÷CŸÅø	=ıOÅ÷õg¸u®—İquÅ]5\P96êr“Ş¨{ÙJ;¢UEÕ¢QU¶ßÈ¬+¤b¤¡gT‘ŠjjdT’BSp?äªÈÏ¬¿×ÆÅññ1uCK‹À£ÍŸäMÁ=ôcBŞwÿÓOoÚ$lo ™0ÌÖ‹ùÌÍõ·C°€¶ïÚÚ2)…]2£È”s¼ ”6¾P/Ñv °òy ZÉ_ "tº…B/•¢uz.‡/ÈåóU<™\|àI…J¾[¸ìß»ÅX›A¤W¾3û)TEzâáì¥mŸôà†‡7=ı´Pè k·Ü½]¡í§ÚaŸ}yñ+¿ó…\1pPT”“¢™A ‘’*¬~fL9ÎXX@Ã€‡Àz†Z¯Íóh2mQ\CçŠÍJÑ¹á®UŞùù2—¥å…×£YUÿAkX¿æÑï{àáMíí¶ Q`íĞÌöÏ¾ùêÅÖ„3E*Ğ±ynµY‹BƒQR
+móOÆPS:Èç`$¸få6Ö]£ÑÔÊÆÆÇe^¹«¢ÜËncs3beÿÁËá/<øgş€¶	&Ú¼„úìÉÇò=@LhŒÁ`T•B0èÀX/¤RF	8²eÕ0?n3Ò†DC(:¹[Y¢ğ÷*åræıvwÕkwBÀ™ù^|ù®UÎÆfsµ]^ôOLõ¨£xieE´jÀ($•Z›–æj¸PÃÓÏ3¨¹Ş¼1#FˆøÄ"—Ã‹”›Í}*rÀã«XÇ>²Íã&ÆâfÕªôÀ+O¿°é­Ë®ä³…>¡Ú¤$©”ŠBçêÑÕ¶ãGÕ¡ĞK3q¦BÍÈ"Ód™LV…jå¸X©˜ÓmÈ)­_Õ±ózRõõ«¾´Ø5É>N¬¸zíËK¡Çê%ª®¢BÔúù´8ßË„YØ!šBÑÍ‰4,¶"0²H^D 3é*Šª„üø*¯n™®ßè_õæôêp[ÓdËè…ÔsÕ!Ú†cÒ*[f¡!¸F#—Æ”J¥ØX«çÑø´n^-“C#´r'ÂÈLE‰Ê\çÊÜ°Êõç½;wÊÊö¬ûó­Ûú¦££ãöíÛ¯^NˆmîïÌ:š4$©oHlK1 z"’j™€+ÕğD?1Á=TDÏça9$³²„ U˜ÌgV»–=¼u½ÌÙşhlS[v†àñ#“•Í¬éÑĞ‘şş‘æ‘+L!¬• PR)’
+±Í¡ç>yA pl—ÆÈc@ZùX©ˆ/àr±JN‘*ˆèî.§dZ˜Ì‡V¿ñ¦ç~Ï»eOHã–uOíÓ&iLõ‡àY•¡øN|ËdçÔôôH„©›†Éªw‘¦£»¤T¤N#ày¡ÑU`0VSC£“*Œ¢by7=Ri1›éœ
+W
+Ôµ ³àXõª±vçóËúİ¿ª£o>÷Q¾sòhÃIeI¡!¡--¶Œ­Ä‡†„T¶]üòkãëÓÓè›•CÀ>h[íBAºÀ¹>éØùE1ŸnsÑÜÍçÅsÊ^À$òËØ†¦MëW.§ç¶tÌ¬lıå{'ç²æ~ük¤ù¨´#	?99‚Çã;;Y•¬Î‘Î‹ßœ«€WN=Ú˜îã+õÀ 5`mc¸*K’K'¦jÄ8¥Ñ¨Á‘¾"A‘x®—Ié0ı\)8·áî“öß¹~ã]ÇŸrí½=S#ÍxVllcssÙæ‘‘IUK‹+»Åb³Ï8{$BZUåƒŒCb ƒñ^LOÊ`î]Àå‹Í%1
+b*Vlí×õY\½™€ (.àá{Û±ß|şÎç·8¾¶e´³sr¤²³3ßQÖß£¬£¾ßÆ5ÙÙYÙY9:5ÚÄš:2Úã“UÅ½tÔ'“I>ª@°ÕÕp8;/Bûp{­Ê	‘’#˜8M"’É1 ”äÀù °»'İ·åùı…¬Ê©Øşæ¤ÉşææfP³:2Òùƒ‰Ñ…,ÖhåèÙ+WJ³O…şgK#||½¼0d.6+´:7ƒÀcepó?Vˆ9\ù1Š/J=í~ØÕ õû$ 3 p.ÚÛ¯qt|sß€ÇIv©­£Ø
+@ã±©ÂÉÉĞIV\^qİá«-6¬ˆìĞ#Ù¥lVv\laœ³"‘‘ïÊõj‰…cËOæD¦ƒ'>çåÃN'ƒ %áádrIx»wİ©€ 4 3‡{hÃ*\\óÚkO=÷Ñ»ïîÁ·4ÆÆe…”İ(+›dM_é¹2})6›]ğ©m¤÷ûêË«=Gğ!=G%ÒXÖ(+.¢4"%%×763x>$w<Kôe—Ë"	„VByÜ;<‡X—¨J%—¸“Â¡P@f@Ì'°O ÷Û­_ûÇÃÌ÷”ZkTšuÏÓ*OíÒ±{[÷vÖ}§:§ËéôD¼{QA&6ä"ÈEä6˜&ˆà6ä6ÁmÉU1pÜLEg¨ik°-¦;YÚÜq•Õêô¡şëœ>tjYÏËåÏ—ÿûã¹½Ïïyş¯¿~ÇŸ™éå§+†ÊÊù‰NP<Ÿ“Ì2ÏQ¦ƒ‹…g–R	‘oRæUA™Ñ R}0>?1Á+•%R«UŠÁ/šğşô2¦ö0©¨TÖÚ¨$áf)Ûl¦D°Úrª˜@­B¹yû*Ê	+vÜ$¥?ûôÙ’––{Ÿyøágyô…–	‰??ß2Îj9û_d±Ä˜"Vÿ—ÓRë9«>…|ÕÂ‚dbÀºì	úgŒ*•a rbÁ¿„ÇÏo,¶v¿û‘Sg9ÚÚ,8·<stø I…ÔÖ†…ØA+Æ ÔW—£«OV»;*jĞtÅ®íÿL%3ï™ş†ÇnÂ>ÓÎb&ÎL€"Æx[Å\ùá‡Ÿû¿ìyAª‹Óp («Ï.-5x¬RLÊ;C”¨T~ş4ñ¼:jlîÅØÈ6Yz[‡l‹Â^b”ŠôUÁğ/¢äBME9p)t úGyŒønÑé#|Êf³€~ZÚÙ,ëR¿aBe¸ÔùÁYÖÔ‹]YÉ6TN±ZX•Sì!làÜ´qÈ8®âK}KƒL"’'¦UeÉFÑâyü8şX/‘Ô]¸Ä#«‡¥š9…×[Ua«WçUä ,#ÊË5ˆ]÷ÿs2èÍ7ŠßıôÖOÛ¥†³ıg[ZXgÎNT>×?Í2ô÷÷?÷Ã8€3Õ² êœ`_ºÄßß~#¦Ú¿¿õ–U¶äs¬	œ0*]0t‰eƒüK…S“ L01ÎÚj‰¼CssmD¿êëájW\ "F@€—×Ü$5lyĞş ¦P­Á—.IX-g$lÖûËhh1$Ø•à:ËbwJ&¦§§ƒ©uEÂZ6|ôÛ?½uÿ©ï÷·oøI‰5êK$€ÎF	GKşxxdCF¯EM¡Iågs¸r”Q]_Oã®qÕn,c«°¸úø]7¡…NÍ$ÇO&s$	>{Íê¬œ˜7.¨d2+Ob æ“Èü_¥>?3’–
+Ë„‰²Â¡w~9İ>ŞIäË<­ÃÂ€XGRñ„l‰š(¨-~ÀIæ{y‰.ÛáõİHÎC McDª`
+†µ®®K¨¸µØ©³‡[[5BÒáÒyzHæSIæJ}àîFƒO±
+îºÌ“lW®œ[¸ğS#©HVt5à‹
+¾(æH9j¼0û«Ô³lHø%%tNQBhäœç+ä#Ş¹‹ßcwà…
+sv}PÎá¼´®ˆÂlaØ«U'ónJxvŠ'{g43İ|¾µ*•J¤£I(õÑ5|™yÕ/šlÎÇ±•Ç³:hDep½¥Ü/JÄü«¹Ã¥Ç)&É1¡ÂN$“Ó'ákÈÒ¤l¾kyœQ‹–‘dP-!—Ë0S:E˜›)è›Ó°ûÑÕ]µdÃÑˆQ‡_&t‰Bß®T/öz…#èóY­I)ÑDÀèÏÀ/Äñxå¦âô8³9íJpäR«' çG1vÇA¿Ö0¹îmĞtØÿ¨G’	ùüÒ¢>–4°ƒ.tÒµÎò#‡Ûïºû•¶%’Ü¬ÑbuËêª…ÎQÓee6XÀ€´:ºÈ±*7-––F1^*ê!;Dş PE!°š>Åä\äj0AÄw·Î”É›†«á¡eÿ ,Ê¶q¯‰0R‰¯ÿáûß**ªû©„±ôĞÃ~]õ&”õÎ>·ÇÖøˆN13¼fNA7™äÑB(¶j‡PZ­Ùìµ1zºt:¹ÎÔÏº„òàäÕ‘ÅKC¡hcæ¤ÿj@Â³ÊIM+#GåË˜9²¶Öi¡B}”†,Áq•gÆÿêÉºâZ¼ªåÈ‡û‹ê
+Éò^.bS"}Ï½»_ÚsË=1¡œK©Š;„Hyé¢Wã_²¯e®f`r¡†Òq½æúu*Fe:D“®¬CIáb0*C[Ÿµ¤D““ALk[yÔaõV8<±(ú"á¤N´–»–sà6º.şx°‡¾ñE]ç‘?*~¿îü"xû$;‘9Ò¨š&!½Ú;C ®_ÏÄ!2ø%³Y3=I£‚î$3§w¸.ÏFÒ3«èÕÈ…‰å„¢×iáì]ÍW/¯Uõ5Î^ş-Ö1ûÛÕÕÉkò¹
+B×û¥ÄºÒÒSGK¢çìİ²9›Ø³çÙ'¯âp@ç#ª“–d2–\ƒ2™!(Ù¥3àg(´äó54¥Äªl²4Ÿ]úÙœ‹FÓED^‘¨ÁåÂ)8¤BÛsÈ>Æ  ¼ú\ÆBå¦Ö-TQŠéÁ^lC®â¢òÅ¦¹?;ÑÖ,msR,­c†–ü»=¹–L‚÷ÚÚZFÓâà²‡BâA3vQğ¿J¬W'].½‹ŒQiÌÙ˜6Ä°à~‘¶‰9ô³ğ(ÌËÄ°Øuf.w9[%0û¾=™òê,±ª_ıu[S[£óÁM9ØÁÇÇ(!õ§Sf%“££k`Íœ¢
+ÈºÂ™##¥¦â"‡‰hÔŸc2qúÈ×ç˜´€Ââw]»¼®LÍærÀºÌõ¤˜ipéÇÆ K›Í¹X‰…¼X„»†@@Ôk;´¢4?xçfÚR›Bk!Cä„4±X2*[êÅî)Â›ŒÄ²2ÓRĞ4EÕH3+@!¸)=3RR?•êÕâpÌÜæc(x,ÀQÀ8­¯¡¸-îCbwr'$Í}vbîXıó[6ó­·¯H1ÍNµ¦ª»›¬ád5!Æé•I%ƒçñQ<Ş¤VËıBİ†DŞ ¥ÈÑÜ4Œ hZWÉê™zJSİTê
+JÇ±qÚX¦!JœA¹Aú¥j–:çË
+ß/4µ@_|dSçºßLWÏ„ÕœÖ/“9¦Q2Ï©:jC`8œÅ(ORËér:m$0)\z&0£d­u-Ã@ÁŒ4ÅÅŠF£¡@|Æ×ii ¥t.Ï;ÎÅœ~Œ¢FTÃ¤VòÂê]ÿƒí(§¨½ºÇœH­\PKòF1ØZ›i³	ÀK °ÑíH³EY»’JiµvE.•Ò»po½B¥E2ÔÂrÃ†JÓhqª£ÃíîèÈ¤ÓğPWäU€^ş'£€øŸ’¨K%dÌŠùyá­‚Íamİz×îİ;êkĞX¬åj…m=ÕÕ
+U§D
++6xô)µZgEçí¯(-©Î¿òü#d 8
+FÑ „Ê â`üÒè8şÔİ[wÔÔ óŞÈ½ÕO>!ØíÆ²ÁN“@^kk„«òòîÿĞ<ú#(¶Ü}<oÇöüüm}m}}Õ}X,St/õ*"¥Ò¬ô*‘J­Ù©ìi„ßz‹Å(1*Bwtˆİ@?î°ª©Ùõê]ÛòoìµïöW·Şwß«Oİ·uë}}ƒC§‡‡Ïàdò@}#Œ8şÿ¶ÿ|4*?ÿÅ¶yŸ_¸¸» `çÎ‚íwn¿?¿`gÁÎ½{_ê}k/÷ß¶e[AÁŠr4¸€ z|ß{OmÿsG îÆ¶ù =àgºV†ÛOœèÒ*Áñ“8ÔÍÏßöÿÏl»{÷ßùÈ–ü¿î”Ÿ—·«fß{ûÀÌåÆçïR0æÅj—DÑš°¦DŸÅ‰«’âã|º}ö/ìYĞ
+ğqp¶8§¡, dã,­§„
+kêìNÕT¸$UT¤xñ0Ğ0±Šqƒœ„oŸâ±ıü‰öÍİ	>‰IŒlÀY/>z¬eµEHï‚;´7ft' KŒéÀHoöÂàéã,ùŞŞÜ§mË÷V¸¤xyñópóó2(à4¬šÜtXX^^GwpâÄé| <_Y=Åí|DëÌ ±]ñ Á™Á 8Õ#®œlsÏÛu%nqØŠèÁV l¸~W@ıçpïŒY­NB
+
+ƒÄU’Åqı'gL‰m*O÷Pd4@Ñ!zzĞç¦(~¯é{·	³2 ºJ@÷<°ÿÌ-j<»Q`Ğ¬?feeP›¢
+ª¶ãN’áb<@x®,/¸jŸ(Ë0ˆ ‹´4¤é$+Ä0¨ «++0´QVDjg²0Œ‚Q0
+FÁ0 ’QÕ¹(ók    IEND®B`‚
+--UMTAXL0K02
+Content-Location: images/tortoise.png
+Content-Type: image/png
+
+‰PNG
+
+   IHDR   –   T   Wÿ>o  ıPLTE   ”‹ƒÆ¿·¡œ—Æ¹«±£’À´©»¬œE>8HA8XNCæéïÁ¶¨ËÃ¼id`NHA80'Äµ¥qg]LE=xpf¢”„MD:»¯ ZPC?8.½±¤phaQG<mbT±¤•HA9¶­£80'»«™71*³¤’Å·§3-%]UK§›Ğ¾ªG>3Å·¥dWGÓÃ¯|o`ÎÁ²®ˆ—Š{Š€vuiseSxl`§•€SG:h[L91'seSaSAª˜„‹{isfY\QF†yi²ŸŠ­›„iZGA8.£y‰|nvj\xhVobSl]L«œŠND8ncYzkXeVAE<3¯ scM=5,Á®—›‚}lXk^PoaNaTF¯‰¥–…£’eWG³¤’’‡ ‘vj‡wd]P@XK<¸¥©™ˆj`V\N=ng]SdZQ£”„Œx“‚l„s^È´œ–†t—†pwlaJ@6«—,%½¬™²¡ŠydYNB±…Ÿ}¨“y€rc~p^qg^dXLTJ?¸«Ä°˜šŒ}™ˆuŠrƒue{m_¼¨•‰}_VMÁ°™Šz’…x‚v{ocxgRweNq`I¹¨”µ£·¡†“ƒp~in]E6-$Œp–hVQO1*"Ç¶¢·£‹¡x„zoxog½«•ˆmq]jY@N@1¶¦”ª—‡wqjf‚oY_YVI=/»ª˜·¨˜Á¬’§škc]«Ÿ“c^]Í·›£—‹ˆ~v˜„l}rg\L6>4(ˆu]bR:Ã³ ’„s³¥˜À©‹¡Œr|dE:,½¯Ÿ¯¢–}jSWH6TE1¾±¥Ô¾¢†~ÖÂ§’~dŒw]Ï¾«È²–¯šYUTMGDÏ¼¥jee¼¦‹Á´¨¹­¢Ğ» |z×Å­Ç¹©£š’˜ˆ®—yvpnQLJÊ¹¤ztpœ—”&Å¹­³¨³œ}wpÛÍ¹©‘o­¤œ–’Ç®‹Š¼¥…FA>ÎÁ³ˆ‚‚¸ €ÓÆ¸¡›¨Ÿ—kN…e´›wWG   6tRNS ş	zt7‹tiJ*Æ ]J#ÆÄ½©_?âÛªV*ìêàİÓ©‰LğëéâÖÈ¯ò¤›ç÷¢”Gí  &IDAThŞì”AkÚ`ÆÕ9{Øzèaze´°2Æn=yQèÉS ^T¢—v¤I!zJÖBFl/1;¬ {ˆ^Œ’îätQ‡
+b´V'Ú‰®b«^fÙ7XgwØ~Ÿà÷>Ïÿ}4ÿù§y¤[3<^]}¨Ÿ³ôzE¿úxM§ù›è«ú•§ë42©”ÀÓíz½P.”Ÿ?Õ–×–u4÷ÎÚÒÆf˜, À€¤1Œ‡¤@™L°‰D$§¼ùrC¿¬¹O–W.
+A±[èX˜,Š¨ˆ¢ 	×ø!$RÛ,HB‹”ó“quIs_èúu„$“Év6ŸÍÖŠEeÂÂAV@1+ÆA&átJô¸+?½—K3¬ll¶CFÇVƒçe¹ÚS»…l6+¦ã(É¸í•P¨˜¯‘E‰ä¾[÷xèùcÍ¢ÑÍË+£]‰#)¢Út'ã|>?‡ÓPÄ9½à1óuš*Æ1H{í52`Á^ô/ÛÉ
+åì™ê¬§(Õê¤Ÿ¿íDƒ M¤†SK¢â­f‰šHï%’-À-ÒkmiƒH0%‹ ªªªÒôûõl­&’Aš&ˆÎ°ÃhQ¤Ó7ìˆ‹ñ ØƒæexÆñ0Ëâå¼æÕ®¢vÇı~¾V+Æ+i’BåÛ°b0HQáQš½d+,
+c€="5RÀCÍ"xñˆØk¢Ç‡ÑàE$ÔqW••ñdRÃ!–%a”…©Â1,›®à¥Êèæf.VaÜ‡‡Ú\Óâ0kÏ>ÚHBÈp1´ÖVÆ&#+Š¢b0`Y¶’®TBŒ%åì4 ¸DQ¶UÂY¼UbGdRhNF<Òz(tK¿GÄR)™kY1¨H>EôzÕª"ƒlœŒSq†9ÁÚœ®¨	à-–½,ùæ\²!³{8€àP8\ñ'­>ç°$-s)‚ ‹ó‰Ry˜ˆê`ĞSˆŒ$“dÆ˜Î,ï¤ˆëãf¼Õ*]â&·s‚Ãôd~¶üëËº»U¸ÜÒXRàe,×Š ‰Èl:Ì„H†ˆa1†AÄëŠÎ¦M­ÕêòúİF£ÍÜòx|¾RËgvDÏfÖF–Û6×üòõ¯6›wûš†´\ï×Á˜"qADYœÖ-¡3v:RŠàyp»­V§Ô6†W×çgGG.»×aùâØÚöx<fóÉ»£ÙÀœlùj6».G¢X,Vî`µÚ.ËJ½^ƒ•ÀÄâ»•r9€.´cœ\ít$œï­ÍápxÕÜûF{}}~~ôÙëµ};®ÇÖ–y?úşz`:8İ>İŞÆñwZß(-¢(ÚÖÿ–ÑÒëW¯W@1¦LúŒ'$ƒxh‹VÛ'ız>çó%§SÛl4›şıãO§§ŸvıÚáù·³C·ÿã®?º»ãpy£¹oMóñÎÁñÁ©Çdòçlq´ˆ¢ ÿ;¦ÿÉiÕ„6†aŠnÔƒñ ˆˆÁƒâá;E!…L%x¤’T!µµP’ÑE…ÆU[ãæ!©…’ÍìĞN%m•şÛŠ=¸©]¡ê¶¦*U¦©¢Ìóşññğ>¿­Öb—LóÑ”ßÌHXºİ~SxÓnçRÖÂÃåtÿ,á’~ëÅr’‚­ğx¥Ò}ö²ZÌGG±Ø7RßworÒív})œ>u|¨T@ 1Wš'£{ÿÖ†zË^PVsj†×¼tºœó~˜½]«a¬jwÎÂââççºÄñ4ï$]íÌä§ì‰3SYz)P¹__æ_ÍÏ¿/N0±®3û‰R‰ È£Ğ\¡İnïø;*.ªê[.£DøõõÑ£VS“Rg-Ì>¸øu!ÃrŸÆ ÆEq=Ê‰ËÔ©|ŞŸmÀPy=2í˜v¼pLÇn_?q§ïÎÑşÇHnWCWU)µ¥wëÚ•ÂÚÂqş&îTÊ…·áå’ùÜZ\ôÃ©:_6[s™i/àu\×ÙŒÙœãfkÙ¼*óq˜¼c¥F%›E¼vsüÈş‰ÉªqŸ÷h¸_gºş•Ê~ıNİì¨,ŸcìĞœ]X°¬º},ÈÁğ6,ÓT³]IIaZcÜ‚¥S,¦ççèLWeŒĞ`ÒöÒÈŠÍzİ’a9İW¼~èÊÑ½‰‰@ 08ÌÀq-ş¬Ûíî\¡ì7I’äåÚíeT–iYæüDÎ¢UÍ¾[ªäqÆP²ÆxhšÆ8°~œ¤Hƒã1ïô:
+ $³fÇä2< ½}ïÏ»x4,]í§Ü#é¬Å?UºÍõ+ó¡ap¬æ¤mTÃ¬ç—¢æK
+P£nuÄîTË/iXÚ+¸Q:“ÊN~&J!(é‘YÔƒRäåq†
+:ySªÑ(!‘ûÎ\¹uòâÀãRâêéÉac}ªà»qmoïÚ¡
+k:ÑôíçBF±bGsÈ6ĞàR\2Ù¬=©Âœ#.†æ”„ÓºhO,¡¡E£ÀGy‡o½ A'ôL"IŸ#ÉSg_]:xøn"põŞ½a-„Äh¼¢l[³î—nÖõ¬éééÙÃwíZ½ãoz{ÊJH“oÉÈ¸ÅÁ67xT‡P²0Ô¨Ú…¢Nr2èôº®I"tN6hZÆ»‚Äé;=úzzl©¾’wK"Dl\g¯]?tğpàøñÑX‘$œÙg¢>ˆÒÆÏşî]³›€ …£şºá½ö¬ú£qìp
+
+ÈqÆ…ñŠÉ©&JPÆ5”ìGª¾ˆFˆ”»ÈxÓ(¡+°‚BA  PÔ½ëÓCÉˆğøÛ·ûÉd5ù¸tÿìÁkçö8uæÎø«a
+‚CÚèHÌ•+—{ìK@cö§>’í^Š:AâÀÁc›oçÙ´3t¿ÿªk˜RR§ª	‚1 Î‡œcB0¨qªUö€ÑqfM¥ìØ¶c¤M"‘óOçO&„ï?¨®–˜¦á8šèAcÔÄèÁ=z*c®¸;Ó)*h÷êædÚGZn®_í†Ón"ÎlFË`ºùÑ%>XLÌ¦˜ †DCFMTb4ñb½áõúòû¾ÿ÷(•ŠE²?Y(%ûÇL©á
+PßÖîå<‚¬mwÄr¹<ß°ÆHŒÁ¾Cã·tÊÑhË‘Ëş“Üæ?F]àô1Şá¬Ñmõ]}uõÑÕWn€‹ÚQèl_÷µî[gP&i$„\ÊVç† «Fã…¼ÀxœŒƒTÑt¦7^((˜G ’YŠ*Æ&ÔU™á`°½=õf‘Ü„êhsoïËˆŒĞpW—–PåX Ê'Tíj:zéöşn‰Û­dYÂfG»jİ¸ ô¸úèUØ8– êöñ([u€›´åRÑ:”ií ß­g]¯NŠ0,ñ‰LË™;&ü$V*™/•
+cÉÒ„Ú1{´ª¹ùÆ•8«ñiªvO7uÈZRúÀ¢ø˜ ı…´ŞÒRŞtúØbXËŸ<³	úf-W‡ã’Ñê³ÖØqw×#HB8m„·„EíCV€ í_3¢
+éÎA­0 k  —`/#zÓ_ÃTÇ¥ú3e0.eãÅd²ØŸ§©‘‘‘7›€zÏ;çÕŸÿˆPHšBi‚ I¥Í”§ıæéó§ËV->ÖÀÀóÑŞ%¿rƒ1ÙŠr6»P{ÁjEpŸ†ˆDp8 DÇb±¨FC¶Ù!3|ã5¨h•ÆC¡’’Ğ^q`ôg;:Lé1Œ£ŠÅü¸$ëõ©áé¹œ$tİ}=?Ö›ıTÂüıSñ6µÉ Åj,5dGu´âüõ+uäm:ëgÛsÛ·™ÈP·ÛÑ=ˆØpccw#‘H F¸5  l,•9’‰™-
+%y^,(®bòñ8évPqRx†Ä0ŒRØ,åCù8F3s0ªƒ®=½7Õ¹/Û¡®0¥³cùlµJeq9-§noĞVÜ»n±eéœµøüÌ“»Ñ(nÇÆÁÏ8Ğ= ‚ AŒ×t ¢±sv[yLD3	‚ö¶†$I*IúıL¼W\™m÷3ş8Û*ªÒ—²…ÂI‹áÄôìK‘ÏK:H÷ö÷ëâåÊÊzË©jõ¾š‰bMÓ¤³iòÓUv
+SWíÜ²Öê ÕÀBû~Şê¾;ÈÑöZ;ê6ÖZŒò? $¤áÙF6äXBöD2½¨‡”_H0DEF1qFWfa?HQm&,m¸l6SéKælškG3s„‚ MÏï=—÷Ô4¸œ.§J¥ª¯ßŞ r6•í(s6XÊöî]¹˜C(†jDİÀñ÷óK^ÖİR¦ÌĞ]óİFøÇÑã†EfPˆ‹D:–•iŒF	OBô€á6yóøÿL=‚ô§ÍfÌÔÙiP««Ûõ‡3™Y”¼­ı_~œ«¼é´l/sp•]w5TÖ,–šƒ®ı§n–·”¯]”Œ[½,w\§k4}Æß?>¦,‚È-$X¶@Ye¡*âŠéõ4K÷ŞØM#,«<è=ZŒº¨ÇiS;úÆEGVTamfC§ÁPyêÈá“»G†3K@Fšúİs§ÏĞR~ıEÓä‹ë/¶;Ë\M†Ê}ûœ»Ní8V^¾ö¿4œŠXéİCµC‰Xnfa~^™„CJo3ÚD¸¢ Á,'ğ4qv<ÎT³2-òÑ‹
+¬`Uóèh¤=àÑáŞ‹mu0Æâ”y_ç„¹ŞT}ôü•»wŸœyy{Şöu§[>µ´<œlr6¹\““®ªúSGÖ`Poß¹iãÁó—.ëŒÃ‰ˆˆH!DH|ğÁ—ív¬ëlÚ+ºíÆv=vuíü9¯?“m½wã¦uçîúLÖ”iYü©º‹KCr"Â]JìwÄ"‚	ñúJÖ¾ú¥ÉÓç÷äÉó{ºtsËáZT^­{ğÆÖ-=æ}V¿7Qop‡ŸPp<
+ãêƒı!š†TŸa‘˜œMlÎ}}áDµ$Ša‰"m’”1–%å¡¡Ïú]ëWùHÖ,LUIy[¯ßnöW~@°NU¸¬nUİ²Êíu†u=CËÖÌšòOvhi:{¬­óÄºa‚È•öÆ´ò÷‘äEòRˆKá`«è‰²èoN&¢J¸lY‰ÄĞÁdÇĞpÀq 6#Åi\”<èÏ*ŒfÓ…Â·tÑĞË_¾¼ÿùş³¶ÿÂ5Pu~Y]İÖÊŞÔ–í[¶n{¸mûâIÿnö·¢»âb´½]É&šûE\‰æF3hi¥ô´ÑÂC‰öŠf‚†Î€Ğ¨%H"R‘Èš `tm¤6P@f!‰Ñ>ŠçIÏ†U«6¸|¤-ó›j”uXiÇqĞ’»á¨ªªºwåüšÊªò|åÖmõsfMÿo€_²¼ÁÁÕQïÍ¡ğò
+/!JJÏè´µrL‘EÃEË,f¦¨ä\“9l½d!"E$AQ†h†M³,Çú(°<FCÏ±é8'Ğ`´<òıû¥{O56Vİ¬ß»·wÍŞ+õõó'şÿ‡aò¢'Ï›š®5Õ&¼È»6oÚ´ºbG_09jãŒQ.:&Rí¹¢dZ&¦Œ2J"¥1”H9mIÂhŠƒ&øR¡ÄÇy¡³LEj1€Ûí9Ø_ÊÆ¼Á^C ¦g` ~mıÚÆ©ç!Mıw-yòøõî¦£'¢Şd_[í¹#íËƒËo ye"†§r:ÍÉ4˜˜’èêR¢Í[(è”“1‚ŒEó<t@sX<­3 Xˆ5oZ-hœêd0ªah×åsgvtUt´\]Í›' ¥ğX
+»×8cŞ5*²_?Ù¶:Öª¬ÜWÛìCÅÆòÍ<™É02£1"®Ûj‡tˆ|:m¢(à¤ó&&$q Å„¦ÛºÎd³8g²@†€†ôprœãóyGÇ\ŸŞ:Òİ½ïÌ™Úã§³ªçi;™Ìv­Í6V¹½äªú·­ó#‚»»;6ï®8²3¸âchD&…ãOÊzÑ`òÓa8†ã3å´j:¢E59cI[ÆÆ,åó¥B¡¤–Jñ¸Š> Ÿ6Š¶Mº(°Ş=×9Øùb°éğÆo¥Ãd¥õúì1;÷MÈîßX7lÛ} sß®ìò+P¤St'©Tã¡2v;k—³a&©B €Ii†…xsŠˆ:„$ ¨ù|º-™WK¦cæ!M“´ÛÖ†İ}Ûıéã×;_ÜÙM®UÕšxMãúoz4sÂX]ÖÕ«‡xÇİ>ÜtôìÑÚ~<¼rSç¦Õ!Ù*w…C†'Sd$PMd¸§Z"îŠrSšÇĞø´Qéˆ3Õo$Ÿ¯A"IÚŒÙÅ÷Äk|
+Ëà—Ÿşz{çë§ß¿ï\s7
+j¾Ğ—"[m¾øjòXmÈíoÆ?jA`°sá¯@›Ô¾>ÜNÃ1_t á‰ÑíÆä	€Id.j£Ëç«ëÙà¦ĞÁ\XÄåâ{{k¶ü!Ìú~]Ãpw¸ˆ;q'qA×éºél]í´ÕÑv’›¨³±2;Øpª1m±•Îïu!æ7á°
+6Œ`óc‚ ‘Ã™‰G|ş€sÜ~É—ïÉó=ïû>yŞP0-Qô	‡$‚Ÿ‘æÀÇ/íöŸï´Ã6ºxÀ¼8„tö< ‚“‡¾O¶èş)×Ñ‹®ÙsR{æ¾píï:†x.Ÿ=¹h¦³·7Şö?îD:»½RwFBönvf8!
+Ú‚œ…0 å`¯ƒä!¡Cæ|Ñ¨/p“&ËšÂÙ%ñb£øçÏMŒípÀM·Ğ¬ Ë)·2ìò1øRgäº«V=?ßÕµzÛú£ÎˆçöfÏxR}Àâ%…Hgf‰·c/îƒÙÛíD2˜°8$G	´%H˜gHœq\”¡+V/âË¾ÜÕ;Ğşó£ªİ[k³~ö²2*³Èö0’›ûfòÄ!Ò¶#¯?ş´áõÂÅ³@µ©7î‘_=y£/ß‡@…pÀ¹LĞäK$iÖRN÷s1:#	æƒ­“K5‘œg (ÆZbª–bƒgß­øók@«¬]š;ı³pMsd*{{Ï¬o§Œ4?úğşé«ùw/ºÌ›ÕÕÛWíE2ÙËğ?²jÜ–ş$KzqX^ø€Ö*+-8€Aâ<N²!ú'^WÃ(
+!JÙ)…MSq|]\l[¥ÊÚÃİ€¿UÈfeçsaqY½6~ĞşÈ³gÏïn=¹àÚşÙ\›Šñî5Â‰˜È+Pëe†‡y
+F$©à>œ-³Zú
+ÂÁO`˜vsJÙ2Egg°tŒ F>Õ0ÊMñú•¢¥?:x(ËM'Ói4ÁÂâê7=ñÓw"ç¦4›ÜæÏùÅ»æÍŞy×U-&¤Í›—8kñ|S„¹ş¬O¹ ¯§³<k*,Ã²ªRV©‡¶ÏÀ¤$ñ¸DbËišEÍ® RÔ–˜¯Şl–›M£&.yÖ)›í`ÀïÕºE†Í„(ŞF”î¹±C­Rz.¬8~Íåº¸Ä"Dw NLIQ"­(dŠ ÒYğ¯èŒÊè*-_ë×…dMœÁMæf2Ô5S5#B‘›TZ±ßVÃ0¤co´R±ln[€¦›I£ç´,vÛÛyñ#†Z<›:nÚş“çö&Â¤·cÍ<…”ñ:³´µ™3á<©Q¢nš¦2*eÜ¢l4d·`¦¤Ù—Ï¤ƒzÙª‹e¥Îøxİîï5£Xmû,Q¢¢*nw ˜?
+´åe·Ï¨Îxû­3wéô¨ÿ,z&­Û·ğ˜‘½Qa‰—¬5)•BÑÍb‰eKÅ0 Fg4•Ù©›÷è leÄ®)Úr{zfPWëJ]ÓÒôH²ÿ*aT‹ívÕ0ø&IÓ@ñIÚ¢[„½ ±ëåÛ«ù•WÆkÔş}]]ÅfNòÆ„i4¬ŠıƒÅ°¦ª!t)¥c¥[%¥Ì¨¥[Ë“îtÉ±cøÕ[7—nA)½¤+ í”Fg¶Èh·?\›ú*6]¡ıt hŞœ™Î
+Şæ¶•İ]W¼XâÊ˜¡Pım×êB›†¢pÕ—v‚+:ÇdƒDoÒ«Í Ñ®åÚ„mÑŒ­ø ±° ÆÿÿŸöA5‚6(3/*¨©yÑÈZ|DÁ'Á‡)	
+â:|ğ{jÍ=|ç»ß¹çÜt÷ìÙxx÷£{×Fâ¥üÑìµ«—î–)†ÙJ/•Ë1‰
+ùªÖjÕj¥êi®ÔÆ²ìã„¯"ŞÄ¸*l«¤Ç!ş2õàã»wo_¾]ChèÒu–Ÿ¿Â,’™ÜàşÛß¼ys=$§ºAèèARæáá§Û®eÓHå†?Ü1”€ùÜì¾š‹ÌF¢Kpš_å4İæ‘"S2Çù§IT&6t.V‰	‡û*ûàåÛ·>&E^§Y–¶Ãí3fuZ¼Áä©ó«ñÑÕ§6=¹òæññÒ²™­ïê–eK&IïÜ’2y†ÊÁÓhšæ„V¯V9"êMãÒN(~Ís›…®X“$™‚@^Wåx6Æ„\NQÍ÷w†¾=vàÅ•õ@„®"ò¥ĞEt3ŸJR©Á}ûÏî:{wıíÍzk˜;˜L•AT|ÄœÈgG÷î½ ¤Ó1k¬ì{®M»>È‡ók>Ç5XÖİ&Æ´ #ÅÔNwÂ†!ŠÃóüÖÈ£—'Wsè:mÕ¡‘şÚpÍ7JÙ\fß©ƒÉÁ˜b’g,·4®«f)¸õz=p*õôå¡/l)UPì<ËÖ5 HÛk8U´tGÃE6UUMpÊ’”ÎM˜~
+4ysğê³áF}"¨º¥3ÀÈ×°òñTêÊé‹C#û×å7oºÒÑÊ¹fÌ½±m
+ŒÜÀ²ŠÅ×î½•ÛFa™­:>^ö›.kóïû~³¸´m“ÀÃMœÀ*!¦.êH“² .A`$o„ŠcÙ–%.ŒöGÚ¿­Õiä¯$åäñã¹-ûâ†a¬]×İòqhõ‘xN’0BÈaih|Ç¶–ÏAXzI©?¯zMù•r"ƒ/A]¤‘ãsš¦aDt‚XŞĞäT*+@Î‡Ïoal¨Í½ÑyÚ¿7€.£TP)K±x‰1y½ï™ÕÂ±¬Šå+ŠFt],»2™e"Lm"¬Šßh›xµJàCÚbš~…ó=Ù d",SIg†Òc£v¿–v‹}Ñyİ“,!ˆh%9!SÙÒ	8ÏvQ-$¿ÄÉdÊ±
+h\b·^÷‡:zz²òÇÇÁ <·n°†je",Œmºì…ZB"@—ÎêF6aML^Ô6§½•`Š¢Èp@…³c¼°Æ-+ZxÖ¢Õét‚“´Å³Ã¶oûÙ]ókÂ†±ªæuÚ<–×l:®ë²¢Ó¨qµ\®¤}ÂòJ)Ëawu„Z#L@Q€Éçù]ñu÷§-™TôÓ—Às1ÖÀ¡ÿ¶‹ÅïúÊYsºaÍk€ĞmÚq\§Ùlz^ÓA`ó!IÆ
+ÆªÀÏ^L<n!ü‘°`
+È˜'XÜÍÙ“²Å¨:bdƒ¡ä lN·?d }Nd^çü^6<ëMKPdœ£Ò<ÍÇ˜ã<×AMÇA]°ÄÔXÀ»&ĞEÉ	l@¡d-ëı¤ÿ™ÙÃÓŒ©2¤Àë$xıºoòr0sV{Û¼şh/t
+"”5u‚< gbLümu½JI"ºh‰¬­wOºÜÒù¦d±×¡ £ÅyS¿şÔ…û{ët=pÀİÎ®H¤íºíz<*G„giºh³tg‹—n:Ûº{tñ}_˜îõ†C?GGˆ‹F;Ãİ¡ßF„Gc ~‹¯Á%é>qÖ,„EqNè}84 Šÿ«h‡Ô!—¥YÁvø¡)2¡Bı}„-hÎhêœİ	#İí¡3"}vĞ]0¡Õ™¡3ô‡ç@¹ü?Äg‘ªlëy Ro    IEND®B`‚
+--UMTAXL0K02
+Content-Location: images/firefoxos.png
+Content-Type: image/png
+
+‰PNG
+
+   IHDR   –   R   ¦İr  ıPLTE   ÷8ñz.ñx.ò0ô3ñv.ö•5í['õ4õ“5ö™6ó‚1ğo,ô‡2ò}/ò{/ôŠ2â3ë]ó„1ğu,ëZèNğr-ïl+ğr+åAïj*í_'å<ä6ïp!ôŒ.îe(ö—5îiéVîmèJçFä;­c7ó„+îb(ífìaéSô‡3á.ó‚2ìw.ò€/ìaéRø¡9İFÚ>ô0ğu"çCïg)ñx%îh"ÃäOô‡,ídö“1íp'êU"øš:ïl$ëWÙ74ñ}'çFÉ2ß@ğu(Î+
+áIÊ-íg.÷”=ñ0ø7É$)  .ñ{,÷œ7÷š8ÿëÇá)ÿıø÷š7÷8çSä0ß  åY ßA¼#	ô‰1ö˜7áFP$ÉBÕ0
+÷7/ïo+4
+ïp0×Fÿğßú¤:ßQÛ`!€ òƒ0ôŒ1ïl)í]'í^%éY$ßBåTÁ+³
+÷ŞÛñoû±1ìZ#ïu)Ö8÷œ6ïn&)ÖAÔ>ö˜7*ñn+ÚKş÷óTÿ÷ë÷É¼÷Å¨ú›8îj%ö4ğ‚.È.M#ø8,  ø 9ß<ğn)T("ù¡:ñ‚-¾)^2,ğq*ì4½C#¼/ğs+ó†/ñx*¬ÁêW!ïk(êV"÷8ò‚/ÿııø3)  ù :İwA00èbMçW=ìg:Nÿÿÿ÷˜6ÿşüË1ó‚*×`"Ã3¯	÷5  ÿüúûÕÅğƒ_ë‘q1şüûZ.(ü®AÂ)ü½@â{-ísPœ=,Öv`û»B’ŠŠú{gÿÔÆÿÿÿ§ìY%ÿÿÿ÷›7÷7Ô;Ä.¼*êQÏ7çJò€)² 
+ñz+í]&ó‡07
+üİ·×WA§	 ÷_&åg%ø¡-çy+©½íªœî ‹äzl^CA³d%8/¶˜   ßtRNS şşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşş	şşşşşşşşşşşşşışşşşş!şşşşşşışşşN8+şşûÇ–fVşşıé¤WşşıäÄ³‘;şşşò±…işşşıûÛĞÃ¤uufN:şşüèâÉÈ·™–„ƒlZ,# şşşşğíèçåİİ¿­  ‰‚kO5şıöõôíæÙÒÏº²§|tTJIB3şşşıëÒÊÂÁ½²¬u^WşşğìáÓ¾”‘şşø÷âÊ¾°—}ºÂq  œIDAThŞí˜TSgÇyI™d	`ÈĞ ‚ Á€˜AdkAdˆ‚{T­{V­mİu×İ:ªµµ{ï½G#¢µ®îÓû=RD =ÛsøƒÈ!'ùñ¿÷}ãb}ôÑGÿ&A{ç¿Q4-5û1f¯T*bˆYÃ.­<„9H)^¼hQnq
+vŸĞ¤î·ğÁó·
+ıİ‡m«(Nİ¸15wOBNÇáp
+ö,*¾/¦M[÷Öª;vŒQ©*[o770«|ty«Ö/~h:ÖëŒø|eDuõÅ‹G×DÕäã|*•mâdë82‰İ[*Õ+!¯½íôù7¦ˆğBZ@>›ŠãdÜÊ§ÓI"E"†\'«s;Û›…Ì\¾ÜNh®¶º™E$€L’é8€j C*Ê%:³ÛÉ…ÁXï2qùrJr8¡‘9ÀÍêfµ
+Yl6‹—ÈAè8
+†H$*82»›uÅÂ^I,øÓå7™’‘WuDxxx´Ù
+4°X,2‹i„¸d2GÀ ¨zò²LÅzÍêå7m.ùÑÑH¼fAİÜ¬ur:™J§(t`åã#S^r™ ¼Üa=ÌÃ7oºÒ\A+9"<_Î0G#êêp:™Nç1}8`„†×ûøØİÜVôl`Áû·îáJÓCZù"*cVõEˆ,"<¹®ÎÊ£ƒ%‘CXI||¡PHâúìŞŞ<ˆõ ï÷ìîîa#EGË©TùÅšÑÍZáÑb&Çcº+8ÈÊ`0è©B!ó1X½AK¾ ;§Ÿ¼\MR6UTSZÈ« 8$dz¬˜”P°R
+•RÌò©b•A‰¬ä‘ó{j©3×èéI<XlzÉeĞ"âZ‡!ŠÀŠéé¡—r£R¥âRÑâ¯7r¤%=ÕC?fî\:>™ÙèÙH2]½ZÈ«`‘C+f *Xµ”1 	 .d%ê™¼ÆXäP=44tØ›…Oİ­Úš¯l9Ä1=AËUë£RyáT…ÒˆS©8ËbP†EZŒù=Ò_Á'À‹•˜Xi»KYò°œZH+¨o£J©0¨â0.	ÇqI TzK#¥°SŠ×h°`üñ,R}ı‰1X‡•»;W¥(õTÜ¨ "-²^	q!+†XøÖ„Ì'ÓY¡túös#:®2X¹úJ€ÚŠËGa‘MJ@/BaÁ“¹ë‚‡²Èd;>.hLÖgÜİ]µ* ,,Œ“Œbh±ø‚BgZø8ìßç9?2›…´x¼ãÛşX«i—»;íª
+¬aFóá¸Ãfá®°¢âìğ:ĞŸÄfqÁZ°=##kÃd-W“F†)
+=ĞËë"¤B",Ğì’WÊônÜRÆ…âlx¡Ãêy<ÏskŸhë´mË­ËÉ^
+…¢"¬˜F(¢b$Wˆ¬PÖä{ö}ñº×w=Z¸¤«ZÏ°¨ğQdÈËëÄ\,£×9ZM­ÂË‹Ë5±	+1¢9Òk¤‘ÊÇùŸÎ,
+îTjU5œÅkk/ÑÕ´pT×±5[}‡ŒĞLÉhÓ_šWÍºÈŒl°bÓµJ¤å˜p<10Fo
+çüCÖ…G8´JöwQk#êäE¯_¹qÜš`ìÉ)kÛ^Ôl”Ñ5á1z½^ÇbÑµ‡7OâÇh´³ÂgİØ~sÂ¦E¹¹ëW!­Û³?íê:ŒŠq…²NaˆO®=Û¶ëgÎNº¸B«ÕòYÈß"@%DUÑ~ıúÀ)­dö¬3Ö£´ïÆºH…Å"&â"[,è‰‚¸ÊÚVáUêêuóµFU;¬FVıØ‰ å;döº·
+¼9Æé%JüVíåÙ3Ït}ÿAk$¼,â}w–µ[¼fšª÷m5ZˆgƒìÕbÓ/Ñ7 À×wèi˜fÉâ4³“Ê›Óª-™Y5ë2‡N4w½É@l$6·¿GšU€¥Z,8à¢VZÈ
+¬|‡:.Rqö@¦^-Ü\bdËêÆşsŒèz²I`qv®ÛO™µ	›fJD/a9²VC‡8ìü3®Ö~Q:¨ªÔé+6Çµ«"ÚA-c¿
+Ì	I‹0lM"t<ì¾#[²‚°V£F]Ú~`„³=nö­™c]l1'Àzù|›†^É'	²%Æ¨]ãô6¹{%<¶+ëÁŠGgöór„Ğl5„°ºt©ÿñ¢¬	~ƒ6ÓÅÅÅ–ÖÁ;´ÒÓ7Ü\Ğ1ŠeÑkµ[¦²:ÚDlêLğBV-…¬FUÿaÃü¶e¦ßUÀósÆ«ÃŠË(GõÛ÷ç‘#[?»Çøƒ€´ô‡:¹QB…*òòl)!Òj±òó<xxÎê‰¿“™•••ùğÄÕ¥U¶* ª´ÃÎ]Û„ê÷àõë×½[]=ç3ÄÍZ$­^«ÜØÉ‘1Şv‘é ikÕßaåêïO³U6[úîBàä1Œûö÷ôEX.ŒcêZ¼¦‰Dxá¸^Ãå.Æœ£A]V
+…7Ô×÷N	«a„hÑl.m±íwö8,ı=|ÁƒV7»]%qÔ1Î˜|òÂÅ\®iİƒàyèšPÜ)ı›¹4ª¥„Î¬œ?…ßOx	ÍìjµZExMß*e  Œb,Ü
+¯Ü{/ssZ ÜÇWWÊİYµÓêl}¯¨œáC"s¼ÚG‚rY÷—úf-£´ÂÅ]˜²ÎuX!-€ğ¢¹ú9´\;«uVš}ûÊs¥ü½œ~¼ò}µÆWŞ ¦^Ÿ,—‹ú×£»‚PÈ…•[–„uÅëNXÇÕØßpfEóx®µÖÎks®[Wœ<½`áâÜV«ÙúXå²luxy[íö§¤âQ‰‘èf%4†ÁT 8ÙµíjHİeåêŞª„mµl[nÄZñîœëP´f %ÁÆÇsdàå††.PÂH¹T*eH\Ğ
+KNîâĞ*¸ˆ°j)!¸øv„ÕÖŠæNq÷/ùkÍwêìx3øSZø÷¥e/Ë–ÉÌÈ†T„šT$UÈp·INNŞ„u‘ÉwY¡ˆhşƒ‡ÓlcÇô7c]\İ=™”-7j!­V<²ô·ìIÙj;(”=^âc~ÿ%ıØ@xÉ!.ÜA+9!ùt7fæ„Âa!Ñxb1‰Îl6¦x2Ñô•V·jNÇîâ½	K}‘3‰£·×©óòò8²/—éê¼QtH+ÒÛ¦ÀµYPŒu´yw²rh¹¸x¼Íf«7üµ0	àãdSQüI£K¾ÀÚğÈ••K_˜4IÇÑå}5'é0'[¢¯³:ªÙ ²+aZ`µ§{ó‹É­­@
+€z0”“2ÄT¸‚•çê«ó:˜7½÷Zeåc/LÒÉ¦ÎizÍØeÏìVŞv‰D¢"´b
+6usŠ–öªG‹UKŸCOÑ(<ºè±`vÆ¿q£qWÇÇ°÷^©¬ü%{ç0gNía&í:˜ÅÇKÔH¼À*6vUÁúîÎôÏåø;¬­Vj.4¤ìáá2s·³Åğ‘›+™}8O—=©£«3«u`'“ @+a*h©/—wâóp²ÊÙg—öÀsYú8õ‚Jşö¢Zÿâ¯-{|üø+Ô©ÕuDZ’„Ø$¤•ğò»Ğm±]4[ifÖn8ÁTµv‚Ÿl9“¡€xAƒÎxt|Í^W¿²,O"1¨“€XIlìÛéşÙì.ëLiU&6"óL˜¡cú”îÎºWœ…#˜0}Ú•ñ%QI±Sxà¤ÉÔ©{6¤Çıãé]ÖäóH0-sò™Õ»rrrvÁùô<8İ›GÎ=ûrs0cü‡?GE=VURÒ*MYö¯ 		Ñtó™şğ—¥ˆÌfŒÿõgĞŠ-‰ajÒë)qéåØ}"w…áçÛG~ûå1è¬¯Ÿzº°°ğiğ‚:~¦ÁM»?l´«£~z{}ê’Í)P<ıü¯Zë¾{)Üt§ò!VáA´7Ä¥g`÷…Ms^óã’6ÛSÊÇæ^~­»h64¥op>ìÛ9eÖû<¹3½l3æœò)õ~kÅí»öÑ³X'\˜Ò¿ï] ª¦²Î³(â]¬w¨¦4•ß«ó4X/óä'Sš6`ÿ16—]»Ö´û¯q!#cíóX}ôÑÇÿ¿ /W8g†+“{    IEND®B`‚
+--UMTAXL0K02
+Content-Location: .git/description
+Content-Type: text/plain
+
+Unnamed repository; edit this file 'description' to name the repository.
+
+--UMTAXL0K02
+Content-Location: .git/COMMIT_EDITMSG
+Content-Type: text/plain
+
+upload manifest.webapp
+
+--UMTAXL0K02
+Content-Location: .git/index
+Content-Type: text/plain
+
+DIRC      V'>ü‚ÒV'>ü‚Ò  r#=  ¤  è  è  4¢61wõ×	øŠ­øl›ÑÔñ× 	README.md V'<.7D*8V'<.7D*8  r#>  ¤  è  è  û’{[¸Ş† ØòË›‹_â. 
+event.html        V'<.7D*8V'<.7D*8  r#?  ¤  è  è  iI¢Ò_ñÔËF}«MãáWñQÍ{ event.js  V'<.7D*8V'<.7D*8  ”w  ¤  è  è  ùfmØÁó¤ï(!Ï¸Aõ” images/crocodile.png      V'<.7D*8V'<.7D*8  ”x  ¤  è  è  Éß@R…§¤zDoÓ•d¨1aÙJ² images/firefoxos.png      V'<.7D*8V'<.7D*8  ”y  ¤  è  è  !ªÚì©f¡ŞºÁJœ…º›ñAy»¸¯E images/tortoise.png       V'<.7D*8V'<.7D*8  r#@  ¤  è  è  ô9’YüVùx4Â¶}ú÷ÿÜZ 
+index.html        V'<.738V'<.738  ”{  ¤  è  è   B$dx¨døÙ=LĞàĞ­-	È% jscolor/arrow.gif V'<.738V'<.738  ”|  ¤  è  è   SéÇ¬Q{î@·Šê¯¨	ciú jscolor/cross.gif V'<.738V'<.738  ”}  ¤  è  è   ºË†dw¦&à™z¿BeÅ« jscolor/demo.html V'<.738V'<.738  ”~  ¤  è  è  
+|=”Hlí¯qĞı¯,ï­Eı‡‹ jscolor/hs.png    V'<.738V'<.738  ”  ¤  è  è  1^ø¼ìÄÏƒ^îªCï,x" jscolor/hv.png    V'<.738V'<.738  ”€  ¤  è  è  p õR˜¸ú
+å/Ó±$Ÿ£%¯ jscolor/jscolor.js        V'<.738V'<.738  r#A  ¤  è  è  äG¥c›}€Q®O| T?0ûÁR³i main.js   V'@sD%‡V'@sD%‡  r#C  ¤  è  è  3™f Ãu®tïÒiÎäƒ…³&<<# manifest.webapp   V'<.738V'<.738  r#B  ¤  è  è  ÖYñ›½–ó€E®`œEGş¡O»øu 	style.css ğ^É6=ÆÒ’Ì~2ËgÍÿ­­í
+--UMTAXL0K02
+Content-Location: .git/config
+Content-Type: text/plain
+
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	fetch = +refs/heads/*:refs/remotes/origin/*
+	url = https://github.com/ShakoHo/web-storage-demo
+[branch "gh-pages"]
+	remote = origin
+	merge = refs/heads/gh-pages
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+
+--UMTAXL0K02
+Content-Location: .git/HEAD
+Content-Type: text/plain
+
+ref: refs/heads/gh-pages
+
+--UMTAXL0K02
+Content-Location: .git/packed-refs
+Content-Type: text/plain
+
+# pack-refs with: peeled 
+e2374ecbf5cdc4128aad6b7048df8ea909f07dd1 refs/remotes/origin/gh-pages
+ba142747a0119c316bd5cd96c78015496c76247f refs/remotes/origin/master
+
+--UMTAXL0K02
+Content-Location: .git/refs/heads/master
+Content-Type: text/plain
+
+ba142747a0119c316bd5cd96c78015496c76247f
+
+--UMTAXL0K02
+Content-Location: .git/refs/heads/gh-pages
+Content-Type: text/plain
+
+f4c01e6b80d4c4081b8f7ec222cbc42e29736f27
+
+--UMTAXL0K02
+Content-Location: .git/refs/remotes/origin/gh-pages
+Content-Type: text/plain
+
+f4c01e6b80d4c4081b8f7ec222cbc42e29736f27
+
+--UMTAXL0K02
+Content-Location: .git/refs/remotes/origin/HEAD
+Content-Type: text/plain
+
+ref: refs/remotes/origin/gh-pages
+
+--UMTAXL0K02
+Content-Location: .git/objects/59/f19bbd9603f38045ae609c4547fea14fbbf875
+Content-Type: text/plain
+
+x…UQkÛ0Şkò+ÆX[âÔI“nõ İË`ÛcÙÖ*KÆ’›¤¥ÿ}w’b;NJ1ät÷İé»ïÎ©Ô),ãøöÃõüäŠ7L‚á¶­áêz:½‚—é$Õ»Èˆg¡ŠRİd¼‰Ğômú:–¶’³Tg{ò«XS•@Ü‘5×ÊR8O`×æ-9«„Ü'`˜2‘áÈ]Vñw_ë¢au¹w%”‹ÊmÃ+ç[ÏrİT3)F‹¹w™H¡xTrQ”“Ï×ãÜŸ×\Á¬ ~h•qexöyv¦¤_l¯[Le`ì^rã+ÃËSê”m‹F·*‹6Zê&1>˜¯ËÇŸ\Ñ²2ajÉ€hËÓGa=¥“Ş\éç±Í±Ş»ä’#€{€"&EØpeyƒeDíä€z;vş×+ò=^£Rw€9ISãÍûã>ËÈNIMT´K	Ë+Óc¸Ò„*Q¶çíæ[TFÍä0¶"³ewD.êoÃ×ØKí´5M‘^,×ñ,ü.1®fYæÄ½tÊšÔÚ+4ò×pÉ¬xâèä…ŸÀºŞÑRdJ¼ı°¶L<Á=Ğûe:	…ÜøBhTœ3Òç%¡¸197ƒrXŠ™[KåHccBÁV×¨£ÕAö–ïld”5ÍG-¶a†â‚@Ï°à¢LÉ2½ÅÆ[F|ÑÏ]t6áİã<–ïzÜ¼ë±z×ƒ(ïêp„Ó½Ñ’¥œf —š!#ÄÍD µFa ¸»™7´Q„ª[;ƒÕpÉ7–ºPßŠ4zu‡™ÎlìüÜPŞ:,…ÎC×$<‚í6‡ïñO7’3Ü3©¶%fíD¬µş‹‹ o\&Öj”Ãê°?s­q;P²#8L%ª‚Ìı ”w€YøañBô0ò{Å3Áàb<‹—„çv_7!]“n7N^éƒr&ş–FˆâI{nŠ¼–W‹7ûaXÎ=odCX¯ÅĞQè¯Ò
+‡ƒ£¢¼i(ŸƒÀ,wÈo«h”)4ÈßœP°Æ#0d`Ü9ü„u¡S@Rpİ|{æë¡œX8
+--UMTAXL0K02
+Content-Location: .git/objects/92/1b72080da475efa53f87c5a030b476c2ea52a1
+Content-Type: text/plain
+
+x+)JMU066d040031QrutñuÕËMaXdfÈXşõ:+ç.¦µ?rf_¼òñ:TQjYj^‰^FInÃïIÕÑ;˜ïq´-¸ñ‰ùôl¾îøGz(ª²Š<]Šÿxå´[íjßÇÃÅ?²­61 …ÌÜÄôÔb†uÑqJ[D;ößi.—«š|zÔÌ¼”Ô
+ˆU–“"ÿ„ı”®09´­¶÷×÷ÿwø¢D!Æd'ççä1üúâÀÏqÓÿÒíS&OVNşî¸zö.¨9¹‰™yz@·¸/M]Û¸Î¿F!ÄŞà÷Á Í™Lp%y™i©Å%zå©I‰b'~zïnéÙ¹¢Úsß‹ 8şëeP¥Å%•9©zÉÅÅ‘gïÆü¹Áu]ÂW÷ıwÿ( „b‹í
+--UMTAXL0K02
+Content-Location: .git/objects/35/06761e60474e812bd9617e8c51f3c1de316edb
+Content-Type: text/plain
+
+xm1Â0„ó+nT°ˆ8]7¡‘ĞÚgLûJ-øëMÔ©ø–ãq|wW®°Zof#U‰ólË†’š:»É	‘Áén0„èÃ3\Ë#. à|K8Q…ü›‚ìxH±g‹md|©¸G„´ÇÈöî–°TÖ8N÷Í¿„Ë¼õ~p[)kz’álÚñKS¦lI}Rä²æ«“¡[†Î¨ê·AÅÿ“­Â:5q©xÜ¹Ué
+--UMTAXL0K02
+Content-Location: .git/objects/39/9259fc56f91b7834c2b67d8dfaf7ffdc0e5a15
+Content-Type: text/plain
+
+xUÁnÜ6í5şŠ±.{°W²k´HIEºµ=	`i%$ÆG%©]/C?¢_Ø/é’Ök»¬‹ÈÑÌğÍ›áS¡¨€ïÏ.~ü.=şõíêöã»+h]§ò£t|¤-Š*?~Ò€²Æ¢Ë¢ÁÕË×Ñá§Ö¹~‰r“E¿/ß¿Y®¨ë…“…ÂJÒ5Ç­¯2¬<-[CfçRhÁ¦h#qÛ“qQ[Y¹6«p#K\†Ç°œt
+óXÀ##„7ïÖ€÷¢ë¦Éø9¸şJê;hÖÙÂ#¾L’š±Ù¸!jŠ^Ú¸¤.)­ı¹T»ìmúäFh{²"]¡¶X]^œ}ıE:‡æëûbĞn8ù4-À ÊÖíÚÑ-ÀízÌïO¹˜ ¼oôà¨FKÌÎ35ÇËå'Yƒr°¾‚Ÿ>)¸!¶4²w`M™EIâ[öƒmåfª¤¤
+C%v£g}7ºÄ_8qšŒÁœãO¨+Y^.½!MÆ®ûeAÕ.Ø*¹R	k³hkDß£™áµç};²ÏÁçskúü¶•vîğ²B+8âuGÚ:#Â`}ã¨×"¤bbbê·=Ş^Ädš±‚d‹ÅtZå.Vğ¤ûi"òÖLMKƒª`Kæ„…Z(DÖë«×1¬Z"‹Pœ®ŸCƒ®x\Æ‚¢†,6…)š§6€,PÑ*C=T´ÕĞ¡ØŸñkpfÇ\‘•º	¡‰GÈï|y½/õŸ¿ş†°•JA-9¿k…ó&ÃwŒxÌùTƒ<Ov¬N}¿v_?Ó8„3Êá#g-…¡,Egî)ÅßÂØÏJN˜Æ_å?
+%ô]”OœBğ\?¸@ešôsKk2İ~ y&æ5ŠÌ	Ód²¨h<<!ÁôfÍešïüèU©ù¨y¼ÆPÕCØ5°2\_Ÿñ3ÔéÁú1ß¹=¿pé@xşI-*,]8z
+’á?½J©w’ôŒdáE¼(À^§`Ù°´hd1÷>V¹÷i2fy`íYŞQT|ª%¿ñ¯Ä*A…¢Ü¿l/JÀ§'òÕÀf/$Qv<¶{ÃîÛNÿË`øn“Z²Ó=Ù¸×Íi×£ı9ş§ŒMyJC¬xRaÈ“¯æí‹ğ…r$í;í‡ƒ¿”%şz„šÓšˆ,µÓb´Ê®û?ë÷MÙ7$Möê{(õ_l¸!Éô~¦çşú‰+´ÿÉÿ:Œš
+--UMTAXL0K02
+Content-Location: .git/objects/1c/5e01f8bcecc4cf835e8eeeaa43ef2c06789022
+Content-Type: text/plain
+
+x%V8ÓßŸKÈ5LD,"erMÌµæÒ0¹E,Í-?L¬|*”ı¤T„É\ÊŒuQ*b¹Í]‰ÒÄ\fc³í¿_=ç9ç<Ï{Îs÷ı¼ŸÏûtd4zß1sSP†»+\FRUÉ89:xöÁ‘¬ir&_@ ÉM'[ÏËãK…KwçÊ¤Ë!æ§j&ùu¡|ĞÖê%ÚµoãáÁ€€£ø„ÖŸ’µéÙ¢ÕÂ›R‚áœÉ6{ù2Û×—ª¶ZP*%€©³¯Ò†ó“l>û¥·bñ+ŞNkà³sqÃœÆŞì©nÙƒ=Síœ¯Û1Sµ\`©}²¿’±…íûÚZl˜|å&eO®–XĞÍêrx®‹éQ£‚{ßèn§§oã?·É¦–:=u4Y1R?i³HQ‘Hå!¡j¿¤“sŠŞßÈeíIO–èşùìŸ¢ïPŒ é¤ÍäjŞ½Çå†Dp4¹´!KŠñÂÙ?8´ >;©(”×É‘£|Hé,ùWêµ?/1+Y\B½Çíï°>f”Rká¡*ÃK½¿KŞ‰m.W?%f«ÈK…ÌÑÔü*&’Å;Œ.í³*˜ñø&uÒïccá˜ÓşxEßÆíDJr—
+
+|q@ ÿM À&B3§š4šÍ÷ç¬MõŸ*ò—Ï\Ó_­ïÛ­Lè±ˆ‹I‘…í
+ı5¶‡V^²œ»”	>føÕ#4r±ŞŞÇãc$ğ;ù*yh,§	ií‘ìßi×ÂË&úS±šZYc&Ì8`cû¹ÿ“RH¶‰o.–tó2Ih*»ƒ˜áVëªé.Ò A(<$ZêòÌEşà)@C«Gµè‡¼{*UÕÄ[sÿ‹å¼W–'L}ºíñgQµš~fg·M»‚HÅ+>n‰Ôüğ\e_Ûòî¿øÌ}bo ¸zº“t!E†;oK	à`¼dıÌ9ê‘´ãÎ:áEÆ}ö¤¤±: 5x¿X½ÁÕSÒ>ü:â9öÙCS2µïP6^í»ŞY¬~Ñ‹2në°;ø¼aë¥ v~ÕzÏ—PëúÙİ§¨şÑ˜
+yvü	ùŠ)y¹Œl)k‘rÙˆÜG3H—£y\Â#¼Ï$Å#ã"ã÷}Ï“„¹k/‹İMÙ¶-’· Ú³ÏÂß—–ßªæ‰‰cÚùÏ6a=m~NÈÂ¶>ß°Ü^ÅX¸ÕV°zĞÍµ
+¨{û%Î0‚"¨}‰´=‰4†‡Ñ"ãØYâ‚œ~f’WÆSŠ‡Ş9
+c¹ó z°‹7´Ù¨Í»!—"Î$å;ºğ¾ƒÔ_àŒÉç×¡^„nüSÜ]`tyn½²?}Ú©H–=é'y¿Õ 4R¯´ôİ£7v½^ˆâ‘IPc×ÙùƒÀÖõ3Ë¶> fóUë\ÚÙü:>h"W‡H6( ~š_’w¬/«%HÅ»±¦`6{õÆiÔ6õl©>^àû8{Ó›Z¼ëxq5ŞÛ}HÚ|¸&ÿ‡
+Óõ¨Æh_—ngi2—Sqø=Ô°¨fTcgÎ&Ze& /ñ×ÀåÙ-ëm¢ïa
+“wüTò2)°H‡*Åu
+âÆâS§5[7ñ˜ı¼ªÌ®;*ş@5ãxcyD;Ÿy–"ôWò-Bi¿óOïèš5D*@™tkÕñº‹æ©ˆ–zÿ#¾ô´+l¤oë-†²[#)IF>×T$šŒıÉõÅet§ 7¿Lh-j0á'ÚŒ*·õóÛº‡rçuÿ0¯9„k7B]õB®+·R®7+6VÍÔÛG?ü°-ñØ >C—r¢kËD?nâO©_Ô!¿F½=¡X¦SW¼-CÉ^ÔA¨'T·é£¡QGS‡´ZU×‘yàºöBÑIJ$ŒÛuĞªIe–ş+\ƒˆ#'¢§©ÈÉxtT”~ab±„ºıßƒ•€Ã“­_³Äø*[8Ô5Fæ2¼Íò~Ş#~xà›ÃÛÄëU¹Pœ”Ì]Gy›&¿‡?ÙııébtD%¬¦Õ•$üãº%ZÁÏi?‹uèÔÕåĞCáK[zöÏ»Ü!™:¡kÛ4È9ëCw_ö à6~ˆº_!ÊG7¸TlZ´²WÆ2™Æœš,M?õ°\‰ƒ‹”œinë®¦ô”ê¸ºzş¦—h"æ|¶*IÿÕ4ç«—v$…xás	Û?8Ÿœ?:ò4ä®3µt[âàæ˜HáÒ…²ĞÇâê6‚p›ß¦TtúN_Á©iBdöœ]»BÄZe-w!â·€?eKœJ;6ÈÉáZiıhgß?­i<A¬#^ÑíÓ='×è0ü*êX¬Fv$¿'¯ü×F¹ÃëÇÒ+5¬¡[]\¢—Ò²®–¥ŞœÌ=£Ë«RÕÏD_í9éâÏd-Ü¶T%5µû*D—é«˜èYúª8Â)^µêó`C~8Ë’ñà¢­À¹‘Jÿ4m¶šÃè*º[6q¸¹&¢40|¾âÚuâÂÁºÍJâÜÙ(ï„XÜ06]:²¢Tjñü$ÍrÁJğr5YAŸ~‹Ÿ<EşÔÔ¸*çÏîÙó§!4?±Æ•-_îQ'µ¥Îs­Îm<YPîpº]dNÈÛP· ±vŠ­P3Â\6Ÿq­L	MÖÍR«)!aØ«*z	¹bsL8£ÔoÒ«Ññh'Œ?X‚è
+ÃŠPì¨ê˜w<ğx+eš&¹D_u_Aÿ¯‹òùœ7a˜İ31Ÿ úÇ1«í¥ßÛö6+P¶H‰7_ı:E‹·3Ø[G3è¿.»odÎM¹ä×üáHãßE‘•É™ï1”iAôL®•K\•¤z7ñ5Gøvô\)¬%ÿ›¤ù—U’Ó:ÈA»¤~%§ÙñØZi³Yà2€_õ^¦N±
+VFg¾OÔ3nÂa’ùLHòêç†¬,P’õŸ¶¸]âvƒ«ğüÏ”ª¾tæ Ş¨·;CÆÁíYrĞIíòD$B:zÇm‘®%îŞæ‡p¹‘Ä»+VĞm£–h¶±ıîÂ‹²q—ÍÃr:Û%ÜÕâL‚+j+RjÚ5'&ìÙÁàiˆkŸX/Ş’«}d(q2½¯w ‰ş .µ22öª¡F¦ä]½z ı£QâØÌyø®M”b™)E
+çÎCTÚ0è	]:³MÎ¤ÃsÆìr7LØø`BÂ­™KßÙëšÎŞm}SD&™x ˜Ğ™O¢[‚•ÛÂbƒŞxócT°˜îtëÇ%¹ÙÏ¦«œœÿ\ê«4Æè`7¾%td\ƒbğšA#šŠ¹ù’W¤[rèÈBQ|ÅXÃ{ I¥"è@uU¨ŸM<Ï¨xn­ã û¹h¬
+CC`çÒ Ã)çNÄmAc‚.@Ñµ«LJ/«wFT»â†¬b;7ö5¥âÄê"»`ìñÄN¥YáÔòè³°İ§}äIFi¹
+Ç€îÖ¦…8üŸÂá‰zŠpsQÕÆ£?.à¸aèœÊÙ×V§iU¶e›	Éeë§/Útï‚Û.ê$´¡`ˆ2`k®‡ÙùËõ:v?öu¡}%ï—Ï}y%ÇQ#:p¯(;—|«” @"l%UUùx„×SQÎZÆ~Ñÿú÷hN‹¸¿,3—Ôwssr~³ 2»k!§Ğ½z7©õÛÊ6:ı‡‘”_]È¿âJ
+ÃY?m9òÀÈ àöwòDÎO]>ÌŠ™|…AN']êíÎ_ÿ?´‹¿)
+--UMTAXL0K02
+Content-Location: .git/objects/f5/52980db8fa0ae52fd3b1241e17819fa32506af
+Content-Type: text/plain
+
+xí]í{ÛÆ‘¿¯ô_;m	J$øâ—¤NTŸíÄµîâÚå¤ÉÉJ„H$$À %Åñÿ~¿yÙÅI9½~;÷©#íÎÌÎÎÌÎÎÎÎÂãE:öF_|>xğı££;Ş‘÷s>IiÖõş+Ü„g“,^ŞsjñŞÄ“_¢0öŸ›(Ëã4ñ†Áƒ`È-‹x%yäıõoßyßFyeŞ_£$ÊÂ…÷f=F¯÷­@t½yQ¬÷ûWWWÁ,Yi6ëOÒÕÍ"º,úFæÅrÁdÃu1Çèà'ñ^O7aöKj	¤ò{0ù•A'YÑÔ_ôzÃ‡Ü¼^Mµyx¿7xĞ|¡ü&¿xø£ÌèÄƒIºDwÿÎ;ËˆÃ;ñ> ¥53ï±×nw½~ß[¤“° ¤— Ñ¤H³Ï_Dá&ò¢åª¸ñŠÔÃ<ÒiT ·s§5“éóE˜çD.$'Ü–„ËH`âdˆ"[G<"ÑXbÌ‰G¨s‡ŞWq²ZãÜ‚àŞ_î´VY´HC†q¬¡ŸxÎ"¯ìB‹“¼v¹N&4+¿ƒ)·ZF,átúÍ&J
+ÿ
+#§W]¯MäÁµˆ“¸è|y§õ±+ôâb›X|ép€bG¡VŸ¨´>âÿxÉnC;,’?‹Š¯YUµÙ€â]ÃT¥´HÑ¢Ï‰‘4·LPáîÉÉe¸€\ŸØ&RªÒo›ÉdQ±Î’’xœYaÙ¶%F¬CP?±æÌ³èòKè¬EÔ3M'ë%t`Úß,"ú1vó.œı†ä·	¿ÍB½L3Ÿâ“Á—^üU,¢dVÌñóñÉP…Eçñ‚&3ºmûÒ#Õ|ü„ñsö"ŸÎAM¼?ıÉëû?ıö¾ßQ¾~Îıó'Ÿ]G'èÇAå…pøN‚ECø'^]Y¡÷ö´%Åˆøtœ?EŠŸÓÅºˆ|Ë­Õ`sÿdÑjN"¿şÓûşÅñúX˜+9ˆ,Z¦p—1ÄÌKã)¡®#øp·^,„í¸ÌÂ)°Ò§¶£ EzVdXüj–¢VKØ­iÑ‚j¶*ø‘É\|ém4ûæzå·IÜïóß>6+…ˆ0äq»ƒ®#ÿıûç?}¼8zÿşcç	|@;íŞÒ Ù_İŞˆê’…DË—‘]&‡üF^“lZü%DWmx®~9ãNÅNVYºÎ‡¢²<¿a,©U@QØVZğªê“Q½PGéùm½ßö=ÂÅÚv§£Ârñ°ULæ~tšlÂE<}:€T'®®ÕræU5Z+›m^xÌ¦j]Ü:ÁmE›™xqé{âåìmôÏ5¶*$¦lt]öó0}•«QVÜø—‰•š¦-à”¶êÜf‹wÚâH|«ñÜ~1ìzÃÁĞ»è¢5_hë#§q’¥¼3ø!š
+h˜eé“øÀ·{‰´0‰oÁ¼¹4ÀYe2aæ­v_0‹S$a&VJáÜ \ÀDh#Æ4Eèvò»É‘½:$…§’¢Jy˜šÈX$¼:€ƒ †MĞï›)†`7ÂşeƒÔİÂÁ2¾¦Â™šuq³Šâp‡wrrâµsö?mÚò¶·g7§S_©<,+3E¸F‹®m’¢ËJ‘‘!¸hèoã¼ HRåÕĞã—@†¶cÖG/¢Y©EˆSã*ıvš´KBBÁŠ«…q›X·LßJ[d§§HÆJJ¢T—v›h®	Æo¿|÷ê[ÏÅg¶¢M@Ñ·éÌ%D¤¿ÅJ £iœc»Ò¬&‘¦±^¦øTÜİ^®Rı»4âq¥¸5f´8·B&K›d¸(¢,AP»‰7¨ÅÿÏ»RŠÓCD*ó–ˆúÍCÄÏp—.)áÃšv½IÉıØÅ®şg6<ALNhAs¸p}2èz7ˆŒğ;YÌ0H//ó¨xf¥ÉLSİ®½cl3æ[œ\¯Õº©´¿KWÜüÑ»š#
+ QhÙb)e‚ w. ~4"˜¢÷o˜v‡wºQàgÚæ£|·‚S~øa:"P¯ıìõ×?¶Us×^) ğJËÛM¥YY£uŸ_cşàFD)Å³ø×¨AŒ-RAı=sÈT}Å³yQ¡÷6Z¼J¡âİj¹ÆÜIô’K|éaË'S¡@WÎ„Ä¡Ô¯şÉŒûƒø¨d½GY)HDûUBC˜–YÆY8áM”í!(ı=nr¥`?x×=îcLŒ¢+àïãèª&Ñ!P§¥s^a—ıñ5dÓüŒ.èºk¤æP ¥ &1ÎÑº‚q:½áªÒ”väıö[é¤Zû`L&80œì"ÑİE`S†Ù«(Æ3mùA;w±Ú¶ëfZKÎš@ÖËÈÚ.1Øö@:kVP_c;Ì N°òB»…”ÀÖ¸©\™Ÿ`“Ew$CoYt
+İı†àqÉ¦äqèn5‰WµÖ8cU·î ÷ÍHêóLç–=îšÓ£ÀAÕu¸ë,&ˆİò,Š¼·/ßÿóè^Ìã6?Ç™îÌ&¹Uòf1’Oµ=Ã¶93Á õÃ(7nDÍpØ—8awUá¬œOj-zæêÿäûçO{ÿö~½8ôş,?½‹£ÿ¸Óyâûïû8İûtzÆ©şˆšÎâŸĞõ„:´Õÿ¬ããĞßyÒ—§:w>v=ÁéktÉIˆ€\Q,Ï^ n]?Ú†SÉ,Ï?gód#œåùŸq8ØÆt„µ<‚aˆƒ ÃŠ:Fb›İ/§pxæ@ÉY¡Êúg‰fQ¾^PB@TFÁ‰;wÚşi¾d!T8F0UZN¥Û²oZ"¥löÓi÷ûtºer§F‹å·Ÿã\U¤¼·ıÄrÀà5V¨|f©%¤
+Ñm©Èd…\%q‚¨Œ–5QWÏ8•i$Z”;$)Ğ ¬^NõT“Tl¤"Bµë»¢gN&J®	9¢ğÌÀ4ˆ¿M¯lÔH9‡|µW­¯epÁ³]R»G3X…aãÄÎ³m5PÌÊßL·®@Iœ}g'ÃrÌŒºdáƒŒY”™üÄèÏ| Yˆ0ÊÁŒ<‡‡8AÿíXÙÁ‹ÙW…áFR¬n‚RğiÇaUˆˆBg°µ,xrŒ×$tT¤Pädá(Šı·QØˆ“ _qÒ÷]ä†ùÜßw8/Y? ­mŒaoë‡ìÕJBÆt‡,Çl÷ÛÇbF^[3/-Å†d-”±E¨òN#½©=ÊñDÙl™¶¿jÿÌ–•ÌCTâ, ’! Œëâed~·aöÿÈMfSÑ„´»®h‚º(È9¥¸G²ûŒœG²ãªaÜïÀ.ÚA€½1aµo$}ÍP?È3˜M›ÿô>8îw¡cnC•jy>©Ò•1ûÎ˜ÄC?(EÇ!qQï ü€î»³Ê‡I?0– Äß¥©!®á«#s5ÀæUKÑÊPdº=ØêË‰÷ÊyóT%Óİ§`JíwÎåÀëT¹¸2É–z´5lö™dİ99!©ma~l]´ïÀ&Ê P·wˆÜh€ä¼Ûïßi!„ı.§ûÇè:\®Ñcnâ¸ñF®™±Ó8›¡$¿—7§tÅ©‡¼á`h¹pÒ;E˜!i¡YrlË6BÖä/]îq
+W.g.)Ù$÷³HÊ¯£ü	¦#ÎôçuN+ÁB‡ÒÂpt›»NbäÖ—^’|lQ‘4'×ÓEnş2¾ö„Ù«+à3/¿YÓ…Å™„+º}²ƒ­)¹3ÁÖo!rÜà>İÉçH†S¦ŒYêç!¹X‹Êıæì,#¾’ÉÌÓH›™çná¡¯æQ†¼\
+'r¹@–Ğ›¬3JPÉÌ~šœ.—Ñ4Æ…ûóy˜@Ñ9ÈÓd"m\5ÃÉ/?Á­şZ€\0?É+{¸î7.º•ÌsJÓùÙÿ½_§½4AÚĞôp0èájœl6&ºohÆğ
+Î2N^	÷£`õÎ †ì2¼&Gû@âä¬™ŠeTd¸M¥‰“ïS!F*†ßn¼N.‘«¯Øeˆ‘°ò êñÄš´¿BÖC´_}Ã¤‚¼ß¼—ßŸU@‹3¶;NT*8Uu >£l ş[àí7O ªÎ–aV8TìzÀ)e0›O—¢2½2£Â>¸	ÊGÂì¦JùÙì$rÀ{#Ñîêº
+õ|‘æáxA“5—¨b{2uGï¢kŞ!ù—ò-2Œqcmù•0Dõñ^àÚc›¹¡^Kêîü£¯©IH=?;«®;e ÍÄMˆ=Ô|Æİ5¢/¡—ëF9›‡¨ïğ~±{y8E‰¨™î­qPÑ¢Ôà½üÏi2(‘<à" ¨Ù\„®è”oQåØF.8ëw6›Ép¾¢Ë?‚ÃO6
+Ã9ÈØÏŞù¯2À×¥4´AÆ¹ôâ:5B5‰9…Hà,]z•Bám†2¹ù}”ïî M;jA·ÚÎe ºu¬0_v©RŸ=,$ªGRrÛ˜”£lBÍÑnq7µQ5Åù‘ïØ á]jSŠÀy¾BŸ·Jló"•¯ã%fƒã´€¯D	„°ë»Ş„õÖÊ±ã^â6§ù Ü¢mµNğaíÇ^x«SñÌä¤G?bƒøE+ {¹öc°^ô@´ÆDu›à4º‘÷ş¸€U‚rb }/ 4¿ÈÏÇÇ+ú»Óqøß¢¨K%c´Ì÷**¾×Ø'§'V¤ÏsV/¶âÕyxA÷öô¿`(°·8^M¤]VHí8FüU(õ6Dê˜	»á…÷oÃÿ¥ı‡ÿø ^ôG?á°(øÜÕS*Ø¼‘~Ûî@ÙñsÊşİÌ†Æ¢é”“)ÊÔdÔ1{™™«"æÆÄ¦0W
+¨y±ÌÕ:˜¹²¤é0ê;\~(2`–‚(ü1Šáß¦Y¨Å_±R¡²™Ò½9^(^®Ò¬0n»ÁÁİu£Lc>l^ÑµE5.Nî>0pwNvuƒJNSÚ/³t©åNîÿÒõ¸Èò{ŠŞ­WEQ‰ÄüK@Ñæ,K×‰Ô«À¤+@ğug„T‡Óµ½Ÿ¢‘Ë!Š·‡â„ËlwqÆ½{K´¥\ñ/<sª'Q9E¶öX[Å‘1Ç	UÊé¶%]Jw»ÂÔÌô¿Aô¡ò/~äŞ^ğŸ w6ïRâŒ¹×˜KÃ]¿şo_ÖŠ£Ûª<Ÿ»‘ƒÙ5{¹g¹.3Zd>7xrWù.WÍfU’çväù˜‹]Ù´j¹´@²ÀŒT­ZĞœ»E¡s³‹Òş¬}ÌhĞeHV?¸[øö„dĞ„\½›	¹m;Å½$M¢{²òö"¨5²âZÄ£ŒH¨ı	â ï£Â‘q‚EúÆ;6]Ÿ£Îé:]ƒÏGn×èBp¾òÁCì‡íÏ^¼xÑÆîĞşA±d’vÈìMˆú/HlGh™E¼w„Z¨½Sò‹[P9[¸T\ó¥¥BMÇtQ[’w½
+¼Ô†) ¤k	 MQ»…T§hâ°„9Æ˜›1JÊ¼
+‘ÔÆ¹ÛH"°€é¸ßÕ8ñ•8äãAq¥S^!Hqk3Á3‡àĞ%ˆÜ%¸©¤üF3ÁïwDÇFÒœÅ€$÷·}æ³Ì‘Od1!*¢Û@¤RÈ¨#X,=™w$Ê ag.ôğâ$WèM4ßÀ–´G'@°Y6ï$ˆwªº`
+˜Œõ]x•2ã`şvUÄKÙ³ªxå7h•”¹š™UPgPg.ê¸‚J	¨}£Kõ‘w•,¦ıhP´—Õ$¬.á±—‰¾fı¬¯™ôúYCcR†´ZÄ(êe…lÍ„û- &‹IÒ`f!ÑX`ÆWlï'$‡sX™µ[6ßÇ5Išñ÷­7!äo2ôví[‡2'ˆf
+Ç$¯<2áp2Aæ…ë }zSM#ÔÛõÂÜËSTnğ.–£T–2dÈ†¢º–’¨DˆŒBÒ˜fI[şêÃdÎ/#ãTí×­¼—°"l›:Q¥ál‡:Fè°=·[µ®C¸váÎ#T¿™Ek¦Ewè°…"ïÿ~äK‰È‹‹÷?º?wtĞ‹×Ö\ï.áè•„ÍØU°lb\è%ß(>¢0
+zÔÃv‘Ù>±¥ ½ÇzOº6Á}Æ)>1%{):êt‡ Õ÷FšCd#è¨{kĞ ,9áO`çHó¸ÿûæA“ZøƒÎ1OËşzhR
+8¬â
+CñFU¼&É4L—'o.6¥_Ü‰»c˜hÔµ<µEê®‘Ä9‰3
+}èğÈÿà¢ÓA´ªÇN(¹¼šÔPì ‰á¿N«x$¶¾YhämxçĞRgON$Tì†gÈº³Nw,FÅÑ½…B”d÷­:­Ü×óö´Äxa‘/Ç•	W¦œs`Æ—5·5ìúy‡.oiˆIïûãŞ¬Ó_RtÁûûYo,ÃcÖËğ³phiSDóèÉà1"Âeƒ C@&’‘µÂ0SãFG†Àwj¦”c"$´Jvc#ËEŠÇsóRT—è‰ÿ8Çó^Œ	{>~(ûEHG?„¤$El©KûÑ¥ôh^2V&%›øH2Uœ‚`ÃWÑnºIwÉn	Ü°ìKº›jß¨ì[¢/qñî»}Àtû”}­Ú÷°ìÃh†&©¸¦j‚[2î¨âÇ+X›]–¼dRfœedK)ËúóÊcF·éNìôºî9êê§öõ’R§×ÏX®5~œ¤•c—a_é£“×ä)=¦M¢úĞ¸åT_tÈËK¿=7m	òÙ-AåÔmˆòˆ¾ºåøòë6ãò¶ãô¶ã‹ä–œòl(½$¥Šäİ6,]ÊÑË
+ÿİËÓ³@Ôkï÷$]ú‘­Ñ^áÉl7ft5qò€ÏÛGn&JA½¤U0cD¼êÑ±W¸2^šŠ˜ó
+ )ÁãöêZK@¨Ë4)ˆ+Àµ‡M ‹8‰ìÕg[şåÃn]2à?Qw€—¼¢0¦x&‰ÚíãçüYŞˆ£ìWôZÄ<Y¹[F|Õ<"­–}C¢¿ñÀˆD÷÷"î`•{«è·cÈ"9€x¶q¿>0âN¼½R…ğ.Xw>÷bPÌÄ–&0b¼UÊq;‹×`!€€ĞV)!M–ôjh[Rpeö|ºsÕ—€kèÚQVr…n¸) ª …cÜq<[¬³)<h@ãçÜšy?‹t“çS!Í<rE!ıxFù/İ/L¥!éAÙÔ7ïÊ[
+ÊÊ¨ RÙED­ÇÈ±m²X,ÑÖv_ÀÕL&kN	DGßaO=Û&ÔĞéwt}ºX¼¥:¼¤*{ y^X«÷1`ğ‰qáÕ_‘®'s|d"+Út/c’ºp„‡Ü/(lğ@ôUê·wçVVìlù}Ø‰Ê¾Õ–g|?à¾•^Î‹(§øŞCıĞãy)ü`qŠòcÊ”EºY²Ö6ÙˆcüU}“5Tú]}u5ã¸`¦—ÛáŒ‹Âh@Î¨EÓ·”ø,Á=º‹¿GU?c¼·Fa¸L%
+êk¹®¡j+bÚ§É4Kã©÷Õmx­‹kòP[füÙúg{#Q//æ ×=Ö}¬+Ì¯ —é«í%ï¶6¬yŠêeı‘Iéòa/m¬Y>Ru/ºmMaáx\ë}´ÎÂ¯î-¬µ©é¢
+OôâÜdY#-pÂù„¾ o¡¬W,^óé1ëé×v)›ŸV*G$’M*OUÜ¨)qŸ’a]=_!uÉn»‡‚
+9JõhÂÍk Ç9PN–“ÃtÉñJ6–©"å¹)³»”ÙUÛ~k½s`ªj;\¸”F_à¬íÒ¨à2ÈÊ_ı…Ÿøñ¸­V[=ÀN`<õPã 8‡ û™¿í…>İ	ma4û İ¨?š}—÷OÄu«Émİ½šd3»Ù¿²šÜñv®&cOe*ÏZ]ÅÄÀ–İ$ÿÏLŒ9ü³;ãíLŒŒŸö®¤¢_(Ã1EM‚«j¹1LÙØù4¸¢'ã€%¾èôìÇ³'!†ƒ'ÃK6>êTÆ‡Ï¥òGjcägzBÍ“-LõÛ>rª€MP6A—DT¼:oèç:Öïº<†UĞ©®õÄ»ÙÑû«©Id×+ò’:EŞú+”d æÀJé&Ç•ŠÁø4S±…ËƒÙÂ˜ê€¶üÔÆèØåÛa"`üªò5J4'== *uåQ¢X…6àQ.Æu5*·Ñ¬¦šsDB³«qfhŠoÛ¤)®pİV”ÃÎNE•Å±¡óáÇÃ× B+ùW·0mŒhÀT æğ¯ª,A™oc—QlMX}£#§M*~m˜UÑ?€k:æïøl-v‡[k¼*t¦Ò¨öë ãB÷X¶üÕ ygXj:&*£O‰ìàæ• â²Iİ+BEıî4JÌš*aŒ j3 @Í²KË|Nİ²•=×¸AÈ"mmT¯~@QÉ1Æ‡áRªLq¸6˜û3€TäWÜL}]8Ğ×…û	ëb«Á5¬•F}i€š±ùOŸÁ< >fÄW.gôúªrºöÕŞåâ¬9RÔ®uèl¡Î°Ö0w¬ªò3g+JfšY–ëk•rrFìÍ~Ğìõbzú9ÈìÀÄñJ7,I!b¸7¡×÷¼1¿Ì µiÎò”!yV$Ïx/75ôWÄô²€ÍƒÂG¥}X2qá÷ßçÇú• Æ”ıöõº0€ïP3·Ã_ytãt—Â1ª)^H½ÿWš©FëöÍzÙNQ
+Òvâ†«›ÂÃìøø$æ"Õl\°(ÍÏXvºŠrÔ}¦^B5ïŸ4c“ov™’§=U©¹6ÂÃ™smüğ {k"im·=ü¢©§¿İ©j]&²j˜h®c]Î«-pJ¾c¦íáˆ³0É{øìm|i|r)ÂOñÌ†²m|'YNr—]	ş‰«®	Ñ]tc’ÎÉŒØ%g—O»|Í¢É<9Ü²ÏÔ\+—
+®öÍ>­;0}$O¢FÊízéª@t°À?Ôó!&B‡	XÇé’îNÚs|p3™áåóê‚!‘é¨An¶ ué8ÃvEø½u¶ğÛ÷ìg/q€á¿ßãĞ"˜A±)­DP%¥·Ñ
+_ ³¨íá…3~1ğK-áOùS¼ ß92KÕ‘)ís6>ÆÆú±ß«Lx‹Ì'ú¦<ˆİxˆF­„¿ ŠgA¼Áğ3¤z‘©ü~&å¢„eÂ+ñyrÁ“ó*µÉñC×Èî¥yÇÍqõ0›ê†çœvÏ‰©Öè(ÕÛDŞ“à~Êõ†ñZ”Ìè-?ÅŞËO}Ÿ8˜%­²J×z`$²yô&ÚğUî2âƒ-ïÛ–İó6hHŠƒ|)·•ú¸¦œvÉ¼ßG–˜º`jµøé÷ÚM¾crÉ‚˜BÚ8û
+ó5æDz¼=Ç—„3óËÅ.¦6r=û2zwèÔ•éÜÁEÕb¨û¨i
+¬BS½!•‚U¢A1¿KcØ¿Œ¢È’<dj&6,‰™¡t‘`(Ö•>¨\”4|Ë½'E;;!«ò_î¤$ÆŒ¡öÌ®êğ#
+–nI_(<HzèÆJ”«º×Äü‰Êõ»aUÅ5Lè²›*`d¼ÏRx¬ FBE¦¾È*‡*2í/Cüb>eáVPí İñ7|z›Æfôñm	­¿6‡¢6FÆ‡™…(‹*4Gş°÷K¢#Ô·uÛìÖ@‡·ííHä"xày{±T$ÅUûô]ÚóR8#‡òKİhÙ×j­¬$QÇKC Êº+ÀT`Uš–êÔÖViÕ”VWéoT_5ŸàÃ.j^İ Ã©²"ˆaw°‚j­bªq£4¨âJ @¥‚ê®dPi„ ê+‚ [£È]Í'˜ÔBõiÃ¾_š|ÑQ¬oMèÈsâMh7©­Ao*ä®u¹ª1OÎ1/ŒsÑd¾Ò9Ü×9*;w›(I¨q/áØ¢i/Q¢Ñ	™ö>'Á¡hé¥!›Ê>aöØÏïÜuìvòû·Š voè=¸à8FçÜÃ;Â~·-AJÍmo)¡öØH¡1@ÕoÓåyµÅD¸Ş$Ğ.ŒQÖñoñÌQÆî%0ßê«x»Å¾ÄyùjCdÀænÙIôÓ&"NÈ~ÀÁ«qõ=½]İÅ½¸5S5â8è¾áB™ÙBœÚk{çƒ¼æJ )ˆ!à€özg¢¹UZ8$¨.ŒGqK¼½‹‰i˜{ïë#ÿQwø„í£Ş4BğB0wæò<å9m’Ÿ6¤ÜÅ¸qÈW¥‘2Ÿ¤4rÿ>áWŠål¾Ê†õİBÂûèP0cnƒwŞ
+ËZ°u[_+2K˜o>R$;!áè™ÙB¶PÙƒ˜/ã:p÷ú¥#ù¬ÕûoF4Ñ­SŸ8Ê¡ÑŒ%òa‹”Ğ,¥Ds#:0ªV d¶3.IÑF=ÄÒ§P2å|6%$íù&§Oÿ‘åot¶-{šAÕÏZßíşòZĞ”c+ÇÁúİP6nÕä	ëØZS`¸â/jÃ*«´9¥"h—
+DI°Ñ±›FÏğ«¯LDV4}3@Z‡e+TÚFe›Œìû|ÎÀ‰Eü:äc&eŠô+øWU¸‚Ñ-sS³ÚµûˆË-?ƒ‡_2HEÈîqhjæ®Õ«±h­„£z/#Ôø&‹èw>8f€*HwÓı²ì2u$ÿ«mº_„°#B†Ö’¸6Œ¦yAv®¡ ¥¶—+«d–òïE‰º«ÿ´UK¶xÚ^n÷…	Yg;wK®tKÖ.ÇĞì/ÑÍz‘;ü‰(!Ê?ó;UÇ6äá\¶èôi·‡¸“Á¿EİÂ¿…†oôTjI%‘òÏO Î`%¸KN”à¶¨Ü&üËMò•hö0pr´\IH>®¼Òß:3¯)SÆ0H0%ÃßÏ]Ä+ÑÌS¿’¡Ylt7E,&emôçşs3¾I]W¶CoìÀ¶‹A¼ØIO“69™d^F\©Vo1gÌıÎC"NøŸ…£öÑ™­D
+--UMTAXL0K02
+Content-Location: .git/objects/e2/374ecbf5cdc4128aad6b7048df8ea909f07dd1
+Content-Type: text/plain
+
+x¥ÁNÄ0C9÷+q„…$M›V â¼1™n£MšÒ¦+ñ÷¤¾€›ılY2¥}†ºkïò*Ã ZêlÏ®C;6ƒ‘Ğ:YSÏš¶Õ‚«ÌÔÖ¸’+­{ªu;pCÜ·ä:¥{ˆÖX7şõUmœ•¶µ6$Æ*QDäˆ[ƒcM¦—Æq]á§´Â×´úÎ>„Şè0Œ7Ïñ —ˆ><SŠïP›Æ¶Îöğ¨´RU¡åX–LTgY/Ë¬ò½Ë–áAÃ¸¦!…ˆûö²`¦é¤«ê“‚Ÿ¯äIŠ¾	°Ä'øÙ—'¸¤Ä@ÂkÉq¾n0–G™}öi¾ÿéN|»
+--UMTAXL0K02
+Content-Location: .git/objects/16/c860f94bbb848cb9a87b49bee8525e0fd77610
+Content-Type: text/plain
+
+x­T=oÛ0íì_Ap®¬8@Öc–vN\¤[p"Ï~<u‚ü÷’”*ipÑ…‹ ñîŞ½»÷ÈN»¾|;|zß1Æ/¢r–?ìïøç|fÁ`>xDá‚œÎ$F”§9÷;Éè‘I4nJÒ0Z1¼x !×++ñ÷~ £§0]}ÁH.ĞÔÎcH5™Ó†Ái@ö°‚) )8Ñ"mÛ+Æn/œi{SZCÓİ÷mŸÊxBû(#%t£b4®]@C0éÿ½ä$d¥r OcÈL—ÀEI¼˜+°uc]KÀ´¥¥Z8K (wJ=„À˜Iğ€ Eúò‰ebÖüJÎÿi^ù†²Ä‹ØÌc”’dÿo¯‘Ğüúñ¸ÁŠH¤l‹§³úº²$á›èÄ+R®^–¬ y¶YFX%İˆº±Uû†µÀ{6§CüHUÊQ@ÌVšØV´ÍÏ§Ú˜ëJë<×ÖE%#T]£§æ!Y³*f+Rí5¾Íé¹ÉåZJ<Ã¨éeº	c1iyUzœV{ñÃı×œĞFºjlK°5Jì½íËcºûØıo!¹5
+--UMTAXL0K02
+Content-Location: .git/objects/13/4b9bde7abf5419e2921fc5a0f6677564d62830
+Content-Type: text/plain
+
+x¥9Â0 ©óŠı ‘½ñ)!J~°vÖÄRL1¼ŸğÊ™b4q)%7@…›V™ÁFbí¤C¥£ND«½’Ã“4&ŒÊtOªüh`$³É%‹Î"‘!¨d™’$“ÃÀQ¸ŞmZ*œ¦š_pÍóü‚]üÁHŸ<–Ÿ8Üå¹KÙƒTÒZïQ	Ø
+'D·Úu´ñ‰îT™Ãír<_/}¿áÊMI
+--UMTAXL0K02
+Content-Location: .git/objects/58/b27b745aba52b4648d9ea9f7167a2469055db0
+Content-Type: text/plain
+
+x•ÎA
+Â0@Q×9Eö‚LÆI“€ˆW™LFZlLiSOo¯àöÃƒ/­Ö©[táÔWUqPÊ2HJ \!•K¢«<âRB³ğªïn3æì!£„â$IšbFï£óÊ0p$Àï}l«İF~5{ÛÆö¨í;Í3_¤Õ»uD&
+öÀõëú1û27.¶ò{zêÖ/Í¼,æº2En
+--UMTAXL0K02
+Content-Location: .git/objects/c2/db60c6b1d1466ee0ad159a196b197c300b3cb0
+Content-Type: text/plain
+
+x•M
+Ã »öîÁ(¥WùÔ'	QC¡§o®ĞÕƒ^¬¥,+éo}øÄèOÉ+ëìµ‘¤¦‘AcVŞOY³F;¶Î…–Ú»²Œ&uA^	R (
+É
+FgŸëÎ™Ş•?¹¾Jı.ëJC¬åÉ¥1ÖHåœæw1
+Á.zëøCag[+%^h[2>|¨5ö)›F^
+--UMTAXL0K02
+Content-Location: .git/objects/60/aa5749a318a04ba33e1ae2b8fa756c328df014
+Content-Type: text/plain
+
+x+)JMU066d040031QrutñuÕËMaXdfÈXşõ:+ç.¦µ?rf_¼òñ:TQjYj^‰^FInÃïIÕÑ;˜ïq´-¸ñ‰ùôl¾îøGz(ª²Š<]Šÿxå´[íjßÇÃÅ?²­61 …ÌÜÄôÔb†uÑqJ[D;ößi.—«š|zÔÌ¼”Ô
+ˆU–“"ÿ„ı”®09´­¶÷×÷ÿwø¢D!Æd'ççä1üúâÀÏqÓÿÒíS&OVNşî¸zö.¨9¹‰™yz@·¸/M]Û¸Î¿F!ÄŞà÷Á Í™Lp%y™i©Å%zå©I‰ï¯Nä,‹Ú¹pšÏwÃü'‡Y J‹K*sRõ’‹‹"?ÎŞ;ùsƒëº„9®îÿúïşQ
+ LçŠÈ
+--UMTAXL0K02
+Content-Location: .git/objects/d8/fe0b6e1d6b3c17026c3c12ea5650aea078b619
+Content-Type: text/plain
+
+x+)JMU066d040031QrutñuÕËMaXdfÈXşõ:+ç.¦µ?rf_¼òñ:TQjYj^‰^FInÃïIÕÑ;˜ïq´-¸ñ‰ùôl¾îøGz(ª²Š<]Šÿxå´[íjßÇÃÅ?²­61 …ÌÜÄôÔb†uÑqJ[D;ößi.—«š|zÔÌ¼”Ô
+ˆU–“"ÿ„ı”®09´­¶÷×÷ÿwø¢D!Æd'ççä1üúâÀÏqÓÿÒíS&OVNşî¸zö.¨9¹‰™yz@·¸/M]Û¸Î¿F!ÄŞà÷Á Í™Lp%y™i©Å%zå©I‰\öï:7Ìÿ*âš®¾¾ÔSÍŞé˜0TiqIeNª^rq1CäÇÙ{§1np]—0ÇÕıßBÿİ?Js‰§
+--UMTAXL0K02
+Content-Location: .git/objects/53/27c447efe0c31c64f7e61c4dad50d97e5f5622
+Content-Type: text/plain
+
+x­T=oÛ0íì_Ap®¬8@‹Àc—vN\¤[p"Ï~<¹u‚ü÷’”lipÑ…‹ İ=¾{wïÈN»í¾<|ıô¾aŒŸ0Då,ß3¾ÛŞñÏ9fÁ`<¢pAN1‰QåiÆ>cÇ"¹ =2‰Æ±	¥a´bxñ@C&ø]3£šŒj••øg;ÑÖjç1$t–³*~}ì€`
+:%Ç 3ï@äã¾m{EÃØm…3­qoJkhºû¾íÓ1Ø>J7‰İ¨˜›ŒKĞLú/˜Ä£T®ài¹ùkâ¤$ŞLÌ'°uc©£0èzZ8K (WJ5„À˜Eğ€ EúòIeR&üJÎÿ‹iãJ²Ä“xğ>JÉ­ÿŠçHh~ıx\qE$R¶¿¥ÓY}^T’ğMtâ)Ÿ¾Y;so³°Xº2uµQÅì[Ş³Vâb,®”PBÌ«4©­Dh›ŸOµ9—‘Öy¬í‹J‹PuŒšoi5«r†±2!ÕãÛĞk‰¼^K‰G5½L×3Ñs,KZF•§e½øîş!ÚHgmI¶F‰­·}yL7›¿.…¸ñ
+--UMTAXL0K02
+Content-Location: .git/objects/02/c6946c26aea802901c22b7be9f0e99a7456a7a
+Content-Type: text/plain
+
+x­T=Û0íœ_!h®ã&@6ã-í|Mqİ´ÄØÂé4w¸ÿ^Ivm)ºh1`‘||ä{R§]ÇŸ¿?¼íãWQ9ËOŒöŸøÇ|fÁ`>xDá‚œÎ$F”§9÷	;Éè‘I4MYF+†g4d e%şŞdô¦›/À©‹ÂûŠÚy©&“ÚP8È¾vF0$Ç 3ú@äã©m{EÃØí…3­q¯Jkhºcßö©Œ'´÷2SB7*æQãÚ4“şßJNB†Q*×ğ4†Ìt	\•Ä»¹b kQ7Öå¹LkZª…³‚r§ÔCŒ™R¤!ŸX&iÏ/äü¿æo(K¼*Í8E) iöÿFñ	Í¯ï¬ˆDÊö÷x:«o+K¾‰N¼ åêeÉÚ	Ğ˜g›e„UÒ¨_±ïx¼gsZ1Ä_dQ¥ÕÄl¥‰m%@ÛüüQs]i’—Úº¨d„ªkôÔ<$kVÅce@ª½Æ×¡9?Õ"¹\K‰5=O×3Ás,&-£JÓj/~8~É	m¤›Æ¶[£ÄŞÛ¾<¦»÷İKà¹V
+--UMTAXL0K02
+Content-Location: .git/objects/7c/226e4bc6c990cad2a0bc4d88d943cf64add77c
+Content-Type: text/plain
+
+x+)JMU066d040031QrutñuÕËMaXdfÈXşõ:+ç.¦µ?rf_¼òñ:TQjYj^‰^FInÃïIÕÑ;˜ïq´-¸ñ‰ùôl¾îøGz(ª²Š<]Šÿxå´[íjßÇÃÅ?²­61 …ÌÜÄôÔb†uÑqJ[D;ößi.—«š|zÔÌ¼”Ô
+ˆU–“"ÿ„ı”®09´­¶÷×÷ÿwø¢D!Æd'ççä1üúâÀÏqÓÿÒíS&OVNşî¸zö.¨9¹‰™yz@·¸/M]Û¸Î¿F!ÄŞà÷Á Í™Lp%y™i©Å%zå©I‰ÁêGÜß?8,“òı™ŒïÚ€›uñaJP¥Å%•9©zÉÅÅ‘gïÆü¹Áu]ÂW÷ıwÿ( {˜‹Á
+--UMTAXL0K02
+Content-Location: .git/objects/7c/ae581824522c9c80c7594133c36f52b526bd46
+Content-Type: text/plain
+
+x+)JMU0²°`040031QrutñuÕËMap¾ôüGİ²%‚¾ı1síl•›?wÍ¨¢Ô²Ô¼½Œ’Ü†ß“ª£w0ßãh[pãóéÙ|İñôPTe3x.ºÿñÊi·ÚÕ¾†‹d<[mb 
+™¹‰é©Åë¢ã”<·ˆw6ì¿Ó\.W5ùô¨!™y)©«,'Eş	û)]arh[mï¯ïÿïğE‰BŒÉ*NÎÏÉ/bøõÅŸã¦ÿ¥Û§L¬œüİqõì#\Psr3óô€nq_š<»¶!pBˆ½ÁïƒA›3™ JŠK*sRõ’‹‹"?ÎŞ;ùsƒëº„9®îÿúïşQ
+ hŒzè
+--UMTAXL0K02
+Content-Location: .git/objects/99/66a0c375ae74efd269cee48385b381263c3c23
+Content-Type: text/plain
+
+x­T=oÛ0íì_Ah®Ì8@ÑÀc—vN\¤[p"Ï~<¹u‚ü÷’”lipÑ…‹ İ=¾{wïÈN»í¾<|ıô¾a¬9aˆÊÙfÏšİö®ùœcæÀ#
+ä“EPfì3v,’Ğ#“h›PF+†4dş»v†µÆ••øg;ÑÚjç1$xÖ³ª~}ì€`
+:%Ç 3ñ@äãó^Ñ0v[á7îMimwßó>kÛGi'±s—q©‚Iÿï“˜a”Êµ<!wMœ”Ä›‰ùÄ Ö¢n­#uT¦	]Og	åJ©†³ˆ& H‘>„Í¤2)H#~%çÿÅ4Ïq%YâI	¼x¥€d×ÿÅs$4¿~<®¸")ÛßÒé¬>/*Iø6:ñŠ”O_‡¬ ¹·ÙFX,]™ºZ©böµïÙ+q1HWJ¨!æUšÔV"´íÏ§ÚœËHëˆ<ÖöE¥E¨:FOí·´šU9ÃX™jñmhÏµD^¯¥Ä#Œš^¦ë™è,KZF•§e½šİıCğHg¼$¹Qbëm_ÓÍÇæ/e!¹!
+--UMTAXL0K02
+Content-Location: .git/objects/bb/06c849d78a4f5b2eb06a47afd1c9d1daada214
+Content-Type: text/plain
+
+x+)JMU0²°`040031QrutñuÕËMaXdfÈXşõ:+ç.¦µ?rf_¼òñ:TQjYj^‰^FInÃïIÕÑ;˜ïq´-¸ñ‰ùôl¾îøGz(ª²Š<]Šÿxå´[íjßÇÃÅ?²­61 …ÌÜÄôÔb†uÑqJ[D;ößi.—«š|zÔÌ¼”Ô
+ˆU–“"ÿ„ı”®09´­¶÷×÷ÿwø¢D!Æd'ççä1üúâÀÏqÓÿÒíS&OVNşî¸zö.¨9¹‰™yz@·¸/M]Û¸Î¿F!ÄŞà÷Á Í™LP%Å%•9©zÉÅÅ‘gïÆü¹Áu]ÂW÷ıwÿ( İzq
+--UMTAXL0K02
+Content-Location: .git/objects/03/271f014312ce240e0ccc7cd62af3c29e52ccd3
+Content-Type: text/plain
+
+x¥QªÂ0Eıî*æó‰ ™4MZÇs.b’™ÚÒ¤‘wÿ"¸ÿçÂá†œÒ\@ÛnW6ğ^ÙĞ›]Ofì¼–*È8ÃÀÈDLMs£MÖĞhWw…8„­ç.ğ`ƒëvæV76ô(SŞà¼ò&/¸ÌËD¯˜ŸğsLô¸ïáô¡¿k¢9CN¿€¦}G”¶pP­RMµõo‘ïKÍ™â¼.P2”I*?XRşÔLUÁ
+--UMTAXL0K02
+Content-Location: .git/objects/03/1376feea259e43a4c3cbb167da2eacee2abd50
+Content-Type: text/plain
+
+x•A
+Ã  {öŞa5k4PJ¿²êJBc”ÄPèëëzfBÉymR+{k³œµòVƒƒHh'2cr6‚<Ú)h&£I‰JïM²-rğÉ„PiG'o]Li†9Q	ºÚRy.ô.òq.å•Ëwİ6BÉO©M×•Cyïuö±Æ(âª[¡(3íkâ³öT«ø{5EV
+--UMTAXL0K02
+Content-Location: .git/objects/ef/21d59109765ab9a1964c020ce447316fe4c304
+Content-Type: text/plain
+
+x­T=oÛ0íì_Ap¬8@ÑÂc–dN]¤[p"Ï~<q‚ü÷’”bipÑ…‹ İÇ»Ç{ì´ëØîûÛoÆø	CTÎò=ã»í-¿É1sà	…rŠIŒ"(Osí3v,’Ğ#“h›ª4ŒV/hÈ ­²ß¶ı…rBí<†”ÍãWÃ²PÀ¦T§ätÆˆ|Ü·m¯h»­p¦5î]iMw×·}jã	í³°OèFÅ|¨¸LÁ¤ÿR“a”Ê5<!ö’8)‰WsÇ Ö¢n¬#uT¦…\º…³‚ò¤4CŒ™R¤!ŸX&i£¯äü¿æí®(K<)ÍœØG) ©óÿAñ	ÍŸÇ§VD"eûk<Õç…%	ßD'^‘r÷eÉÚ	Ğ˜Ï6Ë‹¤+QW*b_qxÏæ²bˆ/dQ¥„ê b¶ÒÄ¶ m~ÿª¹¬´Écm]T2BÕ5zjî“5«b†±2 Õ^ãûĞk‘¼\K‰G5½L×3Ás,&-£JÓb/¾»û™ÚHgmI¶F‰­·}yL7Ÿ›¿=f²¸
+--UMTAXL0K02
+Content-Location: .git/objects/24/6478a864f812d93d4cd0e0d0ad1c8e2d09c825
+Content-Type: text/plain
+
+xKÊÉOR03cp÷t³°LdgàfXÈÄ ÿÿÿ_aSDŠ?Y¹˜t@¢ y&aŸ‰‚orò»¬>®¼¢õÂÄ“‘Á àm
+--UMTAXL0K02
+Content-Location: .git/objects/49/a2d25ff1d4cb467dab4de3e15717f10551cd7b
+Content-Type: text/plain
+
+x±
+Â@†ûÙ®=Á¥8ˆ¸¹	î×^”â5ÁkÎZÄw7ƒNêúåÿòW+X­—³¾!Ï½uŞïïHrh:AÂ˜›N8ºš9œÕÒ0åXÀ ğ\§VÓö–0GXk:7¶WLa²cÒ]@«´œ9øQéÉ…„S6a?b+ıËN1ŒØJ§Î~[úıø3ÙFteö*Ê7c4
+--UMTAXL0K02
+Content-Location: .git/objects/9b/08767dd725657dd0ee8ed13adcefea8f2779f3
+Content-Type: text/plain
+
+x+)JMU066d040031QrutñuÕËMaXdfÈXşõ:+ç.¦µ?rf_¼òñ:TQjYj^‰^FInÃïIÕÑ;˜ïq´-¸ñ‰ùôl¾îøGz(ª²Š<]Šÿxå´[íjßÇÃÅ?²­61 …ÌÜÄôÔb†uÑqJ[D;ößi.—«š|zÔÌ¼”Ô
+ˆU–“"ÿ„ı”®09´­¶÷×÷ÿwø¢D!Æd'ççä1üúâÀÏqÓÿÒíS&OVNşî¸zö.¨9¹‰™yz@·¸/M]Û¸Î¿F!ÄŞà÷Á Í™Lp%y™i©Å%zå©I‰LÇ¦ä¨­[Á4AFiû¾ù|3—»fUA•—Tæ¤ê%3D~œ½wóç×u	s\İÿ-ôßı£ 1QŠX
+--UMTAXL0K02
+Content-Location: .git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+Content-Type: text/plain
+
+xKÊÉOR0`  	°ğ
+--UMTAXL0K02
+Content-Location: .git/objects/33/66ad0cc9e06c7535631b449df14f3d1dc74c07
+Content-Type: text/plain
+
+x+)JMU0²°`040031QrutñuÕËMa0e+“Kp÷kÔ¾™X×øùà=Ã¼ÛPE©e©y%z%¹9¿'UGï`¾ÇÑ¶àÆ'æÓ³ùºãé¡¨Ê*fğ\t)şã•Ónµ«}?ÿÈx¶ÚÄ 2sÓS‹ÖEÇ)yn5îl4Ø§¹\®jòé=PC2óRR+ VYNŠüöSºÂäĞ¶ÚŞ_ßÿßá‹…“UœœŸ“_Äğë‹?ÇMÿK·O™<Y9ù»ãêÙG¸ æä&fæéİâ¾4yvmCà:ÿ…{ƒßƒ6g2A•—Tæ¤ê%3D~œ½wóç×u	s\İÿ-ôßı£ ëşxŠ
+--UMTAXL0K02
+Content-Location: .git/objects/df/405285a71ca47a446fd39564a81d3161d94ab2
+Content-Type: text/plain
+
+xWgPJ´¦…é½$!$´„v•^TzEz…ôŞDŠˆtDA”‘¦ Ò)" ‚p@ @è<îû÷ş½9gçÛsöûfÎìÎîqÁ>pQSFQ¤šé1ùLúÚfWóó+3£§¾ò±•‹şTç&·-t® ¹½ß…ïE#öŸÈïÃs	v’Y
+9Š‡J¤8$ñl?Yn/Rv/\v?MnE°åÀOJ@ƒ`[#¢¿ÌJô‡®i°ìø@w%×ÔèW•èvŠî§Ã·İ¥ó·½…6­x·ï6Y×uYWUYê\Q¤è¶‹ÁCïÌ·iÎ¶Ÿ,¿§"ÅÉáCà{1²xgáM3®£—Ê‹º¿şáİÏBƒÀëZ×v<¥wC%¶½À}Â´«ÆBûÉ0‚›Àa’ğPg	>*TÙÁŠoYsÌ¡˜X˜v#%×uy‡å8–n²ƒ¤Æ Àe‚'œüL}7qTŠ§“¦ €SQî†ÃÈÅ(r!úrkpYšêòüˆ\ˆ"—¢×ÍA«ª%Š5[‘%®.1†ıTäa>jY—ËD4¬É7 ’KP²44; 
+@ú‡ˆY]ŞKâÒI…Ê’©ğ¼“hŒë^<b?¹ƒ•&8H%6mÅ—4¹Ö,ø{¡LÍÂ@òïùİ¬§ïxŒØNôš\¬´sÿº4ÕŒßx¯ä  šİûĞ_·/È$JÊKòy¸‹Üÿö¤½í#q˜¥@ŒƒÁÙîˆJĞ0
+Š£2å%5â}i)ğñK•İ8™ÒÌr0¢¯@Û­%Ö%ËB€’’dwC!µ¬4½‚ œµè¯Î
+|u0öâd/ÏÏ2å¯Šs\¦²¢ ¦DPQm¸ÜY·VÇ{ªÑR^^^’ó•./ÎF‘¬¤8È¬¸O½Aˆ\ª(HAqyvr:İOŒ¿»•í‡Ğ\œbàRgõŸ¥Ïºo®„ËLŠÕa3ÁN§šOÓÒNÂ=/\q¾a¤ÆÛJüG^„º*ìUî/p¶.ÎTğ;ŠkİPh/FºI¸%8\'%#P@ú³Å¶YkÏ
+òİëkG/eÖA«Øi»Ù¨	ÕÅÛeWÃ°ZÍn%hÙ÷ÌùW`)ĞÌÈœââÿ;hş7‘÷‚•áÿì8ÿ_$zå™¯ì?Äf„†^\œ>÷°ºZØ¬°¾ò«_š³U¯b{ï£½…ÿK<ï«ˆ
+ò0R¹¸8ÛXj+xÅÀÄD®âDÂÆúÚââ§º²²Ô8_cÅ‹óÃƒ}Â¿s“ß;šŞDZhÊÿÇ³59ò¹·»©6ÈñJ‡ˆ_úø,;óââˆ¼2ò±1/²ã³c±¶†…×oB>…¹'ç è‘o[C¬ÓĞ¸e\YoL>¯†›¯+›[
+}\¸E]¸Uİ½Å ÙE•êÖÖğn=z±WŒ­õÛS§êfÚ"ôê€ù€£’ø!QÉãİOäÈ¿.‘ûz Ëë\áëŸLdiNY—Û>xk‚²¾´c——é}?`ğ‹ñŠm¡6b/€Ôä8_L¾W#e´ø©b¬Yj4¸üxƒ|”å«¼cG©RNgæ1­b„Øq‚ PŒY,ˆšˆÀG53²Q^*3[éGîÚAıyôfµ§WÿF@rï­¸m¡åRí ÓPÑ W7kÿU™BOÔÄÜü§(í¯ÛİÈ›)°8É>K²&@µd¾(ñ«ıÇN6#¯'õÌ™ï;
+tÄcn?İDÇøPhAØG$T@ÍóÃ‰½6;¬r~Çş†şè—\Ù åo8V -VéqŞÆ˜¤/Î	AËuõv4€M­¡è
+f[i‡††¶Ìm`r½>¸ÉñéõP¼ãÛk*½İ&ø·†º?˜Ğ¿Öå¡Á´¸Pä¯R høF*Ğií¯˜9»£?¨€¢k›ÆYıkêAÇ¤½T¬vwŒ•	¡'†Ã=T)0ZGF¢ ô	ŒI¬³§G?øù­ö±N½§mL íeÃ)-Ì1âju “«µ×”ÇsKdkÙDpF¼4Ñ_9áÅÿfúMM«–r ²ÃHÀoo;‹éèVY÷N|Ã, .×K]; è¡'ÄF•¦(ˆ…„´éÖ¸õ±ŒN5ºôÍ Ëş™’¥…ù5ÌPMZÜ-ÀR›ÿÌ¤ÑÈH›kö•g¯Ê%W#µv5›îSE/,Ÿ9»±i@©fƒv¯`’EÓzÒ67_æñ1ú—›½^1›Xi@ñrúWH¨Ok=¹á±m¯ÂòOÁÜÆœ¾œC7ã•ˆS6­– 4Ëƒ_bÓúŒ
+É%Â w“à*ÁtdÙ¬š«+(ş,J4^¤­ûU(Ô Â*áDªkŒZn•›=Z¶HœL1¯Bº˜$é°cÒÕ'ïöJö<ÎÍ·‰öî¤½e»ÇÚHSŒÑ§†¾}PnXÅ‰x»‚€3ú±”Y„İ{İh6ëÕ(ìÄ¶3‹<OEÚ$sÆævªZ¿æ”:°Xx[–irdğ…&Ù1ÎP'|•œ²}xr ¦R/gÓ~bHCõ+mTÏ9ûaìMYMçŞœv-Ê¸Œä¦!7VÕà^·ùg2<Z!±"0XzlNº»×»£¸Xj:MO6Ì¿´®|C®(±%´ëïü…M7O^§*¡XËé¬+ÈCZşĞç±LMYŸÕøj/LTñÅƒÃ¯Ó¨.&ÆìÛç–)c£›$Í	TgÎİ¢Wh‚aãø§Ö#û÷ÌW°¡ü/ûpÔ¾ø¾ğÚâj¹7Z7:ìLäáy®Í×•zå"nRk2³~¹Û1"¨ùPQƒùŞø–hê64J³õÅV^2«¹S÷yôñ¨â;(’ç¿ò¤oEöÈà1%7Û‹1pÛÂÇR±¸ß×W$41İòĞ‚–sö¢]drúøía¯©»…Ötß2:† éØF—©VÃŠ5@şC5$BTò X²~F­5“¨‡n1<1õÃ1¯ê4Üm÷[(tÂKûÎ;şÀ>›P\F†us;ºL´R%s¡²ŒW½¨[š?{.şŒø\©ÓŞ¾e-Z7ß|ƒ€S‰NOãğKl¢2rN1®WŸ¿å9fÔñA³fzÏvh	|SBÛ’‰f"êü@Ó#]çvHY+?SŞB»3Ğ¡ŸØ¾¾¶ƒm¤Æ}ùeµl™‰Ã‘Zu9ø,UÙjuÙ­bcÏ¦–­©ºv´3»”6%8Ï¬ksòß#/5|Åº`”Ü+‘!Ï[íº<
+«É4÷1)ñøi.)Ù	”HÏlÈ†€w¾ÇğŠÂ“æœ‘¢)PµL­"ß–\²‘BH÷0ïM¬8RÛ'=æBË˜×šïİ+vv+Ì°6"™‘ONoæwx³ÒQfÁŞEÀm7p¾Öd àä\?o\ĞÊPäa¨}M6à¬ÜD%h¥•\ŠfÅŸÉ×ÏD™ª¼­ş±	Ul­ÿÒ —qıüÊÀağ½TÃÓ}³kŠk´*×uøå”Ğ¬~ÿ°®ÀÕË”ì	;(Jr–äfh’xëğw_©=\Bí=t«7MÏóäŸÀ5ULhì¬ºÜ}U›AÅ¯4Õßßÿ|¦W@µer
+µ Äm/8LsŸğmµ+©lR¹ö+K‹»MÔ´’y’X«kyéÜwöË½°dÙCâÈ Ô0÷¥JéÌ“×³Å®Ùİè<ÊˆakÙOVi7ÕL„dqïí11b¥E'}Şí‘ÔBCÇp©,Ÿr
+rss‰_¦_[¾‡ğ”U·ô9Ì'àÈ¶f»íÔ×å¿|Ãˆ×9Ö°,üÎF^û,˜Í¹ÉÇ_öÄÛwzÉy·cÜlI©dÇu²­ùg™~zHŞ×±§»òã0]•©ÚYÜ¡ËA}kğâr&+z`"êÇ,Ùˆ‰¡Æ9Ëk¿÷rˆ†«GôÆ[¡:$ü~ ¹Æò#h÷>÷Û×{/Æÿyôd£ÖdAºôÉyQ»Bõë„±Úâ‰KÆ¡ßbñ>­Ğ;Kw‘²t—k°`ÃB¸l@€€†baÒÚšedÑ¶u
+‡lx[¼ÌÍ¢èú¥çoKMÎ;ñ)nùÌÙïß4d#*C|Õ~¢Üb¯ÊXdUy:Àòú¬›²8#ªk/²•Àú·H¥ãvXŞã“ÙòÎ8“¡Ä\;¶ç „ ş-#›èÁéŸK,=tH¡õ­3c¾õvÖÅjİNË+ «š¹›µ&lPè#;Â!×›ŠÓÔì	…¤^Jô\+ÁGXÑ}÷»:á^+VØî¾ĞÌîvñ“I‹‡ˆD/ÇÀ`€ÛŸµ¤$¸Égıvˆ»>Ÿı8ğ–ÑöÊ8äCJ£´è‡#–à„é™´üÈ²ÇŒ¾ßBpøPù#VsÌùµ{¦ìèóá¯C×’,
+-Ä-‡ ÛŒŒ~'e‡Ø¾LñºOÂºfí£\ìÕJŸÉ |Dë¬ÔšöÛğs>ªR±ÏÔW\£.%JøÏŞ…³-P]½Ô¢Ç(8?;D'B]©cX¥ÊP¹‰ı\:«6Ÿ£Áí•n†[Ñ‘Ùò©åm³U¤½=t“lŞ&®Ë4I:9/ÈWÉŞÓj›••e’TÒò(¤Éß«ıChV×7ÔY+‚áÏ_7^sÓ3ƒò[{~‡XrsoİÍW0œX‹T”ÜDHÚ½ÊhhV©æ+k‚:ScœZß„“×ÕİÆP…eñ!åÈ}±ø—»şWCRÉGu“1îk®²·'‡+Ç¼Ãø¾ıt¤ÿ§µúœªı
+ÜÂîÂT
+
+H{~X­÷ØòÖ-ã	)5îwNÁŸüÊı¬ÉUµgáìëO#‚sãu‚ŠP~ÿà­WßœˆR°eïÉöØş÷µ#ÕZú:+¸Bt~yY. ­¹Ÿ˜Y-ˆDç©We”×È×9IæˆÜ„:C¼ªdóB¢WH™›Fæ €¼Ã ÛfZôAœáÅá+ŒĞåJC¦LxÄÙô£j:Hó4á§xE.q¯“wüŞ;;o™û<è^‹Öà¸Xåœ—1%¡ñ”™c¡TßxY­…?5ÁŒÁÈ·916Xüü&ÏÅ¾uÛÛòº˜t›9ÿ¥+÷	í³í1ÆkâDZ±|edì¯Ü]	Sƒwæ Ğ?±4Ã?ªÂ•*Ïÿn:Ì¬’ô2{ÓşşşÁ½ÇûjèÅ"½±RõS~ÿ „ëYò=uV€»¥Ù$ä-íaCóD ©à‚˜÷š#å«Gúåçx•Lª³Ïä–´ßæÚÏHpHâòú¼^Ôér£¶áEXGc#Ñ›§UÙ[z'Z¸ó¶¥¦<Šª4,<÷ô›4¯	/@íœõ¬³õ1‹?\@Zh!ğÍh–Õ²FêËkO'râ ÇRÒß§Jóæ#ìƒÿ:FÕ1v²x))¼~ğğü“yewê™Sµvùn¬ü¿Å{Ò ƒ(ß~BçáD³¤}ş$Í§‘êÊ¦±f©è‡ÚØ·•
+¹K5$YÒª¤y¡’Ó%R)Ï¡s¦…û´ÁOTÌ•@²]uƒ—±Ÿ(d­ÑIĞœğ«–ŒÂ@ÇH»^Ó)î ¨b¥
+--UMTAXL0K02
+Content-Location: .git/objects/43/d2e7f87ea6a4114d8f5c9d3ee4b51e9f9dacf0
+Content-Type: text/plain
+
+xm1Â0„ó+nT°ˆ8]7¡‘ĞÚgLûJ-øëMÔ©ø–ãq|wW®°Zof#U‰ólË†’š:»É	‘Áén0„èÃ3\Ë#. à|K8Q…ü›‚ìxH±g‹md|©¸G„´ÇÈöî–°TÖ˜·Şn+eMO2<M;~icÊ”m#©OŠ\Ö|u2ÈUıŠTü§ûF…	jâ,ÎëßºK*Ş Ué
+--UMTAXL0K02
+Content-Location: .git/objects/0a/3fee89b09e17f514456727af7549263f42c613
+Content-Type: text/plain
+
+x­T»nÜ0L}_A¨¶N>’+İ$µ}İ+rO"ÌÈ•³áI)’ŠÜ° }Ìw†l•mÙáÛ¯_ŞwŒU#ú ­©¬:ìo«›3 1[/¦˜ÀÀ½t4×>aËY2Ú²©JÁ`xÿâ€ú À?û´šÒtqØy9J….à#*ëĞÇ¦ÄjÃáÔ#û	Ø	Ag”˜¼Jğ=‘Ç¦é$õC»çV7Ú¾I¥ nïº¦‹mUDûÈ‡ŠèZ†tÖ°N^Çÿ÷\‘aÒÖ>Q]£x51wô`ªÚX’gÉaÚÓÒÍ­!à”&ÅœcH$* xüVËÈ .ú•¬ûÒ¼ôe£äXÏ‰c¢hŸ
+—@¨Ÿ=l°IÓ]ãiº¬,‰»:XşŠ”º—%+ËAa:Û,#¬’nDİ+‹}Å\à›Ë²!ş	$²*9T“•&¶… Mıû±4æºÒ2$Ï¥u‘ÑE×è¨¾Ö,Šé‡Â€Tzo}}z*Er¹–Ï0(z™®g„¯0›4?Œ2>N«½ªÃİ÷TĞº(lr²Ñ’ïéòcºûØı@å¹Ó
+--UMTAXL0K02
+Content-Location: .git/objects/0d/f9666dd89dc18df3a4ef2821cfb841158df594
+Content-Type: text/plain
+
+x—hàblob 8077 ‰PNG
+
+   IHDR   –   b   …ÜÚß   PLTE   /)ƒn²¤QO7WM5'"«¡‚63 ‰…gGC,,#)"*'/070 & …|bQE-mfO® ~?4"«œwmaGsiS½«‰QF-4+O?)¡—tˆ{b’†gqmMpsn¹ªKC+™rkfHÄ³“‘ŒoİÌ®D5#½¨£“s\P:`V8©{­ŸUF/"uq]“vrfOÙÆ¢„oT‡y[³§‹eQ4ˆ„t“€`Íº•ÙÉ®PY1¥’lpcHÒÀ¡E5"raB–„jQ=!›Šo;/#~kQQ@)u^9V?$¯ƒYH,«™Šx^M<(¢tŸŒr›‡g—„a’`}mW@1 6,Â¨r`I^M6WD.cK,G;.C9)^G%3%¦•|neVzeEh[E^J.qU,Ã¬ˆ»¢~„oˆqSUD)=3&¬h’z[xjO†qL“vK…jAVJ7J9"¤Œfœ‚^‹qN€lJbWBzd?iZ=tgUeZJm]HÆ°©’nƒoRpcO}fKVNAjX7eR6µ¢„¨“wwlZRF6v[2:+´œz ‰iŠvXp^<oX7+!­—tŸ‡_tfI\P?JC9OC1™z‚ub„s\w`EgAm\A~d9C0W_S<eT;cQ0JA-¼©Š—~\†lJÓ½˜ ‘z—~VwPtZAkV>iQ.³—lŠ~l’f{c|q`Œ{Y€sYmR4\H4hL%K5¹¦†³Ÿ²™u–ˆs’zTqFĞ·¹ xf^QwdM„d6Éµ–¾®’¹›s‹}a]UIgJ4pZ0[A"¦nPI@A=395.60'Q7Ê°‰­•o…uV{_;}^1‡zgtV‹j:,)(Ê¬ƒ¤†`pl`QPKmbI€fFÂ¤z©ŠaaB-™yN•„mO+£~H@@>~vg©Š£lØÇ¤fcY¦™…E%ÚÃœˆz}yo§ˆWÎ¿¡]`aèÙ¸˜n6Kß\)   DtRNS şşşA$)…pUBË¢<ljÉÉ5şÕÂ¯ˆîÓ—–jHşãÖ¶­™üçåŞÚ¸©…í·ßÊˆDïÆfìéæŞá÷ïê³Vğ?  øIDAThŞì˜yXÓuÇSH³ƒÄH+53ËÒÒÒî;6v s°ÁÆ.6ÙÇ`Æì@Æb	Ê±2‘ bÀÆ1 b° CÆ%r$<‚G­zêy:ÄêŞmÏóû=Ïë÷y¾Ÿãk÷¿ş×ÿú_»ìíş“Zc÷/Êş·ÿ×Ø€şs¡Úºuİ®=ÎövëíÚúÚ¿hçZ'Ç§î³[¿ûM;»--Î]B÷Ù=;¶<óæºA¼³£İ³¶­³³w\ÿO®›ß1ö˜ãh—ıÚo“ö}Ø¯İµ¹¤†¶rğı³xüï½í´Æwïv;;§}ëş!¶5öövwìXŞõ’¥yps1ŸzÉOÕˆ…bèÄQ<3³|`ã;ºúık·fíÙıÆƒ»mŸòCìì•£öãŞ½wçÎıN›ç‰<½ƒÖË©¥RU%®$’{Eqf;“îæ9z1(ædQı.:ÓõzİÂÂÌ¾}À]»÷ïÜ¹eûÁ}û·9;oİµs«Ó.çíwmÜ½ÛŞm›ßØü†Íù¿¬õ¸>e7n¸yM0ûú¬N‰‚SÒ×'r'vu€	‰înQiAd˜¿Oxj=˜É¸%©¿¡Õv˜êM&¡RH_­ibÌì­•útè‡$aÉè¥%)8÷À6§µÛÿRR9ïñÍI„„$WåG
+øœŞ>+'¿„,O”ËU'SÉ§K`œâÓ_>äGt»à6ìĞŞMwómÆø”!5¦[Ï_¿~ıVYG‡¶¾Ş\rF"ÉT B
+†WK$H51¨7nsºw¬½..Z k&‡nCáòºÍÅgËé%ƒQ^tnïœÏUUä}L$?öHû"ñB4Ç*¤¨N9~ø$·½¯&ßE6Üûîw¯'=ö˜ó;È5¡‰ š¨p=¹T‹Aëš×ïËn[W—‰¡RÕ&Ÿ¤-vs¢gÏ‚Ësò•sãÊøørxÂñœòä“y9EùW=ó•fndT(¡€kî}mâ…—_xÑù½ƒŞ¯Ó@ƒ›‹H:P)RXVÕ›î¹a<ß¡š7só zñø¸òãáhö‰ã‰€u®·¸€Í*:w	Cˆ4+
+£“á¢‰ÀÀø0BŞ™ün£(>š>§L>AÄÁ^|;'‡Ë1 gÀŞ	iªªB#†Ü!5Ú0„…ttZ{PÏí{±deÇ| Aä[ë“#î›+9áÁ[E†:X­î
+šn+&›SûÆé…ñp¬u**!*ÊINˆÏWĞ@E½BfÂùã‰ÅŒzEƒ &põXpÍšQ#Ğ,×0t[WM¶¥ª©™aÈ¢Z|¾åõöö’Ã£‡ÓüOË- «ğÅ×ÓÒ†ı-V‡CÒğp9¹wœ0Íe£xƒ˜è8¼(/…('g_Š¿I—'.Ì¨ÓQÚ†ô$‚Z·Åjˆ¡ ­˜Ç4ıÛ¯®ÒÌµ{%:‘Œf4zÀqa|kxStÁ×mÁ‡) ˜ƒÃá¶‚O…»QæÌÊ¦ÖŠà¼8+Ì=íbpZx‰<òìÔ œ¯] Â#@‰àô®!DB­Â ´õ!aaH$2åœ”ªC‡Uè—WÌ5µ¼\ÙæûV…åøFƒ¶^6¶r[éã-èƒ´yx_;äÖg¥)€ºüãåQÇ-VsQÓtåÍ©ì¨R^k|iÅ‰¸DŠåTpÁ%Â\·/ëÛz`He4\'¬U/«©¹<`C\€D óàH4˜Q]'`0†4?²›v`U%vÒ•¬µqÇíîø#ìùxŸçû=¬"&ZÂgÙÑM…ÓmìK)ä¹9={s„Uî[99Ù0Uùm5¤'#1ŠŞGÁ4,˜’êKÏÀ5ğ,„ºF=T3¬÷¥–tX
+Yàğ‡¼ÔX.V3¡4m^ÖSŒ¥Ú®.ÄØøXûæ´wo/i˜=Üv@º`qnKóO8~He¥´ÏµfcÎD»’ŠnÎŞdIf§»¸d1«Q33ê¥Ø¸«½)4éL&pŠ¨6‹uHT•¨[¬1¨iVfä*8Ş/¿úè*:æÎ[ˆ*I‡ŞlÄ´Í²I*±-­=b ~$‡Ì Ïj±ºÏ^&z7E‡÷õFß<èÑÔµH#œ‹«¬DiYj¤|zxZ
+”4ó‰ëéH
+ÉÈ§"{ZEË²Õ[¯bŒõ™eC²1ZdİONğ½k°^}¥Eú6Æ¹Sìà“	yË§A8Åõ?×S6² >«ëµ‹şá/Ëç8ßÍŞ›3ÏÕfİÈ."C (*öR[[\(q4«Ô7I«MOÉ&õä·TH5a¡^V*2ÌLë~èeãİÎáÛ·çøTÆ‚xÅÈnj* ZbN{û9øy{Ÿòv;õ	4  d^óÿ2íë6O¡5(-ø»ÙÙY¶Å=;]X8›b¨gğÎ“
+š CDÄ‰©õ9ÁZ
+¯FRQ’R’\ÍĞ/ZÆÇæeXß"7>ÙGN¼–ÓÛ;nß^1t„øèiálö×W?UYüÈ®1ĞL¨ŸÌkf
+…1×‚Ç|y8'Ä_sóô ô]¾v2­©°–V[Ëo*Hn@xÕÚ ¶-Iñ’4d\Ekë¥0^ »&h4WF'E‰åÄGîZ¶6ïØq{éXCèy1™Í.&¸3q1/lxdÃ+ ¡–	Èl23…8÷CŸÅø	=ıOÅ÷õg¸u®—İquÅ]5\P96êr“Ş¨{ÙJ;¢UEÕ¢QU¶ßÈ¬+¤b¤¡gT‘ŠjjdT’BSp?äªÈÏ¬¿×ÆÅññ1uCK‹À£ÍŸäMÁ=ôcBŞwÿÓOoÚ$lo ™0ÌÖ‹ùÌÍõ·C°€¶ïÚÚ2)…]2£È”s¼ ”6¾P/Ñv °òy ZÉ_ "tº…B/•¢uz.‡/ÈåóU<™\|àI…J¾[¸ìß»ÅX›A¤W¾3û)TEzâáì¥mŸôà†‡7=ı´Pè k·Ü½]¡í§ÚaŸ}yñ+¿ó…\1pPT”“¢™A ‘’*¬~fL9ÎXX@Ã€‡Àz†Z¯Íóh2mQ\CçŠÍJÑ¹á®UŞùù2—¥å…×£YUÿAkX¿æÑï{àáMíí¶ Q`íĞÌöÏ¾ùêÅÖ„3E*Ğ±ynµY‹BƒQR
+móOÆPS:Èç`$¸få6Ö]£ÑÔÊÆÆÇe^¹«¢ÜËncs3beÿÁËá/<øgş€¶	&Ú¼„úìÉÇò=@LhŒÁ`T•B0èÀX/¤RF	8²eÕ0?n3Ò†DC(:¹[Y¢ğ÷*åræıvwÕkwBÀ™ù^|ù®UÎÆfsµ]^ôOLõ¨£xieE´jÀ($•Z›–æj¸PÃÓÏ3¨¹Ş¼1#FˆøÄ"—Ã‹”›Í}*rÀã«XÇ>²Íã&ÆâfÕªôÀ+O¿°é­Ë®ä³…>¡Ú¤$©”ŠBçêÑÕ¶ãGÕ¡ĞK3q¦BÍÈ"Ód™LV…jå¸X©˜ÓmÈ)­_Õ±ózRõõ«¾´Ø5É>N¬¸zíËK¡Çê%ª®¢BÔúù´8ßË„YØ!šBÑÍ‰4,¶"0²H^D 3é*Šª„üø*¯n™®ßè_õæôêp[ÓdËè…ÔsÕ!Ú†cÒ*[f¡!¸F#—Æ”J¥ØX«çÑø´n^-“C#´r'ÂÈLE‰Ê\çÊÜ°Êõç½;wÊÊö¬ûó­Ûú¦££ãöíÛ¯^NˆmîïÌ:š4$©oHlK1 z"’j™€+ÕğD?1Á=TDÏça9$³²„ U˜ÌgV»–=¼u½ÌÙşhlS[v†àñ#“•Í¬éÑĞ‘şş‘æ‘+L!¬• PR)’
+±Í¡ç>yA pl—ÆÈc@ZùX©ˆ/àr±JN‘*ˆèî.§dZ˜Ì‡V¿ñ¦ç~Ï»eOHã–uOíÓ&iLõ‡àY•¡øN|ËdçÔôôH„©›†Éªw‘¦£»¤T¤N#ày¡ÑU`0VSC£“*Œ¢by7=Ri1›éœ
+W
+Ôµ ³àXõª±vçóËúİ¿ª£o>÷Q¾sòhÃIeI¡!¡--¶Œ­Ä‡†„T¶]üòkãëÓÓè›•CÀ>h[íBAºÀ¹>éØùE1ŸnsÑÜÍçÅsÊ^À$òËØ†¦MëW.§ç¶tÌ¬lıå{'ç²æ~ük¤ù¨´#	?99‚Çã;;Y•¬Î‘Î‹ßœ«€WN=Ú˜îã+õÀ 5`mc¸*K’K'¦jÄ8¥Ñ¨Á‘¾"A‘x®—Ié0ı\)8·áî“öß¹~ã]ÇŸrí½=S#ÍxVllcssÙæ‘‘IUK‹+»Åb³Ï8{$BZUåƒŒCb ƒñ^LOÊ`î]Àå‹Í%1
+b*Vlí×õY\½™€ (.àá{Û±ß|şÎç·8¾¶e´³sr¤²³3ßQÖß£¬£¾ßÆ5ÙÙYÙY9:5ÚÄš:2Úã“UÅ½tÔ'“I>ª@°ÕÕp8;/Bûp{­Ê	‘’#˜8M"’É1 ”äÀù °»'İ·åùı…¬Ê©Øşæ¤ÉşææfP³:2Òùƒ‰Ñ…,ÖhåèÙ+WJ³O…şgK#||½¼0d.6+´:7ƒÀcepó?Vˆ9\ù1Š/J=í~ØÕ õû$ 3 p.ÚÛ¯qt|sß€ÇIv©­£Ø
+@ã±©ÂÉÉĞIV\^qİá«-6¬ˆìĞ#Ù¥lVv\laœ³"‘‘ïÊõj‰…cËOæD¦ƒ'>çåÃN'ƒ %áádrIx»wİ©€ 4 3‡{hÃ*\\óÚkO=÷Ñ»ïîÁ·4ÆÆe…”İ(+›dM_é¹2})6›]ğ©m¤÷ûêË«=Gğ!=G%ÒXÖ(+.¢4"%%×763x>$w<Kôe—Ë"	„VByÜ;<‡X—¨J%—¸“Â¡P@f@Ì'°O ÷Û­_ûÇÃÌ÷”ZkTšuÏÓ*OíÒ±{[÷vÖ}§:§ËéôD¼{QA&6ä"ÈEä6˜&ˆà6ä6ÁmÉU1pÜLEg¨ik°-¦;YÚÜq•Õêô¡şëœ>tjYÏËåÏ—ÿûã¹½Ïïyş¯¿~ÇŸ™éå§+†ÊÊù‰NP<Ÿ“Ì2ÏQ¦ƒ‹…g–R	‘oRæUA™Ñ R}0>?1Á+•%R«UŠÁ/šğşô2¦ö0©¨TÖÚ¨$áf)Ûl¦D°Úrª˜@­B¹yû*Ê	+vÜ$¥?ûôÙ’––{Ÿyøágyô…–	‰??ß2Îj9û_d±Ä˜"Vÿ—ÓRë9«>…|ÕÂ‚dbÀºì	úgŒ*•a rbÁ¿„ÇÏo,¶v¿û‘Sg9ÚÚ,8·<stø I…ÔÖ†…ØA+Æ ÔW—£«OV»;*jĞtÅ®íÿL%3ï™ş†ÇnÂ>ÓÎb&ÎL€"Æx[Å\ùá‡Ÿû¿ìyAª‹Óp («Ï.-5x¬RLÊ;C”¨T~ş4ñ¼:jlîÅØÈ6Yz[‡l‹Â^b”ŠôUÁğ/¢äBME9p)t úGyŒønÑé#|Êf³€~ZÚÙ,ëR¿aBe¸ÔùÁYÖÔ‹]YÉ6TN±ZX•Sì!làÜ´qÈ8®âK}KƒL"’'¦UeÉFÑâyü8şX/‘Ô]¸Ä#«‡¥š9…×[Ua«WçUä ,#ÊË5ˆ]÷ÿs2èÍ7ŠßıôÖOÛ¥†³ıg[ZXgÎNT>×?Í2ô÷÷?÷Ã8€3Õ² êœ`_ºÄßß~#¦Ú¿¿õ–U¶äs¬	œ0*]0t‰eƒüK…S“ L01ÎÚj‰¼CssmD¿êëájW\ "F@€—×Ü$5lyĞş ¦P­Á—.IX-g$lÖûËhh1$Ø•à:ËbwJ&¦§§ƒ©uEÂZ6|ôÛ?½uÿ©ï÷·oøI‰5êK$€ÎF	GKşxxdCF¯EM¡Iågs¸r”Q]_Oã®qÕn,c«°¸úø]7¡…NÍ$ÇO&s$	>{Íê¬œ˜7.¨d2+Ob æ“Èü_¥>?3’–
+Ë„‰²Â¡w~9İ>ŞIäË<­ÃÂ€XGRñ„l‰š(¨-~ÀIæ{y‰.ÛáõİHÎC McDª`
+†µ®®K¨¸µØ©³‡[[5BÒáÒyzHæSIæJ}àîFƒO±
+îºÌ“lW®œ[¸ğS#©HVt5à‹
+¾(æH9j¼0û«Ô³lHø%%tNQBhäœç+ä#Ş¹‹ßcwà…
+sv}PÎá¼´®ˆÂlaØ«U'ónJxvŠ'{g43İ|¾µ*•J¤£I(õÑ5|™yÕ/šlÎÇ±•Ç³:hDep½¥Ü/JÄü«¹Ã¥Ç)&É1¡ÂN$“Ó'ákÈÒ¤l¾kyœQ‹–‘dP-!—Ë0S:E˜›)è›Ó°ûÑÕ]µdÃÑˆQ‡_&t‰Bß®T/öz…#èóY­I)ÑDÀèÏÀ/Äñxå¦âô8³9íJpäR«' çG1vÇA¿Ö0¹îmĞtØÿ¨G’	ùüÒ¢>–4°ƒ.tÒµÎò#‡Ûïºû•¶%’Ü¬ÑbuËêª…ÎQÓee6XÀ€´:ºÈ±*7-––F1^*ê!;Dş PE!°š>Åä\äj0AÄw·Î”É›†«á¡eÿ ,Ê¶q¯‰0R‰¯ÿáûß**ªû©„±ôĞÃ~]õ&”õÎ>·ÇÖøˆN13¼fNA7™äÑB(¶j‡PZ­Ùìµ1zºt:¹ÎÔÏº„òàäÕ‘ÅKC¡hcæ¤ÿj@Â³ÊIM+#GåË˜9²¶Öi¡B}”†,Áq•gÆÿêÉºâZ¼ªåÈ‡û‹ê
+Éò^.bS"}Ï½»_ÚsË=1¡œK©Š;„Hyé¢Wã_²¯e®f`r¡†Òq½æúu*Fe:D“®¬CIáb0*C[Ÿµ¤D““ALk[yÔaõV8<±(ú"á¤N´–»–sà6º.şx°‡¾ñE]ç‘?*~¿îü"xû$;‘9Ò¨š&!½Ú;C ®_ÏÄ!2ø%³Y3=I£‚î$3§w¸.ÏFÒ3«èÕÈ…‰å„¢×iáì]ÍW/¯Uõ5Î^ş-Ö1ûÛÕÕÉkò¹
+B×û¥ÄºÒÒSGK¢çìİ²9›Ø³çÙ'¯âp@ç#ª“–d2–\ƒ2™!(Ù¥3àg(´äó54¥Äªl²4Ÿ]úÙœ‹FÓED^‘¨ÁåÂ)8¤BÛsÈ>Æ  ¼ú\ÆBå¦Ö-TQŠéÁ^lC®â¢òÅ¦¹?;ÑÖ,msR,­c†–ü»=¹–L‚÷ÚÚZFÓâà²‡BâA3vQğ¿J¬W'].½‹ŒQiÌÙ˜6Ä°à~‘¶‰9ô³ğ(ÌËÄ°Øuf.w9[%0û¾=™òê,±ª_ıu[S[£óÁM9ØÁÇÇ(!õ§Sf%“££k`Íœ¢
+ÈºÂ™##¥¦â"‡‰hÔŸc2qúÈ×ç˜´€Ââw]»¼®LÍærÀºÌõ¤˜ipéÇÆ K›Í¹X‰…¼X„»†@@Ôk;´¢4?xçfÚR›Bk!Cä„4±X2*[êÅî)Â›ŒÄ²2ÓRĞ4EÕH3+@!¸)=3RR?•êÕâpÌÜæc(x,ÀQÀ8­¯¡¸-îCbwr'$Í}vbîXıó[6ó­·¯H1ÍNµ¦ª»›¬ád5!Æé•I%ƒçñQ<Ş¤VËıBİ†DŞ ¥ÈÑÜ4Œ hZWÉê™zJSİTê
+JÇ±qÚX¦!JœA¹Aú¥j–:çË
+ß/4µ@_|dSçºßLWÏ„ÕœÖ/“9¦Q2Ï©:jC`8œÅ(ORËér:m$0)\z&0£d­u-Ã@ÁŒ4ÅÅŠF£¡@|Æ×ii ¥t.Ï;ÎÅœ~Œ¢FTÃ¤VòÂê]ÿƒí(§¨½ºÇœH­\PKòF1ØZ›i³	ÀK °ÑíH³EY»’JiµvE.•Ò»po½B¥E2ÔÂrÃ†JÓhqª£ÃíîèÈ¤ÓğPWäU€^ş'£€øŸ’¨K%dÌŠùyá­‚Íamİz×îİ;êkĞX¬åj…m=ÕÕ
+U§D
++6xô)µZgEçí¯(-©Î¿òü#d 8
+FÑ „Ê â`üÒè8şÔİ[wÔÔ óŞÈ½ÕO>!ØíÆ²ÁN“@^kk„«òòîÿĞ<ú#(¶Ü}<oÇöüüm}m}}Õ}X,St/õ*"¥Ò¬ô*‘J­Ù©ìi„ßz‹Å(1*Bwtˆİ@?î°ª©Ùõê]ÛòoìµïöW·Şwß«Oİ·uë}}ƒC§‡‡Ïàdò@}#Œ8şÿ¶ÿ|4*?ÿÅ¶yŸ_¸¸» `çÎ‚íwn¿?¿`gÁÎ½{_ê}k/÷ß¶e[AÁŠr4¸€ z|ß{OmÿsG îÆ¶ù =àgºV†ÛOœèÒ*Áñ“8ÔÍÏßöÿÏl»{÷ßùÈ–ü¿î”Ÿ—·«fß{ûÀÌåÆçïR0æÅj—DÑš°¦DŸÅ‰«’âã|º}ö/ìYĞ
+ğqp¶8§¡, dã,­§„
+kêìNÕT¸$UT¤xñ0Ğ0±Šqƒœ„oŸâ±ıü‰öÍİ	>‰IŒlÀY/>z¬eµEHï‚;´7ft' KŒéÀHoöÂàéã,ùŞŞÜ§mË÷V¸¤xyñópóó2(à4¬šÜtXX^^GwpâÄé| <_Y=Åí|DëÌ ±]ñ Á™Á 8Õ#®œlsÏÛu%nqØŠèÁV l¸~W@ıçpïŒY­NB
+
+ƒÄU’Åqı'gL‰m*O÷Pd4@Ñ!zzĞç¦(~¯é{·	³2 ºJ@÷<°ÿÌ-j<»Q`Ğ¬?feeP›¢
+ª¶ãN’áb<@x®,/¸jŸ(Ë0ˆ ‹´4¤é$+Ä0¨ «++0´QVDjg²0Œ‚Q0
+FÁ0 ’QÕ¹(ók    IEND®B`‚(A]½
+--UMTAXL0K02
+Content-Location: .git/objects/61/ee9bf8f72872aa40bb4f7eaf1a6fa2b3e82208
+Content-Type: text/plain
+
+x•[
+Â0 ıÎ)öÊæa“‚ˆà·‡È«t!é†4½¿õ~¹V ¹Œ3dí"&¯BĞ‹B5éûâ&œ‚L2Eã1)4N+ü1Vîğ^;íğ¡RvxÄúã‹[îş¹>Aií<K«àŠQœöüü)h£A¾@Ï¡q;ŠÄ›øËw<r
+--UMTAXL0K02
+Content-Location: .git/objects/47/a5639b7d8051ae4f7c20543f30fbc152b36902
+Content-Type: text/plain
+
+xTAnƒ0ì™W¸êÁD©§¨‡¶j¤œóãlªÁÔØ‘PÕ¿w×Á’½â™İÙÙR¥Sö´z^İ„aG[¨{a{-]¥M¾˜f
+¤Õ&æá‹uDğj[`^d3PDØ—M3©•6mB2°T5½5Û}Ì[XèqĞ¥£&àóBd0Gğ /,?Ä÷JK¡vh2”³µPôt,ØwÄX¥+§„…ãT?Tşµ»³‚Ú¢ƒ+¥ÍuyKóğAGä;.»-š“œ„r€"û»˜÷d¢ÒÙ³Ù2g§&ê´V^
+¡ Q3zŞ:6éŒÁİ¿Óià}†¹İÍÛcmpñ£¤pÆ–Îc”Òİû÷°XRx	Ùõúú¦w<šb’6ğ¸ãùY0\ìğ¤¦#LR!?3£]¹¶òÎotú ·’¶E®š®AÖæ<Áı½ZkòÔYˆym$_†š^e"Šz9Ot)¢ô_hùø3˜ùÑ)ÎS¨_ª—¶$
+--UMTAXL0K02
+Content-Location: .git/objects/f4/c01e6b80d4c4081b8f7ec222cbc42e29736f27
+Content-Type: text/plain
+
+x•A
+Ã  {öŞÁµ»Q¡”~eÕ•„ÆC¡¯o¾Ğë0“Z­s×Ü¥o"Z€R&BÏ¹”â˜„!‚€%İ Ë(§¢VŞäİ5ùh]tH™lÄ}Â¡8[ƒ!ÊÑ(>úÔ6½Oüjú¾OíYÛw^R«ˆ„`ƒ'}5ŞuÒs¬Ë‰:Ö¥qÖ•ßs‘½‰¼®ê|>E
+--UMTAXL0K02
+Content-Location: .git/objects/ba/142747a0119c316bd5cd96c78015496c76247f
+Content-Type: text/plain
+
+x•Q
+!@ûösÂÑQ"‚¾;„;íB®‹ÙıÛĞ×ƒ·Z—ÆĞat°Öû”5sí98ë¼Å‰(æ‚TlÆÌXµ¥.ë ´4Å)KHSq„QL4XØ%]¼ÁyÊŞœ­Vé3æÖá>÷ååõzÃ…ë·¶IO'nõ
+HBŒ#õYkµÛıoÈÿ¥úl9e}B—”«¨/ü€Fh
+--UMTAXL0K02
+Content-Location: .git/objects/ba/02bb50b2c7d1909c9e98b255815ea06a8402d8
+Content-Type: text/plain
+
+x•ÎAjÃ0Fá¬u
+íaFÖH2”’«üRFØÄŠŒ­èé›+tûàƒWzkë°ãeª6 ÑÏ˜8|Æ4)C]NQB™\ºWbovú–«Ì¹0¹ÈA BFÉ±T‘,‰aÖ,Áà5–~ØsÁ£Ûïsé·Ö×mÃµôöcÙ{ñìRûE‰È|êglè?ˆyí[Çİ6<×ªç¸¾5cßÍ ĞD¸
+--UMTAXL0K02
+Content-Location: .git/objects/fa/f4400f08d94fd2dbca34e4a993f741ab9bc40a
+Content-Type: text/plain
+
+x+)JMU024g040031QH,*Ê/×KÏLcPI©X‘òCè¦­Ï…ÖÊôérP…*J.Ê/.+â{y|M`õ;‡í]¯˜×¯àL–çÎüU”’š›¯—Q’›Ãpº-eB_ù2q5Ö3«ö;¥]U”Q¬W—Î`;Å#çíúBÁ×ë¼_ëúW¾½¦¢¬B&ñÇ7GÎ7Çõ½[åü^‡­b‚TEVqr~N~‘^V1Ã× ¼;~q=Õ¿¼QEN¼qşbU¶õ ›‘WÜ
+--UMTAXL0K02
+Content-Location: .git/objects/0e/e9c7ac517bee40b78aea03afa809631f0b69fa
+Content-Type: text/plain
+
+xKÊÉOR°0fp÷t³°LägàgXÈÈ ÿa@ñ'#ƒH$ÏÀ¤2E^àøÜÛºƒÓõOéüøß ç0í™fŸæ•Â[K$lö¿•fe° yà Ù
+--UMTAXL0K02
+Content-Location: .git/objects/a2/36310177f5d70509f88a02adf86c9bd1d4f1d7
+Content-Type: text/plain
+
+xmAK1…=çW¼cn"x‘‚‡^oBi{Y6fÜ&™%Iô×7Y=-Îe†÷¾7£k<><İÒ]Ê‡‘:CÅóª„Ø#Y?;BÛ#3ÒÄ—T%à/ä‰p&Ã¯öo¯/á96M¬4‘Í(¿Ó="ïÇdÃøŸÃÇfÊyN;¥ıã™¢ô|µÎ’ã¨(tÇƒ2ü™Te«Êl½ÿËĞ·yñîkº~µÙJ!N–ÊÂ]nâàl ³"½	r´yºhiY•Õ‡”¸Skkš
+--UMTAXL0K02
+Content-Location: .git/objects/1f/59571c1027165aa0abacb7cf55b58120a9eb56
+Content-Type: text/plain
+
+x•A
+Ã E»öîaÆ˜1Rz•Q'$4FI…¾^¡«Şç‡œÒZµAw«‡ˆã,àI0’ï:0ğ@°0¸ÑNªğ!{ÕÁDOÈcDK$q˜§¦&z€¶ãAñU—|èsáwÖsÉ¯”¿ë¶qrzj´v°h¡¾Ã šmÇªü‘¨«l™£N¼¯³œµûˆçRÔp
+E	
+--UMTAXL0K02
+Content-Location: .git/objects/fb/927b5bb803de0886a0d8f203cb9b0e8b5fe22e
+Content-Type: text/plain
+
+xuS]oÓ0åy¿â6/}(©WM“`J‚Æ¨PÅÇ&FhÚƒ“Ü6¦mì›´‘öãq>
+¥y‰ssÏññ=Ç©Ô)ÌÎ/._D£w·7_ÜÍ¡ R&gQÿˆ
+äyrş‰J$YÁ­CŠƒŠVá«àğWAdBüU‰:¾‡ËëğF—†“H%iE¨<n11_ãË¬°ºÄxöŒBq_
+j[£- ¶"§"Î±†İ‡Çõ²HÄä¦pOÚò5ÂõİÜ°ÆÚï
+º"SQÄúŞ×ƒ¥P(,®âq+ÿŠ±•ê¦k­×¹nšé’eÎ½YñRÈ&¾5¨&÷\¹ÉV9*‡ùÕÅùùÓ[A„öi™VŠªÉ'­ô,Êxì¨‘è
+D5ã1áZÊñ0½NDÛüízU}eê›÷s…áƒX$XÌáõcOáİq™†ÀÙ,kı»t…¨‡“d:Çî$®VŒl¥6}Ëô§'XäŒPåbõ†m!b}Úeªó¦«å¢†Lrçâ`k¹1h÷òŠY26r_Œª|°Ú y")’Ø\yÕ†«=SÙ„l:9¾êUù®À­Ì¡æ²Âc˜–ùIØgÜ‚)Ü„-¿|<Ş§²ò$`>n‘#‡8ş±v.İ9#“¼×òl¤
+„ˆ1>j»iëj”\(À/D0>ğãÉ4bf ibŞ¡Ş½?¤»ÿxïnïşo+#F@
+--UMTAXL0K02
+Content-Location: .git/objects/e3/8c0da2bb3f202635f8606b1d1dc4a0d20483b7
+Content-Type: text/plain
+
+x+)JMU025d040031QH-KÍ+ÑË(ÉÍaø=©:zó=¶7>1ŸÍ×ÿHEUV1ƒç¢Kñ¯œv«]íûøa¸øGÖÀ³Õ&@ ™›˜ZÌ°.:NÉs‹¨qg£Áş;ÍårU“Oï’™—’Z±ÊrRäŸ°ŸÒ&‡¶Õöşúşÿ_”(Ä˜¬âäüœü"†__ø9nú_º}ÊäÉÊÉßWÏ>Â5'713Oè÷¥É³k×ù×(„Øü>´9“	ª¤¸¤2'U/¹¸˜!òãì½Ó˜?7¸®K˜ãêşo¡ÿî¥ üks
+--UMTAXL0K02
+Content-Location: .git/objects/e1/5cd5548adfff7a1010c49c05194fc31de6e5cd
+Content-Type: text/plain
+
+x+)JMU066d040031QrutñuÕËMaXdfÈXşõ:+ç.¦µ?rf_¼òñ:TQjYj^‰^FInÃïIÕÑ;˜ïq´-¸ñ‰ùôl¾îøGz(ª²Š<]Šÿxå´[íjßÇÃÅ?²­61 …ÌÜÄôÔb†uÑqJ[D;ößi.—«š|zÔÌ¼”Ô
+ˆU–“"ÿ„ı”®09´­¶÷×÷ÿwø¢D!Æd'ççä1üúâÀÏqÓÿÒíS&OVNşî¸zö.¨9¹‰™yz@·¸/M]Û¸Î¿F!ÄŞà÷Á Í™Lp%y™i©Å%zå©I‰3Ó.]WòşRæ¹'Í­›Õll”¡J‹K*sRõ’‹‹"?ÎŞ;ùsƒëº„9®îÿúïşQ
+ ¨ÖŒ‹
+--UMTAXL0K02
+Content-Location: .git/objects/da/eca966a1debac14a9c85ba9bf14179bbb8af45
+Content-Type: text/plain
+
+x´!KŞblob 8618 ‰PNG
+
+   IHDR   –   T   Wÿ>o  ıPLTE   ”‹ƒÆ¿·¡œ—Æ¹«±£’À´©»¬œE>8HA8XNCæéïÁ¶¨ËÃ¼id`NHA80'Äµ¥qg]LE=xpf¢”„MD:»¯ ZPC?8.½±¤phaQG<mbT±¤•HA9¶­£80'»«™71*³¤’Å·§3-%]UK§›Ğ¾ªG>3Å·¥dWGÓÃ¯|o`ÎÁ²®ˆ—Š{Š€vuiseSxl`§•€SG:h[L91'seSaSAª˜„‹{isfY\QF†yi²ŸŠ­›„iZGA8.£y‰|nvj\xhVobSl]L«œŠND8ncYzkXeVAE<3¯ scM=5,Á®—›‚}lXk^PoaNaTF¯‰¥–…£’eWG³¤’’‡ ‘vj‡wd]P@XK<¸¥©™ˆj`V\N=ng]SdZQ£”„Œx“‚l„s^È´œ–†t—†pwlaJ@6«—,%½¬™²¡ŠydYNB±…Ÿ}¨“y€rc~p^qg^dXLTJ?¸«Ä°˜šŒ}™ˆuŠrƒue{m_¼¨•‰}_VMÁ°™Šz’…x‚v{ocxgRweNq`I¹¨”µ£·¡†“ƒp~in]E6-$Œp–hVQO1*"Ç¶¢·£‹¡x„zoxog½«•ˆmq]jY@N@1¶¦”ª—‡wqjf‚oY_YVI=/»ª˜·¨˜Á¬’§škc]«Ÿ“c^]Í·›£—‹ˆ~v˜„l}rg\L6>4(ˆu]bR:Ã³ ’„s³¥˜À©‹¡Œr|dE:,½¯Ÿ¯¢–}jSWH6TE1¾±¥Ô¾¢†~ÖÂ§’~dŒw]Ï¾«È²–¯šYUTMGDÏ¼¥jee¼¦‹Á´¨¹­¢Ğ» |z×Å­Ç¹©£š’˜ˆ®—yvpnQLJÊ¹¤ztpœ—”&Å¹­³¨³œ}wpÛÍ¹©‘o­¤œ–’Ç®‹Š¼¥…FA>ÎÁ³ˆ‚‚¸ €ÓÆ¸¡›¨Ÿ—kN…e´›wWG   6tRNS ş	zt7‹tiJ*Æ ]J#ÆÄ½©_?âÛªV*ìêàİÓ©‰LğëéâÖÈ¯ò¤›ç÷¢”Gí  &IDAThŞì”AkÚ`ÆÕ9{Øzèaze´°2Æn=yQèÉS ^T¢—v¤I!zJÖBFl/1;¬ {ˆ^Œ’îätQ‡
+b´V'Ú‰®b«^fÙ7XgwØ~Ÿà÷>Ïÿ}4ÿù§y¤[3<^]}¨Ÿ³ôzE¿úxM§ù›è«ú•§ë42©”ÀÓíz½P.”Ÿ?Õ–×–u4÷ÎÚÒÆf˜, À€¤1Œ‡¤@™L°‰D$§¼ùrC¿¬¹O–W.
+A±[èX˜,Š¨ˆ¢ 	×ø!$RÛ,HB‹”ó“quIs_èúu„$“Év6ŸÍÖŠEeÂÂAV@1+ÆA&átJô¸+?½—K3¬ll¶CFÇVƒçe¹ÚS»…l6+¦ã(É¸í•P¨˜¯‘E‰ä¾[÷xèùcÍ¢ÑÍË+£]‰#)¢Út'ã|>?‡ÓPÄ9½à1óuš*Æ1H{í52`Á^ô/ÛÉ
+åì™ê¬§(Õê¤Ÿ¿íDƒ M¤†SK¢â­f‰šHï%’-À-ÒkmiƒH0%‹ ªªªÒôûõl­&’Aš&ˆÎ°ÃhQ¤Ó7ìˆ‹ñ ØƒæexÆñ0Ëâå¼æÕ®¢vÇı~¾V+Æ+i’BåÛ°b0HQáQš½d+,
+c€="5RÀCÍ"xñˆØk¢Ç‡ÑàE$ÔqW••ñdRÃ!–%a”…©Â1,›®à¥Êèæf.VaÜ‡‡Ú\Óâ0kÏ>ÚHBÈp1´ÖVÆ&#+Š¢b0`Y¶’®TBŒ%åì4 ¸DQ¶UÂY¼UbGdRhNF<Òz(tK¿GÄR)™kY1¨H>EôzÕª"ƒlœŒSq†9ÁÚœ®¨	à-–½,ùæ\²!³{8€àP8\ñ'­>ç°$-s)‚ ‹ó‰Ry˜ˆê`ĞSˆŒ$“dÆ˜Î,ï¤ˆëãf¼Õ*]â&·s‚Ãôd~¶üëËº»U¸ÜÒXRàe,×Š ‰Èl:Ì„H†ˆa1†AÄëŠÎ¦M­ÕêòúİF£ÍÜòx|¾RËgvDÏfÖF–Û6×üòõ¯6›wûš†´\ï×Á˜"qADYœÖ-¡3v:RŠàyp»­V§Ô6†W×çgGG.»×aùâØÚöx<fóÉ»£ÙÀœlùj6».G¢X,Vî`µÚ.ËJ½^ƒ•ÀÄâ»•r9€.´cœ\ít$œï­ÍápxÕÜûF{}}~~ôÙëµ};®ÇÖ–y?úşz`:8İ>İŞÆñwZß(-¢(ÚÖÿ–ÑÒëW¯W@1¦LúŒ'$ƒxh‹VÛ'ız>çó%§SÛl4›şıãO§§ŸvıÚáù·³C·ÿã®?º»ãpy£¹oMóñÎÁñÁ©Çdòçlq´ˆ¢ ÿ;¦ÿÉiÕ„6†aŠnÔƒñ ˆˆÁƒâá;E!…L%x¤’T!µµP’ÑE…ÆU[ãæ!©…’ÍìĞN%m•şÛŠ=¸©]¡ê¶¦*U¦©¢Ìóşññğ>¿­Öb—LóÑ”ßÌHXºİ~SxÓnçRÖÂÃåtÿ,á’~ëÅr’‚­ğx¥Ò}ö²ZÌGG±Ø7RßworÒív})œ>u|¨T@ 1Wš'£{ÿÖ†zË^PVsj†×¼tºœó~˜½]«a¬jwÎÂââççºÄñ4ï$]íÌä§ì‰3SYz)P¹__æ_ÍÏ¿/N0±®3û‰R‰ È£Ğ\¡İnïø;*.ªê[.£DøõõÑ£VS“Rg-Ì>¸øu!ÃrŸÆ ÆEq=Ê‰ËÔ©|ŞŸmÀPy=2í˜v¼pLÇn_?q§ïÎÑşÇHnWCWU)µ¥wëÚ•ÂÚÂqş&îTÊ…·áå’ùÜZ\ôÃ©:_6[s™i/àu\×ÙŒÙœãfkÙ¼*óq˜¼c¥F%›E¼vsüÈş‰ÉªqŸ÷h¸_gºş•Ê~ıNİì¨,ŸcìĞœ]X°¬º},ÈÁğ6,ÓT³]IIaZcÜ‚¥S,¦ççèLWeŒĞ`ÒöÒÈŠÍzİ’a9İW¼~èÊÑ½‰‰@ 08ÌÀq-ş¬Ûíî\¡ì7I’äåÚíeT–iYæüDÎ¢UÍ¾[ªäqÆP²ÆxhšÆ8°~œ¤Hƒã1ïô:
+ $³fÇä2< ½}ïÏ»x4,]í§Ü#é¬Å?UºÍõ+ó¡ap¬æ¤mTÃ¬ç—¢æK
+P£nuÄîTË/iXÚ+¸Q:“ÊN~&J!(é‘YÔƒRäåq†
+:ySªÑ(!‘ûÎ\¹uòâÀãRâêéÉac}ªà»qmoïÚ¡
+k:ÑôíçBF±bGsÈ6ĞàR\2Ù¬=©Âœ#.†æ”„ÓºhO,¡¡E£ÀGy‡o½ A'ôL"IŸ#ÉSg_]:xøn"põŞ½a-„Äh¼¢l[³î—nÖõ¬éééÙÃwíZ½ãoz{ÊJH“oÉÈ¸ÅÁ67xT‡P²0Ô¨Ú…¢Nr2èôº®I"tN6hZÆ»‚Äé;=úzzl©¾’wK"Dl\g¯]?tğpàøñÑX‘$œÙg¢>ˆÒÆÏşî]³›€ …£şºá½ö¬ú£qìp
+
+ÈqÆ…ñŠÉ©&JPÆ5”ìGª¾ˆFˆ”»ÈxÓ(¡+°‚BA  PÔ½ëÓCÉˆğøÛ·ûÉd5ù¸tÿìÁkçö8uæÎø«a
+‚CÚèHÌ•+—{ìK@cö§>’í^Š:AâÀÁc›oçÙ´3t¿ÿªk˜RR§ª	‚1 Î‡œcB0¨qªUö€ÑqfM¥ìØ¶c¤M"‘óOçO&„ï?¨®–˜¦á8šèAcÔÄèÁ=z*c®¸;Ó)*h÷êædÚGZn®_í†Ón"ÎlFË`ºùÑ%>XLÌ¦˜ †DCFMTb4ñb½áõúòû¾ÿ÷(•ŠE²?Y(%ûÇL©á
+PßÖîå<‚¬mwÄr¹<ß°ÆHŒÁ¾Cã·tÊÑhË‘Ëş“Üæ?F]àô1Şá¬Ñmõ]}uõÑÕWn€‹ÚQèl_÷µî[gP&i$„\ÊVç† «Fã…¼ÀxœŒƒTÑt¦7^((˜G ’YŠ*Æ&ÔU™á`°½=õf‘Ü„êhsoïËˆŒĞpW—–PåX Ê'Tíj:zéöşn‰Û­dYÂfG»jİ¸ ô¸úèUØ8– êöñ([u€›´åRÑ:”ií ß­g]¯NŠ0,ñ‰LË™;&ü$V*™/•
+cÉÒ„Ú1{´ª¹ùÆ•8«ñiªvO7uÈZRúÀ¢ø˜ ı…´ŞÒRŞtúØbXËŸ<³	úf-W‡ã’Ñê³ÖØqw×#HB8m„·„EíCV€ í_3¢
+éÎA­0 k  —`/#zÓ_ÃTÇ¥ú3e0.eãÅd²ØŸ§©‘‘‘7›€zÏ;çÕŸÿˆPHšBi‚ I¥Í”§ıæéó§ËV->ÖÀÀóÑŞ%¿rƒ1ÙŠr6»P{ÁjEpŸ†ˆDp8 DÇb±¨FC¶Ù!3|ã5¨h•ÆC¡’’Ğ^q`ôg;:Lé1Œ£ŠÅü¸$ëõ©áé¹œ$tİ}=?Ö›ıTÂüıSñ6µÉ Åj,5dGu´âüõ+uäm:ëgÛsÛ·™ÈP·ÛÑ=ˆØpccw#‘H F¸5  l,•9’‰™-
+%y^,(®bòñ8évPqRx†Ä0ŒRØ,åCù8F3s0ªƒ®=½7Õ¹/Û¡®0¥³cùlµJeq9-§noĞVÜ»n±eéœµøüÌ“»Ñ(nÇÆÁÏ8Ğ= ‚ AŒ×t ¢±sv[yLD3	‚ö¶†$I*IúıL¼W\™m÷3ş8Û*ªÒ—²…ÂI‹áÄôìK‘ÏK:H÷ö÷ëâåÊÊzË©jõ¾š‰bMÓ¤³iòÓUv
+SWíÜ²Öê ÕÀBû~Şê¾;ÈÑöZ;ê6ÖZŒò? $¤áÙF6äXBöD2½¨‡”_H0DEF1qFWfa?HQm&,m¸l6SéKælškG3s„‚ MÏï=—÷Ô4¸œ.§J¥ª¯ßŞ r6•í(s6XÊöî]¹˜C(†jDİÀñ÷óK^ÖİR¦ÌĞ]óİFøÇÑã†EfPˆ‹D:–•iŒF	OBô€á6yóøÿL=‚ô§ÍfÌÔÙiP««Ûõ‡3™Y”¼­ı_~œ«¼é´l/sp•]w5TÖ,–šƒ®ı§n–·”¯]”Œ[½,w\§k4}Æß?>¦,‚È-$X¶@Ye¡*âŠéõ4K÷ŞØM#,«<è=ZŒº¨ÇiS;úÆEGVTamfC§ÁPyêÈá“»G†3K@Fšúİs§ÏĞR~ıEÓä‹ë/¶;Ë\M†Ê}ûœ»Ní8V^¾ö¿4œŠXéİCµC‰Xnfa~^™„CJo3ÚD¸¢ Á,'ğ4qv<ÎT³2-òÑ‹
+¬`Uóèh¤=àÑáŞ‹mu0Æâ”y_ç„¹ŞT}ôü•»wŸœyy{Şöu§[>µ´<œlr6¹\““®ªúSGÖ`Poß¹iãÁó—.ëŒÃ‰ˆˆH!DH|ğÁ—ív¬ëlÚ+ºíÆv=vuíü9¯?“m½wã¦uçîúLÖ”iYü©º‹KCr"Â]JìwÄ"‚	ñúJÖ¾ú¥ÉÓç÷äÉó{ºtsËáZT^­{ğÆÖ-=æ}V¿7Qop‡ŸPp<
+ãêƒı!š†TŸa‘˜œMlÎ}}áDµ$Ša‰"m’”1–%å¡¡Ïú]ëWùHÖ,LUIy[¯ßnöW~@°NU¸¬nUİ²Êíu†u=CËÖÌšòOvhi:{¬­óÄºa‚È•öÆ´ò÷‘äEòRˆKá`«è‰²èoN&¢J¸lY‰ÄĞÁdÇĞpÀq 6#Åi\”<èÏ*ŒfÓ…Â·tÑĞË_¾¼ÿùş³¶ÿÂ5Pu~Y]İÖÊŞÔ–í[¶n{¸mûâIÿnö·¢»âb´½]É&šûE\‰æF3hi¥ô´ÑÂC‰öŠf‚†Î€Ğ¨%H"R‘Èš `tm¤6P@f!‰Ñ>ŠçIÏ†U«6¸|¤-ó›j”uXiÇqĞ’»á¨ªªºwåüšÊªò|åÖmõsfMÿo€_²¼ÁÁÕQïÍ¡ğò
+/!JJÏè´µrL‘EÃEË,f¦¨ä\“9l½d!"E$AQ†h†M³,Çú(°<FCÏ±é8'Ğ`´<òıû¥{O56Vİ¬ß»·wÍŞ+õõó'şÿ‡aò¢'Ï›š®5Õ&¼È»6oÚ´ºbG_09jãŒQ.:&Rí¹¢dZ&¦Œ2J"¥1”H9mIÂhŠƒ&øR¡ÄÇy¡³LEj1€Ûí9Ø_ÊÆ¼Á^C ¦g` ~mıÚÆ©ç!Mıw-yòøõî¦£'¢Şd_[í¹#íËƒËo ye"†§r:ÍÉ4˜˜’èêR¢Í[(è”“1‚ŒEó<t@sX<­3 Xˆ5oZ-hœêd0ªah×åsgvtUt´\]Í›' ¥ğX
+»×8cŞ5*²_?Ù¶:Öª¬ÜWÛìCÅÆòÍ<™É02£1"®Ûj‡tˆ|:m¢(à¤ó&&$q Å„¦ÛºÎd³8g²@†€†ôprœãóyGÇ\ŸŞ:Òİ½ïÌ™Úã§³ªçi;™Ìv­Í6V¹½äªú·­ó#‚»»;6ï®8²3¸âchD&…ãOÊzÑ`òÓa8†ã3å´j:¢E59cI[ÆÆ,åó¥B¡¤–Jñ¸Š> Ÿ6Š¶Mº(°Ş=×9Øùb°éğÆo¥Ãd¥õúì1;÷MÈîßX7lÛ} sß®ìò+P¤St'©Tã¡2v;k—³a&©B €Ii†…xsŠˆ:„$ ¨ù|º-™WK¦cæ!M“´ÛÖ†İ}Ûıéã×;_ÜÙM®UÕšxMãúoz4sÂX]ÖÕ«‡xÇİ>ÜtôìÑÚ~<¼rSç¦Õ!Ù*w…C†'Sd$PMd¸§Z"îŠrSšÇĞø´Qéˆ3Õo$Ÿ¯A"IÚŒÙÅ÷Äk|
+Ëà—Ÿşz{çë§ß¿ï\s7
+j¾Ğ—"[m¾øjòXmÈíoÆ?jA`°sá¯@›Ô¾>ÜNÃ1_t á‰ÑíÆä	€Id.j£Ëç«ëÙà¦ĞÁ\XÄåâ{{k¶ü!Ìú~]Ãpw¸ˆ;q'qA×éºél]í´ÕÑv’›¨³±2;Øpª1m±•Îïu!æ7á°
+6Œ`óc‚ ‘Ã™‰G|ş€sÜ~É—ïÉó=ïû>yŞP0-Qô	‡$‚Ÿ‘æÀÇ/íöŸï´Ã6ºxÀ¼8„tö< ‚“‡¾O¶èş)×Ñ‹®ÙsR{æ¾píï:†x.Ÿ=¹h¦³·7Şö?îD:»½RwFBönvf8!
+Ú‚œ…0 å`¯ƒä!¡Cæ|Ñ¨/p“&ËšÂÙ%ñb£øçÏMŒípÀM·Ğ¬ Ë)·2ìò1øRgäº«V=?ßÕµzÛú£ÎˆçöfÏxR}Àâ%…Hgf‰·c/îƒÙÛíD2˜°8$G	´%H˜gHœq\”¡+V/âË¾ÜÕ;Ğşó£ªİ[k³~ö²2*³Èö0’›ûfòÄ!Ò¶#¯?ş´áõÂÅ³@µ©7î‘_=y£/ß‡@…pÀ¹LĞäK$iÖRN÷s1:#	æƒ­“K5‘œg (ÆZbª–bƒgß­øók@«¬]š;ı³pMsd*{{Ï¬o§Œ4?úğşé«ùw/ºÌ›ÕÕÛWíE2ÙËğ?²jÜ–ş$KzqX^ø€Ö*+-8€Aâ<N²!ú'^WÃ(
+!JÙ)…MSq|]\l[¥ÊÚÃİ€¿UÈfeçsaqY½6~ĞşÈ³gÏïn=¹àÚşÙ\›Šñî5Â‰˜È+Pëe†‡y
+F$©à>œ-³Zú
+ÂÁO`˜vsJÙ2Egg°tŒ F>Õ0ÊMñú•¢¥?:x(ËM'Ói4ÁÂâê7=ñÓw"ç¦4›ÜæÏùÅ»æÍŞy×U-&¤Í›—8kñ|S„¹ş¬O¹ ¯§³<k*,Ã²ªRV©‡¶ÏÀ¤$ñ¸DbËišEÍ® RÔ–˜¯Şl–›M£&.yÖ)›í`ÀïÕºE†Í„(ŞF”î¹±C­Rz.¬8~Íåº¸Ä"Dw NLIQ"­(dŠ ÒYğ¯èŒÊè*-_ë×…dMœÁMæf2Ô5S5#B‘›TZ±ßVÃ0¤co´R±ln[€¦›I£ç´,vÛÛyñ#†Z<›:nÚş“çö&Â¤·cÍ<…”ñ:³´µ™3á<©Q¢nš¦2*eÜ¢l4d·`¦¤Ù—Ï¤ƒzÙª‹e¥Îøxİîï5£Xmû,Q¢¢*nw ˜?
+´åe·Ï¨Îxû­3wéô¨ÿ,z&­Û·ğ˜‘½Qa‰—¬5)•BÑÍb‰eKÅ0 Fg4•Ù©›÷è leÄ®)Úr{zfPWëJ]ÓÒôH²ÿ*aT‹ívÕ0ø&IÓ@ñIÚ¢[„½ ±ëåÛ«ù•WÆkÔş}]]ÅfNòÆ„i4¬ŠıƒÅ°¦ª!t)¥c¥[%¥Ì¨¥[Ë“îtÉ±cøÕ[7—nA)½¤+ í”Fg¶Èh·?\›ú*6]¡ıt hŞœ™Î
+Şæ¶•İ]W¼XâÊ˜¡Pım×êB›†¢pÕ—v‚+:ÇdƒDoÒ«Í Ñ®åÚ„mÑŒ­ø ±° ÆÿÿŸöA5‚6(3/*¨©yÑÈZ|DÁ'Á‡)	
+â:|ğ{jÍ=|ç»ß¹çÜt÷ìÙxx÷£{×Fâ¥üÑìµ«—î–)†ÙJ/•Ë1‰
+ùªÖjÕj¥êi®ÔÆ²ìã„¯"ŞÄ¸*l«¤Ç!ş2õàã»wo_¾]ChèÒu–Ÿ¿Â,’™ÜàşÛß¼ys=$§ºAèèARæáá§Û®eÓHå†?Ü1”€ùÜì¾š‹ÌF¢Kpš_å4İæ‘"S2Çù§IT&6t.V‰	‡û*ûàåÛ·>&E^§Y–¶Ãí3fuZ¼Áä©ó«ñÑÕ§6=¹òæññÒ²™­ïê–eK&IïÜ’2y†ÊÁÓhšæ„V¯V9"êMãÒN(~Ís›…®X“$™‚@^Wåx6Æ„\NQÍ÷w†¾=vàÅ•õ@„®"ò¥ĞEt3ŸJR©Á}ûÏî:{wıíÍzk˜;˜L•AT|ÄœÈgG÷î½ ¤Ó1k¬ì{®M»>È‡ók>Ç5XÖİ&Æ´ #ÅÔNwÂ†!ŠÃóüÖÈ£—'Wsè:mÕ¡‘şÚpÍ7JÙ\fß©ƒÉÁ˜b’g,·4®«f)¸õz=p*õôå¡/l)UPì<ËÖ5 HÛk8U´tGÃE6UUMpÊ’”ÎM˜~
+4ysğê³áF}"¨º¥3ÀÈ×°òñTêÊé‹C#û×å7oºÒÑÊ¹fÌ½±m
+ŒÜÀ²ŠÅ×î½•ÛFa™­:>^ö›.kóïû~³¸´m“ÀÃMœÀ*!¦.êH“² .A`$o„ŠcÙ–%.ŒöGÚ¿­Õiä¯$åäñã¹-ûâ†a¬]×İòqhõ‘xN’0BÈaih|Ç¶–ÏAXzI©?¯zMù•r"ƒ/A]¤‘ãsš¦aDt‚XŞĞäT*+@Î‡Ïoal¨Í½ÑyÚ¿7€.£TP)K±x‰1y½ï™ÕÂ±¬Šå+ŠFt],»2™e"Lm"¬Šßh›xµJàCÚbš~…ó=Ù d",SIg†Òc£v¿–v‹}Ñyİ“,!ˆh%9!SÙÒ	8ÏvQ-$¿ÄÉdÊ±
+h\b·^÷‡:zz²òÇÇÁ <·n°†je",Œmºì…ZB"@—ÎêF6aML^Ô6§½•`Š¢Èp@…³c¼°Æ-+ZxÖ¢Õét‚“´Å³Ã¶oûÙ]ókÂ†±ªæuÚ<–×l:®ë²¢Ó¨qµ\®¤}ÂòJ)Ëawu„Z#L@Q€Éçù]ñu÷§-™TôÓ—Às1ÖÀ¡ÿ¶‹ÅïúÊYsºaÍk€ĞmÚq\§Ùlz^ÓA`ó!IÆ
+ÆªÀÏ^L<n!ü‘°`
+È˜'XÜÍÙ“²Å¨:bdƒ¡ä lN·?d }Nd^çü^6<ëMKPdœ£Ò<ÍÇ˜ã<×AMÇA]°ÄÔXÀ»&ĞEÉ	l@¡d-ëı¤ÿ™ÙÃÓŒ©2¤Àë$xıºoòr0sV{Û¼şh/t
+"”5u‚< gbLümu½JI"ºh‰¬­wOºÜÒù¦d±×¡ £ÅyS¿şÔ…û{ët=pÀİÎ®H¤íºíz<*G„giºh³tg‹—n:Ûº{tñ}_˜îõ†C?GGˆ‹F;Ãİ¡ßF„Gc ~‹¯Á%é>qÖ,„EqNè}84 Šÿ«h‡Ô!—¥YÁvø¡)2¡Bı}„-hÎhêœİ	#İí¡3"}vĞ]0¡Õ™¡3ô‡ç@¹ü?Äg‘ªlëy Ro    IEND®B`‚t}­Á
+--UMTAXL0K02
+Content-Location: .git/objects/ae/5b5e2249b41533898130bfdc83771e7a93cbbc
+Content-Type: text/plain
+
+x+)JMU042b040031QH.ÊOÎOÉÌIÕ+ÈKgàı™–{cîÁŞÏKŞk(ßá(Úûu
+TaZfQjZ~E~1Xá}‡ Öå2Kª\ò/OMY!k˜xÓkTaI~QI~f1ÄÀ[oV¦-¼·ë ×œÖ]³?:VîŞ±Ş 7/
+--UMTAXL0K02
+Content-Location: .git/objects/cb/860664908e77a617261405e0997abf4265c5ab
+Content-Type: text/plain
+
+x-Á‚0D½Ú¯Øô,^ˆ1K/~I)K(®–´‘¿·R¯3óf¦çØÃõÖp’[…¹Áª3J&;g9&èÑTM¡©!ìã°[UÂÙ§°È¾P§…>bf·¹ªjÈÉwúßt™³¶hªõcü&Jtïeğìrîô±¬as¼–Ö¶Ç¦ÑASwËãòto?
+--UMTAXL0K02
+Content-Location: .git/objects/3d/94486cedaf7111d010fdaf2cefad45fd1f878b
+Content-Type: text/plain
+
+x%–y üÇ16,•Ü[™ÊSˆ=KÊ1Ç\)¢ğD9*×Òåœc–k¬Ã}„èr6¤¬fÅJ±ñ¸oñd™%ŒeÌ~›ßßï÷ßïçõ>¾_?Ì¿p#c„XÚy';y PLLLŞÁå*<_×U	á>Ñ+&´v@Y^Œe—Œİ†“³‘šóı.@®Ïê¶OÒOH*ªºÕBÆšfQ<“#A×õJ~€& Åp?fÑ?äiËÈg“àÉuYŞå®Ñhå@şÖ#X‡/«i¨áÁg•BwÃP	»Ø¤Xéo²k.ËÛ2H6¢W{<ÅdS¼|ğî­¢%@‚§%Kh)ÜÎ/¢fPŒQ¼ößâ|îğ{+´Iräğïki-A:²b
+I‡#ğuk‰M[Ù¾â]ä)Ví´ØÜ;f­Ìûhÿ8*ïcğ9G£4‰º—V§dé…i-™¦Ğ:´®UdÆe¯ígÓK¯>µ+‡ÒSœJ¶`U«Ä~öS¼ÃĞJ¸·MŞ“ØŠ•ËI’åÍò¾ŠÔå˜šËò2üÃß1­/jÒÈ
+*­
+Ë’¨]•Ğ#–KZÍIúëG¿º¿;ue;œ]¹_¼‹íŒ{sÑ“L¸jìÛRÍıI¼ãgKoÛWVÒ¾¸çØŞ!p ¶iÀÍìY¬CU9tßÓgl†ëë Çü{0¾¸a0odãu_dT™}Ûcb
+Uk‘ü}t‘@ÑŠcÙõ¿/ôúõ"d€ÔG°~¾^Z¨À†“nUŞàçß‘"WuNvÙ´;"¤|c¹Ñ‚a)ò ±òKUÅÓÅğ´p­µY•@œ_³­Ô“÷—À-ï²N¤¢kg©‰,D2D°è.Ğ×î3{AQOÌ>ğîĞ“'1’İƒCv%	—ù·i'üŸÏÀvñK3ƒTÓŸt3Ö„$XáÚ°g7A'mmWN/­Z[hyWºÏC'¨}ÓàÑ)g/$hõÛ;­†Ü2¶„œƒ“»"Â¸ßV¾6Ìâ]­¶üÔÚÂAçjQ.£ß¼‚×°Xàd‘/°xUç“àm}«ê‘š¢»
+µ>sÖw-¡§«Lz’›i‹ÌÂ¯k¯ßÕçÀzŒ0Ãœ™š|é­V7$6Ì‹p¯<ƒwò¸¬à¡aèÕÀÌV´×œ†!ı—Ê3(½ûzhúØ¶Æ,PÎSõ½¡ÏİLf´tâ9³h¦{ñÁ,›»,½Óc¡as[qoÔíÈëóßƒc"ÜÌÎ9€7î8>[ÕdBcòåµôºK‹"¤ö×ÈÉ›kÈ”hÜÚRnÁWlf0Ù^åjşŠ
+IY@˜O=î˜“¼Òê…àñ®Æ%‰ñ•:´U<ï<SÖÁ l×æ{…Ñ®îİ›*ûVòÆ©qúMH’Y˜7´â(4û¤aöŸŞ+Œ4ã¸sªÔ5~Ë¯òi|è°Ã»íÎÆ²7»Õ­a8}Rİ“ù‹{:şŠ=‘Qï|ØŒÛ‹°âÊ5zTÂ•ê|7PÒËB½x”%·ÀB·*…W‡\?Z}8$¿%´M€Ÿ2“,hC2€>WšÚÃ^©m,pÑBæGšSŸ	äƒ\cÁéİ9ÄÛ·¼TùUÆ«]%]=îŸ9L›Ô™8Çeİ¯7nzİ¸Şö3'M_KÌ^UÂûá•IEò:}¡´,PËMÕË•¸X'5á<7õXœò`X®p}>ÛI3w;B©¿¥'@T¾v 9úÓçÇmÆ¿8CeùÀ×ZÈ¸9Şç©—}¥ “\¸²£ÑP>’«+š"l¾_WêÆ¹ùçÄ”I{Œô9:® ¿µâüY€QìÉŒ!¡>"]c±°Ÿ%[¢ÿpä(ëñ‘‰@|†®ÎélTÁµ3SGZúˆQûÖ¶¶²¤mG†¡~	®ÎÔ¥ã¢µÂ\Ç/å»¤$&jáo<Yom/v‰3ëŞ¿šy´«¾Ë?àØÜúSãZ£ı0òÓÌ—òJÿñç!ÅL1ŞL1ìkBÎSY´ô)€•ñdÓ/N¡`ôËÛ·TÂF#/ "å;F›Óß-§bÛìjp¼0QÊmWGÔÏ{Jxtg©G.tZ——¤y—ÅlÂ¨ş8bµ±o¡MğÚ¬ö×j¨Ô¸êL&º¿¥UÂx÷è£a»”ßZ?3œ‚°»?OEU}Ø‡È´èÜ_(»zßñ$“¤PŠ`H“!†nŠ³¨‰é€-e>v"LOš<âÒû£/)š15›Øõöésn)(Ìï:Å­Ã 
+xŸfÄ™Ÿ2×¥¬p‚êzja²§KFêZÚxBÀ /Œ˜8i…‘ëîÁ¥õuMØºÛ:¤£1f<
+‰"ÅjÇ¦üC+_æd5ü”X½S4±räÍEdi^ä-ŸgFî®·Ú°S+Ş8íFJúg±Ğ%l‡IŒ¬Ù[ª§î6üÄŠREªé¢€±È§`®">Õ?zØô1Ur•?»  =4 ~yÂÄÊ÷Ë«ÎIN[’n[šKb†Äl¶ËĞª•”@­œOF´÷ß´x§k{Äà5°wÿıÆ’d4W°âJ–†Úÿe³i°Ã{q««ìKafMæJ®A3n:š!êŸ`œ>/4Çe%÷“°¾¥E`Èy¸J.&G<yËæ’}Im‘ áVµÜš?É“.9õMÏ×ˆĞä'H‰ÄäôR²xÎ	uèHXD&b†.ÕÙlÖ_y¼áe)€’7,MfËşÒv¯½,^£y\GwŞ…è#>Úi	œÅ™¶šĞŠZ8¼ÄM²h¶ğ«±¡ets‡''›]jsWm1–]søs®UÃÒË5ïŞ,¯—Ø^&rˆ¿›øevèN7hm²ÇãFTø…1wlÚbgÚäø³X5™g5ğ>óŞxO¤Ó]Q¼Z×`:WB£«WÎ®¼ıwtï¹şkè1Áñä±‡°Û½`¨f‰‹3ãqŠÒ)®sßpğÓi\ÍzËÖü±z4ªêœ¬_t§Ó:|¨/9 ımô¼î‹‘¢c±xI­îğ¦;^§wPò$ıö¡Î5^½‡Õ	É¾ˆÍÎ˜á&HÛ¶Ò`?ïzÂg?¿ögªäû+ù*{Ö`ÇIS¼òN&xJüw
+<zoX‘<f|lë»ˆHÉ£J0ßıËNî)²B¼}"º\õ©ğíå×–e¥]·ÄŠe…ÿ¹¸)´©8!êI#œüÇ…Ï*ØD¶z¬0j"•`æÀÂ3CüXì9¥WŸl‹:Äon:B	_¹»ğà}Ã)š»o,EA8¶~2=‘:Å-ÊJù™wÄh_óÆ¡1ÒMê$å°rèÄİ±ñ4§¡lÁË¶ùÊ€’<¬Â/ƒŸà^ñKú·\X°úŒ×ñhsnzÿ}ïô®O¹„Í2~[ÔoCWœ‰ •Æ!·Kæ´\ÆÁy9D ¡Íâôì;O/n …¿J1'T•Ïİÿ(ïJÕ
+--UMTAXL0K02
+Content-Location: .git/logs/HEAD
+Content-Type: text/plain
+
+0000000000000000000000000000000000000000 e2374ecbf5cdc4128aad6b7048df8ea909f07dd1 shako <sho@mozilla.com> 1445411886 +0800	clone: from https://github.com/ShakoHo/web-storage-demo
+e2374ecbf5cdc4128aad6b7048df8ea909f07dd1 031376feea259e43a4c3cbb167da2eacee2abd50 shako <sho@mozilla.com> 1445412184 +0800	commit: upload manifest.webapp
+031376feea259e43a4c3cbb167da2eacee2abd50 ba142747a0119c316bd5cd96c78015496c76247f shako <sho@mozilla.com> 1445412586 +0800	checkout: moving from gh-pages to master
+ba142747a0119c316bd5cd96c78015496c76247f 031376feea259e43a4c3cbb167da2eacee2abd50 shako <sho@mozilla.com> 1445412604 +0800	checkout: moving from master to gh-pages
+031376feea259e43a4c3cbb167da2eacee2abd50 c2db60c6b1d1466ee0ad159a196b197c300b3cb0 shako <sho@mozilla.com> 1445412663 +0800	commit: upload manifest.webapp
+c2db60c6b1d1466ee0ad159a196b197c300b3cb0 1f59571c1027165aa0abacb7cf55b58120a9eb56 shako <sho@mozilla.com> 1445412761 +0800	commit: upload manifest.webapp
+1f59571c1027165aa0abacb7cf55b58120a9eb56 ba02bb50b2c7d1909c9e98b255815ea06a8402d8 shako <sho@mozilla.com> 1445412865 +0800	commit: upload manifest.webapp
+ba02bb50b2c7d1909c9e98b255815ea06a8402d8 58b27b745aba52b4648d9ea9f7167a2469055db0 shako <sho@mozilla.com> 1445412947 +0800	commit: upload manifest.webapp
+58b27b745aba52b4648d9ea9f7167a2469055db0 f4c01e6b80d4c4081b8f7ec222cbc42e29736f27 shako <sho@mozilla.com> 1445412985 +0800	commit: upload manifest.webapp
+
+--UMTAXL0K02
+Content-Location: .git/logs/refs/heads/master
+Content-Type: text/plain
+
+0000000000000000000000000000000000000000 ba142747a0119c316bd5cd96c78015496c76247f shako <sho@mozilla.com> 1445412586 +0800	branch: Created from origin/master
+
+--UMTAXL0K02
+Content-Location: .git/logs/refs/heads/gh-pages
+Content-Type: text/plain
+
+0000000000000000000000000000000000000000 e2374ecbf5cdc4128aad6b7048df8ea909f07dd1 shako <sho@mozilla.com> 1445411886 +0800	clone: from https://github.com/ShakoHo/web-storage-demo
+e2374ecbf5cdc4128aad6b7048df8ea909f07dd1 031376feea259e43a4c3cbb167da2eacee2abd50 shako <sho@mozilla.com> 1445412184 +0800	commit: upload manifest.webapp
+031376feea259e43a4c3cbb167da2eacee2abd50 c2db60c6b1d1466ee0ad159a196b197c300b3cb0 shako <sho@mozilla.com> 1445412663 +0800	commit: upload manifest.webapp
+c2db60c6b1d1466ee0ad159a196b197c300b3cb0 1f59571c1027165aa0abacb7cf55b58120a9eb56 shako <sho@mozilla.com> 1445412761 +0800	commit: upload manifest.webapp
+1f59571c1027165aa0abacb7cf55b58120a9eb56 ba02bb50b2c7d1909c9e98b255815ea06a8402d8 shako <sho@mozilla.com> 1445412865 +0800	commit: upload manifest.webapp
+ba02bb50b2c7d1909c9e98b255815ea06a8402d8 58b27b745aba52b4648d9ea9f7167a2469055db0 shako <sho@mozilla.com> 1445412947 +0800	commit: upload manifest.webapp
+58b27b745aba52b4648d9ea9f7167a2469055db0 f4c01e6b80d4c4081b8f7ec222cbc42e29736f27 shako <sho@mozilla.com> 1445412985 +0800	commit: upload manifest.webapp
+
+--UMTAXL0K02
+Content-Location: .git/logs/refs/remotes/origin/gh-pages
+Content-Type: text/plain
+
+e2374ecbf5cdc4128aad6b7048df8ea909f07dd1 c2db60c6b1d1466ee0ad159a196b197c300b3cb0 shako <sho@mozilla.com> 1445412671 +0800	update by push
+c2db60c6b1d1466ee0ad159a196b197c300b3cb0 1f59571c1027165aa0abacb7cf55b58120a9eb56 shako <sho@mozilla.com> 1445412769 +0800	update by push
+1f59571c1027165aa0abacb7cf55b58120a9eb56 ba02bb50b2c7d1909c9e98b255815ea06a8402d8 shako <sho@mozilla.com> 1445412872 +0800	update by push
+ba02bb50b2c7d1909c9e98b255815ea06a8402d8 58b27b745aba52b4648d9ea9f7167a2469055db0 shako <sho@mozilla.com> 1445412955 +0800	update by push
+58b27b745aba52b4648d9ea9f7167a2469055db0 f4c01e6b80d4c4081b8f7ec222cbc42e29736f27 shako <sho@mozilla.com> 1445412992 +0800	update by push
+
+--UMTAXL0K02
+Content-Location: .git/info/exclude
+Content-Type: text/plain
+
+# git ls-files --others --exclude-from=.git/info/exclude
+# Lines that start with '#' are comments.
+# For a project mostly in C, the following would be a good set of
+# exclude patterns (uncomment them if you want to use them):
+# *.[oa]
+# *~
+
+--UMTAXL0K02
+Content-Location: .git/hooks/pre-rebase.sample
+Content-Type: text/plain
+
+#!/bin/sh
+#
+# Copyright (c) 2006, 2008 Junio C Hamano
+#
+# The "pre-rebase" hook is run just before "git rebase" starts doing
+# its job, and can prevent the command from running by exiting with
+# non-zero status.
+#
+# The hook is called with the following parameters:
+#
+# $1 -- the upstream the series was forked from.
+# $2 -- the branch being rebased (or empty when rebasing the current branch).
+#
+# This sample shows how to prevent topic branches that are already
+# merged to 'next' branch from getting rebased, because allowing it
+# would result in rebasing already published history.
+
+publish=next
+basebranch="$1"
+if test "$#" = 2
+then
+	topic="refs/heads/$2"
+else
+	topic=`git symbolic-ref HEAD` ||
+	exit 0 ;# we do not interrupt rebasing detached HEAD
+fi
+
+case "$topic" in
+refs/heads/??/*)
+	;;
+*)
+	exit 0 ;# we do not interrupt others.
+	;;
+esac
+
+# Now we are dealing with a topic branch being rebased
+# on top of master.  Is it OK to rebase it?
+
+# Does the topic really exist?
+git show-ref -q "$topic" || {
+	echo >&2 "No such branch $topic"
+	exit 1
+}
+
+# Is topic fully merged to master?
+not_in_master=`git rev-list --pretty=oneline ^master "$topic"`
+if test -z "$not_in_master"
+then
+	echo >&2 "$topic is fully merged to master; better remove it."
+	exit 1 ;# we could allow it, but there is no point.
+fi
+
+# Is topic ever merged to next?  If so you should not be rebasing it.
+only_next_1=`git rev-list ^master "^$topic" ${publish} | sort`
+only_next_2=`git rev-list ^master           ${publish} | sort`
+if test "$only_next_1" = "$only_next_2"
+then
+	not_in_topic=`git rev-list "^$topic" master`
+	if test -z "$not_in_topic"
+	then
+		echo >&2 "$topic is already up-to-date with master"
+		exit 1 ;# we could allow it, but there is no point.
+	else
+		exit 0
+	fi
+else
+	not_in_next=`git rev-list --pretty=oneline ^${publish} "$topic"`
+	/usr/bin/perl -e '
+		my $topic = $ARGV[0];
+		my $msg = "* $topic has commits already merged to public branch:\n";
+		my (%not_in_next) = map {
+			/^([0-9a-f]+) /;
+			($1 => 1);
+		} split(/\n/, $ARGV[1]);
+		for my $elem (map {
+				/^([0-9a-f]+) (.*)$/;
+				[$1 => $2];
+			} split(/\n/, $ARGV[2])) {
+			if (!exists $not_in_next{$elem->[0]}) {
+				if ($msg) {
+					print STDERR $msg;
+					undef $msg;
+				}
+				print STDERR " $elem->[1]\n";
+			}
+		}
+	' "$topic" "$not_in_next" "$not_in_master"
+	exit 1
+fi
+
+<<\DOC_END
+
+This sample hook safeguards topic branches that have been
+published from being rewound.
+
+The workflow assumed here is:
+
+ * Once a topic branch forks from "master", "master" is never
+   merged into it again (either directly or indirectly).
+
+ * Once a topic branch is fully cooked and merged into "master",
+   it is deleted.  If you need to build on top of it to correct
+   earlier mistakes, a new topic branch is created by forking at
+   the tip of the "master".  This is not strictly necessary, but
+   it makes it easier to keep your history simple.
+
+ * Whenever you need to test or publish your changes to topic
+   branches, merge them into "next" branch.
+
+The script, being an example, hardcodes the publish branch name
+to be "next", but it is trivial to make it configurable via
+$GIT_DIR/config mechanism.
+
+With this workflow, you would want to know:
+
+(1) ... if a topic branch has ever been merged to "next".  Young
+    topic branches can have stupid mistakes you would rather
+    clean up before publishing, and things that have not been
+    merged into other branches can be easily rebased without
+    affecting other people.  But once it is published, you would
+    not want to rewind it.
+
+(2) ... if a topic branch has been fully merged to "master".
+    Then you can delete it.  More importantly, you should not
+    build on top of it -- other people may already want to
+    change things related to the topic as patches against your
+    "master", so if you need further changes, it is better to
+    fork the topic (perhaps with the same name) afresh from the
+    tip of "master".
+
+Let's look at this example:
+
+		   o---o---o---o---o---o---o---o---o---o "next"
+		  /       /           /           /
+		 /   a---a---b A     /           /
+		/   /               /           /
+	       /   /   c---c---c---c B         /
+	      /   /   /             \         /
+	     /   /   /   b---b C     \       /
+	    /   /   /   /             \     /
+    ---o---o---o---o---o---o---o---o---o---o---o "master"
+
+
+A, B and C are topic branches.
+
+ * A has one fix since it was merged up to "next".
+
+ * B has finished.  It has been fully merged up to "master" and "next",
+   and is ready to be deleted.
+
+ * C has not merged to "next" at all.
+
+We would want to allow C to be rebased, refuse A, and encourage
+B to be deleted.
+
+To compute (1):
+
+	git rev-list ^master ^topic next
+	git rev-list ^master        next
+
+	if these match, topic has not merged in next at all.
+
+To compute (2):
+
+	git rev-list master..topic
+
+	if this is empty, it is fully merged to "master".
+
+DOC_END
+
+--UMTAXL0K02
+Content-Location: .git/hooks/pre-applypatch.sample
+Content-Type: text/plain
+
+#!/bin/sh
+#
+# An example hook script to verify what is about to be committed
+# by applypatch from an e-mail message.
+#
+# The hook should exit with non-zero status after issuing an
+# appropriate message if it wants to stop the commit.
+#
+# To enable this hook, rename this file to "pre-applypatch".
+
+. git-sh-setup
+test -x "$GIT_DIR/hooks/pre-commit" &&
+	exec "$GIT_DIR/hooks/pre-commit" ${1+"$@"}
+:
+
+--UMTAXL0K02
+Content-Location: .git/hooks/commit-msg.sample
+Content-Type: text/plain
+
+#!/bin/sh
+#
+# An example hook script to check the commit log message.
+# Called by "git commit" with one argument, the name of the file
+# that has the commit message.  The hook should exit with non-zero
+# status after issuing an appropriate message if it wants to stop the
+# commit.  The hook is allowed to edit the commit message file.
+#
+# To enable this hook, rename this file to "commit-msg".
+
+# Uncomment the below to add a Signed-off-by line to the message.
+# Doing this in a hook is a bad idea in general, but the prepare-commit-msg
+# hook is more suited to it.
+#
+# SOB=$(git var GIT_AUTHOR_IDENT | sed -n 's/^\(.*>\).*$/Signed-off-by: \1/p')
+# grep -qs "^$SOB" "$1" || echo "$SOB" >> "$1"
+
+# This example catches duplicate Signed-off-by lines.
+
+test "" = "$(grep '^Signed-off-by: ' "$1" |
+	 sort | uniq -c | sed -e '/^[ 	]*1[ 	]/d')" || {
+	echo >&2 Duplicate Signed-off-by lines.
+	exit 1
+}
+
+--UMTAXL0K02
+Content-Location: .git/hooks/post-update.sample
+Content-Type: text/plain
+
+#!/bin/sh
+#
+# An example hook script to prepare a packed repository for use over
+# dumb transports.
+#
+# To enable this hook, rename this file to "post-update".
+
+exec git update-server-info
+
+--UMTAXL0K02
+Content-Location: .git/hooks/prepare-commit-msg.sample
+Content-Type: text/plain
+
+#!/bin/sh
+#
+# An example hook script to prepare the commit log message.
+# Called by "git commit" with the name of the file that has the
+# commit message, followed by the description of the commit
+# message's source.  The hook's purpose is to edit the commit
+# message file.  If the hook fails with a non-zero status,
+# the commit is aborted.
+#
+# To enable this hook, rename this file to "prepare-commit-msg".
+
+# This hook includes three examples.  The first comments out the
+# "Conflicts:" part of a merge commit.
+#
+# The second includes the output of "git diff --name-status -r"
+# into the message, just before the "git status" output.  It is
+# commented because it doesn't cope with --amend or with squashed
+# commits.
+#
+# The third example adds a Signed-off-by line to the message, that can
+# still be edited.  This is rarely a good idea.
+
+case "$2,$3" in
+  merge,)
+    /usr/bin/perl -i.bak -ne 's/^/# /, s/^# #/#/ if /^Conflicts/ .. /#/; print' "$1" ;;
+
+# ,|template,)
+#   /usr/bin/perl -i.bak -pe '
+#      print "\n" . `git diff --cached --name-status -r`
+#	 if /^#/ && $first++ == 0' "$1" ;;
+
+  *) ;;
+esac
+
+# SOB=$(git var GIT_AUTHOR_IDENT | sed -n 's/^\(.*>\).*$/Signed-off-by: \1/p')
+# grep -qs "^$SOB" "$1" || echo "$SOB" >> "$1"
+
+--UMTAXL0K02
+Content-Location: .git/hooks/pre-commit.sample
+Content-Type: text/plain
+
+#!/bin/sh
+#
+# An example hook script to verify what is about to be committed.
+# Called by "git commit" with no arguments.  The hook should
+# exit with non-zero status after issuing an appropriate message if
+# it wants to stop the commit.
+#
+# To enable this hook, rename this file to "pre-commit".
+
+if git rev-parse --verify HEAD >/dev/null 2>&1
+then
+	against=HEAD
+else
+	# Initial commit: diff against an empty tree object
+	against=4b825dc642cb6eb9a060e54bf8d69288fbee4904
+fi
+
+# If you want to allow non-ascii filenames set this variable to true.
+allownonascii=$(git config hooks.allownonascii)
+
+# Redirect output to stderr.
+exec 1>&2
+
+# Cross platform projects tend to avoid non-ascii filenames; prevent
+# them from being added to the repository. We exploit the fact that the
+# printable range starts at the space character and ends with tilde.
+if [ "$allownonascii" != "true" ] &&
+	# Note that the use of brackets around a tr range is ok here, (it's
+	# even required, for portability to Solaris 10's /usr/bin/tr), since
+	# the square bracket bytes happen to fall in the designated range.
+	test $(git diff --cached --name-only --diff-filter=A -z $against |
+	  LC_ALL=C tr -d '[ -~]\0' | wc -c) != 0
+then
+	echo "Error: Attempt to add a non-ascii file name."
+	echo
+	echo "This can cause problems if you want to work"
+	echo "with people on other platforms."
+	echo
+	echo "To be portable it is advisable to rename the file ..."
+	echo
+	echo "If you know what you are doing you can disable this"
+	echo "check using:"
+	echo
+	echo "  git config hooks.allownonascii true"
+	echo
+	exit 1
+fi
+
+# If there are whitespace errors, print the offending file names and fail.
+exec git diff-index --check --cached $against --
+
+--UMTAXL0K02
+Content-Location: .git/hooks/applypatch-msg.sample
+Content-Type: text/plain
+
+#!/bin/sh
+#
+# An example hook script to check the commit log message taken by
+# applypatch from an e-mail message.
+#
+# The hook should exit with non-zero status after issuing an
+# appropriate message if it wants to stop the commit.  The hook is
+# allowed to edit the commit message file.
+#
+# To enable this hook, rename this file to "applypatch-msg".
+
+. git-sh-setup
+test -x "$GIT_DIR/hooks/commit-msg" &&
+	exec "$GIT_DIR/hooks/commit-msg" ${1+"$@"}
+:
+
+--UMTAXL0K02
+Content-Location: .git/hooks/update.sample
+Content-Type: text/plain
+
+#!/bin/sh
+#
+# An example hook script to blocks unannotated tags from entering.
+# Called by "git receive-pack" with arguments: refname sha1-old sha1-new
+#
+# To enable this hook, rename this file to "update".
+#
+# Config
+# ------
+# hooks.allowunannotated
+#   This boolean sets whether unannotated tags will be allowed into the
+#   repository.  By default they won't be.
+# hooks.allowdeletetag
+#   This boolean sets whether deleting tags will be allowed in the
+#   repository.  By default they won't be.
+# hooks.allowmodifytag
+#   This boolean sets whether a tag may be modified after creation. By default
+#   it won't be.
+# hooks.allowdeletebranch
+#   This boolean sets whether deleting branches will be allowed in the
+#   repository.  By default they won't be.
+# hooks.denycreatebranch
+#   This boolean sets whether remotely creating branches will be denied
+#   in the repository.  By default this is allowed.
+#
+
+# --- Command line
+refname="$1"
+oldrev="$2"
+newrev="$3"
+
+# --- Safety check
+if [ -z "$GIT_DIR" ]; then
+	echo "Don't run this script from the command line." >&2
+	echo " (if you want, you could supply GIT_DIR then run" >&2
+	echo "  $0 <ref> <oldrev> <newrev>)" >&2
+	exit 1
+fi
+
+if [ -z "$refname" -o -z "$oldrev" -o -z "$newrev" ]; then
+	echo "Usage: $0 <ref> <oldrev> <newrev>" >&2
+	exit 1
+fi
+
+# --- Config
+allowunannotated=$(git config --bool hooks.allowunannotated)
+allowdeletebranch=$(git config --bool hooks.allowdeletebranch)
+denycreatebranch=$(git config --bool hooks.denycreatebranch)
+allowdeletetag=$(git config --bool hooks.allowdeletetag)
+allowmodifytag=$(git config --bool hooks.allowmodifytag)
+
+# check for no description
+projectdesc=$(sed -e '1q' "$GIT_DIR/description")
+case "$projectdesc" in
+"Unnamed repository"* | "")
+	echo "*** Project description file hasn't been set" >&2
+	exit 1
+	;;
+esac
+
+# --- Check types
+# if $newrev is 0000...0000, it's a commit to delete a ref.
+zero="0000000000000000000000000000000000000000"
+if [ "$newrev" = "$zero" ]; then
+	newrev_type=delete
+else
+	newrev_type=$(git cat-file -t $newrev)
+fi
+
+case "$refname","$newrev_type" in
+	refs/tags/*,commit)
+		# un-annotated tag
+		short_refname=${refname##refs/tags/}
+		if [ "$allowunannotated" != "true" ]; then
+			echo "*** The un-annotated tag, $short_refname, is not allowed in this repository" >&2
+			echo "*** Use 'git tag [ -a | -s ]' for tags you want to propagate." >&2
+			exit 1
+		fi
+		;;
+	refs/tags/*,delete)
+		# delete tag
+		if [ "$allowdeletetag" != "true" ]; then
+			echo "*** Deleting a tag is not allowed in this repository" >&2
+			exit 1
+		fi
+		;;
+	refs/tags/*,tag)
+		# annotated tag
+		if [ "$allowmodifytag" != "true" ] && git rev-parse $refname > /dev/null 2>&1
+		then
+			echo "*** Tag '$refname' already exists." >&2
+			echo "*** Modifying a tag is not allowed in this repository." >&2
+			exit 1
+		fi
+		;;
+	refs/heads/*,commit)
+		# branch
+		if [ "$oldrev" = "$zero" -a "$denycreatebranch" = "true" ]; then
+			echo "*** Creating a branch is not allowed in this repository" >&2
+			exit 1
+		fi
+		;;
+	refs/heads/*,delete)
+		# delete branch
+		if [ "$allowdeletebranch" != "true" ]; then
+			echo "*** Deleting a branch is not allowed in this repository" >&2
+			exit 1
+		fi
+		;;
+	refs/remotes/*,commit)
+		# tracking branch
+		;;
+	refs/remotes/*,delete)
+		# delete tracking branch
+		if [ "$allowdeletebranch" != "true" ]; then
+			echo "*** Deleting a tracking branch is not allowed in this repository" >&2
+			exit 1
+		fi
+		;;
+	*)
+		# Anything else (is there anything else?)
+		echo "*** Update hook: unknown type of update to ref $refname of type $newrev_type" >&2
+		exit 1
+		;;
+esac
+
+# --- Finished
+exit 0
+
+--UMTAXL0K02
+Content-Location: .idea/misc.xml
+Content-Type: text/plain
+
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectRootManager" version="2" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+</project>
+--UMTAXL0K02
+Content-Location: .idea/.name
+Content-Type: text/plain
+
+web-storage-demo
+--UMTAXL0K02
+Content-Location: .idea/workspace.xml
+Content-Type: text/plain
+
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df9da295-e2a2-4526-9ef2-288184d45ccd" name="Default" comment="" />
+    <ignored path="web-storage-demo.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="web-storage-demo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="manifest.webapp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/manifest.webapp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5538462">
+              <caret line="18" column="19" selection-start-line="0" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/manifest.webapp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1855" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web-storage-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web-storage-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web-storage-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df9da295-e2a2-4526-9ef2-288184d45ccd" name="Default" comment="" />
+      <created>1445412026131</created>
+      <option name="number" value="Default" />
+      <updated>1445412026131</updated>
+    </task>
+    <task id="LOCAL-00001" summary="upload manifest.webapp&#10;">
+      <created>1445412184278</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1445412184278</updated>
+    </task>
+    <task id="LOCAL-00002" summary="upload manifest.webapp&#10;">
+      <created>1445412663987</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1445412663987</updated>
+    </task>
+    <task id="LOCAL-00003" summary="upload manifest.webapp&#10;">
+      <created>1445412761952</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1445412761952</updated>
+    </task>
+    <task id="LOCAL-00004" summary="upload manifest.webapp&#10;">
+      <created>1445412865296</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1445412865296</updated>
+    </task>
+    <task id="LOCAL-00005" summary="upload manifest.webapp&#10;">
+      <created>1445412947939</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1445412947939</updated>
+    </task>
+    <task id="LOCAL-00006" summary="upload manifest.webapp&#10;">
+      <created>1445412985607</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1445412985607</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32916668" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="upload manifest.webapp&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload manifest.webapp&#10;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/manifest.webapp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5538462">
+          <caret line="18" column="19" selection-start-line="0" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+--UMTAXL0K02
+Content-Location: .idea/modules.xml
+Content-Type: text/plain
+
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/web-storage-demo.iml" filepath="$PROJECT_DIR$/.idea/web-storage-demo.iml" />
+    </modules>
+  </component>
+</project>
+--UMTAXL0K02
+Content-Location: .idea/web-storage-demo.iml
+Content-Type: text/plain
+
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
+--UMTAXL0K02
+Content-Location: .idea/vcs.xml
+Content-Type: text/plain
+
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+  </component>
+</project>
+--UMTAXL0K02
+Content-Location: jscolor/hv.png
+Content-Type: image/png
+
+‰PNG
+
+   IHDR   µ   e   „5Ñ  
+øIDATxÚíí’ä¬…MåİªÜÿ­fÿ ùñn÷b@_ õ˜$]].w¶ç±
+«…©øøøIJ¿@ÿü‚í¨ùµ_¡6WöÎ§@ûç¿8âÑÌ¦ëà G»ê¯ÿú‘1{Õû±Ìİ;OÓËİ»ûà:üqİ«ıí»ÜÏ§ôùvÎà¶Ÿ1~|‡Ğ“%a‡©¥G“K6.3›”áïOLŞŒÊÚ¹ƒ£JÔYF.„Q¦Ö®Ü@>:€ƒşQ0é~‘Æ†“÷…~Çç°rã0hob zø~©ş”½Hî¯yË¿Î¼õ>zkÖU{C—(èâÜa–¾ûĞÈ…ÀÌÛ^¡Á[hvuâ
+c¡×ˆG{"ÌÒ?23€«:Rşz3¸’¿	v´ŸF„AşƒäêZ¦Û~½3n=›ßRáEZÉ±ÙI"uX±üyĞ~Ä@ô0ÑDMbw5ßF´w´71=ä?ô³®Ê¦šîS,ñ®Î Ë:tq€03féÙü–bí<änŠ21àRflº®CW7hW3a–~}¿ÔÙ‘ÏíQ6oRycVù &«G¤ÛÏƒv!%‹Ù5hÚ@AÍÏÊ3÷E³ÿ8z‡x¼İ„vº‰O«N!Pj¯GqM˜º<)ş8:€ƒ¾û&v*ºØ:ÏÅ¬©‹³şòPhob zÈU‹T>Ş¹—º2ûë©¼jS	Ç@»aĞDı9<Q!È² ¦ú<’†ö Â ½0`×	¼d€ıåAĞaÄ@4í?°Jm”º¼ó ·‰•úÜ
+40s/Æë©õı*&`QÊ -eTÕWê6C½4ñfÎ‚¾Ÿ-MÌ_4¹½B$™õAU`Ó_Äosf”X «NÍPW®™ÙlYÚ¢¿|6¿î¤¿<:€x3¿Îê/…êRnMUëSzuQ9Ú•XYŸ¼ıòU:³Aµ
+ˆ&â°jÆ£¡cˆ©şh»ÿ°ø>½Ëû&ÿ‘eèü,ÿ1¥C4ˆ¹›ñ$ON¨©tÃÑtB Ö_ ÑlAEQ4Giêltú‹1Íö¿ğÚ€ŸÔÅHvıå hob½>g†&ú_ø’Hen/kSzšÚHKşã èâ,èûÙš­_·fõrŸÇ›]3$ö\ó§Ï…ŞIúÜZ
+•¯_¯Ú€®íãúËtÙ‚®ĞR~l×Òú­B[›?®ßîAWhåhà%\„Yš­ÿ Û“'º¿/›¿+¬š¡–2Î€v%Â Ùú±ª›âÔ_ÂTQ3¹İ˜¿<Ú›XìY‡V×ŸvV^gÔ_ÚÌÇ(8ÕŸ>:€ƒŞ®_¯ôØÎªU)¾£~ıû¡]‰•ëìÔ¯ë3ªB8úº=Šy#¿îÔÿòhâ†µóüºX+Ğöş9F~î¼^'×ıIaısƒŞ!¶ø]h"ş¨ŠÄ[©ô9±¥k»ÿöYĞÄ@ô0µ±„ìšLÄâ1Q0öï?Ú›ƒå×MÉ<*pº¸TB±ïÕü*ëf÷ ù$lĞz3W³4[¿®Ÿ¤ïI]OZŠ'o%×c ·ûo7×òmÆhÆv¶ü0ıå)ĞaÄ@´eıBåj€×ë]UQó¶×/|4´±¨ß®Co¬Zv]µRuv]ÿô)Ğ;Äù5,tõ[Ğ®ë'¿Á_Ã;©„'­ŸüĞë'_¾_¢×OÖ/.fm.ƒÔ%¶9­¿şè b¥>·MÇzy ÚB½ê©¼œíD„Aı/k-;oŞ×QÜubmm,yŸC„Aı/ğqûşªò<hWb ú(»v4Q“ôU^7–ç”ºÈ—X‘şøÕ*¨KĞJ3]8MÄ™–ø5é²jœßã¬ëok§>ª¶N¼æ·bµoZI"÷÷(F}îef(jíù*C²ÄPÛ^Š'¯fòüÒê\?(’¸Ë¹ÿeZ_W&{Óíc6ğ<tö„öİÜ£…F˜¥û{l^ß´¹Ç©ĞË£'NNTìï¡!MäWù§¼õyĞ~ÄJ}nzi\wükæûÊJÉJØş‚ö&Â íû{\wüql'Õ£è¤fœ@„A³ëÃ€¦¾XŞ|{×„¿úä'B»kò§«û{dkáı›úšİAºİ„2Óû‘ı=C„AÓşCÏŞ!7cÛº­º}e)½Ù)\t±H]ÕÀm2slÿË–¥éõ¥Dß÷æíÀv1O­tyU€µózjm´~ıS)ş¨fŠb}ËEK[ö÷èŒ<¼³¶ºÎ¦îïñDhoâ@hb}MIu¨;ö$¯š¦‹<ô—gA»kÖ§[„&úDØñbÇyÕ´ªkÏØ^jå¹ĞNÄĞKû{Lago÷zûõ¥¾:Œƒ–ú£Öğ£:²Eê<è=â@h©¿,ïˆÿ~İ¿Ê³±ñ[úËĞ~Ä@´¢?{¤îxË¼¹ƒåı=\õ—è½IŒ8ĞÒ–õ:ê÷	ğ×‰iKø°ı=6 ³?´ñ€eiv}*w“äöGô£ZÜU±H.Ï¾>ÿÓ¡MÄivĞB×hÅşõù_6„líïñPèebpÄĞÍ\V ÕúËÛÙuw rH‹ªbU,Ì¹·>İs¡]‰¡%ı…0àßm ÙuB/­ê/Ï‚ ÖäO¡û{´È-µô(ZgğÜßãqĞŞÄĞöı=:÷¼’yÁû{ á.ÂGiµ„ìïa!Â íû{¨
+Ş'QÓBzÏ5Iq'Ús«7âKxñVî×İ÷›ğØßãÛ ‰‡G>
+šö¦Q}Í¯‹‹ z?çA{BÓñGšÍ½Ğ¨Î…öÓ÷G±*‰,>û{íJ„AúK¢kw0Oëï%P¹VtMK†zş’›Ç@iy7õüÅdæ:›¿4Ä@˜¥ïúKjN:SwU÷mùlŞR_äT½ıÒş#t»Ûğ¡Õù«™1Ewb ÌÒ³ï—tGmğÖÚiÀ¯ª¡Å®]şô0hWb ºÙß#Gø¼0Ğ<Š¼jıå0èb šöÓT0îÔSü¿‘ÓïG‘Ù]B“õ5úc wˆßnãúó!JVûşêóø~º#c ¾š¼êÕ<¹isa/ÂVÿqô>q;PRï?œ¡gı/‰°Şì`ÓİÚÍ£XÙô½ú±Ã ½‰0h¢ş´ Ö!“š
+|µ‘ïQ¦Ù¯ÆRz´1­¨_ç³şTmuımê½$ú²sô1ıê1İJÒ¾MŒvıå0è0b«ñöû_*‹Ìß&¦†»ısÁĞ¦;ñ#Bc>>œ-MÔ'§¿FîØÑ7iğ)d¾LWœ
+m%NqôP?6{MGrÕÛßï€´¨õ—3 ½‰0è{ıib‘§âÁ=Lê¨A¤øw~¤óLg@ÇGAÓë'w¹_>¯M¤ùä­şh	éN‚v"vÁC§uZwšı¸|‘Ho^ú“ cˆ£ gı/iğƒ9kU¬ûò‰"9Ú•Ø‘µIÿ¤Š“¼Î‡øÜåühèâèôïJUÌø×®ü@'Ï+QĞéÒÄQÉéwt¡›Ój÷çAûÖÒÿıÏ¾ş`İx+÷qåt    IEND®B`‚
+--UMTAXL0K02
+Content-Location: jscolor/demo.html
+Content-Type: text/html
+
+<html>
+<head>
+	<title>jscolor demo</title>
+</head>
+<body>
+
+	<script type="text/javascript" src="jscolor.js"></script>
+
+	Click here: <input class="color" value="66ff00">
+
+</body>
+</html>
+
+--UMTAXL0K02
+Content-Location: jscolor/jscolor.js
+Content-Type: text/javascript
+
+/**
+ * jscolor, JavaScript Color Picker
+ *
+ * @version 1.4.1
+ * @license GNU Lesser General Public License, http://www.gnu.org/copyleft/lesser.html
+ * @author  Jan Odvarko, http://odvarko.cz
+ * @created 2008-06-15
+ * @updated 2013-04-08
+ * @link    http://jscolor.com
+ */
+
+
+var jscolor = {
+
+
+	dir : '', // location of jscolor directory (leave empty to autodetect)
+	bindClass : 'color', // class name
+	binding : true, // automatic binding via <input class="...">
+	preloading : true, // use image preloading?
+
+
+	install : function() {
+		jscolor.addEvent(window, 'load', jscolor.init);
+	},
+
+
+	init : function() {
+		if(jscolor.binding) {
+			jscolor.bind();
+		}
+		if(jscolor.preloading) {
+			jscolor.preload();
+		}
+	},
+
+
+	getDir : function() {
+		if(!jscolor.dir) {
+			var detected = jscolor.detectDir();
+			jscolor.dir = detected!==false ? detected : 'jscolor/';
+		}
+		return jscolor.dir;
+	},
+
+
+	detectDir : function() {
+		var base = location.href;
+
+		var e = document.getElementsByTagName('base');
+		for(var i=0; i<e.length; i+=1) {
+			if(e[i].href) { base = e[i].href; }
+		}
+
+		var e = document.getElementsByTagName('script');
+		for(var i=0; i<e.length; i+=1) {
+			if(e[i].src && /(^|\/)jscolor\.js([?#].*)?$/i.test(e[i].src)) {
+				var src = new jscolor.URI(e[i].src);
+				var srcAbs = src.toAbsolute(base);
+				srcAbs.path = srcAbs.path.replace(/[^\/]+$/, ''); // remove filename
+				srcAbs.query = null;
+				srcAbs.fragment = null;
+				return srcAbs.toString();
+			}
+		}
+		return false;
+	},
+
+
+	bind : function() {
+		var matchClass = new RegExp('(^|\\s)('+jscolor.bindClass+')\\s*(\\{[^}]*\\})?', 'i');
+		var e = document.getElementsByTagName('input');
+		for(var i=0; i<e.length; i+=1) {
+			var m;
+			if(!e[i].color && e[i].className && (m = e[i].className.match(matchClass))) {
+				var prop = {};
+				if(m[3]) {
+					try {
+						prop = (new Function ('return (' + m[3] + ')'))();
+					} catch(eInvalidProp) {}
+				}
+				e[i].color = new jscolor.color(e[i], prop);
+			}
+		}
+	},
+
+
+	preload : function() {
+		for(var fn in jscolor.imgRequire) {
+			if(jscolor.imgRequire.hasOwnProperty(fn)) {
+				jscolor.loadImage(fn);
+			}
+		}
+	},
+
+
+	images : {
+		pad : [ 181, 101 ],
+		sld : [ 16, 101 ],
+		cross : [ 15, 15 ],
+		arrow : [ 7, 11 ]
+	},
+
+
+	imgRequire : {},
+	imgLoaded : {},
+
+
+	requireImage : function(filename) {
+		jscolor.imgRequire[filename] = true;
+	},
+
+
+	loadImage : function(filename) {
+		if(!jscolor.imgLoaded[filename]) {
+			jscolor.imgLoaded[filename] = new Image();
+			jscolor.imgLoaded[filename].src = jscolor.getDir()+filename;
+		}
+	},
+
+
+	fetchElement : function(mixed) {
+		return typeof mixed === 'string' ? document.getElementById(mixed) : mixed;
+	},
+
+
+	addEvent : function(el, evnt, func) {
+		if(el.addEventListener) {
+			el.addEventListener(evnt, func, false);
+		} else if(el.attachEvent) {
+			el.attachEvent('on'+evnt, func);
+		}
+	},
+
+
+	fireEvent : function(el, evnt) {
+		if(!el) {
+			return;
+		}
+		if(document.createEvent) {
+			var ev = document.createEvent('HTMLEvents');
+			ev.initEvent(evnt, true, true);
+			el.dispatchEvent(ev);
+		} else if(document.createEventObject) {
+			var ev = document.createEventObject();
+			el.fireEvent('on'+evnt, ev);
+		} else if(el['on'+evnt]) { // alternatively use the traditional event model (IE5)
+			el['on'+evnt]();
+		}
+	},
+
+
+	getElementPos : function(e) {
+		var e1=e, e2=e;
+		var x=0, y=0;
+		if(e1.offsetParent) {
+			do {
+				x += e1.offsetLeft;
+				y += e1.offsetTop;
+			} while(e1 = e1.offsetParent);
+		}
+		while((e2 = e2.parentNode) && e2.nodeName.toUpperCase() !== 'BODY') {
+			x -= e2.scrollLeft;
+			y -= e2.scrollTop;
+		}
+		return [x, y];
+	},
+
+
+	getElementSize : function(e) {
+		return [e.offsetWidth, e.offsetHeight];
+	},
+
+
+	getRelMousePos : function(e) {
+		var x = 0, y = 0;
+		if (!e) { e = window.event; }
+		if (typeof e.offsetX === 'number') {
+			x = e.offsetX;
+			y = e.offsetY;
+		} else if (typeof e.layerX === 'number') {
+			x = e.layerX;
+			y = e.layerY;
+		}
+		return { x: x, y: y };
+	},
+
+
+	getViewPos : function() {
+		if(typeof window.pageYOffset === 'number') {
+			return [window.pageXOffset, window.pageYOffset];
+		} else if(document.body && (document.body.scrollLeft || document.body.scrollTop)) {
+			return [document.body.scrollLeft, document.body.scrollTop];
+		} else if(document.documentElement && (document.documentElement.scrollLeft || document.documentElement.scrollTop)) {
+			return [document.documentElement.scrollLeft, document.documentElement.scrollTop];
+		} else {
+			return [0, 0];
+		}
+	},
+
+
+	getViewSize : function() {
+		if(typeof window.innerWidth === 'number') {
+			return [window.innerWidth, window.innerHeight];
+		} else if(document.body && (document.body.clientWidth || document.body.clientHeight)) {
+			return [document.body.clientWidth, document.body.clientHeight];
+		} else if(document.documentElement && (document.documentElement.clientWidth || document.documentElement.clientHeight)) {
+			return [document.documentElement.clientWidth, document.documentElement.clientHeight];
+		} else {
+			return [0, 0];
+		}
+	},
+
+
+	URI : function(uri) { // See RFC3986
+
+		this.scheme = null;
+		this.authority = null;
+		this.path = '';
+		this.query = null;
+		this.fragment = null;
+
+		this.parse = function(uri) {
+			var m = uri.match(/^(([A-Za-z][0-9A-Za-z+.-]*)(:))?((\/\/)([^\/?#]*))?([^?#]*)((\?)([^#]*))?((#)(.*))?/);
+			this.scheme = m[3] ? m[2] : null;
+			this.authority = m[5] ? m[6] : null;
+			this.path = m[7];
+			this.query = m[9] ? m[10] : null;
+			this.fragment = m[12] ? m[13] : null;
+			return this;
+		};
+
+		this.toString = function() {
+			var result = '';
+			if(this.scheme !== null) { result = result + this.scheme + ':'; }
+			if(this.authority !== null) { result = result + '//' + this.authority; }
+			if(this.path !== null) { result = result + this.path; }
+			if(this.query !== null) { result = result + '?' + this.query; }
+			if(this.fragment !== null) { result = result + '#' + this.fragment; }
+			return result;
+		};
+
+		this.toAbsolute = function(base) {
+			var base = new jscolor.URI(base);
+			var r = this;
+			var t = new jscolor.URI;
+
+			if(base.scheme === null) { return false; }
+
+			if(r.scheme !== null && r.scheme.toLowerCase() === base.scheme.toLowerCase()) {
+				r.scheme = null;
+			}
+
+			if(r.scheme !== null) {
+				t.scheme = r.scheme;
+				t.authority = r.authority;
+				t.path = removeDotSegments(r.path);
+				t.query = r.query;
+			} else {
+				if(r.authority !== null) {
+					t.authority = r.authority;
+					t.path = removeDotSegments(r.path);
+					t.query = r.query;
+				} else {
+					if(r.path === '') {
+						t.path = base.path;
+						if(r.query !== null) {
+							t.query = r.query;
+						} else {
+							t.query = base.query;
+						}
+					} else {
+						if(r.path.substr(0,1) === '/') {
+							t.path = removeDotSegments(r.path);
+						} else {
+							if(base.authority !== null && base.path === '') {
+								t.path = '/'+r.path;
+							} else {
+								t.path = base.path.replace(/[^\/]+$/,'')+r.path;
+							}
+							t.path = removeDotSegments(t.path);
+						}
+						t.query = r.query;
+					}
+					t.authority = base.authority;
+				}
+				t.scheme = base.scheme;
+			}
+			t.fragment = r.fragment;
+
+			return t;
+		};
+
+		function removeDotSegments(path) {
+			var out = '';
+			while(path) {
+				if(path.substr(0,3)==='../' || path.substr(0,2)==='./') {
+					path = path.replace(/^\.+/,'').substr(1);
+				} else if(path.substr(0,3)==='/./' || path==='/.') {
+					path = '/'+path.substr(3);
+				} else if(path.substr(0,4)==='/../' || path==='/..') {
+					path = '/'+path.substr(4);
+					out = out.replace(/\/?[^\/]*$/, '');
+				} else if(path==='.' || path==='..') {
+					path = '';
+				} else {
+					var rm = path.match(/^\/?[^\/]*/)[0];
+					path = path.substr(rm.length);
+					out = out + rm;
+				}
+			}
+			return out;
+		}
+
+		if(uri) {
+			this.parse(uri);
+		}
+
+	},
+
+
+	//
+	// Usage example:
+	// var myColor = new jscolor.color(myInputElement)
+	//
+
+	color : function(target, prop) {
+
+
+		this.required = true; // refuse empty values?
+		this.adjust = true; // adjust value to uniform notation?
+		this.hash = false; // prefix color with # symbol?
+		this.caps = true; // uppercase?
+		this.slider = true; // show the value/saturation slider?
+		this.valueElement = target; // value holder
+		this.styleElement = target; // where to reflect current color
+		this.onImmediateChange = null; // onchange callback (can be either string or function)
+		this.hsv = [0, 0, 1]; // read-only  0-6, 0-1, 0-1
+		this.rgb = [1, 1, 1]; // read-only  0-1, 0-1, 0-1
+		this.minH = 0; // read-only  0-6
+		this.maxH = 6; // read-only  0-6
+		this.minS = 0; // read-only  0-1
+		this.maxS = 1; // read-only  0-1
+		this.minV = 0; // read-only  0-1
+		this.maxV = 1; // read-only  0-1
+
+		this.pickerOnfocus = true; // display picker on focus?
+		this.pickerMode = 'HSV'; // HSV | HVS
+		this.pickerPosition = 'bottom'; // left | right | top | bottom
+		this.pickerSmartPosition = true; // automatically adjust picker position when necessary
+		this.pickerButtonHeight = 20; // px
+		this.pickerClosable = false;
+		this.pickerCloseText = 'Close';
+		this.pickerButtonColor = 'ButtonText'; // px
+		this.pickerFace = 10; // px
+		this.pickerFaceColor = 'ThreeDFace'; // CSS color
+		this.pickerBorder = 1; // px
+		this.pickerBorderColor = 'ThreeDHighlight ThreeDShadow ThreeDShadow ThreeDHighlight'; // CSS color
+		this.pickerInset = 1; // px
+		this.pickerInsetColor = 'ThreeDShadow ThreeDHighlight ThreeDHighlight ThreeDShadow'; // CSS color
+		this.pickerZIndex = 10000;
+
+
+		for(var p in prop) {
+			if(prop.hasOwnProperty(p)) {
+				this[p] = prop[p];
+			}
+		}
+
+
+		this.hidePicker = function() {
+			if(isPickerOwner()) {
+				removePicker();
+			}
+		};
+
+
+		this.showPicker = function() {
+			if(!isPickerOwner()) {
+				var tp = jscolor.getElementPos(target); // target pos
+				var ts = jscolor.getElementSize(target); // target size
+				var vp = jscolor.getViewPos(); // view pos
+				var vs = jscolor.getViewSize(); // view size
+				var ps = getPickerDims(this); // picker size
+				var a, b, c;
+				switch(this.pickerPosition.toLowerCase()) {
+					case 'left': a=1; b=0; c=-1; break;
+					case 'right':a=1; b=0; c=1; break;
+					case 'top':  a=0; b=1; c=-1; break;
+					default:     a=0; b=1; c=1; break;
+				}
+				var l = (ts[b]+ps[b])/2;
+
+				// picker pos
+				if (!this.pickerSmartPosition) {
+					var pp = [
+						tp[a],
+						tp[b]+ts[b]-l+l*c
+					];
+				} else {
+					var pp = [
+						-vp[a]+tp[a]+ps[a] > vs[a] ?
+							(-vp[a]+tp[a]+ts[a]/2 > vs[a]/2 && tp[a]+ts[a]-ps[a] >= 0 ? tp[a]+ts[a]-ps[a] : tp[a]) :
+							tp[a],
+						-vp[b]+tp[b]+ts[b]+ps[b]-l+l*c > vs[b] ?
+							(-vp[b]+tp[b]+ts[b]/2 > vs[b]/2 && tp[b]+ts[b]-l-l*c >= 0 ? tp[b]+ts[b]-l-l*c : tp[b]+ts[b]-l+l*c) :
+							(tp[b]+ts[b]-l+l*c >= 0 ? tp[b]+ts[b]-l+l*c : tp[b]+ts[b]-l-l*c)
+					];
+				}
+				drawPicker(pp[a], pp[b]);
+			}
+		};
+
+
+		this.importColor = function() {
+			if(!valueElement) {
+				this.exportColor();
+			} else {
+				if(!this.adjust) {
+					if(!this.fromString(valueElement.value, leaveValue)) {
+						styleElement.style.backgroundImage = styleElement.jscStyle.backgroundImage;
+						styleElement.style.backgroundColor = styleElement.jscStyle.backgroundColor;
+						styleElement.style.color = styleElement.jscStyle.color;
+						this.exportColor(leaveValue | leaveStyle);
+					}
+				} else if(!this.required && /^\s*$/.test(valueElement.value)) {
+					valueElement.value = '';
+					styleElement.style.backgroundImage = styleElement.jscStyle.backgroundImage;
+					styleElement.style.backgroundColor = styleElement.jscStyle.backgroundColor;
+					styleElement.style.color = styleElement.jscStyle.color;
+					this.exportColor(leaveValue | leaveStyle);
+
+				} else if(this.fromString(valueElement.value)) {
+					// OK
+				} else {
+					this.exportColor();
+				}
+			}
+		};
+
+
+		this.exportColor = function(flags) {
+			if(!(flags & leaveValue) && valueElement) {
+				var value = this.toString();
+				if(this.caps) { value = value.toUpperCase(); }
+				if(this.hash) { value = '#'+value; }
+				valueElement.value = value;
+			}
+			if(!(flags & leaveStyle) && styleElement) {
+				styleElement.style.backgroundImage = "none";
+				styleElement.style.backgroundColor =
+					'#'+this.toString();
+				styleElement.style.color =
+					0.213 * this.rgb[0] +
+					0.715 * this.rgb[1] +
+					0.072 * this.rgb[2]
+					< 0.5 ? '#FFF' : '#000';
+			}
+			if(!(flags & leavePad) && isPickerOwner()) {
+				redrawPad();
+			}
+			if(!(flags & leaveSld) && isPickerOwner()) {
+				redrawSld();
+			}
+		};
+
+
+		this.fromHSV = function(h, s, v, flags) { // null = don't change
+			if(h !== null) { h = Math.max(0.0, this.minH, Math.min(6.0, this.maxH, h)); }
+			if(s !== null) { s = Math.max(0.0, this.minS, Math.min(1.0, this.maxS, s)); }
+			if(v !== null) { v = Math.max(0.0, this.minV, Math.min(1.0, this.maxV, v)); }
+
+			this.rgb = HSV_RGB(
+				h===null ? this.hsv[0] : (this.hsv[0]=h),
+				s===null ? this.hsv[1] : (this.hsv[1]=s),
+				v===null ? this.hsv[2] : (this.hsv[2]=v)
+			);
+
+			this.exportColor(flags);
+		};
+
+
+		this.fromRGB = function(r, g, b, flags) { // null = don't change
+			if(r !== null) { r = Math.max(0.0, Math.min(1.0, r)); }
+			if(g !== null) { g = Math.max(0.0, Math.min(1.0, g)); }
+			if(b !== null) { b = Math.max(0.0, Math.min(1.0, b)); }
+
+			var hsv = RGB_HSV(
+				r===null ? this.rgb[0] : r,
+				g===null ? this.rgb[1] : g,
+				b===null ? this.rgb[2] : b
+			);
+			if(hsv[0] !== null) {
+				this.hsv[0] = Math.max(0.0, this.minH, Math.min(6.0, this.maxH, hsv[0]));
+			}
+			if(hsv[2] !== 0) {
+				this.hsv[1] = hsv[1]===null ? null : Math.max(0.0, this.minS, Math.min(1.0, this.maxS, hsv[1]));
+			}
+			this.hsv[2] = hsv[2]===null ? null : Math.max(0.0, this.minV, Math.min(1.0, this.maxV, hsv[2]));
+
+			// update RGB according to final HSV, as some values might be trimmed
+			var rgb = HSV_RGB(this.hsv[0], this.hsv[1], this.hsv[2]);
+			this.rgb[0] = rgb[0];
+			this.rgb[1] = rgb[1];
+			this.rgb[2] = rgb[2];
+
+			this.exportColor(flags);
+		};
+
+
+		this.fromString = function(hex, flags) {
+			var m = hex.match(/^\W*([0-9A-F]{3}([0-9A-F]{3})?)\W*$/i);
+			if(!m) {
+				return false;
+			} else {
+				if(m[1].length === 6) { // 6-char notation
+					this.fromRGB(
+						parseInt(m[1].substr(0,2),16) / 255,
+						parseInt(m[1].substr(2,2),16) / 255,
+						parseInt(m[1].substr(4,2),16) / 255,
+						flags
+					);
+				} else { // 3-char notation
+					this.fromRGB(
+						parseInt(m[1].charAt(0)+m[1].charAt(0),16) / 255,
+						parseInt(m[1].charAt(1)+m[1].charAt(1),16) / 255,
+						parseInt(m[1].charAt(2)+m[1].charAt(2),16) / 255,
+						flags
+					);
+				}
+				return true;
+			}
+		};
+
+
+		this.toString = function() {
+			return (
+				(0x100 | Math.round(255*this.rgb[0])).toString(16).substr(1) +
+				(0x100 | Math.round(255*this.rgb[1])).toString(16).substr(1) +
+				(0x100 | Math.round(255*this.rgb[2])).toString(16).substr(1)
+			);
+		};
+
+
+		function RGB_HSV(r, g, b) {
+			var n = Math.min(Math.min(r,g),b);
+			var v = Math.max(Math.max(r,g),b);
+			var m = v - n;
+			if(m === 0) { return [ null, 0, v ]; }
+			var h = r===n ? 3+(b-g)/m : (g===n ? 5+(r-b)/m : 1+(g-r)/m);
+			return [ h===6?0:h, m/v, v ];
+		}
+
+
+		function HSV_RGB(h, s, v) {
+			if(h === null) { return [ v, v, v ]; }
+			var i = Math.floor(h);
+			var f = i%2 ? h-i : 1-(h-i);
+			var m = v * (1 - s);
+			var n = v * (1 - s*f);
+			switch(i) {
+				case 6:
+				case 0: return [v,n,m];
+				case 1: return [n,v,m];
+				case 2: return [m,v,n];
+				case 3: return [m,n,v];
+				case 4: return [n,m,v];
+				case 5: return [v,m,n];
+			}
+		}
+
+
+		function removePicker() {
+			delete jscolor.picker.owner;
+			document.getElementsByTagName('body')[0].removeChild(jscolor.picker.boxB);
+		}
+
+
+		function drawPicker(x, y) {
+			if(!jscolor.picker) {
+				jscolor.picker = {
+					box : document.createElement('div'),
+					boxB : document.createElement('div'),
+					pad : document.createElement('div'),
+					padB : document.createElement('div'),
+					padM : document.createElement('div'),
+					sld : document.createElement('div'),
+					sldB : document.createElement('div'),
+					sldM : document.createElement('div'),
+					btn : document.createElement('div'),
+					btnS : document.createElement('span'),
+					btnT : document.createTextNode(THIS.pickerCloseText)
+				};
+				for(var i=0,segSize=4; i<jscolor.images.sld[1]; i+=segSize) {
+					var seg = document.createElement('div');
+					seg.style.height = segSize+'px';
+					seg.style.fontSize = '1px';
+					seg.style.lineHeight = '0';
+					jscolor.picker.sld.appendChild(seg);
+				}
+				jscolor.picker.sldB.appendChild(jscolor.picker.sld);
+				jscolor.picker.box.appendChild(jscolor.picker.sldB);
+				jscolor.picker.box.appendChild(jscolor.picker.sldM);
+				jscolor.picker.padB.appendChild(jscolor.picker.pad);
+				jscolor.picker.box.appendChild(jscolor.picker.padB);
+				jscolor.picker.box.appendChild(jscolor.picker.padM);
+				jscolor.picker.btnS.appendChild(jscolor.picker.btnT);
+				jscolor.picker.btn.appendChild(jscolor.picker.btnS);
+				jscolor.picker.box.appendChild(jscolor.picker.btn);
+				jscolor.picker.boxB.appendChild(jscolor.picker.box);
+			}
+
+			var p = jscolor.picker;
+
+			// controls interaction
+			p.box.onmouseup =
+			p.box.onmouseout = function() { target.focus(); };
+			p.box.onmousedown = function() { abortBlur=true; };
+			p.box.onmousemove = function(e) {
+				if (holdPad || holdSld) {
+					holdPad && setPad(e);
+					holdSld && setSld(e);
+					if (document.selection) {
+						document.selection.empty();
+					} else if (window.getSelection) {
+						window.getSelection().removeAllRanges();
+					}
+					dispatchImmediateChange();
+				}
+			};
+			if('ontouchstart' in window) { // if touch device
+				p.box.addEventListener('touchmove', function(e) {
+					var event={
+						'offsetX': e.touches[0].pageX-touchOffset.X,
+						'offsetY': e.touches[0].pageY-touchOffset.Y
+					};
+					if (holdPad || holdSld) {
+						holdPad && setPad(event);
+						holdSld && setSld(event);
+						dispatchImmediateChange();
+					}
+					e.stopPropagation(); // prevent move "view" on broswer
+					e.preventDefault(); // prevent Default - Android Fix (else android generated only 1-2 touchmove events)
+				}, false);
+			}
+			p.padM.onmouseup =
+			p.padM.onmouseout = function() { if(holdPad) { holdPad=false; jscolor.fireEvent(valueElement,'change'); } };
+			p.padM.onmousedown = function(e) {
+				// if the slider is at the bottom, move it up
+				switch(modeID) {
+					case 0: if (THIS.hsv[2] === 0) { THIS.fromHSV(null, null, 1.0); }; break;
+					case 1: if (THIS.hsv[1] === 0) { THIS.fromHSV(null, 1.0, null); }; break;
+				}
+				holdSld=false;
+				holdPad=true;
+				setPad(e);
+				dispatchImmediateChange();
+			};
+			if('ontouchstart' in window) {
+				p.padM.addEventListener('touchstart', function(e) {
+					touchOffset={
+						'X': e.target.offsetParent.offsetLeft,
+						'Y': e.target.offsetParent.offsetTop
+					};
+					this.onmousedown({
+						'offsetX':e.touches[0].pageX-touchOffset.X,
+						'offsetY':e.touches[0].pageY-touchOffset.Y
+					});
+				});
+			}
+			p.sldM.onmouseup =
+			p.sldM.onmouseout = function() { if(holdSld) { holdSld=false; jscolor.fireEvent(valueElement,'change'); } };
+			p.sldM.onmousedown = function(e) {
+				holdPad=false;
+				holdSld=true;
+				setSld(e);
+				dispatchImmediateChange();
+			};
+			if('ontouchstart' in window) {
+				p.sldM.addEventListener('touchstart', function(e) {
+					touchOffset={
+						'X': e.target.offsetParent.offsetLeft,
+						'Y': e.target.offsetParent.offsetTop
+					};
+					this.onmousedown({
+						'offsetX':e.touches[0].pageX-touchOffset.X,
+						'offsetY':e.touches[0].pageY-touchOffset.Y
+					});
+				});
+			}
+
+			// picker
+			var dims = getPickerDims(THIS);
+			p.box.style.width = dims[0] + 'px';
+			p.box.style.height = dims[1] + 'px';
+
+			// picker border
+			p.boxB.style.position = 'absolute';
+			p.boxB.style.clear = 'both';
+			p.boxB.style.left = x+'px';
+			p.boxB.style.top = y+'px';
+			p.boxB.style.zIndex = THIS.pickerZIndex;
+			p.boxB.style.border = THIS.pickerBorder+'px solid';
+			p.boxB.style.borderColor = THIS.pickerBorderColor;
+			p.boxB.style.background = THIS.pickerFaceColor;
+
+			// pad image
+			p.pad.style.width = jscolor.images.pad[0]+'px';
+			p.pad.style.height = jscolor.images.pad[1]+'px';
+
+			// pad border
+			p.padB.style.position = 'absolute';
+			p.padB.style.left = THIS.pickerFace+'px';
+			p.padB.style.top = THIS.pickerFace+'px';
+			p.padB.style.border = THIS.pickerInset+'px solid';
+			p.padB.style.borderColor = THIS.pickerInsetColor;
+
+			// pad mouse area
+			p.padM.style.position = 'absolute';
+			p.padM.style.left = '0';
+			p.padM.style.top = '0';
+			p.padM.style.width = THIS.pickerFace + 2*THIS.pickerInset + jscolor.images.pad[0] + jscolor.images.arrow[0] + 'px';
+			p.padM.style.height = p.box.style.height;
+			p.padM.style.cursor = 'crosshair';
+
+			// slider image
+			p.sld.style.overflow = 'hidden';
+			p.sld.style.width = jscolor.images.sld[0]+'px';
+			p.sld.style.height = jscolor.images.sld[1]+'px';
+
+			// slider border
+			p.sldB.style.display = THIS.slider ? 'block' : 'none';
+			p.sldB.style.position = 'absolute';
+			p.sldB.style.right = THIS.pickerFace+'px';
+			p.sldB.style.top = THIS.pickerFace+'px';
+			p.sldB.style.border = THIS.pickerInset+'px solid';
+			p.sldB.style.borderColor = THIS.pickerInsetColor;
+
+			// slider mouse area
+			p.sldM.style.display = THIS.slider ? 'block' : 'none';
+			p.sldM.style.position = 'absolute';
+			p.sldM.style.right = '0';
+			p.sldM.style.top = '0';
+			p.sldM.style.width = jscolor.images.sld[0] + jscolor.images.arrow[0] + THIS.pickerFace + 2*THIS.pickerInset + 'px';
+			p.sldM.style.height = p.box.style.height;
+			try {
+				p.sldM.style.cursor = 'pointer';
+			} catch(eOldIE) {
+				p.sldM.style.cursor = 'hand';
+			}
+
+			// "close" button
+			function setBtnBorder() {
+				var insetColors = THIS.pickerInsetColor.split(/\s+/);
+				var pickerOutsetColor = insetColors.length < 2 ? insetColors[0] : insetColors[1] + ' ' + insetColors[0] + ' ' + insetColors[0] + ' ' + insetColors[1];
+				p.btn.style.borderColor = pickerOutsetColor;
+			}
+			p.btn.style.display = THIS.pickerClosable ? 'block' : 'none';
+			p.btn.style.position = 'absolute';
+			p.btn.style.left = THIS.pickerFace + 'px';
+			p.btn.style.bottom = THIS.pickerFace + 'px';
+			p.btn.style.padding = '0 15px';
+			p.btn.style.height = '18px';
+			p.btn.style.border = THIS.pickerInset + 'px solid';
+			setBtnBorder();
+			p.btn.style.color = THIS.pickerButtonColor;
+			p.btn.style.font = '12px sans-serif';
+			p.btn.style.textAlign = 'center';
+			try {
+				p.btn.style.cursor = 'pointer';
+			} catch(eOldIE) {
+				p.btn.style.cursor = 'hand';
+			}
+			p.btn.onmousedown = function () {
+				THIS.hidePicker();
+			};
+			p.btnS.style.lineHeight = p.btn.style.height;
+
+			// load images in optimal order
+			switch(modeID) {
+				case 0: var padImg = 'hs.png'; break;
+				case 1: var padImg = 'hv.png'; break;
+			}
+			p.padM.style.backgroundImage = "url('"+jscolor.getDir()+"cross.gif')";
+			p.padM.style.backgroundRepeat = "no-repeat";
+			p.sldM.style.backgroundImage = "url('"+jscolor.getDir()+"arrow.gif')";
+			p.sldM.style.backgroundRepeat = "no-repeat";
+			p.pad.style.backgroundImage = "url('"+jscolor.getDir()+padImg+"')";
+			p.pad.style.backgroundRepeat = "no-repeat";
+			p.pad.style.backgroundPosition = "0 0";
+
+			// place pointers
+			redrawPad();
+			redrawSld();
+
+			jscolor.picker.owner = THIS;
+			document.getElementsByTagName('body')[0].appendChild(p.boxB);
+		}
+
+
+		function getPickerDims(o) {
+			var dims = [
+				2*o.pickerInset + 2*o.pickerFace + jscolor.images.pad[0] +
+					(o.slider ? 2*o.pickerInset + 2*jscolor.images.arrow[0] + jscolor.images.sld[0] : 0),
+				o.pickerClosable ?
+					4*o.pickerInset + 3*o.pickerFace + jscolor.images.pad[1] + o.pickerButtonHeight :
+					2*o.pickerInset + 2*o.pickerFace + jscolor.images.pad[1]
+			];
+			return dims;
+		}
+
+
+		function redrawPad() {
+			// redraw the pad pointer
+			switch(modeID) {
+				case 0: var yComponent = 1; break;
+				case 1: var yComponent = 2; break;
+			}
+			var x = Math.round((THIS.hsv[0]/6) * (jscolor.images.pad[0]-1));
+			var y = Math.round((1-THIS.hsv[yComponent]) * (jscolor.images.pad[1]-1));
+			jscolor.picker.padM.style.backgroundPosition =
+				(THIS.pickerFace+THIS.pickerInset+x - Math.floor(jscolor.images.cross[0]/2)) + 'px ' +
+				(THIS.pickerFace+THIS.pickerInset+y - Math.floor(jscolor.images.cross[1]/2)) + 'px';
+
+			// redraw the slider image
+			var seg = jscolor.picker.sld.childNodes;
+
+			switch(modeID) {
+				case 0:
+					var rgb = HSV_RGB(THIS.hsv[0], THIS.hsv[1], 1);
+					for(var i=0; i<seg.length; i+=1) {
+						seg[i].style.backgroundColor = 'rgb('+
+							(rgb[0]*(1-i/seg.length)*100)+'%,'+
+							(rgb[1]*(1-i/seg.length)*100)+'%,'+
+							(rgb[2]*(1-i/seg.length)*100)+'%)';
+					}
+					break;
+				case 1:
+					var rgb, s, c = [ THIS.hsv[2], 0, 0 ];
+					var i = Math.floor(THIS.hsv[0]);
+					var f = i%2 ? THIS.hsv[0]-i : 1-(THIS.hsv[0]-i);
+					switch(i) {
+						case 6:
+						case 0: rgb=[0,1,2]; break;
+						case 1: rgb=[1,0,2]; break;
+						case 2: rgb=[2,0,1]; break;
+						case 3: rgb=[2,1,0]; break;
+						case 4: rgb=[1,2,0]; break;
+						case 5: rgb=[0,2,1]; break;
+					}
+					for(var i=0; i<seg.length; i+=1) {
+						s = 1 - 1/(seg.length-1)*i;
+						c[1] = c[0] * (1 - s*f);
+						c[2] = c[0] * (1 - s);
+						seg[i].style.backgroundColor = 'rgb('+
+							(c[rgb[0]]*100)+'%,'+
+							(c[rgb[1]]*100)+'%,'+
+							(c[rgb[2]]*100)+'%)';
+					}
+					break;
+			}
+		}
+
+
+		function redrawSld() {
+			// redraw the slider pointer
+			switch(modeID) {
+				case 0: var yComponent = 2; break;
+				case 1: var yComponent = 1; break;
+			}
+			var y = Math.round((1-THIS.hsv[yComponent]) * (jscolor.images.sld[1]-1));
+			jscolor.picker.sldM.style.backgroundPosition =
+				'0 ' + (THIS.pickerFace+THIS.pickerInset+y - Math.floor(jscolor.images.arrow[1]/2)) + 'px';
+		}
+
+
+		function isPickerOwner() {
+			return jscolor.picker && jscolor.picker.owner === THIS;
+		}
+
+
+		function blurTarget() {
+			if(valueElement === target) {
+				THIS.importColor();
+			}
+			if(THIS.pickerOnfocus) {
+				THIS.hidePicker();
+			}
+		}
+
+
+		function blurValue() {
+			if(valueElement !== target) {
+				THIS.importColor();
+			}
+		}
+
+
+		function setPad(e) {
+			var mpos = jscolor.getRelMousePos(e);
+			var x = mpos.x - THIS.pickerFace - THIS.pickerInset;
+			var y = mpos.y - THIS.pickerFace - THIS.pickerInset;
+			switch(modeID) {
+				case 0: THIS.fromHSV(x*(6/(jscolor.images.pad[0]-1)), 1 - y/(jscolor.images.pad[1]-1), null, leaveSld); break;
+				case 1: THIS.fromHSV(x*(6/(jscolor.images.pad[0]-1)), null, 1 - y/(jscolor.images.pad[1]-1), leaveSld); break;
+			}
+		}
+
+
+		function setSld(e) {
+			var mpos = jscolor.getRelMousePos(e);
+			var y = mpos.y - THIS.pickerFace - THIS.pickerInset;
+			switch(modeID) {
+				case 0: THIS.fromHSV(null, null, 1 - y/(jscolor.images.sld[1]-1), leavePad); break;
+				case 1: THIS.fromHSV(null, 1 - y/(jscolor.images.sld[1]-1), null, leavePad); break;
+			}
+		}
+
+
+		function dispatchImmediateChange() {
+			if (THIS.onImmediateChange) {
+				var callback;
+				if (typeof THIS.onImmediateChange === 'string') {
+					callback = new Function (THIS.onImmediateChange);
+				} else {
+					callback = THIS.onImmediateChange;
+				}
+				callback.call(THIS);
+			}
+		}
+
+
+		var THIS = this;
+		var modeID = this.pickerMode.toLowerCase()==='hvs' ? 1 : 0;
+		var abortBlur = false;
+		var
+			valueElement = jscolor.fetchElement(this.valueElement),
+			styleElement = jscolor.fetchElement(this.styleElement);
+		var
+			holdPad = false,
+			holdSld = false,
+			touchOffset = {};
+		var
+			leaveValue = 1<<0,
+			leaveStyle = 1<<1,
+			leavePad = 1<<2,
+			leaveSld = 1<<3;
+
+		// target
+		jscolor.addEvent(target, 'focus', function() {
+			if(THIS.pickerOnfocus) { THIS.showPicker(); }
+		});
+		jscolor.addEvent(target, 'blur', function() {
+			if(!abortBlur) {
+				window.setTimeout(function(){ abortBlur || blurTarget(); abortBlur=false; }, 0);
+			} else {
+				abortBlur = false;
+			}
+		});
+
+		// valueElement
+		if(valueElement) {
+			var updateField = function() {
+				THIS.fromString(valueElement.value, leaveValue);
+				dispatchImmediateChange();
+			};
+			jscolor.addEvent(valueElement, 'keyup', updateField);
+			jscolor.addEvent(valueElement, 'input', updateField);
+			jscolor.addEvent(valueElement, 'blur', blurValue);
+			valueElement.setAttribute('autocomplete', 'off');
+		}
+
+		// styleElement
+		if(styleElement) {
+			styleElement.jscStyle = {
+				backgroundImage : styleElement.style.backgroundImage,
+				backgroundColor : styleElement.style.backgroundColor,
+				color : styleElement.style.color
+			};
+		}
+
+		// require images
+		switch(modeID) {
+			case 0: jscolor.requireImage('hs.png'); break;
+			case 1: jscolor.requireImage('hv.png'); break;
+		}
+		jscolor.requireImage('cross.gif');
+		jscolor.requireImage('arrow.gif');
+
+		this.importColor();
+	}
+
+};
+
+
+jscolor.install();
+
+--UMTAXL0K02
+Content-Location: jscolor/hs.png
+Content-Type: image/png
+
+‰PNG
+
+   IHDR   µ   e   „5Ñ  
+CIDATxÚíÛr#+Eäaæÿ?öä%ÍyHÚ„.€„›ªq¹ºz<½Z…wm.!À€? éã_éÄñ?€O;jŞö	úoñÊÚyhıü“#Æaz8hWıëŸ#D€í±|â	õQñhş?#zvÑ$Ü†;è¡õˆ»¸Aı~2Ä8Ì±8"r˜›¿‹½8DúùÃø)ÉÔ‘øün´Ù&øfÁÄ¹i(	 „v&v®õƒÿF	™ı‚Ä¥_#¡Ç@ûÛCúÁHx—ÁjMKĞŸ„¿ët­†-t"ï<†ÄÆ‘¾õ£Œ}”òHãƒŠÿ°È*G¡Ï†Nü#ªó5b³Hßú‘Ø¤2]E—¢|£òkSñ„¡İˆ¡kı\{¬\ı&â%èB?¨¬‰º¾ñD¤'Aï"¶„.ôC“ğÍæNÊ”ILò~œíOl]÷_’„<Õ÷ír¶Ô„ú/LŸq/t ÃìéHIhÕ|´ÕU=¦v#Æn¥¦íĞRµiK˜#ı1v
+{>j
+í,¨‹ª×=â;<¹ø*ìˆ½"}ëGÔ©uœwaxğ¨kÕ±ÒgC§öŸší2±q¤oı˜sºªÇŞÊEÃK4
+ı8Ú™ØºÖ¤Ëª£¥•u‰u"õãhb{èÂŸKl—Xc•U—\c•wRÇŸ;	z±14ëÏQµVáx¢=ÀúsÏ…ŞKlÍÖ×G€Y+cÂ$€¡İˆ¡Õşœ©=0‡<îÏ=z;±4ò÷EíãKû7FFò’àïóC@"]¤Vçİ¿‹ÒàÚßOai«‘FùG"²– (ùÂ€•!ŞGò48ÔF­t@»­$äCaô_–"½\_·°2¬ëë…v&v&êëúª^˜±2ÂTaOª¯?z±1t­J7#Òf€ÎÊ Şë|ŒF?ö$ö‚.ô#Î6lØôSŒı`ü¾U?zt[ˆ¡‹ú: ™’1nehŒÅò$õNØWÔY¡Ğ½ÑÎÄ.Ğ#şã
+Z¼1`êÏ=ÚŸØZáï¶Ï8[J`zˆA¶ÊA]Š|täü}·0Gºöçæj{vU=MIùsI1¦óĞˆn{˜"-ÍŸ›v¬>p×ü¹£û‹èíù[¡c„
+#`¯+NóSjáÊ•ĞYÀ~¤(_B~úPè-ÄÆĞ½ş­˜[kº_RVÍûò—Ü¿}.´?±=t]£*”7`1”3²]òĞk_ıù/O‡v&vfı¹ğÎ¡ànØI»şÇ³ ·C#.±®¢çTÆX|5‹¯V?’Â
+}4B÷³W¤%Ÿš(æ0-D›¨¼?	º¹#n
+³q¤Õşœ8«km*«&kŠıüãhgbèºÿÂ‹
+W`d*<H#°×ùê÷_ö'¶‡¦×ÿˆº!÷Kiˆcï»Mú¸¸ú‡óĞ°ÆÇÊÎVÉô‘<´4¿á}Kñ,Ìop[gmÂÀôäÏõƒ”ó¢úéceè¿?ıêÇaĞnÄĞ
+ÿ–÷‡-–T®xİOäß½‘Øšöç”cï–ív¯ñÏ€ÿaGliäÏ¥§/EÜËO	ı
+µ"?}äúÉßù©ÒŸ;–2K6×˜?÷,hgbhº>,-9o ç§†ŞHlMÏ™˜¾£°2¦g6|7‹×„ö$ö‚fëëzÉ¹yÅô½öÁĞ[ˆ¡ıĞ,(:”D™fJß'¹Òx4CFF	±şKĞÄ4uY_?j«Œ,Ïy"tRÜY˜Q†ƒƒ"ù¢ñç¾ÃœQ}=ÍóŒ*Ôü¯Ñzı Oh¶¾îf³H×ëÙî=a½åD.õô’ôDè†8û…Ù1Ò´?ç¿ëÄŠáB¿xZíÏYhßD#Ï\şqtÚwS4ƒ&Ö?ÆÙ>Ï»ê/¿zÂG¬úthb{hEÿeÙPZWÍvÖêÇC¡‰] {û#¿c«8ašEjõã$è-ÄÆĞ¬¿¿}«Œ_Ô¹¾8Ú“ØíŸı¾­2JØ†4ÕGç¿DiªÀ4Œ@Çš	óK7èÏiivÿl±Şk1UãgDİàgÕüıl#5t~±Ş'QÑéÒ„yĞßç#İ¸¥§÷Ÿtbm½UÆU¼‰6ôçß>ÚŸØšİ¿R9êŞÎÊf‰Ü€gÕútƒŞBlÍÎ‰ÒÊİFVFIŠ_lÀáW?ƒŞHl­Ûßcn¤©•²î	B»;BKúá6wgTúñPèw¯B×ùGœûg:U±„Åì¯Ê?ŞEl	=¸¿Gô²2b6ÖÈè×x´?±=´TÿĞìı½le4È¯“’´Á‡¡‰] Qı”™%Õ\êèzÔÚäà@h±rjA<
+{× Eş¡™_¤½{­`‹y]^Ä~ôÊşÙ0é¿h Vø·A±6ç‚ÿòRºHåxEû0è-ÄÆĞìüÊ ËšŒ¬Œò–ˆ}àyĞÎÄ.Ğj.ún•Qò–È
+ı8ÚŸØº—¤÷l•…üEY@ÏƒŞBl­›ÿ²q«õc±Zí9â-a6ˆ´bÿ†wl•Ñ½ú³O€®_w#vŒ4áÏÇ¶=Ô¤/²©Ÿ½—ØºĞ X$RÜ­\›{/(,çHë4Ò“ ·C@JÂ¬n£­22UÂ=êğ³²Ãë6p´?±=ô}	ŠzïÂV¹8	õI3ä¾A[R—ãúÑÃ ‰] ıËã×sÍõŞÎWoxuSÛ÷Ûà@è-ÄÆĞ…~L ë¬ŒL`ç]Z?N‚ö$ö‚¾õ#(dny«òLˆd¸Óû§.ÛÄ÷1WİĞZúíĞ%zşÑÿ0GºÖ@ìáÜ}†Räâ2:‰÷¯A¾ê+¯_D­O….›s®ôÃ‡Ø%Ò…~ˆâÚP,¨Ù›+|"Íu´s[Æ:ÚŸØúbDM³ez(gÙ—
+¨|”‹á÷€F¾Ä#Wùé1Ğ»ˆ-¡kı˜­îÎ¼¹B¬¿íã0èw¯Bßú¡Ç´2†®#Ì9ÚØºÖĞÁÂÒT4†—¿è·c 7›A@Jr5–ñªÈš¨Ä©Ì¹ñ²q œ	íOl}ß_@±œ€x¢³2º)SÉzƒí|8ÚŸØºĞèÕê¦ÿIÔk2+|M°ÈF›Æp&´'±t­‹GujØ†oïxôFb3èZ?(œ¹˜Œs ÄÌ—Ü‹{´±t¡İ‚ÛÜ‰N×”úˆ[F¶dİ½…ØúÖœêšœ¦Lİ÷db„Ó¡ĞnÄ.Ğµ~0_>÷ŠÔåÒ¼ÏÊÈ–ˆû ı‰í¡ıĞ×d'JvŸš}?şĞ>Ä–Ğ!çÿÿÄã-HÇ:ìù
+K    IEND®B`‚
+--UMTAXL0K02
+Content-Location: jscolor/arrow.gif
+Content-Type: image/gif
+
+GIF89a  ¡    ÿÿÿ¨<x¨<x!ù
+  ,       L„p¹ì€loŠ:ñ©Ô*è4I ;
+--UMTAXL0K02
+Content-Location: jscolor/cross.gif
+Content-Type: image/gif
+
+GIF89a  ¡    ÿÿÿÿÿÿÿÿÿ!ù
+  ,       $”ÇÛâ‹RQg/Ê,øÿ€@–æ))ÔqÚ¤p<¿îU ;
+--UMTAXL0K02--

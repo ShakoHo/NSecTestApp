@@ -1,0 +1,73 @@
+{
+  "version": "1.0",
+  "name": "Client_Side_Cookie_Tests_2",
+  "description": "Client Side Cookie Tests 2",
+  "launch_path": "index.html",
+  "developer": {
+    "name": "The Gaia Team",
+    "url": "https://github.com/mozilla-b2g/gaia"
+  },
+  "permissions": {
+    "alarms":{},
+    "audio-capture": {},
+    "video-capture": {},
+    "audio-channel-notification":{},
+    "contacts":{ "access": "readcreate" },
+    "desktop-notification":{},
+    "storage":{},
+    "device-storage:sdcard":{ "access": "readcreate" },
+    "systemXHR":{},
+    "settings":{ "access": "readonly" },
+    "tcp-socket":{}
+  },
+  "locales": {
+    "ar": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "de": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "el": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "en-US": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "es": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "fr": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "it": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "pt-BR": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "ru": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "tr": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "zh-TW": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    }
+  },
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/mic.png"
+  }
+}

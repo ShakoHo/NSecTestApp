@@ -1,0 +1,73 @@
+{
+  "version": "1.0",
+  "name": "Offline_App_Tests_1",
+  "description": "Offline App Tests 1",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "The Gaia Team",
+    "url": "https://github.com/mozilla-b2g/gaia"
+  },
+  "permissions": {
+    "alarms":{},
+    "audio-capture": {},
+    "video-capture": {},
+    "audio-channel-notification":{},
+    "contacts":{ "access": "readcreate" },
+    "desktop-notification":{},
+    "storage":{},
+    "device-storage:sdcard":{ "access": "readcreate" },
+    "systemXHR":{},
+    "settings":{ "access": "readonly" },
+    "tcp-socket":{}
+  },
+  "locales": {
+    "ar": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "de": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "el": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "en-US": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "es": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "fr": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "it": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "pt-BR": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "ru": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "tr": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    },
+    "zh-TW": {
+      "name": "OfflineAppTests1",
+      "description": "Web app OfflineAppTests1"
+    }
+  },
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/mic.png"
+  }
+}

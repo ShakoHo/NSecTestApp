@@ -1,0 +1,2696 @@
+manifest-signature: MIIF1AYJKoZIhvcNAQcCoIIFxTCCBcECAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHAaCCA54wggOaMIICgqADAgECAgECMA0GCSqGSIb3DQEBCwUAMHMxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEkMCIGA1UEChMbRXhhbXBsZSBUcnVzdGVkIENvcnBvcmF0aW9uMRkwFwYDVQQDExBUcnVzdGVkIFZhbGlkIENBMB4XDTE1MTAyMTA5MDcyMFoXDTM1MTAyMTA5MDcyMFowdDELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGjAYBgNVBAMTEVRydXN0ZWQgQ29ycCBDZXJ0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4pcO7lQtMox6cGHuALqA0MZ7uG/6fwgIkDNa/Xp1l/yKwri7MLO1/04BrxeC9N6Xa/GfBLenWxrh1OSqBm+qDGassG5m7jc152yZNXGX3vWR9f0WL5sSJgUPFpH4mgm7Bjaa9hzwCKd7zPjpwbvd968jtCDSzA4YsMcPyubvbmCPuQFEkgzWx4zHVqeBVqBao5dtNdo7x92oEYAeHm5weG+gR9h2pJgq5fKnH6EBLSGvIWoeYSuKAVob7oD/HVwQ6W5Sz5wvYl5DJgkDAPTU+HDD30QWku2AQfFuDC7NuLMTCa7jZq6qtS+F+6BfxBbdNiZLZTL80K689HewqFKGwwIDAQABozgwNjAMBgNVHRMBAf8EAjAAMBYGA1UdJQEB/wQMMAoGCCsGAQUFBwMDMA4GA1UdDwEB/wQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAQEA1uPEAb6WKwNETSQnaT1gKfpATwJXEDBpuQ4Wl6GVgi9afj18PPiiiqCc0BRstNDmkzp+69j0e1ax4xzkoWjK8kCo9Awx+kpui5J5eTUl9Z6/eTwXAfYpfh8psGNq3thN7fCnGb/YoZQzal2hvkZ0hIJd9m0ABMpn6ihbGq+pnmIFaIN8E9Sb5iCedU+Biq+i6LBRDG+UDEv6DM6SZ3IBl6ZIx46hkV76TqzTp3Jg0C8kXrbrDmBtKnVvFSwQIH7PgrxuRKLfqF+mXNmRniE9Sj27oa1H9MGvuKdbyDUIFnDZKhlCYZlHv/9HtxxoPeiyHgX1JHIxgIJ28Oq3TT+yTzGCAf4wggH6AgEBMHgwczELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGTAXBgNVBAMTEFRydXN0ZWQgVmFsaWQgQ0ECAQIwCQYFKw4DAhoFAKBdMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTE1MTAyNjA3NDU0MVowIwYJKoZIhvcNAQkEMRYEFBBH/P9mMzAwmfSij/rYcy8wV8NpMA0GCSqGSIb3DQEBAQUABIIBADwmEtmMtich0HBH4NwJsKVQoOnl17GDulmtAe1kNFlZmI13Cs7lgJdjwwEZ7TBjXfNCCgEM4TFXx56zHvYxb7p4pZMLo6XrGWc5EaZmxv/A1iuFllscYCnhsjKjDVNR4pLqDaYhsOlLG6SAMJPnJOy0s7wImd65AJQQfyfqhxbes00/8yBqTi1CPwpiAQxhG+6v97NyrbyfIvvOWXePczOTdanuqQ82a6naBNVbSQwtCxFJdZQCc23iEyjtPNXDsE1+75uxXbyLbp1xF7NKtPVwP0C6ES2+UdzgVFC3Td8LMW9z76PvAdGpUdntz2YeHpOMIV3KFftWuuR29EgGC/8=
+--WPP8WYNZEL
+Content-Location: manifest.webapp
+Content-Type: application/x-web-app-manifest+json
+
+{
+  "name": "Client_Side_Cookie_Tests_2",
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/mic.png"
+  },
+  "description": "Client Side Cookie Tests 2",
+  "moz-resources": [
+    {
+      "src": "c2.pak",
+      "integrity": "qsBHcv4pfhiRFW6s0QGe2X85YnpRu2cq9Rl3ESqTfHo="
+    },
+    {
+      "src": "index.html",
+      "integrity": "q5GbpwWBz/4QFrzoLTBPX5R3Qrqj85VoFDn7CDKB37o="
+    },
+    {
+      "src": "app.js",
+      "integrity": "A8ZAYip7nRondpDpXvvrEbmsxQ93Tqh2mXoGEOnvle0="
+    },
+    {
+      "src": "acct.js",
+      "integrity": "G3zVjuFGeY6x0X+SIogbKWlzJRuP24+9bCd5Q3wPpcI="
+    }
+  ],
+  "version": "1.0",
+  "launch_path": "index.html",
+  "permissions": {
+    "device-storage:sdcard": {
+      "access": "readcreate"
+    },
+    "desktop-notification": {},
+    "audio-capture": {},
+    "contacts": {
+      "access": "readcreate"
+    },
+    "settings": {
+      "access": "readonly"
+    },
+    "storage": {},
+    "systemXHR": {},
+    "video-capture": {},
+    "audio-channel-notification": {},
+    "alarms": {},
+    "tcp-socket": {}
+  },
+  "locales": {
+    "el": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "fr": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "en-US": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "ru": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "zh-TW": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "de": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "tr": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "it": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "ar": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "pt-BR": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "es": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    }
+  },
+  "developer": {
+    "url": "https://github.com/mozilla-b2g/gaia",
+    "name": "The Gaia Team"
+  }
+}
+--WPP8WYNZEL
+Content-Location: c2.pak
+Content-Type: text/plain
+
+manifest-signature: MIIF1AYJKoZIhvcNAQcCoIIFxTCCBcECAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHAaCCA54wggOaMIICgqADAgECAgECMA0GCSqGSIb3DQEBCwUAMHMxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEkMCIGA1UEChMbRXhhbXBsZSBUcnVzdGVkIENvcnBvcmF0aW9uMRkwFwYDVQQDExBUcnVzdGVkIFZhbGlkIENBMB4XDTE1MTAyMTA5MDcyMFoXDTM1MTAyMTA5MDcyMFowdDELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGjAYBgNVBAMTEVRydXN0ZWQgQ29ycCBDZXJ0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4pcO7lQtMox6cGHuALqA0MZ7uG/6fwgIkDNa/Xp1l/yKwri7MLO1/04BrxeC9N6Xa/GfBLenWxrh1OSqBm+qDGassG5m7jc152yZNXGX3vWR9f0WL5sSJgUPFpH4mgm7Bjaa9hzwCKd7zPjpwbvd968jtCDSzA4YsMcPyubvbmCPuQFEkgzWx4zHVqeBVqBao5dtNdo7x92oEYAeHm5weG+gR9h2pJgq5fKnH6EBLSGvIWoeYSuKAVob7oD/HVwQ6W5Sz5wvYl5DJgkDAPTU+HDD30QWku2AQfFuDC7NuLMTCa7jZq6qtS+F+6BfxBbdNiZLZTL80K689HewqFKGwwIDAQABozgwNjAMBgNVHRMBAf8EAjAAMBYGA1UdJQEB/wQMMAoGCCsGAQUFBwMDMA4GA1UdDwEB/wQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAQEA1uPEAb6WKwNETSQnaT1gKfpATwJXEDBpuQ4Wl6GVgi9afj18PPiiiqCc0BRstNDmkzp+69j0e1ax4xzkoWjK8kCo9Awx+kpui5J5eTUl9Z6/eTwXAfYpfh8psGNq3thN7fCnGb/YoZQzal2hvkZ0hIJd9m0ABMpn6ihbGq+pnmIFaIN8E9Sb5iCedU+Biq+i6LBRDG+UDEv6DM6SZ3IBl6ZIx46hkV76TqzTp3Jg0C8kXrbrDmBtKnVvFSwQIH7PgrxuRKLfqF+mXNmRniE9Sj27oa1H9MGvuKdbyDUIFnDZKhlCYZlHv/9HtxxoPeiyHgX1JHIxgIJ28Oq3TT+yTzGCAf4wggH6AgEBMHgwczELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGTAXBgNVBAMTEFRydXN0ZWQgVmFsaWQgQ0ECAQIwCQYFKw4DAhoFAKBdMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTE1MTAyNjA3NDMzNlowIwYJKoZIhvcNAQkEMRYEFClNXlu+iHN9iBcAp9CfDActxhkEMA0GCSqGSIb3DQEBAQUABIIBAIw8uvDKARD1GK6ySw9/hyq8L4CbUdloZBYL377PZ+arZytrtTyXHMl4xo5WrBCt51neAIQybXgP49YR62M2tHji62iUErwyagDomX/s1GoCaqwsspSFPoJ84CQH2FVberF+ziUbvqg2G5BUvwv2/3JvEjkFF5J4b5XWZBIqY//yGFGG8QRQ8ndURnJqXq0vl6fJgoYre/ljk2Mw7Di7NimpScsjpxxwkQVOLczjyl2kaXjyIW2pUIgV6ZPKLzFzp5KcEdABWlXdLC02mPJGPkrjNveM5lyC6uHfowcn+J3rJBfAWWksi8OcFaiqNeiLmWPH4DG6eTkK8Z2HD3oTpqI=
+--I6ZEL87EVP
+Content-Location: manifest.webapp
+Content-Type: application/x-web-app-manifest+json
+
+{
+  "name": "Client_Side_Cookie_Tests_2",
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/mic.png"
+  },
+  "description": "Client Side Cookie Tests 2",
+  "moz-resources": [
+    {
+      "src": "c2.pak",
+      "integrity": "T/5WC8UAQA2s+x05RpWmQgMDImY+GrtByvwnibdzbBM="
+    },
+    {
+      "src": "index.html",
+      "integrity": "q5GbpwWBz/4QFrzoLTBPX5R3Qrqj85VoFDn7CDKB37o="
+    },
+    {
+      "src": "app.js",
+      "integrity": "A8ZAYip7nRondpDpXvvrEbmsxQ93Tqh2mXoGEOnvle0="
+    },
+    {
+      "src": "acct.js",
+      "integrity": "G3zVjuFGeY6x0X+SIogbKWlzJRuP24+9bCd5Q3wPpcI="
+    }
+  ],
+  "version": "1.0",
+  "launch_path": "index.html",
+  "permissions": {
+    "device-storage:sdcard": {
+      "access": "readcreate"
+    },
+    "desktop-notification": {},
+    "audio-capture": {},
+    "contacts": {
+      "access": "readcreate"
+    },
+    "settings": {
+      "access": "readonly"
+    },
+    "storage": {},
+    "systemXHR": {},
+    "video-capture": {},
+    "audio-channel-notification": {},
+    "alarms": {},
+    "tcp-socket": {}
+  },
+  "locales": {
+    "el": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "fr": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "en-US": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "ru": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "zh-TW": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "de": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "tr": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "it": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "ar": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "pt-BR": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "es": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    }
+  },
+  "developer": {
+    "url": "https://github.com/mozilla-b2g/gaia",
+    "name": "The Gaia Team"
+  }
+}
+--I6ZEL87EVP
+Content-Location: c2.pak
+Content-Type: text/plain
+
+manifest-signature: MIIF1AYJKoZIhvcNAQcCoIIFxTCCBcECAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHAaCCA54wggOaMIICgqADAgECAgECMA0GCSqGSIb3DQEBCwUAMHMxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEkMCIGA1UEChMbRXhhbXBsZSBUcnVzdGVkIENvcnBvcmF0aW9uMRkwFwYDVQQDExBUcnVzdGVkIFZhbGlkIENBMB4XDTE1MTAyMTA5MDcyMFoXDTM1MTAyMTA5MDcyMFowdDELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGjAYBgNVBAMTEVRydXN0ZWQgQ29ycCBDZXJ0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4pcO7lQtMox6cGHuALqA0MZ7uG/6fwgIkDNa/Xp1l/yKwri7MLO1/04BrxeC9N6Xa/GfBLenWxrh1OSqBm+qDGassG5m7jc152yZNXGX3vWR9f0WL5sSJgUPFpH4mgm7Bjaa9hzwCKd7zPjpwbvd968jtCDSzA4YsMcPyubvbmCPuQFEkgzWx4zHVqeBVqBao5dtNdo7x92oEYAeHm5weG+gR9h2pJgq5fKnH6EBLSGvIWoeYSuKAVob7oD/HVwQ6W5Sz5wvYl5DJgkDAPTU+HDD30QWku2AQfFuDC7NuLMTCa7jZq6qtS+F+6BfxBbdNiZLZTL80K689HewqFKGwwIDAQABozgwNjAMBgNVHRMBAf8EAjAAMBYGA1UdJQEB/wQMMAoGCCsGAQUFBwMDMA4GA1UdDwEB/wQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAQEA1uPEAb6WKwNETSQnaT1gKfpATwJXEDBpuQ4Wl6GVgi9afj18PPiiiqCc0BRstNDmkzp+69j0e1ax4xzkoWjK8kCo9Awx+kpui5J5eTUl9Z6/eTwXAfYpfh8psGNq3thN7fCnGb/YoZQzal2hvkZ0hIJd9m0ABMpn6ihbGq+pnmIFaIN8E9Sb5iCedU+Biq+i6LBRDG+UDEv6DM6SZ3IBl6ZIx46hkV76TqzTp3Jg0C8kXrbrDmBtKnVvFSwQIH7PgrxuRKLfqF+mXNmRniE9Sj27oa1H9MGvuKdbyDUIFnDZKhlCYZlHv/9HtxxoPeiyHgX1JHIxgIJ28Oq3TT+yTzGCAf4wggH6AgEBMHgwczELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGTAXBgNVBAMTEFRydXN0ZWQgVmFsaWQgQ0ECAQIwCQYFKw4DAhoFAKBdMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTE1MTAyNjA3NDI1NFowIwYJKoZIhvcNAQkEMRYEFN/d+8Wsg2fagz+I6Mr3yBo7QkxBMA0GCSqGSIb3DQEBAQUABIIBAJJKK2DAZgo4jKCmA3Lvw2hV6MnkxY/J7aOzm33392m3d34N3AInaibuq9++FnHu7wGsO6FSSLK0nb/KUeJfhhIkcBS7Eo0MKdygdi5bm6hMT7r3hRcLA+euKqnpRsR3t6ZjpAF8O1hSldV4J+/Zq7wC3lFa68suehdzQQgfcG9/QSDoXnMljCxSZjjlCmdecu6giF34XQypMCB96mGspIQ7l0Q+AnIVsy8AfGxL3duJWS0vtrR0M+Ez08WD34q5K3vxhMiNHLj1K9K9YRCgOj3IkTOznNk8UoPmJAn9cUucuuMYvj1WgJIzMICP9ihOGyMze7LwG7xeth/UDmR/7+8=
+--LBG8AP12GR
+Content-Location: manifest.webapp
+Content-Type: application/x-web-app-manifest+json
+
+{
+  "name": "Client_Side_Cookie_Tests_2",
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/mic.png"
+  },
+  "description": "Client Side Cookie Tests 2",
+  "moz-resources": [
+    {
+      "src": "c2.pak",
+      "integrity": "/1woIYx+0Hrobrfqs8q0WDu9ZAwyfoCRr5ajNuq3IY0="
+    },
+    {
+      "src": "index.html",
+      "integrity": "q5GbpwWBz/4QFrzoLTBPX5R3Qrqj85VoFDn7CDKB37o="
+    },
+    {
+      "src": "app.js",
+      "integrity": "A8ZAYip7nRondpDpXvvrEbmsxQ93Tqh2mXoGEOnvle0="
+    },
+    {
+      "src": "acct.js",
+      "integrity": "G3zVjuFGeY6x0X+SIogbKWlzJRuP24+9bCd5Q3wPpcI="
+    }
+  ],
+  "version": "1.0",
+  "launch_path": "index.html",
+  "permissions": {
+    "device-storage:sdcard": {
+      "access": "readcreate"
+    },
+    "desktop-notification": {},
+    "audio-capture": {},
+    "contacts": {
+      "access": "readcreate"
+    },
+    "settings": {
+      "access": "readonly"
+    },
+    "storage": {},
+    "systemXHR": {},
+    "video-capture": {},
+    "audio-channel-notification": {},
+    "alarms": {},
+    "tcp-socket": {}
+  },
+  "locales": {
+    "el": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "fr": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "en-US": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "ru": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "zh-TW": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "de": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "tr": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "it": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "ar": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "pt-BR": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "es": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    }
+  },
+  "developer": {
+    "url": "https://github.com/mozilla-b2g/gaia",
+    "name": "The Gaia Team"
+  }
+}
+--LBG8AP12GR
+Content-Location: c2.pak
+Content-Type: text/plain
+
+manifest-signature: MIIF1AYJKoZIhvcNAQcCoIIFxTCCBcECAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHAaCCA54wggOaMIICgqADAgECAgECMA0GCSqGSIb3DQEBCwUAMHMxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEkMCIGA1UEChMbRXhhbXBsZSBUcnVzdGVkIENvcnBvcmF0aW9uMRkwFwYDVQQDExBUcnVzdGVkIFZhbGlkIENBMB4XDTE1MTAyMTA5MDcyMFoXDTM1MTAyMTA5MDcyMFowdDELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGjAYBgNVBAMTEVRydXN0ZWQgQ29ycCBDZXJ0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4pcO7lQtMox6cGHuALqA0MZ7uG/6fwgIkDNa/Xp1l/yKwri7MLO1/04BrxeC9N6Xa/GfBLenWxrh1OSqBm+qDGassG5m7jc152yZNXGX3vWR9f0WL5sSJgUPFpH4mgm7Bjaa9hzwCKd7zPjpwbvd968jtCDSzA4YsMcPyubvbmCPuQFEkgzWx4zHVqeBVqBao5dtNdo7x92oEYAeHm5weG+gR9h2pJgq5fKnH6EBLSGvIWoeYSuKAVob7oD/HVwQ6W5Sz5wvYl5DJgkDAPTU+HDD30QWku2AQfFuDC7NuLMTCa7jZq6qtS+F+6BfxBbdNiZLZTL80K689HewqFKGwwIDAQABozgwNjAMBgNVHRMBAf8EAjAAMBYGA1UdJQEB/wQMMAoGCCsGAQUFBwMDMA4GA1UdDwEB/wQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAQEA1uPEAb6WKwNETSQnaT1gKfpATwJXEDBpuQ4Wl6GVgi9afj18PPiiiqCc0BRstNDmkzp+69j0e1ax4xzkoWjK8kCo9Awx+kpui5J5eTUl9Z6/eTwXAfYpfh8psGNq3thN7fCnGb/YoZQzal2hvkZ0hIJd9m0ABMpn6ihbGq+pnmIFaIN8E9Sb5iCedU+Biq+i6LBRDG+UDEv6DM6SZ3IBl6ZIx46hkV76TqzTp3Jg0C8kXrbrDmBtKnVvFSwQIH7PgrxuRKLfqF+mXNmRniE9Sj27oa1H9MGvuKdbyDUIFnDZKhlCYZlHv/9HtxxoPeiyHgX1JHIxgIJ28Oq3TT+yTzGCAf4wggH6AgEBMHgwczELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGTAXBgNVBAMTEFRydXN0ZWQgVmFsaWQgQ0ECAQIwCQYFKw4DAhoFAKBdMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTE1MTAyNjA3NDA1NVowIwYJKoZIhvcNAQkEMRYEFPmSNEuCxm/8XGDEb95SN8yKYCflMA0GCSqGSIb3DQEBAQUABIIBAIPV/Q6swoezFRAgAq/a98mSVVe6lzzi+aKE6grpyJyCYVVYiWRMN5ZYN4144hSxAKgCRk78MbPZYoP0AQXGSC6/ii7uBGQArlglPOvoCeoBuc15AC0DucGWfu3Tdd3fDCSE/lhoQO4LF2dS1CLbFkF+q9yEf6ky1K1U8/dOrh5t+woYkxjit7Lqf4jt5AWM8zCD84VWRjANavu2FAzTVorpBeLELsiEX3LVpzmyi3al5gH1SCjrw0XgnaPpe3jDg5VKbRNED2KCPTES8dYYX6RQqk7e0shBD59UFuqy8Vo/gqGQK8c2ebW0fkhFPUv2dIaH7Z77JQgnaUKttFGjbLs=
+--VZOT17MYZV
+Content-Location: manifest.webapp
+Content-Type: application/x-web-app-manifest+json
+
+{
+  "name": "Client_Side_Cookie_Tests_2",
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/mic.png"
+  },
+  "description": "Client Side Cookie Tests 2",
+  "moz-resources": [
+    {
+      "src": "c2.pak",
+      "integrity": "C36L51+sd3raRhGREcTZZMmFWfcR3Wye+v4howd4Z7M="
+    },
+    {
+      "src": "index.html",
+      "integrity": "q5GbpwWBz/4QFrzoLTBPX5R3Qrqj85VoFDn7CDKB37o="
+    },
+    {
+      "src": "app.js",
+      "integrity": "A8ZAYip7nRondpDpXvvrEbmsxQ93Tqh2mXoGEOnvle0="
+    },
+    {
+      "src": "acct.js",
+      "integrity": "G3zVjuFGeY6x0X+SIogbKWlzJRuP24+9bCd5Q3wPpcI="
+    }
+  ],
+  "version": "1.0",
+  "launch_path": "index.html",
+  "permissions": {
+    "device-storage:sdcard": {
+      "access": "readcreate"
+    },
+    "desktop-notification": {},
+    "audio-capture": {},
+    "contacts": {
+      "access": "readcreate"
+    },
+    "settings": {
+      "access": "readonly"
+    },
+    "storage": {},
+    "systemXHR": {},
+    "video-capture": {},
+    "audio-channel-notification": {},
+    "alarms": {},
+    "tcp-socket": {}
+  },
+  "locales": {
+    "el": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "fr": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "en-US": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "ru": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "zh-TW": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "de": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "tr": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "it": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "ar": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "pt-BR": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "es": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    }
+  },
+  "developer": {
+    "url": "https://github.com/mozilla-b2g/gaia",
+    "name": "The Gaia Team"
+  }
+}
+--VZOT17MYZV
+Content-Location: c2.pak
+Content-Type: text/plain
+
+manifest-signature: MIIF1AYJKoZIhvcNAQcCoIIFxTCCBcECAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHAaCCA54wggOaMIICgqADAgECAgECMA0GCSqGSIb3DQEBCwUAMHMxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEkMCIGA1UEChMbRXhhbXBsZSBUcnVzdGVkIENvcnBvcmF0aW9uMRkwFwYDVQQDExBUcnVzdGVkIFZhbGlkIENBMB4XDTE1MTAyMTA5MDcyMFoXDTM1MTAyMTA5MDcyMFowdDELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGjAYBgNVBAMTEVRydXN0ZWQgQ29ycCBDZXJ0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4pcO7lQtMox6cGHuALqA0MZ7uG/6fwgIkDNa/Xp1l/yKwri7MLO1/04BrxeC9N6Xa/GfBLenWxrh1OSqBm+qDGassG5m7jc152yZNXGX3vWR9f0WL5sSJgUPFpH4mgm7Bjaa9hzwCKd7zPjpwbvd968jtCDSzA4YsMcPyubvbmCPuQFEkgzWx4zHVqeBVqBao5dtNdo7x92oEYAeHm5weG+gR9h2pJgq5fKnH6EBLSGvIWoeYSuKAVob7oD/HVwQ6W5Sz5wvYl5DJgkDAPTU+HDD30QWku2AQfFuDC7NuLMTCa7jZq6qtS+F+6BfxBbdNiZLZTL80K689HewqFKGwwIDAQABozgwNjAMBgNVHRMBAf8EAjAAMBYGA1UdJQEB/wQMMAoGCCsGAQUFBwMDMA4GA1UdDwEB/wQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAQEA1uPEAb6WKwNETSQnaT1gKfpATwJXEDBpuQ4Wl6GVgi9afj18PPiiiqCc0BRstNDmkzp+69j0e1ax4xzkoWjK8kCo9Awx+kpui5J5eTUl9Z6/eTwXAfYpfh8psGNq3thN7fCnGb/YoZQzal2hvkZ0hIJd9m0ABMpn6ihbGq+pnmIFaIN8E9Sb5iCedU+Biq+i6LBRDG+UDEv6DM6SZ3IBl6ZIx46hkV76TqzTp3Jg0C8kXrbrDmBtKnVvFSwQIH7PgrxuRKLfqF+mXNmRniE9Sj27oa1H9MGvuKdbyDUIFnDZKhlCYZlHv/9HtxxoPeiyHgX1JHIxgIJ28Oq3TT+yTzGCAf4wggH6AgEBMHgwczELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGTAXBgNVBAMTEFRydXN0ZWQgVmFsaWQgQ0ECAQIwCQYFKw4DAhoFAKBdMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTE1MTAyNjA2NTg0MlowIwYJKoZIhvcNAQkEMRYEFOsorCLW320JXGlBPc+brCpxHvUvMA0GCSqGSIb3DQEBAQUABIIBAAct/4DxstQ/o6GwAdlgzOAXAfBxjMesmOO2XBK2A0A5Xxba175IgAUGisIRLihR9WxWnvxnjHTERR10ElThgG4WwYI7Xc+d8on3eGWFSgflq7gAfVRnUmG5aVqO+m5l+pUHYrd2gY4WajIRNEu17nGekf8LGEYhYGjxpO8XE748TC36b8EWxTB479ryAU7d9phOVqqpZNlEux1m84L92yz09XVr38GjhLVmijYbPA3TolXk0omW2m7NXJG5a2JBrAycUw41dp2L/+cKKHfknb5Zfi6LpVKhMdJp++QUGvth2M7OJTeAYqxM7McTyWKgq41dWq2J1G/QZa5fh4juh7Y=
+--SHWDMP6Y8O
+Content-Location: manifest.webapp
+Content-Type: application/x-web-app-manifest+json
+
+{
+  "name": "Client_Side_Cookie_Tests_2",
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/mic.png"
+  },
+  "description": "Client Side Cookie Tests 2",
+  "moz-resources": [
+    {
+      "src": "c2.pak",
+      "integrity": "ljVBWkH+4mxjPVu7k0gzudF9GwRFWudATg98YCuSJ2g="
+    },
+    {
+      "src": "index.html",
+      "integrity": "q5GbpwWBz/4QFrzoLTBPX5R3Qrqj85VoFDn7CDKB37o="
+    },
+    {
+      "src": "app.js",
+      "integrity": "A8ZAYip7nRondpDpXvvrEbmsxQ93Tqh2mXoGEOnvle0="
+    },
+    {
+      "src": "acct.js",
+      "integrity": "G3zVjuFGeY6x0X+SIogbKWlzJRuP24+9bCd5Q3wPpcI="
+    }
+  ],
+  "version": "1.0",
+  "launch_path": "index.html",
+  "permissions": {
+    "device-storage:sdcard": {
+      "access": "readcreate"
+    },
+    "desktop-notification": {},
+    "audio-capture": {},
+    "contacts": {
+      "access": "readcreate"
+    },
+    "settings": {
+      "access": "readonly"
+    },
+    "storage": {},
+    "systemXHR": {},
+    "video-capture": {},
+    "audio-channel-notification": {},
+    "alarms": {},
+    "tcp-socket": {}
+  },
+  "locales": {
+    "el": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "fr": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "en-US": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "ru": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "zh-TW": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "de": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "tr": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "it": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "ar": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "pt-BR": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "es": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    }
+  },
+  "developer": {
+    "url": "https://github.com/mozilla-b2g/gaia",
+    "name": "The Gaia Team"
+  }
+}
+--SHWDMP6Y8O
+Content-Location: c2.pak
+Content-Type: text/plain
+
+manifest-signature: MIIF1AYJKoZIhvcNAQcCoIIFxTCCBcECAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHAaCCA54wggOaMIICgqADAgECAgECMA0GCSqGSIb3DQEBCwUAMHMxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEkMCIGA1UEChMbRXhhbXBsZSBUcnVzdGVkIENvcnBvcmF0aW9uMRkwFwYDVQQDExBUcnVzdGVkIFZhbGlkIENBMB4XDTE1MTAyMTA5MDcyMFoXDTM1MTAyMTA5MDcyMFowdDELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGjAYBgNVBAMTEVRydXN0ZWQgQ29ycCBDZXJ0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4pcO7lQtMox6cGHuALqA0MZ7uG/6fwgIkDNa/Xp1l/yKwri7MLO1/04BrxeC9N6Xa/GfBLenWxrh1OSqBm+qDGassG5m7jc152yZNXGX3vWR9f0WL5sSJgUPFpH4mgm7Bjaa9hzwCKd7zPjpwbvd968jtCDSzA4YsMcPyubvbmCPuQFEkgzWx4zHVqeBVqBao5dtNdo7x92oEYAeHm5weG+gR9h2pJgq5fKnH6EBLSGvIWoeYSuKAVob7oD/HVwQ6W5Sz5wvYl5DJgkDAPTU+HDD30QWku2AQfFuDC7NuLMTCa7jZq6qtS+F+6BfxBbdNiZLZTL80K689HewqFKGwwIDAQABozgwNjAMBgNVHRMBAf8EAjAAMBYGA1UdJQEB/wQMMAoGCCsGAQUFBwMDMA4GA1UdDwEB/wQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAQEA1uPEAb6WKwNETSQnaT1gKfpATwJXEDBpuQ4Wl6GVgi9afj18PPiiiqCc0BRstNDmkzp+69j0e1ax4xzkoWjK8kCo9Awx+kpui5J5eTUl9Z6/eTwXAfYpfh8psGNq3thN7fCnGb/YoZQzal2hvkZ0hIJd9m0ABMpn6ihbGq+pnmIFaIN8E9Sb5iCedU+Biq+i6LBRDG+UDEv6DM6SZ3IBl6ZIx46hkV76TqzTp3Jg0C8kXrbrDmBtKnVvFSwQIH7PgrxuRKLfqF+mXNmRniE9Sj27oa1H9MGvuKdbyDUIFnDZKhlCYZlHv/9HtxxoPeiyHgX1JHIxgIJ28Oq3TT+yTzGCAf4wggH6AgEBMHgwczELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGTAXBgNVBAMTEFRydXN0ZWQgVmFsaWQgQ0ECAQIwCQYFKw4DAhoFAKBdMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTE1MTAyNjA2NTgxN1owIwYJKoZIhvcNAQkEMRYEFPrxY+Z/fnq9AQ+J8Bncun699GaZMA0GCSqGSIb3DQEBAQUABIIBANvxHUNmZXsaWEVHm+sZLYOhj+h68Cwyi/UHfhntlesex7cnekBX51EgZ9eE9TU6xeMUq5MpUkgyrzWJzGdBKtIJoZCgvGpfUDZM/TalqspNeVexK8VzN6nJCB6kcuuHntoMc0cPWBHTPIBOfDF+CW6e9CqnYXPcAu0xM+DajEMjhULaYKSbU10RqyNCJ5Nfcpzi3Uo1qIMFehCQ3gYUA0qLQppLsayc8fVms1fTZRZYboEGf8GRmvkw9WBXsFylfswLgeeGA88nUk5n4UFyzEd3oVCyPcwOctBxPOeIcmlzZIHrIgZEVoyPDqu1W21zGE62KFbSM7nQODmoq1Z7zEI=
+--F7W0EPLMWJ
+Content-Location: manifest.webapp
+Content-Type: application/x-web-app-manifest+json
+
+{
+  "name": "Client_Side_Cookie_Tests_2",
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/mic.png"
+  },
+  "description": "Client Side Cookie Tests 2",
+  "moz-resources": [
+    {
+      "src": "c2.pak",
+      "integrity": "IzwEmlBC6ZTvT8Nki+fU6cJ47bPu61ZwKiR7fD/p0Vc="
+    },
+    {
+      "src": "index.html",
+      "integrity": "q5GbpwWBz/4QFrzoLTBPX5R3Qrqj85VoFDn7CDKB37o="
+    },
+    {
+      "src": "app.js",
+      "integrity": "A8ZAYip7nRondpDpXvvrEbmsxQ93Tqh2mXoGEOnvle0="
+    },
+    {
+      "src": "acct.js",
+      "integrity": "6OWa4YfeK8W6L7TsrDx2vGUbVFJNO4c5dLrT4up0Uh8="
+    }
+  ],
+  "version": "1.0",
+  "launch_path": "index.html",
+  "permissions": {
+    "device-storage:sdcard": {
+      "access": "readcreate"
+    },
+    "desktop-notification": {},
+    "audio-capture": {},
+    "contacts": {
+      "access": "readcreate"
+    },
+    "settings": {
+      "access": "readonly"
+    },
+    "storage": {},
+    "systemXHR": {},
+    "video-capture": {},
+    "audio-channel-notification": {},
+    "alarms": {},
+    "tcp-socket": {}
+  },
+  "locales": {
+    "el": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "fr": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "en-US": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "ru": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "zh-TW": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "de": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "tr": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "it": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "ar": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "pt-BR": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "es": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    }
+  },
+  "developer": {
+    "url": "https://github.com/mozilla-b2g/gaia",
+    "name": "The Gaia Team"
+  }
+}
+--F7W0EPLMWJ
+Content-Location: c2.pak
+Content-Type: text/plain
+
+manifest-signature: MIIF1AYJKoZIhvcNAQcCoIIFxTCCBcECAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHAaCCA54wggOaMIICgqADAgECAgECMA0GCSqGSIb3DQEBCwUAMHMxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEkMCIGA1UEChMbRXhhbXBsZSBUcnVzdGVkIENvcnBvcmF0aW9uMRkwFwYDVQQDExBUcnVzdGVkIFZhbGlkIENBMB4XDTE1MTAyMTA5MDcyMFoXDTM1MTAyMTA5MDcyMFowdDELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGjAYBgNVBAMTEVRydXN0ZWQgQ29ycCBDZXJ0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4pcO7lQtMox6cGHuALqA0MZ7uG/6fwgIkDNa/Xp1l/yKwri7MLO1/04BrxeC9N6Xa/GfBLenWxrh1OSqBm+qDGassG5m7jc152yZNXGX3vWR9f0WL5sSJgUPFpH4mgm7Bjaa9hzwCKd7zPjpwbvd968jtCDSzA4YsMcPyubvbmCPuQFEkgzWx4zHVqeBVqBao5dtNdo7x92oEYAeHm5weG+gR9h2pJgq5fKnH6EBLSGvIWoeYSuKAVob7oD/HVwQ6W5Sz5wvYl5DJgkDAPTU+HDD30QWku2AQfFuDC7NuLMTCa7jZq6qtS+F+6BfxBbdNiZLZTL80K689HewqFKGwwIDAQABozgwNjAMBgNVHRMBAf8EAjAAMBYGA1UdJQEB/wQMMAoGCCsGAQUFBwMDMA4GA1UdDwEB/wQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAQEA1uPEAb6WKwNETSQnaT1gKfpATwJXEDBpuQ4Wl6GVgi9afj18PPiiiqCc0BRstNDmkzp+69j0e1ax4xzkoWjK8kCo9Awx+kpui5J5eTUl9Z6/eTwXAfYpfh8psGNq3thN7fCnGb/YoZQzal2hvkZ0hIJd9m0ABMpn6ihbGq+pnmIFaIN8E9Sb5iCedU+Biq+i6LBRDG+UDEv6DM6SZ3IBl6ZIx46hkV76TqzTp3Jg0C8kXrbrDmBtKnVvFSwQIH7PgrxuRKLfqF+mXNmRniE9Sj27oa1H9MGvuKdbyDUIFnDZKhlCYZlHv/9HtxxoPeiyHgX1JHIxgIJ28Oq3TT+yTzGCAf4wggH6AgEBMHgwczELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGTAXBgNVBAMTEFRydXN0ZWQgVmFsaWQgQ0ECAQIwCQYFKw4DAhoFAKBdMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTE1MTAyNjA2NTA1NFowIwYJKoZIhvcNAQkEMRYEFAQJ4R63/rTK0CNe93qE8jKvEW9jMA0GCSqGSIb3DQEBAQUABIIBAC0brrWf4hfnN1F3hUyhUmh2FNS4lKDZc17Oitevex2/gPt0QzpW1oyOOPFPqywJs4zkBasqGEd2ucQR/b792UIluIOj1R8gCbOhtdIwCmoie7DxcAwz6cpRwbL204o8IOLUOO9sZZaZZyMgG/DBmxuLRQw7CtZxGkOUbtd81ddn9KHSycDKJHfbI4qeoQzNOyRX3sXwDTEd44OfvgqaeYky6ja5cGmU//o9TdfbDM68Sdh9jxc7qDynXGZQq/QcKzi1c2ooOviHxlnX/cFIkV6KtEITjLeZWaduBse0yWX2/u0t3xr2Y1SZFbLoOIbKX5QBA2W89AO+23JVvc3Whvk=
+--5DN2MFPKZZ
+Content-Location: manifest.webapp
+Content-Type: application/x-web-app-manifest+json
+
+{
+  "name": "Client_Side_Cookie_Tests_2",
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/mic.png"
+  },
+  "description": "Client Side Cookie Tests 2",
+  "moz-resources": [
+    {
+      "src": "c2.pak",
+      "integrity": "5WkrdokxGuHCeVe+hlXapSk5U1VMMNWZalBTvukL+dc="
+    },
+    {
+      "src": "index.html",
+      "integrity": "q5GbpwWBz/4QFrzoLTBPX5R3Qrqj85VoFDn7CDKB37o="
+    },
+    {
+      "src": "app.js",
+      "integrity": "A8ZAYip7nRondpDpXvvrEbmsxQ93Tqh2mXoGEOnvle0="
+    },
+    {
+      "src": "acct.js",
+      "integrity": "G3zVjuFGeY6x0X+SIogbKWlzJRuP24+9bCd5Q3wPpcI="
+    }
+  ],
+  "version": "1.0",
+  "launch_path": "index.html",
+  "permissions": {
+    "device-storage:sdcard": {
+      "access": "readcreate"
+    },
+    "desktop-notification": {},
+    "audio-capture": {},
+    "contacts": {
+      "access": "readcreate"
+    },
+    "settings": {
+      "access": "readonly"
+    },
+    "storage": {},
+    "systemXHR": {},
+    "video-capture": {},
+    "audio-channel-notification": {},
+    "alarms": {},
+    "tcp-socket": {}
+  },
+  "locales": {
+    "el": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "fr": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "en-US": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "ru": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "zh-TW": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "de": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "tr": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "it": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "ar": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "pt-BR": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "es": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    }
+  },
+  "developer": {
+    "url": "https://github.com/mozilla-b2g/gaia",
+    "name": "The Gaia Team"
+  }
+}
+--5DN2MFPKZZ
+Content-Location: c2.pak
+Content-Type: text/plain
+
+manifest-signature: MIIF1AYJKoZIhvcNAQcCoIIFxTCCBcECAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHAaCCA54wggOaMIICgqADAgECAgECMA0GCSqGSIb3DQEBCwUAMHMxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEkMCIGA1UEChMbRXhhbXBsZSBUcnVzdGVkIENvcnBvcmF0aW9uMRkwFwYDVQQDExBUcnVzdGVkIFZhbGlkIENBMB4XDTE1MTAyMTA5MDcyMFoXDTM1MTAyMTA5MDcyMFowdDELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGjAYBgNVBAMTEVRydXN0ZWQgQ29ycCBDZXJ0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4pcO7lQtMox6cGHuALqA0MZ7uG/6fwgIkDNa/Xp1l/yKwri7MLO1/04BrxeC9N6Xa/GfBLenWxrh1OSqBm+qDGassG5m7jc152yZNXGX3vWR9f0WL5sSJgUPFpH4mgm7Bjaa9hzwCKd7zPjpwbvd968jtCDSzA4YsMcPyubvbmCPuQFEkgzWx4zHVqeBVqBao5dtNdo7x92oEYAeHm5weG+gR9h2pJgq5fKnH6EBLSGvIWoeYSuKAVob7oD/HVwQ6W5Sz5wvYl5DJgkDAPTU+HDD30QWku2AQfFuDC7NuLMTCa7jZq6qtS+F+6BfxBbdNiZLZTL80K689HewqFKGwwIDAQABozgwNjAMBgNVHRMBAf8EAjAAMBYGA1UdJQEB/wQMMAoGCCsGAQUFBwMDMA4GA1UdDwEB/wQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAQEA1uPEAb6WKwNETSQnaT1gKfpATwJXEDBpuQ4Wl6GVgi9afj18PPiiiqCc0BRstNDmkzp+69j0e1ax4xzkoWjK8kCo9Awx+kpui5J5eTUl9Z6/eTwXAfYpfh8psGNq3thN7fCnGb/YoZQzal2hvkZ0hIJd9m0ABMpn6ihbGq+pnmIFaIN8E9Sb5iCedU+Biq+i6LBRDG+UDEv6DM6SZ3IBl6ZIx46hkV76TqzTp3Jg0C8kXrbrDmBtKnVvFSwQIH7PgrxuRKLfqF+mXNmRniE9Sj27oa1H9MGvuKdbyDUIFnDZKhlCYZlHv/9HtxxoPeiyHgX1JHIxgIJ28Oq3TT+yTzGCAf4wggH6AgEBMHgwczELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGTAXBgNVBAMTEFRydXN0ZWQgVmFsaWQgQ0ECAQIwCQYFKw4DAhoFAKBdMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTE1MTAyNjA2NDkzOVowIwYJKoZIhvcNAQkEMRYEFGvJcW32dAGWxlGjf9rSNzyjYer6MA0GCSqGSIb3DQEBAQUABIIBALe7+iDUbecJPpulTUJfir7lE7tPY9qEPgLL3iq25k4ofQV7dslTa5IRSMqNOxk0z1BByVFYF3YHTKapvfVC6re8oKUGj9Dn+vEFrBDY44TK3ojeQ77wNBjhIse8+SROb4ltCqSCo7NWFO3bibivyDYZlt9at+GP3VXZUQbuuP4CeNSaosf6WJ6OKKyLqEFaho6bSelgyXPE8TBHYABKcjRvNCCdw4WR8Icsmm57OrQaJFIJEjHPK9u9BcFFdlwCMTEoRyDLgZCEgM7hbQkpxB0H4+yAjTki9wK9nJ7JDpOCfkiKgru97+I8k96BiCi8Z/RlHjnavdI96VNOqbeqDyA=
+--1YSNI3XPCM
+Content-Location: manifest.webapp
+Content-Type: application/x-web-app-manifest+json
+
+{
+  "name": "Client_Side_Cookie_Tests_2",
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/mic.png"
+  },
+  "description": "Client Side Cookie Tests 2",
+  "moz-resources": [
+    {
+      "src": "c2.pak",
+      "integrity": "hataju7FvL+cUMpNdiNJE8o5noIWgBpA8RBuiPIzVLY="
+    },
+    {
+      "src": "index.html",
+      "integrity": "q5GbpwWBz/4QFrzoLTBPX5R3Qrqj85VoFDn7CDKB37o="
+    },
+    {
+      "src": "app.js",
+      "integrity": "A8ZAYip7nRondpDpXvvrEbmsxQ93Tqh2mXoGEOnvle0="
+    },
+    {
+      "src": "acct.js",
+      "integrity": "G3zVjuFGeY6x0X+SIogbKWlzJRuP24+9bCd5Q3wPpcI="
+    }
+  ],
+  "version": "1.0",
+  "launch_path": "index.html",
+  "permissions": {
+    "device-storage:sdcard": {
+      "access": "readcreate"
+    },
+    "desktop-notification": {},
+    "audio-capture": {},
+    "contacts": {
+      "access": "readcreate"
+    },
+    "settings": {
+      "access": "readonly"
+    },
+    "storage": {},
+    "systemXHR": {},
+    "video-capture": {},
+    "audio-channel-notification": {},
+    "alarms": {},
+    "tcp-socket": {}
+  },
+  "locales": {
+    "el": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "fr": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "en-US": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "ru": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "zh-TW": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "de": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "tr": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "it": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "ar": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "pt-BR": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "es": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    }
+  },
+  "developer": {
+    "url": "https://github.com/mozilla-b2g/gaia",
+    "name": "The Gaia Team"
+  }
+}
+--1YSNI3XPCM
+Content-Location: c2.pak
+Content-Type: text/plain
+
+manifest-signature: MIIF1AYJKoZIhvcNAQcCoIIFxTCCBcECAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHAaCCA54wggOaMIICgqADAgECAgECMA0GCSqGSIb3DQEBCwUAMHMxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEkMCIGA1UEChMbRXhhbXBsZSBUcnVzdGVkIENvcnBvcmF0aW9uMRkwFwYDVQQDExBUcnVzdGVkIFZhbGlkIENBMB4XDTE1MTAyMTA5MDcyMFoXDTM1MTAyMTA5MDcyMFowdDELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGjAYBgNVBAMTEVRydXN0ZWQgQ29ycCBDZXJ0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4pcO7lQtMox6cGHuALqA0MZ7uG/6fwgIkDNa/Xp1l/yKwri7MLO1/04BrxeC9N6Xa/GfBLenWxrh1OSqBm+qDGassG5m7jc152yZNXGX3vWR9f0WL5sSJgUPFpH4mgm7Bjaa9hzwCKd7zPjpwbvd968jtCDSzA4YsMcPyubvbmCPuQFEkgzWx4zHVqeBVqBao5dtNdo7x92oEYAeHm5weG+gR9h2pJgq5fKnH6EBLSGvIWoeYSuKAVob7oD/HVwQ6W5Sz5wvYl5DJgkDAPTU+HDD30QWku2AQfFuDC7NuLMTCa7jZq6qtS+F+6BfxBbdNiZLZTL80K689HewqFKGwwIDAQABozgwNjAMBgNVHRMBAf8EAjAAMBYGA1UdJQEB/wQMMAoGCCsGAQUFBwMDMA4GA1UdDwEB/wQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAQEA1uPEAb6WKwNETSQnaT1gKfpATwJXEDBpuQ4Wl6GVgi9afj18PPiiiqCc0BRstNDmkzp+69j0e1ax4xzkoWjK8kCo9Awx+kpui5J5eTUl9Z6/eTwXAfYpfh8psGNq3thN7fCnGb/YoZQzal2hvkZ0hIJd9m0ABMpn6ihbGq+pnmIFaIN8E9Sb5iCedU+Biq+i6LBRDG+UDEv6DM6SZ3IBl6ZIx46hkV76TqzTp3Jg0C8kXrbrDmBtKnVvFSwQIH7PgrxuRKLfqF+mXNmRniE9Sj27oa1H9MGvuKdbyDUIFnDZKhlCYZlHv/9HtxxoPeiyHgX1JHIxgIJ28Oq3TT+yTzGCAf4wggH6AgEBMHgwczELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGTAXBgNVBAMTEFRydXN0ZWQgVmFsaWQgQ0ECAQIwCQYFKw4DAhoFAKBdMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTE1MTAyNjA2NDkzMlowIwYJKoZIhvcNAQkEMRYEFKiWfiTALwJdfcqaDffWRwmlW32MMA0GCSqGSIb3DQEBAQUABIIBAMZy/i2Np/qNwEivId1HcSyNhmFEIVTCKlxE4QtPfuslN9OkVh1WUHG/EIqbWcyZoozU+iBUbLokbhs5bMJu+iqn/MD6FruB5ybPnKbSGCL2U9TV9TXJpCGUNbqbGeNvSbFzcKY5DxLA++IDDKcwqlvGnZywecJmOiyczAkgccqA0mOiA+FeQ4Z/vJsms2wO0sbPeosLGvT8U+/lcYhIFQxJRJX7Dt8VvC45Li/hSvV1M9nu42hPqdNPhBeaveHxx4vNMKxGUEso3c6ao2lGYvthNrdKrPRwdG+V/7/YQWkmS/t8Q2wxHMq5earZogl+5gaXvjiQmLf0Vb2ZNfLT4pY=
+--BGIA8IJO42
+Content-Location: manifest.webapp
+Content-Type: application/x-web-app-manifest+json
+
+{
+  "name": "Client_Side_Cookie_Tests_2",
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/mic.png"
+  },
+  "description": "Client Side Cookie Tests 2",
+  "moz-resources": [
+    {
+      "src": "c2.pak",
+      "integrity": "79sn4jpRbPYTSMJ9eQO0NJwzq1UIsemguVB1FRksaZc="
+    },
+    {
+      "src": "index.html",
+      "integrity": "q5GbpwWBz/4QFrzoLTBPX5R3Qrqj85VoFDn7CDKB37o="
+    },
+    {
+      "src": "app.js",
+      "integrity": "A8ZAYip7nRondpDpXvvrEbmsxQ93Tqh2mXoGEOnvle0="
+    },
+    {
+      "src": "acct.js",
+      "integrity": "6OWa4YfeK8W6L7TsrDx2vGUbVFJNO4c5dLrT4up0Uh8="
+    }
+  ],
+  "version": "1.0",
+  "launch_path": "index.html",
+  "permissions": {
+    "device-storage:sdcard": {
+      "access": "readcreate"
+    },
+    "desktop-notification": {},
+    "audio-capture": {},
+    "contacts": {
+      "access": "readcreate"
+    },
+    "settings": {
+      "access": "readonly"
+    },
+    "storage": {},
+    "systemXHR": {},
+    "video-capture": {},
+    "audio-channel-notification": {},
+    "alarms": {},
+    "tcp-socket": {}
+  },
+  "locales": {
+    "el": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "fr": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "en-US": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "ru": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "zh-TW": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "de": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "tr": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "it": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "ar": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "pt-BR": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "es": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    }
+  },
+  "developer": {
+    "url": "https://github.com/mozilla-b2g/gaia",
+    "name": "The Gaia Team"
+  }
+}
+--BGIA8IJO42
+Content-Location: c2.pak
+Content-Type: text/plain
+
+manifest-signature: MIIF1AYJKoZIhvcNAQcCoIIFxTCCBcECAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHAaCCA54wggOaMIICgqADAgECAgECMA0GCSqGSIb3DQEBCwUAMHMxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEkMCIGA1UEChMbRXhhbXBsZSBUcnVzdGVkIENvcnBvcmF0aW9uMRkwFwYDVQQDExBUcnVzdGVkIFZhbGlkIENBMB4XDTE1MTAyMTA5MDcyMFoXDTM1MTAyMTA5MDcyMFowdDELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGjAYBgNVBAMTEVRydXN0ZWQgQ29ycCBDZXJ0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4pcO7lQtMox6cGHuALqA0MZ7uG/6fwgIkDNa/Xp1l/yKwri7MLO1/04BrxeC9N6Xa/GfBLenWxrh1OSqBm+qDGassG5m7jc152yZNXGX3vWR9f0WL5sSJgUPFpH4mgm7Bjaa9hzwCKd7zPjpwbvd968jtCDSzA4YsMcPyubvbmCPuQFEkgzWx4zHVqeBVqBao5dtNdo7x92oEYAeHm5weG+gR9h2pJgq5fKnH6EBLSGvIWoeYSuKAVob7oD/HVwQ6W5Sz5wvYl5DJgkDAPTU+HDD30QWku2AQfFuDC7NuLMTCa7jZq6qtS+F+6BfxBbdNiZLZTL80K689HewqFKGwwIDAQABozgwNjAMBgNVHRMBAf8EAjAAMBYGA1UdJQEB/wQMMAoGCCsGAQUFBwMDMA4GA1UdDwEB/wQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAQEA1uPEAb6WKwNETSQnaT1gKfpATwJXEDBpuQ4Wl6GVgi9afj18PPiiiqCc0BRstNDmkzp+69j0e1ax4xzkoWjK8kCo9Awx+kpui5J5eTUl9Z6/eTwXAfYpfh8psGNq3thN7fCnGb/YoZQzal2hvkZ0hIJd9m0ABMpn6ihbGq+pnmIFaIN8E9Sb5iCedU+Biq+i6LBRDG+UDEv6DM6SZ3IBl6ZIx46hkV76TqzTp3Jg0C8kXrbrDmBtKnVvFSwQIH7PgrxuRKLfqF+mXNmRniE9Sj27oa1H9MGvuKdbyDUIFnDZKhlCYZlHv/9HtxxoPeiyHgX1JHIxgIJ28Oq3TT+yTzGCAf4wggH6AgEBMHgwczELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGTAXBgNVBAMTEFRydXN0ZWQgVmFsaWQgQ0ECAQIwCQYFKw4DAhoFAKBdMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTE1MTAyNjA2NDEyMVowIwYJKoZIhvcNAQkEMRYEFFRL5zlSwdFMTtoeVR/0ajvkxYSAMA0GCSqGSIb3DQEBAQUABIIBAMyFAe8fxSecuqln0DYMx0OOFtFj466ge2CvRIQvTVlMGdWjrGshiGvCjS1ZaX8u6Gxt5DHG6CTLI5i5pTUSz5Gjgx5/eV2xnAJM7Uz3g9qguqg5e0+D6S118bt7gycMqGOuDwRluWUsXnRORBuBL6sR3ewqNNs43gaHzMbSxTwPTQxlrGpXJF4ESBziJHJdGt9ZOeKGuL9uqyAnUJuNfNzrpcCPeZDYEPqYs1PAUQzBdt0kd2bxFirIbFFmLI9DaQBUbZaY+Ua30gMjqu+Faj3o8rRopKZwXHEDXCXRKm2Zwqna6mr5FNrzc3GkTw8rs/3OQJGUlB9qQHTlYWjwWIw=
+--UMXYGM3VVW
+Content-Location: manifest.webapp
+Content-Type: application/x-web-app-manifest+json
+
+{
+  "name": "Client_Side_Cookie_Tests_2",
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/mic.png"
+  },
+  "description": "Client Side Cookie Tests 2",
+  "moz-resources": [
+    {
+      "src": "c2.pak",
+      "integrity": "7NSZh4Khm39RIcpnyvSexCvcZbM7YTtBSv6ohbbHf1s="
+    },
+    {
+      "src": "index.html",
+      "integrity": "q5GbpwWBz/4QFrzoLTBPX5R3Qrqj85VoFDn7CDKB37o="
+    },
+    {
+      "src": "app.js",
+      "integrity": "A8ZAYip7nRondpDpXvvrEbmsxQ93Tqh2mXoGEOnvle0="
+    },
+    {
+      "src": "acct.js",
+      "integrity": "G3zVjuFGeY6x0X+SIogbKWlzJRuP24+9bCd5Q3wPpcI="
+    }
+  ],
+  "version": "1.0",
+  "launch_path": "index.html",
+  "permissions": {
+    "device-storage:sdcard": {
+      "access": "readcreate"
+    },
+    "desktop-notification": {},
+    "audio-capture": {},
+    "contacts": {
+      "access": "readcreate"
+    },
+    "settings": {
+      "access": "readonly"
+    },
+    "storage": {},
+    "systemXHR": {},
+    "video-capture": {},
+    "audio-channel-notification": {},
+    "alarms": {},
+    "tcp-socket": {}
+  },
+  "locales": {
+    "el": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "fr": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "en-US": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "ru": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "zh-TW": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "de": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "tr": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "it": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "ar": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "pt-BR": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "es": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    }
+  },
+  "developer": {
+    "url": "https://github.com/mozilla-b2g/gaia",
+    "name": "The Gaia Team"
+  }
+}
+--UMXYGM3VVW
+Content-Location: c2.pak
+Content-Type: text/plain
+
+manifest-signature: MIIF1AYJKoZIhvcNAQcCoIIFxTCCBcECAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHAaCCA54wggOaMIICgqADAgECAgECMA0GCSqGSIb3DQEBCwUAMHMxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEkMCIGA1UEChMbRXhhbXBsZSBUcnVzdGVkIENvcnBvcmF0aW9uMRkwFwYDVQQDExBUcnVzdGVkIFZhbGlkIENBMB4XDTE1MTAyMTA5MDcyMFoXDTM1MTAyMTA5MDcyMFowdDELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGjAYBgNVBAMTEVRydXN0ZWQgQ29ycCBDZXJ0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4pcO7lQtMox6cGHuALqA0MZ7uG/6fwgIkDNa/Xp1l/yKwri7MLO1/04BrxeC9N6Xa/GfBLenWxrh1OSqBm+qDGassG5m7jc152yZNXGX3vWR9f0WL5sSJgUPFpH4mgm7Bjaa9hzwCKd7zPjpwbvd968jtCDSzA4YsMcPyubvbmCPuQFEkgzWx4zHVqeBVqBao5dtNdo7x92oEYAeHm5weG+gR9h2pJgq5fKnH6EBLSGvIWoeYSuKAVob7oD/HVwQ6W5Sz5wvYl5DJgkDAPTU+HDD30QWku2AQfFuDC7NuLMTCa7jZq6qtS+F+6BfxBbdNiZLZTL80K689HewqFKGwwIDAQABozgwNjAMBgNVHRMBAf8EAjAAMBYGA1UdJQEB/wQMMAoGCCsGAQUFBwMDMA4GA1UdDwEB/wQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAQEA1uPEAb6WKwNETSQnaT1gKfpATwJXEDBpuQ4Wl6GVgi9afj18PPiiiqCc0BRstNDmkzp+69j0e1ax4xzkoWjK8kCo9Awx+kpui5J5eTUl9Z6/eTwXAfYpfh8psGNq3thN7fCnGb/YoZQzal2hvkZ0hIJd9m0ABMpn6ihbGq+pnmIFaIN8E9Sb5iCedU+Biq+i6LBRDG+UDEv6DM6SZ3IBl6ZIx46hkV76TqzTp3Jg0C8kXrbrDmBtKnVvFSwQIH7PgrxuRKLfqF+mXNmRniE9Sj27oa1H9MGvuKdbyDUIFnDZKhlCYZlHv/9HtxxoPeiyHgX1JHIxgIJ28Oq3TT+yTzGCAf4wggH6AgEBMHgwczELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGTAXBgNVBAMTEFRydXN0ZWQgVmFsaWQgQ0ECAQIwCQYFKw4DAhoFAKBdMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTE1MTAyNjA2NDEwN1owIwYJKoZIhvcNAQkEMRYEFJSl0WqiFt/sQuHu+bvNRSqOm8dnMA0GCSqGSIb3DQEBAQUABIIBABRjfD0GBiaWNWtKMhoGVRoWrChis3U51OIfzvGuA3KY4ZefaCjTmL+SBIVPl8hQAj3PNRZAjqcS2wf3/6V6tvDjQHx85Sck9jAANYjD4j6Uq0TW71an+UfVKrFvDnzarjOfdAwnsGwJpUWjKqzBN5wG937uS2yORT3cKWJnEgYsQaLnk759LVvALmbUq4qBY0Svw5y2aG49sRqZpPJu5K1N18KskD7Y9RLmTu/lTw5+rmNt0XeM2rPgn9apk5FYfmtyrQ7nIR2GS3btixpRVfKDIKZ7P5tahmVxmCHuKxmc9SzvTE8VMZpCpZ40F250B92YoEKpIHcyRFdk7lt/gTc=
+--XGIQWGDXHT
+Content-Location: manifest.webapp
+Content-Type: application/x-web-app-manifest+json
+
+{
+  "name": "Client_Side_Cookie_Tests_2",
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/mic.png"
+  },
+  "description": "Client Side Cookie Tests 2",
+  "moz-resources": [
+    {
+      "src": "c2.pak",
+      "integrity": "0+dqsM0pV5Azoy+C+X/MoW65uwyuf7mP+PqXfZdXUhw="
+    },
+    {
+      "src": "index.html",
+      "integrity": "q5GbpwWBz/4QFrzoLTBPX5R3Qrqj85VoFDn7CDKB37o="
+    },
+    {
+      "src": "app.js",
+      "integrity": "A8ZAYip7nRondpDpXvvrEbmsxQ93Tqh2mXoGEOnvle0="
+    },
+    {
+      "src": "acct.js",
+      "integrity": "6OWa4YfeK8W6L7TsrDx2vGUbVFJNO4c5dLrT4up0Uh8="
+    }
+  ],
+  "version": "1.0",
+  "launch_path": "index.html",
+  "permissions": {
+    "device-storage:sdcard": {
+      "access": "readcreate"
+    },
+    "desktop-notification": {},
+    "audio-capture": {},
+    "contacts": {
+      "access": "readcreate"
+    },
+    "settings": {
+      "access": "readonly"
+    },
+    "storage": {},
+    "systemXHR": {},
+    "video-capture": {},
+    "audio-channel-notification": {},
+    "alarms": {},
+    "tcp-socket": {}
+  },
+  "locales": {
+    "el": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "fr": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "en-US": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "ru": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "zh-TW": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "de": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "tr": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "it": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "ar": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "pt-BR": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "es": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    }
+  },
+  "developer": {
+    "url": "https://github.com/mozilla-b2g/gaia",
+    "name": "The Gaia Team"
+  }
+}
+--XGIQWGDXHT
+Content-Location: c2.pak
+Content-Type: text/plain
+
+manifest-signature: MIIF1AYJKoZIhvcNAQcCoIIFxTCCBcECAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHAaCCA54wggOaMIICgqADAgECAgECMA0GCSqGSIb3DQEBCwUAMHMxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEkMCIGA1UEChMbRXhhbXBsZSBUcnVzdGVkIENvcnBvcmF0aW9uMRkwFwYDVQQDExBUcnVzdGVkIFZhbGlkIENBMB4XDTE1MTAyMTA5MDcyMFoXDTM1MTAyMTA5MDcyMFowdDELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGjAYBgNVBAMTEVRydXN0ZWQgQ29ycCBDZXJ0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4pcO7lQtMox6cGHuALqA0MZ7uG/6fwgIkDNa/Xp1l/yKwri7MLO1/04BrxeC9N6Xa/GfBLenWxrh1OSqBm+qDGassG5m7jc152yZNXGX3vWR9f0WL5sSJgUPFpH4mgm7Bjaa9hzwCKd7zPjpwbvd968jtCDSzA4YsMcPyubvbmCPuQFEkgzWx4zHVqeBVqBao5dtNdo7x92oEYAeHm5weG+gR9h2pJgq5fKnH6EBLSGvIWoeYSuKAVob7oD/HVwQ6W5Sz5wvYl5DJgkDAPTU+HDD30QWku2AQfFuDC7NuLMTCa7jZq6qtS+F+6BfxBbdNiZLZTL80K689HewqFKGwwIDAQABozgwNjAMBgNVHRMBAf8EAjAAMBYGA1UdJQEB/wQMMAoGCCsGAQUFBwMDMA4GA1UdDwEB/wQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAQEA1uPEAb6WKwNETSQnaT1gKfpATwJXEDBpuQ4Wl6GVgi9afj18PPiiiqCc0BRstNDmkzp+69j0e1ax4xzkoWjK8kCo9Awx+kpui5J5eTUl9Z6/eTwXAfYpfh8psGNq3thN7fCnGb/YoZQzal2hvkZ0hIJd9m0ABMpn6ihbGq+pnmIFaIN8E9Sb5iCedU+Biq+i6LBRDG+UDEv6DM6SZ3IBl6ZIx46hkV76TqzTp3Jg0C8kXrbrDmBtKnVvFSwQIH7PgrxuRKLfqF+mXNmRniE9Sj27oa1H9MGvuKdbyDUIFnDZKhlCYZlHv/9HtxxoPeiyHgX1JHIxgIJ28Oq3TT+yTzGCAf4wggH6AgEBMHgwczELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGTAXBgNVBAMTEFRydXN0ZWQgVmFsaWQgQ0ECAQIwCQYFKw4DAhoFAKBdMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTE1MTAyNjAzNDg1MlowIwYJKoZIhvcNAQkEMRYEFJJ/Mz9KqMOSIj2qau/XvuuGqSSDMA0GCSqGSIb3DQEBAQUABIIBAEvojlZRfD+wd1e4NG7sseD7hCjAlv5gowlmz7+KGsJC9WBlLuSuVQl9L+351fd2S5XmqwNwAYNhFun4oOkye0pXRfnS8XFB55MXcPEYj0hEFNWD2UruUKfJ/rRB/xBmc6tdyK3Z/L4z9NqJnuhQj4TD6X/ZvSCLVihcjMNQw2zZNrdQNucrir9/jddLuCuWpbmG8rXJEOkXUaeGEg2rruA/UXlXrfswBtRtfEVxRUrsvOiq0Y/T7fwKGrKGytEtSW/gZ6Qc6tx51xth/K4HnfWFU70zfpXNpdUOM0Owc0cYp9x6IkUSWhNlchjEJzf12vcHPvHFBX6mzkQ8bxgfpyE=
+--48RNDXFUF4
+Content-Location: manifest.webapp
+Content-Type: application/x-web-app-manifest+json
+
+{
+  "name": "Client_Side_Cookie_Tests_2",
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/mic.png"
+  },
+  "description": "Client Side Cookie Tests 2",
+  "moz-resources": [
+    {
+      "src": "c2.pak",
+      "integrity": "vFu3gbVoG3GaHXsSlinA4duVK3n/IuEp3VIFj0WssuM="
+    },
+    {
+      "src": "index.html",
+      "integrity": "q5GbpwWBz/4QFrzoLTBPX5R3Qrqj85VoFDn7CDKB37o="
+    },
+    {
+      "src": "app.js",
+      "integrity": "A8ZAYip7nRondpDpXvvrEbmsxQ93Tqh2mXoGEOnvle0="
+    },
+    {
+      "src": "acct.js",
+      "integrity": "G3zVjuFGeY6x0X+SIogbKWlzJRuP24+9bCd5Q3wPpcI="
+    }
+  ],
+  "version": "1.0",
+  "launch_path": "index.html",
+  "permissions": {
+    "device-storage:sdcard": {
+      "access": "readcreate"
+    },
+    "desktop-notification": {},
+    "audio-capture": {},
+    "contacts": {
+      "access": "readcreate"
+    },
+    "settings": {
+      "access": "readonly"
+    },
+    "storage": {},
+    "systemXHR": {},
+    "video-capture": {},
+    "audio-channel-notification": {},
+    "alarms": {},
+    "tcp-socket": {}
+  },
+  "locales": {
+    "el": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "fr": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "en-US": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "ru": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "zh-TW": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "de": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "tr": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "it": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "ar": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "pt-BR": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "es": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    }
+  },
+  "developer": {
+    "url": "https://github.com/mozilla-b2g/gaia",
+    "name": "The Gaia Team"
+  }
+}
+--48RNDXFUF4
+Content-Location: c2.pak
+Content-Type: text/plain
+
+manifest-signature: MIIF1AYJKoZIhvcNAQcCoIIFxTCCBcECAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHAaCCA54wggOaMIICgqADAgECAgECMA0GCSqGSIb3DQEBCwUAMHMxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEkMCIGA1UEChMbRXhhbXBsZSBUcnVzdGVkIENvcnBvcmF0aW9uMRkwFwYDVQQDExBUcnVzdGVkIFZhbGlkIENBMB4XDTE1MTAyMTA5MDcyMFoXDTM1MTAyMTA5MDcyMFowdDELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGjAYBgNVBAMTEVRydXN0ZWQgQ29ycCBDZXJ0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4pcO7lQtMox6cGHuALqA0MZ7uG/6fwgIkDNa/Xp1l/yKwri7MLO1/04BrxeC9N6Xa/GfBLenWxrh1OSqBm+qDGassG5m7jc152yZNXGX3vWR9f0WL5sSJgUPFpH4mgm7Bjaa9hzwCKd7zPjpwbvd968jtCDSzA4YsMcPyubvbmCPuQFEkgzWx4zHVqeBVqBao5dtNdo7x92oEYAeHm5weG+gR9h2pJgq5fKnH6EBLSGvIWoeYSuKAVob7oD/HVwQ6W5Sz5wvYl5DJgkDAPTU+HDD30QWku2AQfFuDC7NuLMTCa7jZq6qtS+F+6BfxBbdNiZLZTL80K689HewqFKGwwIDAQABozgwNjAMBgNVHRMBAf8EAjAAMBYGA1UdJQEB/wQMMAoGCCsGAQUFBwMDMA4GA1UdDwEB/wQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAQEA1uPEAb6WKwNETSQnaT1gKfpATwJXEDBpuQ4Wl6GVgi9afj18PPiiiqCc0BRstNDmkzp+69j0e1ax4xzkoWjK8kCo9Awx+kpui5J5eTUl9Z6/eTwXAfYpfh8psGNq3thN7fCnGb/YoZQzal2hvkZ0hIJd9m0ABMpn6ihbGq+pnmIFaIN8E9Sb5iCedU+Biq+i6LBRDG+UDEv6DM6SZ3IBl6ZIx46hkV76TqzTp3Jg0C8kXrbrDmBtKnVvFSwQIH7PgrxuRKLfqF+mXNmRniE9Sj27oa1H9MGvuKdbyDUIFnDZKhlCYZlHv/9HtxxoPeiyHgX1JHIxgIJ28Oq3TT+yTzGCAf4wggH6AgEBMHgwczELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGTAXBgNVBAMTEFRydXN0ZWQgVmFsaWQgQ0ECAQIwCQYFKw4DAhoFAKBdMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTE1MTAyNjAzNDc1OVowIwYJKoZIhvcNAQkEMRYEFGN242MqBs1dxGVn1+ti4KaQbQiZMA0GCSqGSIb3DQEBAQUABIIBAFW6zdvXYFaoA4nUyxoeBt9LV2wbrZTlETu+CCoX1Ti4XorWxp0yCSZLiH302hvTdvIe9Bks/yMz3jcsrud6/lUAlsRm6ntTMuArBrAWkkbtALvRjyKInkehdwQid3JwR4iqE/3FKQny0SIxmyyBrJJcQY/mq+tCbPnPZNC6HFwbN52dbSkr3tOWJa5jAunN59Y8nxFk8rIS71UY2ei4AIVp7GB6HKE+X8XdhhGfqFs4ZIivpPHcN9adXsDi0ClWq3Qi9JN+XXv5qJ8g4gIaGJHYUyojI4GvY/g8MPj01Dz/hywjtNzxAWNKCRsn1zXIshGRLsU3VscShUp6Aq9rz4E=
+--I4EH1ACZUZ
+Content-Location: manifest.webapp
+Content-Type: application/x-web-app-manifest+json
+
+{
+  "name": "Client_Side_Cookie_Tests_2",
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/mic.png"
+  },
+  "description": "Client Side Cookie Tests 2",
+  "moz-resources": [
+    {
+      "src": "c2.pak",
+      "integrity": "fBspVgPbNAfOnpbhV1FkH2r0pknLF4QgIFrl01ncEA8="
+    },
+    {
+      "src": "index.html",
+      "integrity": "q5GbpwWBz/4QFrzoLTBPX5R3Qrqj85VoFDn7CDKB37o="
+    },
+    {
+      "src": "app.js",
+      "integrity": "A8ZAYip7nRondpDpXvvrEbmsxQ93Tqh2mXoGEOnvle0="
+    },
+    {
+      "src": "acct.js",
+      "integrity": "6OWa4YfeK8W6L7TsrDx2vGUbVFJNO4c5dLrT4up0Uh8="
+    }
+  ],
+  "version": "1.0",
+  "launch_path": "index.html",
+  "permissions": {
+    "device-storage:sdcard": {
+      "access": "readcreate"
+    },
+    "desktop-notification": {},
+    "audio-capture": {},
+    "contacts": {
+      "access": "readcreate"
+    },
+    "settings": {
+      "access": "readonly"
+    },
+    "storage": {},
+    "systemXHR": {},
+    "video-capture": {},
+    "audio-channel-notification": {},
+    "alarms": {},
+    "tcp-socket": {}
+  },
+  "locales": {
+    "el": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "fr": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "en-US": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "ru": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "zh-TW": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "de": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "tr": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "it": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "ar": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "pt-BR": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "es": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    }
+  },
+  "developer": {
+    "url": "https://github.com/mozilla-b2g/gaia",
+    "name": "The Gaia Team"
+  }
+}
+--I4EH1ACZUZ
+Content-Location: c2.pak
+Content-Type: text/plain
+
+manifest-signature: MIIF1AYJKoZIhvcNAQcCoIIFxTCCBcECAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHAaCCA54wggOaMIICgqADAgECAgECMA0GCSqGSIb3DQEBCwUAMHMxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEkMCIGA1UEChMbRXhhbXBsZSBUcnVzdGVkIENvcnBvcmF0aW9uMRkwFwYDVQQDExBUcnVzdGVkIFZhbGlkIENBMB4XDTE1MTAyMTA5MDcyMFoXDTM1MTAyMTA5MDcyMFowdDELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGjAYBgNVBAMTEVRydXN0ZWQgQ29ycCBDZXJ0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4pcO7lQtMox6cGHuALqA0MZ7uG/6fwgIkDNa/Xp1l/yKwri7MLO1/04BrxeC9N6Xa/GfBLenWxrh1OSqBm+qDGassG5m7jc152yZNXGX3vWR9f0WL5sSJgUPFpH4mgm7Bjaa9hzwCKd7zPjpwbvd968jtCDSzA4YsMcPyubvbmCPuQFEkgzWx4zHVqeBVqBao5dtNdo7x92oEYAeHm5weG+gR9h2pJgq5fKnH6EBLSGvIWoeYSuKAVob7oD/HVwQ6W5Sz5wvYl5DJgkDAPTU+HDD30QWku2AQfFuDC7NuLMTCa7jZq6qtS+F+6BfxBbdNiZLZTL80K689HewqFKGwwIDAQABozgwNjAMBgNVHRMBAf8EAjAAMBYGA1UdJQEB/wQMMAoGCCsGAQUFBwMDMA4GA1UdDwEB/wQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAQEA1uPEAb6WKwNETSQnaT1gKfpATwJXEDBpuQ4Wl6GVgi9afj18PPiiiqCc0BRstNDmkzp+69j0e1ax4xzkoWjK8kCo9Awx+kpui5J5eTUl9Z6/eTwXAfYpfh8psGNq3thN7fCnGb/YoZQzal2hvkZ0hIJd9m0ABMpn6ihbGq+pnmIFaIN8E9Sb5iCedU+Biq+i6LBRDG+UDEv6DM6SZ3IBl6ZIx46hkV76TqzTp3Jg0C8kXrbrDmBtKnVvFSwQIH7PgrxuRKLfqF+mXNmRniE9Sj27oa1H9MGvuKdbyDUIFnDZKhlCYZlHv/9HtxxoPeiyHgX1JHIxgIJ28Oq3TT+yTzGCAf4wggH6AgEBMHgwczELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGTAXBgNVBAMTEFRydXN0ZWQgVmFsaWQgQ0ECAQIwCQYFKw4DAhoFAKBdMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTE1MTAyMzEwMzM1OVowIwYJKoZIhvcNAQkEMRYEFFSTfEa8lzZRIJ5sOQEfsSF+wbE2MA0GCSqGSIb3DQEBAQUABIIBAGpzknDW3sUNqLVApDZ3c7CE7Nq6v+SU9e3uWYVn+9R+hQL7OgS9hryNCiVGcPGDI2WmYslanHqBlQcKcPOJfb/7LIjzRQ/FdTegYrintIzCR2JNPJkMGcicNkaqittUHCjGlAVwHrjns3At7VxMDwbLRpQyIBc36icIf6MulqHDWXFNR/eR19qD/mjBLgT5DORCScICwzBN6vDh67r4VEoNyYDHLoh8PVwD7PG7/+kixVt+sb0NoEp/6HriQ1XTAc/22C7RF6nuh2a8hSpHfK6TdkVQGkMjgIj9b4WJ9S6LweRjHLfR5PRvU3upASeUDJrfLiINdtB1d1Let7uLWPg=
+--FLE2IC4YNI
+Content-Location: manifest.webapp
+Content-Type: application/x-web-app-manifest+json
+
+{
+  "name": "Client_Side_Cookie_Tests_2",
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/mic.png"
+  },
+  "description": "Client Side Cookie Tests 2",
+  "moz-resources": [
+    {
+      "src": "c2.pak",
+      "integrity": "/r5KszncDbH6YFWOEiu4SwCzfp/X1XNN3P1a74H5QiQ="
+    },
+    {
+      "src": "index.html",
+      "integrity": "q5GbpwWBz/4QFrzoLTBPX5R3Qrqj85VoFDn7CDKB37o="
+    },
+    {
+      "src": "app.js",
+      "integrity": "A8ZAYip7nRondpDpXvvrEbmsxQ93Tqh2mXoGEOnvle0="
+    },
+    {
+      "src": "acct.js",
+      "integrity": "G3zVjuFGeY6x0X+SIogbKWlzJRuP24+9bCd5Q3wPpcI="
+    }
+  ],
+  "version": "1.0",
+  "launch_path": "index.html",
+  "permissions": {
+    "device-storage:sdcard": {
+      "access": "readcreate"
+    },
+    "desktop-notification": {},
+    "audio-capture": {},
+    "contacts": {
+      "access": "readcreate"
+    },
+    "settings": {
+      "access": "readonly"
+    },
+    "storage": {},
+    "systemXHR": {},
+    "video-capture": {},
+    "audio-channel-notification": {},
+    "alarms": {},
+    "tcp-socket": {}
+  },
+  "locales": {
+    "el": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "fr": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "en-US": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "ru": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "zh-TW": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "de": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "tr": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "it": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "ar": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "pt-BR": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "es": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    }
+  },
+  "developer": {
+    "url": "https://github.com/mozilla-b2g/gaia",
+    "name": "The Gaia Team"
+  }
+}
+--FLE2IC4YNI
+Content-Location: c2.pak
+Content-Type: text/plain
+
+manifest-signature: MIIF1AYJKoZIhvcNAQcCoIIFxTCCBcECAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHAaCCA54wggOaMIICgqADAgECAgECMA0GCSqGSIb3DQEBCwUAMHMxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEkMCIGA1UEChMbRXhhbXBsZSBUcnVzdGVkIENvcnBvcmF0aW9uMRkwFwYDVQQDExBUcnVzdGVkIFZhbGlkIENBMB4XDTE1MTAyMTA5MDcyMFoXDTM1MTAyMTA5MDcyMFowdDELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGjAYBgNVBAMTEVRydXN0ZWQgQ29ycCBDZXJ0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4pcO7lQtMox6cGHuALqA0MZ7uG/6fwgIkDNa/Xp1l/yKwri7MLO1/04BrxeC9N6Xa/GfBLenWxrh1OSqBm+qDGassG5m7jc152yZNXGX3vWR9f0WL5sSJgUPFpH4mgm7Bjaa9hzwCKd7zPjpwbvd968jtCDSzA4YsMcPyubvbmCPuQFEkgzWx4zHVqeBVqBao5dtNdo7x92oEYAeHm5weG+gR9h2pJgq5fKnH6EBLSGvIWoeYSuKAVob7oD/HVwQ6W5Sz5wvYl5DJgkDAPTU+HDD30QWku2AQfFuDC7NuLMTCa7jZq6qtS+F+6BfxBbdNiZLZTL80K689HewqFKGwwIDAQABozgwNjAMBgNVHRMBAf8EAjAAMBYGA1UdJQEB/wQMMAoGCCsGAQUFBwMDMA4GA1UdDwEB/wQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAQEA1uPEAb6WKwNETSQnaT1gKfpATwJXEDBpuQ4Wl6GVgi9afj18PPiiiqCc0BRstNDmkzp+69j0e1ax4xzkoWjK8kCo9Awx+kpui5J5eTUl9Z6/eTwXAfYpfh8psGNq3thN7fCnGb/YoZQzal2hvkZ0hIJd9m0ABMpn6ihbGq+pnmIFaIN8E9Sb5iCedU+Biq+i6LBRDG+UDEv6DM6SZ3IBl6ZIx46hkV76TqzTp3Jg0C8kXrbrDmBtKnVvFSwQIH7PgrxuRKLfqF+mXNmRniE9Sj27oa1H9MGvuKdbyDUIFnDZKhlCYZlHv/9HtxxoPeiyHgX1JHIxgIJ28Oq3TT+yTzGCAf4wggH6AgEBMHgwczELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGTAXBgNVBAMTEFRydXN0ZWQgVmFsaWQgQ0ECAQIwCQYFKw4DAhoFAKBdMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTE1MTAyMzEwMDQxMFowIwYJKoZIhvcNAQkEMRYEFE3B7VIYSLFlywIj1zaH5XjYRa0dMA0GCSqGSIb3DQEBAQUABIIBAIYSHJRvRvVWAzASOX09FCxNuoEvNpAz1rxh6lb9ndoZ1qyreo4SciViPycT7F6UVXXI5fIIM+1+9eh8oZdhEgW4Ge7BT8zuevjmLr6KnryiWOUzwxijIg3MRb2I89k9cdiVC1gDZMwlxvy78XFwx2dLSY1gHrQOcRHESoDcgm8CQqm92JoZ2ZcvQYmv4iKCdjJgT9kLLxH8A1oF9wnVUlME7pBH+32/rSL/GunKkVQhivSc9vWWpCKzBuRh9pKF4DgEo/wrEOV2ofDKCR0Qkupw+j6bAHZw3r8NvCtX9SBvKbun21QsyGHT5TkyDp16Z+W6ysoYVrTOTMIy6Yx1Xpg=
+--TRGJCZO323
+Content-Location: manifest.webapp
+Content-Type: application/x-web-app-manifest+json
+
+{
+  "name": "Client_Side_Cookie_Tests_2",
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/mic.png"
+  },
+  "description": "Client Side Cookie Tests 2",
+  "moz-resources": [
+    {
+      "src": "c2.pak",
+      "integrity": "sn+dJ6EI2vU/K5SSVaCYOYkr7uTLFZn9eMTFG0yjteA="
+    },
+    {
+      "src": "index.html",
+      "integrity": "q5GbpwWBz/4QFrzoLTBPX5R3Qrqj85VoFDn7CDKB37o="
+    },
+    {
+      "src": "app.js",
+      "integrity": "A8ZAYip7nRondpDpXvvrEbmsxQ93Tqh2mXoGEOnvle0="
+    },
+    {
+      "src": "acct.js",
+      "integrity": "G3zVjuFGeY6x0X+SIogbKWlzJRuP24+9bCd5Q3wPpcI="
+    }
+  ],
+  "version": "1.0",
+  "launch_path": "index.html",
+  "permissions": {
+    "device-storage:sdcard": {
+      "access": "readcreate"
+    },
+    "desktop-notification": {},
+    "audio-capture": {},
+    "contacts": {
+      "access": "readcreate"
+    },
+    "settings": {
+      "access": "readonly"
+    },
+    "storage": {},
+    "systemXHR": {},
+    "video-capture": {},
+    "audio-channel-notification": {},
+    "alarms": {},
+    "tcp-socket": {}
+  },
+  "locales": {
+    "el": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "fr": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "en-US": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "ru": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "zh-TW": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "de": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "tr": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "it": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "ar": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "pt-BR": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "es": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    }
+  },
+  "developer": {
+    "url": "https://github.com/mozilla-b2g/gaia",
+    "name": "The Gaia Team"
+  }
+}
+--TRGJCZO323
+Content-Location: c2.pak
+Content-Type: text/plain
+
+manifest-signature: MIIF1AYJKoZIhvcNAQcCoIIFxTCCBcECAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHAaCCA54wggOaMIICgqADAgECAgECMA0GCSqGSIb3DQEBCwUAMHMxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEkMCIGA1UEChMbRXhhbXBsZSBUcnVzdGVkIENvcnBvcmF0aW9uMRkwFwYDVQQDExBUcnVzdGVkIFZhbGlkIENBMB4XDTE1MTAyMTA5MDcyMFoXDTM1MTAyMTA5MDcyMFowdDELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGjAYBgNVBAMTEVRydXN0ZWQgQ29ycCBDZXJ0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4pcO7lQtMox6cGHuALqA0MZ7uG/6fwgIkDNa/Xp1l/yKwri7MLO1/04BrxeC9N6Xa/GfBLenWxrh1OSqBm+qDGassG5m7jc152yZNXGX3vWR9f0WL5sSJgUPFpH4mgm7Bjaa9hzwCKd7zPjpwbvd968jtCDSzA4YsMcPyubvbmCPuQFEkgzWx4zHVqeBVqBao5dtNdo7x92oEYAeHm5weG+gR9h2pJgq5fKnH6EBLSGvIWoeYSuKAVob7oD/HVwQ6W5Sz5wvYl5DJgkDAPTU+HDD30QWku2AQfFuDC7NuLMTCa7jZq6qtS+F+6BfxBbdNiZLZTL80K689HewqFKGwwIDAQABozgwNjAMBgNVHRMBAf8EAjAAMBYGA1UdJQEB/wQMMAoGCCsGAQUFBwMDMA4GA1UdDwEB/wQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAQEA1uPEAb6WKwNETSQnaT1gKfpATwJXEDBpuQ4Wl6GVgi9afj18PPiiiqCc0BRstNDmkzp+69j0e1ax4xzkoWjK8kCo9Awx+kpui5J5eTUl9Z6/eTwXAfYpfh8psGNq3thN7fCnGb/YoZQzal2hvkZ0hIJd9m0ABMpn6ihbGq+pnmIFaIN8E9Sb5iCedU+Biq+i6LBRDG+UDEv6DM6SZ3IBl6ZIx46hkV76TqzTp3Jg0C8kXrbrDmBtKnVvFSwQIH7PgrxuRKLfqF+mXNmRniE9Sj27oa1H9MGvuKdbyDUIFnDZKhlCYZlHv/9HtxxoPeiyHgX1JHIxgIJ28Oq3TT+yTzGCAf4wggH6AgEBMHgwczELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MSQwIgYDVQQKExtFeGFtcGxlIFRydXN0ZWQgQ29ycG9yYXRpb24xGTAXBgNVBAMTEFRydXN0ZWQgVmFsaWQgQ0ECAQIwCQYFKw4DAhoFAKBdMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTE1MTAyMzA5NTk0MlowIwYJKoZIhvcNAQkEMRYEFE8Ez2An+Xjb47S1stO+8iYuc0Z/MA0GCSqGSIb3DQEBAQUABIIBAH9mvqyXExo9cFLGRbnVqrZeIch7/3MobCuXk7fy1FnW6ug039tvjtiZ1C8eAkHoLAHDHgxo4UBy8hMdhg4N0rk3O0uKRIlzisHgizmIk2oiK0G3B/3CFCsGU+LF0/6AymbOyVX0not9lDTeW24UspKYKZp6PaDP/YJeB12yDe9P9igTXEffgMGzQstjdb/o5SMiM2uyHhX9z/+oqeYdabfH3vOzR4Rbiue08j64TBRTDJyuGC1w6MbtUTdM/9p8cfL7/CT/xiQpw/5EWPyUhYWgfzhYZhwgetUcnew0w5vpchQf+U0KCTXirmvj5/2wJz3kuzRxzhLBq2d4xVyDqCs=
+--Q7LQB7HD6T
+Content-Location: manifest.webapp
+Content-Type: application/x-web-app-manifest+json
+
+{
+  "name": "Client_Side_Cookie_Tests_2",
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/mic.png"
+  },
+  "description": "Client Side Cookie Tests 2",
+  "moz-resources": [
+    {
+      "src": "index.html",
+      "integrity": "q5GbpwWBz/4QFrzoLTBPX5R3Qrqj85VoFDn7CDKB37o="
+    },
+    {
+      "src": "app.js",
+      "integrity": "A8ZAYip7nRondpDpXvvrEbmsxQ93Tqh2mXoGEOnvle0="
+    },
+    {
+      "src": "acct.js",
+      "integrity": "G3zVjuFGeY6x0X+SIogbKWlzJRuP24+9bCd5Q3wPpcI="
+    }
+  ],
+  "version": "1.0",
+  "launch_path": "index.html",
+  "permissions": {
+    "device-storage:sdcard": {
+      "access": "readcreate"
+    },
+    "desktop-notification": {},
+    "audio-capture": {},
+    "contacts": {
+      "access": "readcreate"
+    },
+    "settings": {
+      "access": "readonly"
+    },
+    "storage": {},
+    "systemXHR": {},
+    "video-capture": {},
+    "audio-channel-notification": {},
+    "alarms": {},
+    "tcp-socket": {}
+  },
+  "locales": {
+    "el": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "fr": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "en-US": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "ru": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "zh-TW": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "de": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "tr": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "it": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "ar": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "pt-BR": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    },
+    "es": {
+      "name": "ClientSideCookieTests2",
+      "description": "Web app ClientSideCookieTests2"
+    }
+  },
+  "developer": {
+    "url": "https://github.com/mozilla-b2g/gaia",
+    "name": "The Gaia Team"
+  }
+}
+--Q7LQB7HD6T
+Content-Location: index.html
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1">
+
+	<title>client-cookie-web-2</title>
+
+	<style>
+		body {
+			border: 1px solid black;
+		}
+	</style>
+
+	<!-- Inline scripts are forbidden in Firefox OS apps (CSP restrictions),
+         so we use a script file. -->
+	<script src="app.js" defer></script>
+	<script src="acct.js"></script>
+
+</head>
+<iframe id='iframe1'></iframe>
+<button id='reload1'>Reload</button>
+<body>
+<!-- This code is in the public domain. Enjoy! -->
+
+</body>
+
+</html>
+
+--Q7LQB7HD6T
+Content-Location: app.js
+Content-Type: text/javascript
+
+/**
+ * Created by shako on 10/23/15.
+ */
+window.addEventListener("load", function() {
+    //console.log("Hello World!");
+    console.log("Test String");
+    document.getElementById('reload1').onclick = reload1;
+});
+
+function reload1() {
+
+    var iframe1 = document.getElementById('iframe1');
+    iframe1.src = iframe1.src;
+    console.log("reload1");
+}
+
+
+--Q7LQB7HD6T
+Content-Location: acct.js
+Content-Type: text/javascript
+
+window.addEventListener("load", function() {
+document.getElementById('iframe1').src="http://people.mozilla.org/~sho/nsec/client-cookie-web-3/index.html";
+});
+
+--Q7LQB7HD6T--
+--TRGJCZO323
+Content-Location: index.html
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1">
+
+	<title>client-cookie-web-2</title>
+
+	<style>
+		body {
+			border: 1px solid black;
+		}
+	</style>
+
+	<!-- Inline scripts are forbidden in Firefox OS apps (CSP restrictions),
+         so we use a script file. -->
+	<script src="app.js" defer></script>
+	<script src="acct.js"></script>
+
+</head>
+<iframe id='iframe1'></iframe>
+<button id='reload1'>Reload</button>
+<body>
+<!-- This code is in the public domain. Enjoy! -->
+
+</body>
+
+</html>
+
+--TRGJCZO323
+Content-Location: app.js
+Content-Type: text/javascript
+
+/**
+ * Created by shako on 10/23/15.
+ */
+window.addEventListener("load", function() {
+    //console.log("Hello World!");
+    console.log("Test String");
+    document.getElementById('reload1').onclick = reload1;
+});
+
+function reload1() {
+
+    var iframe1 = document.getElementById('iframe1');
+    iframe1.src = iframe1.src;
+    console.log("reload1");
+}
+
+
+--TRGJCZO323
+Content-Location: acct.js
+Content-Type: text/javascript
+
+window.addEventListener("load", function() {
+document.getElementById('iframe1').src="http://people.mozilla.org/~sho/nsec/client-cookie-web-3/index.html";
+});
+
+--TRGJCZO323--
+--FLE2IC4YNI
+Content-Location: index.html
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1">
+
+	<title>client-cookie-web-2</title>
+
+	<style>
+		body {
+			border: 1px solid black;
+		}
+	</style>
+
+	<!-- Inline scripts are forbidden in Firefox OS apps (CSP restrictions),
+         so we use a script file. -->
+	<script src="app.js" defer></script>
+	<script src="acct.js"></script>
+
+</head>
+<iframe id='iframe1'></iframe>
+<button id='reload1'>Reload</button>
+<body>
+<!-- This code is in the public domain. Enjoy! -->
+
+</body>
+
+</html>
+
+--FLE2IC4YNI
+Content-Location: app.js
+Content-Type: text/javascript
+
+/**
+ * Created by shako on 10/23/15.
+ */
+window.addEventListener("load", function() {
+    //console.log("Hello World!");
+    console.log("Test String");
+    document.getElementById('reload1').onclick = reload1;
+});
+
+function reload1() {
+
+    var iframe1 = document.getElementById('iframe1');
+    iframe1.src = iframe1.src;
+    console.log("reload1");
+}
+
+
+--FLE2IC4YNI
+Content-Location: acct.js
+Content-Type: text/javascript
+
+window.addEventListener("load", function() {
+document.getElementById('iframe1').src="http://people.mozilla.org/~sho/nsec/client-cookie-web-3/index.html";
+});
+
+--FLE2IC4YNI--
+--I4EH1ACZUZ
+Content-Location: index.html
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1">
+
+	<title>client-cookie-web-2</title>
+
+	<style>
+		body {
+			border: 1px solid black;
+		}
+	</style>
+
+	<!-- Inline scripts are forbidden in Firefox OS apps (CSP restrictions),
+         so we use a script file. -->
+	<script src="app.js" defer></script>
+	<script src="acct.js"></script>
+
+</head>
+<iframe id='iframe1'></iframe>
+<button id='reload1'>Reload</button>
+<body>
+<!-- This code is in the public domain. Enjoy! -->
+
+</body>
+
+</html>
+
+--I4EH1ACZUZ
+Content-Location: app.js
+Content-Type: text/javascript
+
+/**
+ * Created by shako on 10/23/15.
+ */
+window.addEventListener("load", function() {
+    //console.log("Hello World!");
+    console.log("Test String");
+    document.getElementById('reload1').onclick = reload1;
+});
+
+function reload1() {
+
+    var iframe1 = document.getElementById('iframe1');
+    iframe1.src = iframe1.src;
+    console.log("reload1");
+}
+
+
+--I4EH1ACZUZ
+Content-Location: acct.js
+Content-Type: text/javascript
+
+window.addEventListener("load", function() {
+document.getElementById('iframe1').src="http://people.mozilla.org/~/nsec/client-cookie-web-3/index.html";
+});
+
+--I4EH1ACZUZ--
+--48RNDXFUF4
+Content-Location: index.html
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1">
+
+	<title>client-cookie-web-2</title>
+
+	<style>
+		body {
+			border: 1px solid black;
+		}
+	</style>
+
+	<!-- Inline scripts are forbidden in Firefox OS apps (CSP restrictions),
+         so we use a script file. -->
+	<script src="app.js" defer></script>
+	<script src="acct.js"></script>
+
+</head>
+<iframe id='iframe1'></iframe>
+<button id='reload1'>Reload</button>
+<body>
+<!-- This code is in the public domain. Enjoy! -->
+
+</body>
+
+</html>
+
+--48RNDXFUF4
+Content-Location: app.js
+Content-Type: text/javascript
+
+/**
+ * Created by shako on 10/23/15.
+ */
+window.addEventListener("load", function() {
+    //console.log("Hello World!");
+    console.log("Test String");
+    document.getElementById('reload1').onclick = reload1;
+});
+
+function reload1() {
+
+    var iframe1 = document.getElementById('iframe1');
+    iframe1.src = iframe1.src;
+    console.log("reload1");
+}
+
+
+--48RNDXFUF4
+Content-Location: acct.js
+Content-Type: text/javascript
+
+window.addEventListener("load", function() {
+document.getElementById('iframe1').src="http://people.mozilla.org/~sho/nsec/client-cookie-web-3/index.html";
+});
+
+--48RNDXFUF4--
+--XGIQWGDXHT
+Content-Location: index.html
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1">
+
+	<title>client-cookie-web-2</title>
+
+	<style>
+		body {
+			border: 1px solid black;
+		}
+	</style>
+
+	<!-- Inline scripts are forbidden in Firefox OS apps (CSP restrictions),
+         so we use a script file. -->
+	<script src="app.js" defer></script>
+	<script src="acct.js"></script>
+
+</head>
+<iframe id='iframe1'></iframe>
+<button id='reload1'>Reload</button>
+<body>
+<!-- This code is in the public domain. Enjoy! -->
+
+</body>
+
+</html>
+
+--XGIQWGDXHT
+Content-Location: app.js
+Content-Type: text/javascript
+
+/**
+ * Created by shako on 10/23/15.
+ */
+window.addEventListener("load", function() {
+    //console.log("Hello World!");
+    console.log("Test String");
+    document.getElementById('reload1').onclick = reload1;
+});
+
+function reload1() {
+
+    var iframe1 = document.getElementById('iframe1');
+    iframe1.src = iframe1.src;
+    console.log("reload1");
+}
+
+
+--XGIQWGDXHT
+Content-Location: acct.js
+Content-Type: text/javascript
+
+window.addEventListener("load", function() {
+document.getElementById('iframe1').src="http://people.mozilla.org/~/nsec/client-cookie-web-3/index.html";
+});
+
+--XGIQWGDXHT--
+--UMXYGM3VVW
+Content-Location: index.html
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1">
+
+	<title>client-cookie-web-2</title>
+
+	<style>
+		body {
+			border: 1px solid black;
+		}
+	</style>
+
+	<!-- Inline scripts are forbidden in Firefox OS apps (CSP restrictions),
+         so we use a script file. -->
+	<script src="app.js" defer></script>
+	<script src="acct.js"></script>
+
+</head>
+<iframe id='iframe1'></iframe>
+<button id='reload1'>Reload</button>
+<body>
+<!-- This code is in the public domain. Enjoy! -->
+
+</body>
+
+</html>
+
+--UMXYGM3VVW
+Content-Location: app.js
+Content-Type: text/javascript
+
+/**
+ * Created by shako on 10/23/15.
+ */
+window.addEventListener("load", function() {
+    //console.log("Hello World!");
+    console.log("Test String");
+    document.getElementById('reload1').onclick = reload1;
+});
+
+function reload1() {
+
+    var iframe1 = document.getElementById('iframe1');
+    iframe1.src = iframe1.src;
+    console.log("reload1");
+}
+
+
+--UMXYGM3VVW
+Content-Location: acct.js
+Content-Type: text/javascript
+
+window.addEventListener("load", function() {
+document.getElementById('iframe1').src="http://people.mozilla.org/~sho/nsec/client-cookie-web-3/index.html";
+});
+
+--UMXYGM3VVW--
+--BGIA8IJO42
+Content-Location: index.html
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1">
+
+	<title>client-cookie-web-2</title>
+
+	<style>
+		body {
+			border: 1px solid black;
+		}
+	</style>
+
+	<!-- Inline scripts are forbidden in Firefox OS apps (CSP restrictions),
+         so we use a script file. -->
+	<script src="app.js" defer></script>
+	<script src="acct.js"></script>
+
+</head>
+<iframe id='iframe1'></iframe>
+<button id='reload1'>Reload</button>
+<body>
+<!-- This code is in the public domain. Enjoy! -->
+
+</body>
+
+</html>
+
+--BGIA8IJO42
+Content-Location: app.js
+Content-Type: text/javascript
+
+/**
+ * Created by shako on 10/23/15.
+ */
+window.addEventListener("load", function() {
+    //console.log("Hello World!");
+    console.log("Test String");
+    document.getElementById('reload1').onclick = reload1;
+});
+
+function reload1() {
+
+    var iframe1 = document.getElementById('iframe1');
+    iframe1.src = iframe1.src;
+    console.log("reload1");
+}
+
+
+--BGIA8IJO42
+Content-Location: acct.js
+Content-Type: text/javascript
+
+window.addEventListener("load", function() {
+document.getElementById('iframe1').src="http://people.mozilla.org/~/nsec/client-cookie-web-3/index.html";
+});
+
+--BGIA8IJO42--
+--1YSNI3XPCM
+Content-Location: index.html
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1">
+
+	<title>client-cookie-web-2</title>
+
+	<style>
+		body {
+			border: 1px solid black;
+		}
+	</style>
+
+	<!-- Inline scripts are forbidden in Firefox OS apps (CSP restrictions),
+         so we use a script file. -->
+	<script src="app.js" defer></script>
+	<script src="acct.js"></script>
+
+</head>
+<iframe id='iframe1'></iframe>
+<button id='reload1'>Reload</button>
+<body>
+<!-- This code is in the public domain. Enjoy! -->
+
+</body>
+
+</html>
+
+--1YSNI3XPCM
+Content-Location: app.js
+Content-Type: text/javascript
+
+/**
+ * Created by shako on 10/23/15.
+ */
+window.addEventListener("load", function() {
+    //console.log("Hello World!");
+    console.log("Test String");
+    document.getElementById('reload1').onclick = reload1;
+});
+
+function reload1() {
+
+    var iframe1 = document.getElementById('iframe1');
+    iframe1.src = iframe1.src;
+    console.log("reload1");
+}
+
+
+--1YSNI3XPCM
+Content-Location: acct.js
+Content-Type: text/javascript
+
+window.addEventListener("load", function() {
+document.getElementById('iframe1').src="http://people.mozilla.org/~sho/nsec/client-cookie-web-3/index.html";
+});
+
+--1YSNI3XPCM--
+--5DN2MFPKZZ
+Content-Location: index.html
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1">
+
+	<title>client-cookie-web-2</title>
+
+	<style>
+		body {
+			border: 1px solid black;
+		}
+	</style>
+
+	<!-- Inline scripts are forbidden in Firefox OS apps (CSP restrictions),
+         so we use a script file. -->
+	<script src="app.js" defer></script>
+	<script src="acct.js"></script>
+
+</head>
+<iframe id='iframe1'></iframe>
+<button id='reload1'>Reload</button>
+<body>
+<!-- This code is in the public domain. Enjoy! -->
+
+</body>
+
+</html>
+
+--5DN2MFPKZZ
+Content-Location: app.js
+Content-Type: text/javascript
+
+/**
+ * Created by shako on 10/23/15.
+ */
+window.addEventListener("load", function() {
+    //console.log("Hello World!");
+    console.log("Test String");
+    document.getElementById('reload1').onclick = reload1;
+});
+
+function reload1() {
+
+    var iframe1 = document.getElementById('iframe1');
+    iframe1.src = iframe1.src;
+    console.log("reload1");
+}
+
+
+--5DN2MFPKZZ
+Content-Location: acct.js
+Content-Type: text/javascript
+
+window.addEventListener("load", function() {
+document.getElementById('iframe1').src="http://people.mozilla.org/~sho/nsec/client-cookie-web-3/index.html";
+});
+
+--5DN2MFPKZZ--
+--F7W0EPLMWJ
+Content-Location: index.html
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1">
+
+	<title>client-cookie-web-2</title>
+
+	<style>
+		body {
+			border: 1px solid black;
+		}
+	</style>
+
+	<!-- Inline scripts are forbidden in Firefox OS apps (CSP restrictions),
+         so we use a script file. -->
+	<script src="app.js" defer></script>
+	<script src="acct.js"></script>
+
+</head>
+<iframe id='iframe1'></iframe>
+<button id='reload1'>Reload</button>
+<body>
+<!-- This code is in the public domain. Enjoy! -->
+
+</body>
+
+</html>
+
+--F7W0EPLMWJ
+Content-Location: app.js
+Content-Type: text/javascript
+
+/**
+ * Created by shako on 10/23/15.
+ */
+window.addEventListener("load", function() {
+    //console.log("Hello World!");
+    console.log("Test String");
+    document.getElementById('reload1').onclick = reload1;
+});
+
+function reload1() {
+
+    var iframe1 = document.getElementById('iframe1');
+    iframe1.src = iframe1.src;
+    console.log("reload1");
+}
+
+
+--F7W0EPLMWJ
+Content-Location: acct.js
+Content-Type: text/javascript
+
+window.addEventListener("load", function() {
+document.getElementById('iframe1').src="http://people.mozilla.org/~/nsec/client-cookie-web-3/index.html";
+});
+
+--F7W0EPLMWJ--
+--SHWDMP6Y8O
+Content-Location: index.html
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1">
+
+	<title>client-cookie-web-2</title>
+
+	<style>
+		body {
+			border: 1px solid black;
+		}
+	</style>
+
+	<!-- Inline scripts are forbidden in Firefox OS apps (CSP restrictions),
+         so we use a script file. -->
+	<script src="app.js" defer></script>
+	<script src="acct.js"></script>
+
+</head>
+<iframe id='iframe1'></iframe>
+<button id='reload1'>Reload</button>
+<body>
+<!-- This code is in the public domain. Enjoy! -->
+
+</body>
+
+</html>
+
+--SHWDMP6Y8O
+Content-Location: app.js
+Content-Type: text/javascript
+
+/**
+ * Created by shako on 10/23/15.
+ */
+window.addEventListener("load", function() {
+    //console.log("Hello World!");
+    console.log("Test String");
+    document.getElementById('reload1').onclick = reload1;
+});
+
+function reload1() {
+
+    var iframe1 = document.getElementById('iframe1');
+    iframe1.src = iframe1.src;
+    console.log("reload1");
+}
+
+
+--SHWDMP6Y8O
+Content-Location: acct.js
+Content-Type: text/javascript
+
+window.addEventListener("load", function() {
+document.getElementById('iframe1').src="http://people.mozilla.org/~sho/nsec/client-cookie-web-3/index.html";
+});
+
+--SHWDMP6Y8O--
+--VZOT17MYZV
+Content-Location: index.html
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1">
+
+	<title>client-cookie-web-2</title>
+
+	<style>
+		body {
+			border: 1px solid black;
+		}
+	</style>
+
+	<!-- Inline scripts are forbidden in Firefox OS apps (CSP restrictions),
+         so we use a script file. -->
+	<script src="app.js" defer></script>
+	<script src="acct.js"></script>
+
+</head>
+<iframe id='iframe1'></iframe>
+<button id='reload1'>Reload</button>
+<body>
+<!-- This code is in the public domain. Enjoy! -->
+
+</body>
+
+</html>
+
+--VZOT17MYZV
+Content-Location: app.js
+Content-Type: text/javascript
+
+/**
+ * Created by shako on 10/23/15.
+ */
+window.addEventListener("load", function() {
+    //console.log("Hello World!");
+    console.log("Test String");
+    document.getElementById('reload1').onclick = reload1;
+});
+
+function reload1() {
+
+    var iframe1 = document.getElementById('iframe1');
+    iframe1.src = iframe1.src;
+    console.log("reload1");
+}
+
+
+--VZOT17MYZV
+Content-Location: acct.js
+Content-Type: text/javascript
+
+window.addEventListener("load", function() {
+document.getElementById('iframe1').src="http://people.mozilla.org/~sho/nsec/client-cookie-web-3/index.html";
+});
+
+--VZOT17MYZV--
+--LBG8AP12GR
+Content-Location: index.html
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1">
+
+	<title>client-cookie-web-2</title>
+
+	<style>
+		body {
+			border: 1px solid black;
+		}
+	</style>
+
+	<!-- Inline scripts are forbidden in Firefox OS apps (CSP restrictions),
+         so we use a script file. -->
+	<script src="app.js" defer></script>
+	<script src="acct.js"></script>
+
+</head>
+<iframe id='iframe1'></iframe>
+<button id='reload1'>Reload</button>
+<body>
+<!-- This code is in the public domain. Enjoy! -->
+
+</body>
+
+</html>
+
+--LBG8AP12GR
+Content-Location: app.js
+Content-Type: text/javascript
+
+/**
+ * Created by shako on 10/23/15.
+ */
+window.addEventListener("load", function() {
+    //console.log("Hello World!");
+    console.log("Test String");
+    document.getElementById('reload1').onclick = reload1;
+});
+
+function reload1() {
+
+    var iframe1 = document.getElementById('iframe1');
+    iframe1.src = iframe1.src;
+    console.log("reload1");
+}
+
+
+--LBG8AP12GR
+Content-Location: acct.js
+Content-Type: text/javascript
+
+window.addEventListener("load", function() {
+document.getElementById('iframe1').src="http://people.mozilla.org/~sho/nsec/client-cookie-web-3/index.html";
+});
+
+--LBG8AP12GR--
+--I6ZEL87EVP
+Content-Location: index.html
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1">
+
+	<title>client-cookie-web-2</title>
+
+	<style>
+		body {
+			border: 1px solid black;
+		}
+	</style>
+
+	<!-- Inline scripts are forbidden in Firefox OS apps (CSP restrictions),
+         so we use a script file. -->
+	<script src="app.js" defer></script>
+	<script src="acct.js"></script>
+
+</head>
+<iframe id='iframe1'></iframe>
+<button id='reload1'>Reload</button>
+<body>
+<!-- This code is in the public domain. Enjoy! -->
+
+</body>
+
+</html>
+
+--I6ZEL87EVP
+Content-Location: app.js
+Content-Type: text/javascript
+
+/**
+ * Created by shako on 10/23/15.
+ */
+window.addEventListener("load", function() {
+    //console.log("Hello World!");
+    console.log("Test String");
+    document.getElementById('reload1').onclick = reload1;
+});
+
+function reload1() {
+
+    var iframe1 = document.getElementById('iframe1');
+    iframe1.src = iframe1.src;
+    console.log("reload1");
+}
+
+
+--I6ZEL87EVP
+Content-Location: acct.js
+Content-Type: text/javascript
+
+window.addEventListener("load", function() {
+document.getElementById('iframe1').src="http://people.mozilla.org/~sho/nsec/client-cookie-web-3/index.html";
+});
+
+--I6ZEL87EVP--
+--WPP8WYNZEL
+Content-Location: index.html
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1">
+
+	<title>client-cookie-web-2</title>
+
+	<style>
+		body {
+			border: 1px solid black;
+		}
+	</style>
+
+	<!-- Inline scripts are forbidden in Firefox OS apps (CSP restrictions),
+         so we use a script file. -->
+	<script src="app.js" defer></script>
+	<script src="acct.js"></script>
+
+</head>
+<iframe id='iframe1'></iframe>
+<button id='reload1'>Reload</button>
+<body>
+<!-- This code is in the public domain. Enjoy! -->
+
+</body>
+
+</html>
+
+--WPP8WYNZEL
+Content-Location: app.js
+Content-Type: text/javascript
+
+/**
+ * Created by shako on 10/23/15.
+ */
+window.addEventListener("load", function() {
+    //console.log("Hello World!");
+    console.log("Test String");
+    document.getElementById('reload1').onclick = reload1;
+});
+
+function reload1() {
+
+    var iframe1 = document.getElementById('iframe1');
+    iframe1.src = iframe1.src;
+    console.log("reload1");
+}
+
+
+--WPP8WYNZEL
+Content-Location: acct.js
+Content-Type: text/javascript
+
+window.addEventListener("load", function() {
+document.getElementById('iframe1').src="http://people.mozilla.org/~sho/nsec/client-cookie-web-3/index.html";
+});
+
+--WPP8WYNZEL--

@@ -1,0 +1,108 @@
+<html>
+<script>
+	function init() {
+		document.getElementById('red').addEventListener('click',function (){
+			document.cookie='red';
+			update();
+		});
+		document.getElementById('green').addEventListener('click',function (){
+			document.cookie='green';
+			update();
+		});
+		document.getElementById('yellow').addEventListener('click',function (){
+			document.cookie='yellow';
+			update();
+		});
+
+		setInterval(update,1000);
+	}
+	
+	
+	function update(){
+		document.body.style.background=document.cookie.split(";")[0];
+		
+		//get app details if installed
+		var request = window.navigator.mozApps.getSelf();
+		request.onsuccess=function(e){
+			var content=document.getElementById('notice');
+			//console.log(e);
+			if(request.result){
+				content.innerHTML='Is app?: Yes<br>Name of app:';
+				content.innerHTML+=request.result.manifest.name;
+				content.innerHTML+="<br> origin:"+request.result.origin;
+				content.innerHTML+="<br> manifestURL:"+request.result.manifestURL;
+			}
+		}
+		
+		request.onerror=function(){
+			alert(request.error.name+request.error.message)
+		};
+	}
+
+function getGeo(){
+
+	navigator.geolocation.getCurrentPosition(function (e) {
+						alert('Got geolocation!');
+					}, function (e) {
+						alert('Geolocation denied!');
+					});
+
+}
+
+function _log(aMsg) {
+	console.log("Permissions test: " + aMsg + "\n");
+}
+
+function _pprint(aObj) {
+	_log("**** pprint " + aObj);
+	for (var prop in aObj) {
+		try {
+			_log(prop + ": " + aObj[prop]);
+		} catch (e) {
+			_log(prop + ": FAILED" + e);
+		}
+	}
+}
+
+function writeFile(){
+var gFileName = Math.floor(Math.random()*16777215).toString(16)+"test.png";
+var gData = "testdata";
+var gDataBlob = new Blob([gData], {type: 'image/png'});
+
+var storage = navigator.getDeviceStorage("pictures");
+
+request = storage.addNamed(gDataBlob, gFileName);
+
+request.onsuccess = function(e){alert('wrote file');};
+request.onerror = function(e){alert('Error writing file:'+e.target.error.name);
+_pprint(e.target.error);
+};
+
+}
+
+function readMusic() {
+
+			try {
+				req = navigator.getDeviceStorage('music').enumerate();
+				req.onsuccess = function(e){alert('Success calling navigator.getDeviceStorage(\'music\').enumerate()');};
+				req.onerror = function(e){alert('Error gettting music file:'+e.target.error.name);
+					_pprint(e.target.error);
+				};
+
+			} catch (e) {
+				fail();
+			}
+		}
+		
+	
+</script>
+<body onload='init()'>
+		<h1>Client Side Cookie Test # 1 !</h1>
+		<p>
+		<button id='red'>Set red cookie</button><br>
+		<button id='green'>Set green cookie</button><br>
+		<button id='yellow'>Set yellow cookie</button><br>
+		</p>
+	</body>
+
+</html>
