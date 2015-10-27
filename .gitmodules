@@ -1,0 +1,3 @@
+[submodule "fxos-package-signing-tool"]
+	path = fxos-package-signing-tool
+	url = git://github.com/johnathan79717/fxos-package-signing-tool.git
