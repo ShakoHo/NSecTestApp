@@ -1,7 +1,10 @@
 # lazy helper
 
-install: create-acct-js create-acct-js-2 create-web-package 
+install: regenerate-test-certs create-acct-js create-acct-js-2 create-web-package 
 	rsync -ave ssh testweb/ $(PEOPLE_ACCT)@people.mozilla.org:public_html/nsec
+
+regenerate-test-certs:
+	cd fxos-package-signing-tool; ./create_test_files.sh --regenerate-test-certs
 
 create-acct-js: 
 	echo "window.addEventListener(\"load\", function() {" >> ./acct.js
