@@ -27,8 +27,11 @@ create-acct-js-2:
 create-web-package:
 	cd fxos-package-signing-tool; python make_web_package.py ../testweb/client-cookie-web-1/ c1.pak; mv c1.pak ../testweb/client-cookie-web-1
 	cd fxos-package-signing-tool; python make_web_package.py ../testweb/client-cookie-web-2/ c2.pak; mv c2.pak ../testweb/client-cookie-web-2
+	cd fxos-package-signing-tool; python make_web_package.py ../testweb/client-cookie-web-3/ test.pak; cp test.pak ../testweb/client-cookie-web-3; mv test.pak ../testweb/client-cookie-web-3/test2.pak
 	cd fxos-package-signing-tool; python make_web_package.py ../testweb/indexed-db-web-1/ i1.pak; mv i1.pak ../testweb/indexed-db-web-1
 	cd fxos-package-signing-tool; python make_web_package.py ../testweb/indexed-db-web-2/ i2.pak; mv i2.pak ../testweb/indexed-db-web-2
+	cd fxos-package-signing-tool; python make_web_package.py ../testweb/local-storage-web-1/ web-storage-demo.pak; mv web-storage-demo.pak ../testweb/local-storage-web-1
+	cd fxos-package-signing-tool; python make_web_package.py ../testweb/local-storage-web-2/ web-storage-demo.pak; mv web-storage-demo.pak ../testweb/local-storage-web-2
 	cd fxos-package-signing-tool; python make_web_package.py ../testweb/offline-app-web-1/ o1.pak; mv o1.pak ../testweb/offline-app-web-1
 	cd fxos-package-signing-tool; python make_web_package.py ../testweb/offline-app-web-2/ o2.pak; mv o2.pak ../testweb/offline-app-web-2
 	cd fxos-package-signing-tool; python make_web_package.py ../testweb/offline-app-web-3/ o3.pak; cp o3.pak ../testweb/offline-app-web-3; mv o3.pak ../testweb/offline-app-web-3/o4.pak
